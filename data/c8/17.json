@@ -1,0 +1,1433 @@
+{
+ "class": 8,
+ "id": "17",
+ "title": "The Union Executive",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "The Union government means the Central government.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Union government means the Central government.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "The Union Government is made up of the President, the Legislature (Lok Sabha and Rajya Sabha) and the Executive (Prime Minister and Council of Ministers).",
+   "year": null,
+   "era": "CE",
+   "quote": "Union Government ... President ... Legislature ... Executive ... Lok Sabha Rajya Sabha ... Prime Minister and Council of Ministers",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "In a parliamentary system, the executive is part of the legislature and is responsible to the legislature.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a parliamentary system, the executive is part of the legislature and is responsible to the legislature.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "India's Union Executive comprises the President, Prime Minister and the Council of Ministers.",
+   "year": null,
+   "era": "CE",
+   "quote": "India's Union Executive comprises of the President, Prime Minister and the Council of Ministers.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "person",
+   "text": "The President is the Supreme Head of the State; the office has the highest honour and prestige and represents the Republic of India.",
+   "year": null,
+   "era": "CE",
+   "quote": "the President is the Supreme Head of the State. The office of the President has the highest honour and prestige and it represents the Republic of India.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "person",
+   "text": "All executive powers of the State are vested in the President by the Constitution, and the Government carries out its functions in the name of the President.",
+   "year": null,
+   "era": "CE",
+   "quote": "All executive powers of the State are vested in the President by the Constitution. The Government carries out its functions in the name of the President.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "person",
+   "text": "In reality the Prime Minister and the Council of Ministers run the government; the President is the nominal and constitutional head and the Prime Minister is the executive head.",
+   "year": null,
+   "era": "CE",
+   "quote": "However, in reality, the Prime Minister and the Council of Ministers run the government. Therefore, the President is the nominal and constitutional head whereas the Prime Minister is the executive head.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "The Prime Minister informs the President about the administration of the country and about new laws and policies; the President has a right to seek such information.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Prime Minister informs the President about the administration of the country and about new laws and policies. Rather, the President has a right to seek such information.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "The President is indirectly elected; common people do not vote; the directly elected representatives of the Central and State legislatures, known as the Electoral College, elect the President.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President is indirectly elected by the people of India. The common people do not vote in the election of the President. He is elected by directly elected representatives of the Central and State legislatures. The group of these parliamentarians and members of the state legislatures is known as the Electoral College.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "The tenure of the President is five years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The tenure of the President is five years.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "A person contesting the Presidential elections should be an Indian citizen who has completed 35 years of age.",
+   "year": null,
+   "era": "CE",
+   "quote": "The person contesting the Presidential elections should be an Indian citizen who has completed 35 years of age.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "The President takes an oath to protect the Constitution and ensure that the government runs as per the constitution.",
+   "year": null,
+   "era": "CE",
+   "quote": "According to the oath, the President bears the responsibility of protecting the Constitution and ensuring that the government runs as per the constitution.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "The President governs in accordance with the advice given by the Prime Minister and the Council of Ministers.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President governs in accordance with the advice given by the Prime Minister and the Council of Ministers.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "If any act of the President violates the Constitution, the Parliament can remove the President; this process is known as Impeachment.",
+   "year": null,
+   "era": "CE",
+   "quote": "But if any act of President violates the Constitution then the Parliament has the authority to remove the President. This process is known as process of Impeachment.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "In impeachment, any one House lays the charge, the other House investigates it, and the resolution must be passed by special (2/3rd) majority of both Houses.",
+   "year": null,
+   "era": "CE",
+   "quote": "Any one House can lay the charge of violation of the Constitution and the investigation of the charge is carried out by the other House. The resolution has to be passed by special (2/3rd) majority of both the Houses of Parliament.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "The President summons the meeting of Parliament, prorogues its session, sends messages to both Houses, and dissolves the Parliament after or even before the tenure is over.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President summons the meeting of Parliament, prorogue the session of Parliament, sends messages to both Houses, dissolves the Parliament after the tenure is over or even before the tenure gets over.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "A Bill passed by the Lok Sabha and Rajya Sabha must be signed by the President; without his signature it cannot become a law.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bill passed by the Lok Sabha and Rajya Sabha must be signed by the President. Without his signature, the Bill cannot become a law.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "The President appoints the Prime Minister and other ministers on the recommendation of the Prime Minister.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President appoints the Prime Minister and other ministers on the recommendation of Prime Minister.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "The President appoints the judges of the Supreme Court and the High Courts, the Governors of States, the Chief Election Commissioner and other important officers.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President appoints the judges of the Supreme Court and the High Courts. The President also appoints the Governors of States, Chief Election Commissioner and other important officers.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "The President is the supreme commander of the defence forces; decisions regarding war and peace are made by the President.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President is the supreme commander of the defence forces. Decisions regarding war and peace are made by the President.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "The President has judicial powers: to reduce punishment, commute a sentence, or in special circumstances grant pardons or reprieves on humanitarian grounds.",
+   "year": null,
+   "era": "CE",
+   "quote": "the President has the power to reduce the punishment, grant a reduction in punishment or commute a sentence of a person or in special circumstances grant pardons or reprieves on humanitarian grounds.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "The President can declare emergency in a crisis; the Constitution mentions three kinds: National Emergency, State Emergency and Financial Emergency.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President has the power to declare emergency in case of a crisis situation arising in the country. There are three kinds of emergencies mentioned in the Constitution. (1) National Emergency (2) State Emergency (3) Financial Emergency",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "person",
+   "text": "In the absence of the President, the Vice-President carries out his functions; the Vice-President is elected by members of both the houses of the Parliament.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the absence of the President, his functions are carried out by the Vice-President. The Vice-President is elected by members of both the houses of the Parliament.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "person",
+   "text": "The party which attains a majority nominates its leader as the Prime Minister; the Council of Ministers is formed of trustworthy colleagues from within the party.",
+   "year": null,
+   "era": "CE",
+   "quote": "The party which attains a majority in elections nominates their leader as the Prime Minister. The Council of Ministers is then formed of trustworthy colleagues from within the party.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "The Prime Minister and the Council of Ministers must be members of the parliament; if not, they must get elected to the Parliament within six months of their appointment.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Prime Minister and the Council of Ministers must be members of the parliament. In case they are not members, they are required to get elected to the Parliament within six months of their appointment.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The real executive powers are vested with the Prime Minister and the Council of Ministers.",
+   "year": null,
+   "era": "CE",
+   "quote": "This means that the real executive powers are vested with the Prime Minister and the Council of Ministers.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "The Prime Minister's foremost task is to form the Council of Ministers, giving priority to trustworthy colleagues considering administrative experience, governance skills, efficiency and subject expertise.",
+   "year": null,
+   "era": "CE",
+   "quote": "The foremost task of the Prime Minister is to form his Council of Ministers. While doing this, the Prime Minister gives priority to trustworthy colleagues while considering their administrative experience, governance skills, efficiency and subject expertise.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "After deciding the members of the council of ministers, the Prime Minister allocates portfolios to them.",
+   "year": null,
+   "era": "CE",
+   "quote": "After deciding upon the members of the council of ministers, the Prime Minister allocates portfolios to them.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "The Prime Minister leads the Council of Ministers and chairs all its meetings.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Prime Minister leads the Council of Ministers. The Prime Minister chairs all the meetings of the Council of Ministers.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "The Prime Minister maintains coordination, facilitates cooperation and supervises the working of departments to maintain efficacy and efficiency.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Prime Minister has to maintain coordination in the working of various departments, facilitate cooperation amongst the departments, supervise the working of these departments in order to maintain efficacy and efficiency etc.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "The Prime Minister also raises the image of the country in the international arena, develops trust among people and gives strong support to victims of any disaster.",
+   "year": null,
+   "era": "CE",
+   "quote": "to raise the image of the country in the international arena and work towards achieving a favourable opinion globally, to develop trust among people and to provide strong support to people who are victims of any disaster etc.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The Council of Ministers takes initiative in the process of law-making; schemes and policy plans are drafted, discussed and then introduced in the House.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a parliamentary form of government the Council of Ministers takes initiative in the process of Law-making. The scheme, policy plans etc. are drafted and discussed and then introduced in the House.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Ministers lay their policy plans (on subjects like education, agriculture, industry, health, foreign relations) in Parliament for discussion and try to get them approved.",
+   "year": null,
+   "era": "CE",
+   "quote": "Education, agriculture, industry, health, foreign relations are subjects upon which the Council of Ministers has to decide specific policies ... the Ministers of respective departments lay their policy plans in the Parliament to bring about a discussion on it, and try to get it approved by the Parliament.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Implementation of policy is the foremost responsibility of the Council of Ministers.",
+   "year": null,
+   "era": "CE",
+   "quote": "Implementation of policy is the foremost responsibility of the Council of Ministers. Once the Parliament approves the policies or draft proposals, the Council of Ministers implements them.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "'Jumbo Ministry' means a huge Council of Ministers; a constitutional amendment limited ministers to not more than 15% of the total members of the Lok Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "This refers to huge Council of Ministers. ... a constitutional amendment was made to limit the size of the Council of Ministers. As per this amendment, the number of ministers in the council should not be more than 15% of the total number of members in the Lok Sabha.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "Discussions and debates are an integral part of law-making; they help members scrutinise policy proposals and laws and point out shortcomings.",
+   "year": null,
+   "era": "CE",
+   "quote": "Debate and discussion among the members of the House are an integral part of the lawmaking process. These debates and discussions help the members to scrutinise the policy proposals and laws and point out the shortcomings.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "Question Hour: during sessions, proceedings begin with members' questions which ministers must answer satisfactorily; it is one of the most effective checks on the Council of Ministers.",
+   "year": null,
+   "era": "CE",
+   "quote": "During parliamentary sessions, the proceedings of the House begins with questions asked by the members of the House. The concerned ministers are supposed to give satisfactory answers to these questions. Question Hour is one of the most effective ways of keeping a check over the Council of Ministers.",
+   "page": 3
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "During question hour members criticise the government; occasionally members walk out or enter the well of the House and give slogans to protest.",
+   "year": null,
+   "era": "CE",
+   "quote": "During question hour, members criticise the government and ask questions on various issues. ... Occasionally, members walk-out of the House or enter into the well of the House and give slogans to record their protest.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "Zero Hour is the period around 12 noon during parliamentary sessions, when any question of public importance can be raised and discussed.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the parliamentary sessions, the period around 12 noon is called 'Zero Hour'. During this period, any question of public importance can be raised and discussed.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "The government stays in power while it has majority support in the Lok Sabha; members move a no-confidence motion by saying 'we do not have confidence in the government', and if it passes the Council of Ministers must resign.",
+   "year": null,
+   "era": "CE",
+   "quote": "The government stays in power till it enjoys the support of majority in Lok Sabha. ... The members of the House can move a no-confidence motion by simply expressing 'we do not have confidence in the government'. If the motion is passed with majority support then the Council of Ministers has to resign.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "There is an extensive bureaucracy that works under the executive.",
+   "year": null,
+   "era": "CE",
+   "quote": "There is an extensive bureaucracy that works under the executive.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-17-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "President: <b>5</b>-year tenure, must be at least <b>35</b>.",
+   "prompt": "What is the tenure of the President of India?",
+   "options": [
+    "Five years",
+    "Six years",
+    "Four years",
+    "Three years"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Around <b>12 noon</b> in a session: Zero Hour, for any matter of public importance.",
+   "prompt": "What am I?",
+   "clues": [
+    "Any question of public importance can be raised and discussed during me.",
+    "I come during the parliamentary sessions.",
+    "I am the period around 12 noon."
+   ],
+   "options": [
+    "Zero Hour",
+    "Question Hour",
+    "No-confidence motion",
+    "Impeachment"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f09",
+    "f10",
+    "f11"
+   ],
+   "hook": "President: Indian citizen, at least <b>35</b> years old, <b>5</b>-year tenure.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The tenure of the President is five years."
+    ],
+    [
+     "Meera",
+     "A Presidential candidate must have completed 25 years of age."
+    ],
+    [
+     "Kabir",
+     "The common people do not vote in the election of the President."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "35",
+    "30",
+    "18"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "President = <b>nominal</b> head; Prime Minister = <b>executive</b> head.",
+   "prompt": "Who is the executive head in India?",
+   "options": [
+    "The President",
+    "The Speaker",
+    "The Prime Minister",
+    "The Vice-President"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f07",
+    "f20",
+    "f21",
+    "f22"
+   ],
+   "hook": "Pardons, emergencies, defence forces: all in the name of the <b>President</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I can grant pardons or reprieves on humanitarian grounds.",
+    "I can declare an emergency in a crisis situation.",
+    "I am the supreme commander of the defence forces.",
+    "I am the nominal and constitutional head of India."
+   ],
+   "options": [
+    "Prime Minister",
+    "President",
+    "Vice-President",
+    "Chief Election Commissioner"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "<b>Union</b> government = <b>Central</b> government.",
+   "prompt": "What does the Union government mean?",
+   "options": [
+    "The State government",
+    "The village panchayat",
+    "The Central government",
+    "The Judiciary"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Union Executive = <b>President + Prime Minister + Council of Ministers</b>.",
+   "prompt": "Who make up India's Union Executive?",
+   "options": [
+    "The Lok Sabha and the Rajya Sabha",
+    "The Supreme Court and the High Courts",
+    "The President, the Prime Minister and the Council of Ministers",
+    "The Speaker and the Governors"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "No <b>President's signature</b>, no law.",
+   "prompt": "What happens to a Bill passed by both Houses if the President does not sign it?",
+   "options": [
+    "It becomes a law automatically.",
+    "The Speaker signs it instead.",
+    "It becomes a law after six months.",
+    "It cannot become a law."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-17-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Directly elected members of the Central and State legislatures = the <b>Electoral College</b>, which elects the President.",
+   "prompt": "What am I?",
+   "clues": [
+    "Common people are not a part of me.",
+    "I am made up of directly elected representatives of the Central and State legislatures.",
+    "I elect the President of India."
+   ],
+   "options": [
+    "Council of Ministers",
+    "Rajya Sabha",
+    "Lok Sabha",
+    "Electoral College"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-17-10",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "The <b>President</b> appoints the PM, ministers, judges, Governors and the Chief Election Commissioner.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Dev",
+     "The President appoints the Prime Minister and other ministers on the recommendation of the Prime Minister."
+    ],
+    [
+     "Anaya",
+     "The President appoints the judges of the Supreme Court and the High Courts."
+    ],
+    [
+     "Kabir",
+     "The Speaker appoints the Governors of States and the Chief Election Commissioner."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Chairman",
+    "Judiciary",
+    "President"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-11",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "President breaks the Constitution? Parliament removes by <b>Impeachment</b>.",
+   "prompt": "What is the process called by which the Parliament can remove the President for violating the Constitution?",
+   "options": [
+    "No-confidence motion",
+    "Impeachment",
+    "Zero Hour",
+    "Question Hour"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f07",
+    "f24",
+    "f28",
+    "f29"
+   ],
+   "hook": "Majority leader = <b>Prime Minister</b>: picks ministers, gives portfolios, chairs meetings.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I allocate portfolios to ministers.",
+    "I chair all the meetings of the Council of Ministers.",
+    "My party nominated me as its leader after winning a majority.",
+    "I am the executive head of India."
+   ],
+   "options": [
+    "President",
+    "Speaker",
+    "Vice-President",
+    "Prime Minister"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-17-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "<b>Three</b> emergencies: National, State, Financial.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The President has the power to declare emergency in a crisis situation."
+    ],
+    [
+     "Tanvi",
+     "There are five kinds of emergencies mentioned in the Constitution."
+    ],
+    [
+     "Rohan",
+     "They are National Emergency, State Emergency and Financial Emergency."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "two",
+    "three",
+    "four"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Not an MP? A minister must get elected within <b>six months</b>.",
+   "prompt": "If the Prime Minister or a minister is not a member of Parliament, within how long must they get elected to it?",
+   "options": [
+    "Six months",
+    "One year",
+    "Two years",
+    "Five years"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "President absent? The <b>Vice-President</b> steps in.",
+   "prompt": "Who carries out the functions of the President in the President's absence?",
+   "options": [
+    "The Vice-President",
+    "The Prime Minister",
+    "The Speaker",
+    "The Chief Election Commissioner"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Jumbo = huge: ministers now capped at <b>15%</b> of Lok Sabha members.",
+   "prompt": "What am I?",
+   "clues": [
+    "There was once a trend in our country that led to me.",
+    "A constitutional amendment was made to limit me.",
+    "I am a huge Council of Ministers."
+   ],
+   "options": [
+    "Electoral College",
+    "Zero Hour",
+    "Jumbo Ministry",
+    "Coalition government"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-17",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Jumbo Ministry ended: ministers <b>not more than 15%</b> of Lok Sabha members.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "A Jumbo Ministry refers to a huge Council of Ministers."
+    ],
+    [
+     "Aditya",
+     "A constitutional amendment was made to limit the size of the Council of Ministers."
+    ],
+    [
+     "Zoya",
+     "Ministers must not be more than 25 percent of the total members of the Lok Sabha."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "10",
+    "20",
+    "15"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-18",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "Impeachment: one House charges, the other investigates, <b>2/3rd</b> of both Houses must agree.",
+   "prompt": "How must the impeachment resolution against the President be passed?",
+   "options": [
+    "By a special (2/3rd) majority of both the Houses of Parliament",
+    "By a simple majority of the Lok Sabha only",
+    "By the Supreme Court",
+    "By a vote of all the common people"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38"
+   ],
+   "hook": "Sessions <b>begin</b> with Question Hour; ministers must answer.",
+   "prompt": "What am I?",
+   "clues": [
+    "Sometimes members walk out or enter the well of the House to protest during me.",
+    "Members criticise the government and ask questions on various issues during me.",
+    "The proceedings of the House begin with me during parliamentary sessions."
+   ],
+   "options": [
+    "Zero Hour",
+    "Third reading",
+    "No-confidence motion",
+    "Question Hour"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-17-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f05",
+    "f06",
+    "f07"
+   ],
+   "hook": "President: <b>highest</b> honour, all executive powers on paper, nominal head in reality.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "All executive powers of the State are vested in the President by the Constitution."
+    ],
+    [
+     "Farhan",
+     "The office of the President has the lowest honour and prestige."
+    ],
+    [
+     "Pooja",
+     "The President is the nominal and constitutional head."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "least",
+    "smallest",
+    "highest"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f12",
+    "f14"
+   ],
+   "hook": "The oath: <b>protect the Constitution</b>; breaking it can lead to impeachment.",
+   "prompt": "According to the oath, what responsibility does the President bear?",
+   "options": [
+    "Leading the Council of Ministers",
+    "Asking questions during Question Hour",
+    "Protecting the Constitution and ensuring the government runs as per it",
+    "Presenting the national Budget"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "PM keeps the President <b>informed</b>; the President has a right to ask.",
+   "prompt": "Which statement about the President and the Prime Minister is correct?",
+   "options": [
+    "The President has no right to seek information about the administration.",
+    "The Prime Minister never informs the President about new policies.",
+    "The Prime Minister needs the Speaker's permission to meet the President.",
+    "The Prime Minister informs the President about the administration and new laws and policies."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-17-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Majority in the <b>Lok Sabha</b> lost = no-confidence passed = ministers resign.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sneha",
+     "The government stays in power till it enjoys the support of majority in the Rajya Sabha."
+    ],
+    [
+     "Om",
+     "Members can move a no-confidence motion by simply saying they do not have confidence in the government."
+    ],
+    [
+     "Leela",
+     "If the motion is passed with majority support, the Council of Ministers has to resign."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 14
+   },
+   "options": [
+    "Lok",
+    "Vidhan",
+    "Gram"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "The President acts on the <b>advice</b> of the PM and the Council of Ministers.",
+   "prompt": "On whose advice does the President govern?",
+   "options": [
+    "The Prime Minister and the Council of Ministers",
+    "The Chief Election Commissioner",
+    "The Governors of States",
+    "The judges of the High Courts"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Trustworthy + <b>experience, skills, efficiency, expertise</b> = the PM's team.",
+   "prompt": "When forming the Council of Ministers, what does the Prime Minister consider while giving priority to trustworthy colleagues?",
+   "options": [
+    "Only their age",
+    "Their administrative experience, governance skills, efficiency and subject expertise",
+    "Only the state they come from",
+    "Only whether the President likes them"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28",
+    "f30",
+    "f31"
+   ],
+   "hook": "First pick the team, <b>then</b> hand out portfolios.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "The Prime Minister allocates portfolios before deciding upon the members of the council of ministers."
+    ],
+    [
+     "Ira",
+     "The Prime Minister works to raise the image of the country in the international arena."
+    ],
+    [
+     "Yash",
+     "The Prime Minister gives strong support to people who are victims of any disaster."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "until",
+    "after",
+    "without"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f33",
+    "f34"
+   ],
+   "hook": "Council of Ministers: starts laws, gets policies approved, then <b>implements</b> them.",
+   "prompt": "Who are we?",
+   "clues": [
+    "We take initiative in the process of law-making.",
+    "We lay our policy plans in the Parliament and try to get them approved.",
+    "Implementation of policy is our foremost responsibility."
+   ],
+   "options": [
+    "Electoral College",
+    "Council of Ministers",
+    "Judiciary",
+    "Governors of States"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Supreme commander of the defence forces = the <b>President</b>.",
+   "prompt": "Who makes the decisions regarding war and peace?",
+   "options": [
+    "The Speaker",
+    "The Chief Election Commissioner",
+    "The Governors",
+    "The President"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-17-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f21",
+    "f28",
+    "f29"
+   ],
+   "hook": "Judicial power of the President: reduce punishment, <b>pardons</b>, reprieves.",
+   "prompt": "Which of these is a judicial power of the President?",
+   "options": [
+    "Allocating portfolios to ministers",
+    "Chairing meetings of the Council of Ministers",
+    "Granting pardons or reprieves on humanitarian grounds in special circumstances",
+    "Leading the Question Hour"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "The President summons, prorogues and can dissolve Parliament <b>even before</b> its tenure ends.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The President summons the meeting of Parliament and prorogues its session."
+    ],
+    [
+     "Rahul",
+     "The President sends messages to both Houses."
+    ],
+    [
+     "Tara",
+     "The President can never dissolve the Parliament before the tenure is over."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "even",
+    "not",
+    "only"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "Impeachment needs <b>2/3rd</b> of <b>both</b> Houses.",
+   "prompt": "What am I?",
+   "clues": [
+    "Any one House lays the charge and the other House investigates it.",
+    "My resolution must be passed by a special (2/3rd) majority of both Houses.",
+    "Through me, the Parliament can remove the President for violating the Constitution."
+   ],
+   "options": [
+    "No-confidence motion",
+    "Zero Hour",
+    "Impeachment",
+    "Emergency"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Policies on education, health, industry and more go to <b>Parliament</b> for approval.",
+   "prompt": "Why do ministers lay their policy plans in the Parliament?",
+   "options": [
+    "To get the Supreme Court to sign them",
+    "To keep them secret from the people",
+    "To ask the Governors to implement them",
+    "To bring about a discussion and try to get them approved"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-17-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f23"
+   ],
+   "hook": "President: <b>Electoral College</b> (Centre + States). Vice-President: <b>both Houses</b> of Parliament.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The President is directly elected by the common people.",
+    "The President is elected by the Electoral College, while the Vice-President is elected by members of both Houses of Parliament.",
+    "The Vice-President is elected by the members of the State legislatures only.",
+    "The President is elected only by the members of the Rajya Sabha."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "Minister without a seat: <b>6 months</b> to get elected to Parliament.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meher",
+     "The party which attains a majority in elections nominates its leader as the Prime Minister."
+    ],
+    [
+     "Siddharth",
+     "The Council of Ministers is formed of trustworthy colleagues from within the party."
+    ],
+    [
+     "Lata",
+     "A minister who is not a member of Parliament must get elected within twelve months of appointment."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 13
+   },
+   "options": [
+    "three",
+    "six",
+    "eighteen"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Lose the Lok Sabha majority, lose the vote: the Council of Ministers <b>resigns</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am one of the most effective ways to keep a check on the Council of Ministers.",
+    "Members can move me by simply expressing 'we do not have confidence in the government'.",
+    "If I am passed with majority support, the Council of Ministers has to resign."
+   ],
+   "options": [
+    "Question Hour",
+    "No-confidence motion",
+    "Zero Hour",
+    "Impeachment"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-17-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f36",
+    "f37",
+    "f39"
+   ],
+   "hook": "Question Hour opens the day; <b>Zero Hour</b> is around 12 noon.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "During Zero Hour, only the President may speak.",
+    "Debates and discussions are not a part of the law-making process.",
+    "Zero Hour is the period around 12 noon when any question of public importance can be raised.",
+    "In Question Hour, ministers ask questions and members must answer them."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f19",
+    "f21"
+   ],
+   "hook": "Pardons or reprieves are granted on <b>humanitarian</b> grounds.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "The President appoints the judges of the Supreme Court and the High Courts."
+    ],
+    [
+     "Shreya",
+     "The President also appoints the Chief Election Commissioner."
+    ],
+    [
+     "Manav",
+     "In special circumstances, the President can grant pardons or reprieves on economic grounds."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 11
+   },
+   "options": [
+    "political",
+    "religious",
+    "humanitarian"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f26"
+   ],
+   "hook": "On paper: the <b>President</b>. In reality: the <b>PM and Council of Ministers</b>.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The President runs the government in reality and the Prime Minister is only nominal.",
+    "The Vice-President is the executive head.",
+    "All executive powers are vested in the President by the Constitution, but the real executive powers lie with the Prime Minister and the Council of Ministers.",
+    "The Council of Ministers is the Supreme Head of the State."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-17-39",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f30",
+    "f31"
+   ],
+   "hook": "Coordinates departments, builds India's image abroad, <b>recommends ministers</b>: the PM.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I supervise the working of departments to maintain efficacy and efficiency.",
+    "I try to raise the image of the country in the international arena.",
+    "On my recommendation, the other ministers are appointed."
+   ],
+   "options": [
+    "Prime Minister",
+    "President",
+    "Vice-President",
+    "Chief Election Commissioner"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-17-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Parliament approves; the Council of Ministers <b>implements</b>.",
+   "prompt": "What is described as the foremost responsibility of the Council of Ministers?",
+   "options": [
+    "Appointing judges of the Supreme Court",
+    "Implementation of policy",
+    "Electing the President",
+    "Declaring emergency"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,1441 @@
+{
+ "class": 7,
+ "id": "06",
+ "title": "Conflict with the Mughals",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "date",
+   "text": "In February 1660, Shaistakhan left Ahmadnagar and entered the Pune province.",
+   "year": 1660,
+   "era": "CE",
+   "quote": "In February 1660, Shaistakhan left from Ahmadnagar and entered the Pune province.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "person",
+   "text": "Shaistakhan encamped at Chakan; its Killedar Firangoji Narsala resisted strongly, but the Mughals captured the fort.",
+   "year": null,
+   "era": "CE",
+   "quote": "He encamped at Chakan. Firangoji Narsala, the Killedar of the fort of Chakan offered a strong resistance to Shaistakhan's army. Finally, the Mughals captured the fort of Chakan.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "place",
+   "text": "Shaistakhan set up his camp at Lal Mahal in Pune, where Shivaji Maharaj had lived in his childhood.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shaistakhan set up his camp at Lal Mahal in Pune where Shivaji Maharaj had lived in his childhood.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "Two years passed, but Shaistakhan would not leave Pune; his forces looted the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "These forces looted the people. Two years passed, but he would not think of leaving Pune.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "On 5 April 1663, Maharaj raided Lal Mahal at night; Shaistakhan lost his fingers.",
+   "year": 1663,
+   "era": "CE",
+   "quote": "On 5 April 1663, Maharaj raided Lal Mahal at night with a select band of soldiers. In this raid, Shaistakhan lost his fingers.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "event",
+   "text": "Shaistakhan shifted his camp to Aurangabad; Aurangzeb transferred him to the province of Bengal.",
+   "year": null,
+   "era": "CE",
+   "quote": "He left Pune and shifted his camp to Aurangabad. ... Aurangzeb transferred him to the province of Bengal.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "Surat was a big, rich trade centre and port under Mughal control; the British and Dutch had factories there.",
+   "year": null,
+   "era": "CE",
+   "quote": "Surat was a big trade centre and port under Mughal control. The British and Dutch had their factories there. ... It was a rich city.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "event",
+   "text": "Inayat Khan, the Subhedar of Surat, could not resist; Maharaj took plenty of wealth without bothering the common people.",
+   "year": null,
+   "era": "CE",
+   "quote": "Inayat Khan, the Subhedar of Surat could not put up any resistance. Maharaj obtained plenty of wealth from Surat without bothering the common people.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "Aurangzeb sent Mirzaraja Jaisingh, an experienced and powerful Rajput Sardar; Jaisingh came to Pune.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurangzeb sent Mirzaraja Jaisingh, an experienced and powerful Rajput Sardar. Jaisingh came to Pune.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "place",
+   "text": "Jaisingh urged the Portuguese of Goa and Vasai, the Dutch of Vengurla, the British of Surat and the Siddis of Janjira to start a naval campaign.",
+   "year": null,
+   "era": "CE",
+   "quote": "To the Portuguese of Goa and Vasai, the Dutch of Vengurla, the British of Surat and the Siddis of Janjira, Jaisingh suggested that they should start a naval campaign against Maharaj.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "When Jaisingh and Dilerkhan besieged Purandar, Murarbaji Deshpande fought with great courage and died a hero's death.",
+   "year": null,
+   "era": "CE",
+   "quote": "Jaisingh and Dilerkhan laid siege to the fort of Purandar. When the Mughals put the fort of Purandar under siege, Murarbaji Deshpande fought with the greatest of courage. He died a hero's death.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "date",
+   "text": "The Treaty of Purandar between Jaisingh and Maharaj was signed in June 1665.",
+   "year": 1665,
+   "era": "CE",
+   "quote": "A treaty between Jaisingh and Maharaj was signed in June 1665. It is known as the 'Treaty of Purandar'.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "By the treaty, Maharaj gave the Mughals twenty-three forts and territories yielding four lakh hons a year; Aurangzeb ratified it.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj gave to the Mughals, twenty-three of his forts and the adjoining territories yielding an annual revenue of four lakh hons. He also assured the Mughals of help against the Adilshahi. The Treaty was ratified by Aurangzeb.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "event",
+   "text": "Jaisingh's campaign against the Adilshahi failed; he proposed that Maharaj visit Agra and guaranteed his safety.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj helped Jaisingh but this campaign of Jaisingh was not successful. ... Jaisingh proposed to Shivaji Maharaj that he should visit Agra and meet the Emperor. He guaranteed the safety of Shivaji Maharaj.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "event",
+   "text": "At Agra, Aurangzeb did not honour Maharaj and put him under house arrest; Maharaj escaped and reached Rajgad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurangzeb did not treat him with due honour at his court. ... The Emperor then put him under house arrest. ... He adroitly escaped from Agra and reached Maharashtra safely after a few days. He reached Rajgad.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "Prince Sambhaji went to Agra with Maharaj; on the return he was left at Mathura and later brought safely to Rajgad.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was accompanied by Prince Sambhaji ... While returning from Agra, he had left Sambhaji Raje at Mathura. Later, Prince Sambhaji was brought safely to Rajgad.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "While Maharaj was away, Veermata Jijabai and his associates looked after the administration of Swaraj.",
+   "year": null,
+   "era": "CE",
+   "quote": "While Maharaj was away from Swaraj, Veermata Jijabai and the associates of Shivaji Maharaj looked after the administration of Swaraj.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "place",
+   "text": "Maharaj attacked Ahmadnagar and Junnar and recaptured Sinhgad, Purandar, Lohagad, Mahuli, Karnala and Rohida.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj attacked the Mughal territories of Ahmadnagar and Junnar. Then, he recaptured several forts such as Sinhgad, Purandar, Lohagad, Mahuli, Karnala, and Rohida, one after the other.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "place",
+   "text": "After attacking Surat a second time, Maharaj defeated the Mughal Sardar Daudkhan at Vani-Dindori in Nashik district.",
+   "year": null,
+   "era": "CE",
+   "quote": "Then Maharaj attacked Surat for a second time. While returning from Surat, he fought a great battle with the Mughals at Vani-Dindori in Nashik district. Maharaj defeated the Mughal Sardar Daudkhan in the great battle.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "Moropant Pingale captured Triambakgad near Nashik.",
+   "year": null,
+   "era": "CE",
+   "quote": "After that, Moropant Pingale captured Triambakgad near Nashik.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "Tanaji Malusare, Moropant Pingale and Prataprao Gujar contributed to these offensives.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sardars such as Tanaji Malusare, Moropant Pingale, Prataprao Gujar etc. made a valuable contribution in these offensives.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "person",
+   "text": "Krishnaji Anant Sabhasad, a contemporary chronicler, wrote that Maharaj took twenty-seven forts in four months.",
+   "year": null,
+   "era": "CE",
+   "quote": "Krishnaji Anant Sabhasad, a contemporary chronicler, thus describes this campaign : '(He) took as many as twenty-seven forts in four months and earned a great reputation for himself'.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "On 6 June 1674, Shivaji Maharaj was coronated at Raigad by Gagabhatt, a learned Pandit.",
+   "year": 1674,
+   "era": "CE",
+   "quote": "On 6 June 1674, he had himself coronated at Raigad by Gagabhatt, a learned Pandit.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "The founding of the Swaraj involved a struggle of over thirty years; a coronation was needed for recognition as a sovereign independent State.",
+   "year": null,
+   "era": "CE",
+   "quote": "The founding of the Maratha Swaraj involved a relentless struggle for over thirty years. Maharaj realised that now it was necessary for the Swaraj to win general recognition as a sovereign independent State. For this, a formal coronation was necessary.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "As a symbol of sovereignty, the Rajyabhisheka shaka (coronation era) was started.",
+   "year": null,
+   "era": "CE",
+   "quote": "As a symbol of sovereignty, the Rajyabhisheka shaka (the coronation era) was started. Maharaj became the founder of a new era.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Coins minted for the coronation: a gold Hon and a copper Shivrai, inscribed 'Shri Raja Shivachhatrapati'.",
+   "year": null,
+   "era": "CE",
+   "quote": "special coins were minted - a gold coin called Hon and a copper coin called Shivrai with the legend 'Shri Raja Shivachhatrapati' inscribed on them.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Royal correspondence (Rajpatra) carried the words 'Kshatriyakulaavantansa Shri Raja Shivachhatrapati'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Thereafter, all royal correspondence (Rajpatra) carried the words, 'Kshatriyakulaavantansa Shri Raja Shivachhatrapati'.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "The Rajya-vyavahara-kosha was a dictionary giving Sanskrit alternatives for Persian words.",
+   "year": null,
+   "era": "CE",
+   "quote": "A dictionary showing Sanskrit alternatives for Persian words was prepared. It is known as Rajya-vyavahara-kosha.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "Sabhasad wrote: 'It was no mean achievement for a Maratha King to become such a great Chhatrapati.'",
+   "year": null,
+   "era": "CE",
+   "quote": "Sabhasad (a contemporary chronicler) writes, 'It was no mean achievement for a Maratha King to become such a great Chhatrapati.'",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "date",
+   "text": "On 24 September 1674, a second coronation was performed under Nischalpuri Gosavi; Maharaj honoured both the Vedic and Tantric traditions.",
+   "year": 1674,
+   "era": "CE",
+   "quote": "Shortly after this, on 24 September 1674 Shivaji Maharaj had his second coronation performed under the guidance of Nischalpuri Gosavi. There were two traditions of religious ceremonies in India - Vedic and Tantric. Maharaj honoured both the traditions and had two coronation ceremonies performed.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "Prince Sambhaji Raje was 17 years old at the coronation and described it in the treatise 'Budhabhushanam'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Prince Sambhaji Raje was 17 years old at the time of the coronation of Shivaji Maharaj. He has described the coronation ceremony in the treatise 'Budhabhushanam'.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The coronation throne had eight bejewelled pillars and was made of thirty-two 'mann' of gold.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were eight bejewelled pillars on eight sides of the throne. This throne made of thirty-two 'mann' of gold had been studded with precious jewels.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "In October 1677, three years after the coronation, Maharaj began a campaign of the South, met the Qutubshah at Golconda and made a treaty of friendship.",
+   "year": 1677,
+   "era": "CE",
+   "quote": "Three years after the coronation, in October 1677, Chhatrapati Shivaji Maharaj undertook a campaign of the South. He went to Golconda. There he called on the Qutubshah. He entered into a treaty of friendship with him.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "place",
+   "text": "Maharaj won Bengaluru and Hoskote in Karnataka and Jinji and Vellore in Tamil Nadu; Raghunath Narayan Hanamante became chief administrator there.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj won Bengaluru, Hoskote in Karnataka, Jinji Vellore, etc. forts in today's Tamil Nadu and some other territories of Adilshah. He appointed Raghunath Narayan Hanamante the chief administrator to look after these conquered territories.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "person",
+   "text": "Vyankoji, the half-brother of Shivaji Maharaj, was ruling at Tanjavur; its Saraswati Mahal library is world famous.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vyankoji, the half-brother of Shivaji Maharaj, was then ruling at Tanjavur. ... The Saraswati Mahal library there is world famous.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "Later, Chhatrapati Rajaram Maharaj took shelter in Jinji and ran the administration of Swaraj from there.",
+   "year": null,
+   "era": "CE",
+   "quote": "the then Chhatrapati Rajaram Maharaj had to leave Maharashtra for reasons of safety. At that time, he took shelter in this southern fort of Jinji and ran the administration of Swaraj from there.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "date",
+   "text": "Shivaji Maharaj passed away on Raigad on 3 April 1680, at the age of fifty.",
+   "year": 1680,
+   "era": "CE",
+   "quote": "Shivaji Maharaj passed away on Raigad on 3 April 1680. His death at the age of fifty was a great loss for Swaraj.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "The Surat campaign was a stunning blow to Emperor Aurangzeb's prestige.",
+   "year": null,
+   "era": "CE",
+   "quote": "His campaign of Surat was completely successful. This campaign was a stunning blow to Emperor Aurangzeb's prestige.",
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-06-01",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "6 June <b>1674</b>: crowned at Raigad by Gagabhatt.",
+   "prompt": "In which year was Shivaji Maharaj crowned at Raigad by Gagabhatt?",
+   "year": 1674,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-06-02",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f05",
+    "f12",
+    "f23",
+    "f37"
+   ],
+   "hook": "1663 raid, 1665 treaty, 1674 crown, 1680 the end of an era.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Raid on Lal Mahal",
+     "y": "1663",
+     "k": 1663.04
+    },
+    {
+     "t": "Treaty of Purandar",
+     "y": "1665",
+     "k": 1665.06
+    },
+    {
+     "t": "Coronation at Raigad",
+     "y": "1674",
+     "k": 1674.06
+    },
+    {
+     "t": "Shivaji Maharaj passes away",
+     "y": "1680",
+     "k": 1680.04
+    }
+   ]
+  },
+  {
+   "qid": "c7-06-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f03",
+    "f05",
+    "f06"
+   ],
+   "hook": "Shaistakhan: Lal Mahal camp, lost fingers, sent off to Bengal.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Aurangzeb transferred me to the province of Bengal.",
+    "I lost my fingers in a night raid.",
+    "I set up my camp at Lal Mahal in Pune."
+   ],
+   "options": [
+    "Mirzaraja Jaisingh",
+    "Daudkhan",
+    "Shaistakhan",
+    "Inayat Khan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Raigad: crowned 1674.",
+   "prompt": "Where was Shivaji Maharaj crowned on 6 June 1674?",
+   "options": [
+    "Rajgad",
+    "Purandar",
+    "Panhala",
+    "Raigad"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-06-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Purandar 1665: Jaisingh and Maharaj; 23 forts to the Mughals.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Shivaji Maharaj signed the Treaty of Purandar with Shaistakhan in June 1665."
+    ],
+    [
+     "Meera",
+     "Maharaj gave twenty-three of his forts to the Mughals."
+    ],
+    [
+     "Kabir",
+     "The treaty was ratified by Aurangzeb."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 8
+   },
+   "options": [
+    "Jaisingh",
+    "Daudkhan",
+    "Dilerkhan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f09",
+    "f11",
+    "f14"
+   ],
+   "hook": "Mirzaraja Jaisingh: Rajput Sardar, siege of Purandar, the Agra proposal.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I proposed that Shivaji Maharaj should visit Agra.",
+    "Dilerkhan and I laid siege to Purandar.",
+    "I was an experienced and powerful Rajput Sardar."
+   ],
+   "options": [
+    "Shaistakhan",
+    "Mirzaraja Jaisingh",
+    "Daudkhan",
+    "Inayat Khan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-06-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Lal Mahal, Pune: Shivaji's childhood home, Shaistakhan's camp.",
+   "prompt": "Where in Pune did Shaistakhan set up his camp?",
+   "options": [
+    "Rajgad",
+    "Lal Mahal",
+    "Raigad",
+    "Shivneri"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-06-08",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "3 April <b>1680</b>: Shivaji Maharaj passed away on Raigad, aged fifty.",
+   "prompt": "In which year did Shivaji Maharaj pass away on Raigad?",
+   "year": 1680,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-06-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "5 April <b>1663</b>: the night raid on Lal Mahal.",
+   "prompt": "In which year did Shivaji Maharaj raid Lal Mahal at night?",
+   "year": 1663,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-06-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "June <b>1665</b>: Treaty of Purandar - two years after the Lal Mahal raid.",
+   "prompt": "In which year was the Treaty of Purandar signed?",
+   "year": 1665,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-06-11",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f01",
+    "f12",
+    "f33",
+    "f37"
+   ],
+   "hook": "1660 Shaistakhan arrives, 1665 Purandar, 1677 go South, 1680 death.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Shaistakhan enters the Pune province",
+     "y": "1660",
+     "k": 1660.02
+    },
+    {
+     "t": "Treaty with Jaisingh at Purandar",
+     "y": "1665",
+     "k": 1665.06
+    },
+    {
+     "t": "Campaign of the South begins",
+     "y": "1677",
+     "k": 1677.1
+    },
+    {
+     "t": "Death on Raigad",
+     "y": "1680",
+     "k": 1680.04
+    }
+   ]
+  },
+  {
+   "qid": "c7-06-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Gagabhatt crowned Shivaji Maharaj at Raigad on 6 June 1674.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a learned Pandit.",
+    "The ceremony I performed took place at Raigad.",
+    "I coronated Shivaji Maharaj on 6 June 1674."
+   ],
+   "options": [
+    "Nischalpuri Gosavi",
+    "Krishnaji Anant Sabhasad",
+    "Gagabhatt",
+    "Raghunath Narayan Hanamante"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "Agra: house arrest, escape; Sambhaji left at Mathura, later brought to Rajgad.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Prince Sambhaji went with Shivaji Maharaj to Agra."
+    ],
+    [
+     "Dev",
+     "Aurangzeb put Maharaj under house arrest."
+    ],
+    [
+     "Isha",
+     "While returning, Maharaj left Sambhaji Raje at Nashik for a while."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Agra",
+    "Mathura",
+    "Rajgad"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-06-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Gold = Hon, copper = Shivrai.",
+   "prompt": "What was the gold coin minted for the coronation called?",
+   "options": [
+    "Hon",
+    "Shivrai",
+    "Rajpatra",
+    "Mann"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f07",
+    "f08"
+   ],
+   "hook": "Surat: rich Mughal port with British and Dutch factories; Inayat Khan could not resist.",
+   "prompt": "Which city am I?",
+   "clues": [
+    "Inayat Khan was my Subhedar.",
+    "The British and the Dutch had their factories in me.",
+    "I was a rich trade centre and port under Mughal control."
+   ],
+   "options": [
+    "Vengurla",
+    "Ahmadnagar",
+    "Aurangabad",
+    "Surat"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-06-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "1674 + 3 = 1677: south to Golconda, friendship with the Qutubshah.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "Three years after the coronation, Maharaj undertook a campaign of the South."
+    ],
+    [
+     "Om",
+     "He went to Golconda and called on the Qutubshah."
+    ],
+    [
+     "Tara",
+     "He made a treaty of war with the Qutubshah."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "trade",
+    "friendship",
+    "defence"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-06-17",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f33",
+    "f23"
+   ],
+   "hook": "Crowned 1674, three years later <b>1677</b>: the campaign of the South.",
+   "prompt": "In which year did Shivaji Maharaj begin his campaign of the South?",
+   "year": 1677,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-06-18",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f01",
+    "f05",
+    "f23",
+    "f30"
+   ],
+   "hook": "Feb 1660, Apr 1663, then two crownings in 1674: June and September.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Shaistakhan leaves Ahmadnagar",
+     "y": "February 1660",
+     "k": 1660.02
+    },
+    {
+     "t": "Shaistakhan loses his fingers",
+     "y": "April 1663",
+     "k": 1663.04
+    },
+    {
+     "t": "Coronation by Gagabhatt",
+     "y": "June 1674",
+     "k": 1674.06
+    },
+    {
+     "t": "Coronation under Nischalpuri Gosavi",
+     "y": "September 1674",
+     "k": 1674.09
+    }
+   ]
+  },
+  {
+   "qid": "c7-06-19",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "Lost fingers -> moved to Aurangabad -> transferred to Bengal.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neel",
+     "In the raid on Lal Mahal, Shaistakhan lost his fingers."
+    ],
+    [
+     "Avni",
+     "He then shifted his camp from Pune to Aurangabad."
+    ],
+    [
+     "Yash",
+     "Aurangzeb transferred Shaistakhan to the province of Gujarat after this."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Bengal",
+    "Kashmir",
+    "Malwa"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Murarbaji Deshpande gave his life defending Purandar.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I fought with the greatest of courage.",
+    "I died a hero's death.",
+    "I defended Purandar when Jaisingh and Dilerkhan besieged it."
+   ],
+   "options": [
+    "Bajiprabhu Deshpande",
+    "Firangoji Narsala",
+    "Murarbaji Deshpande",
+    "Tanaji Malusare"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Purandar 1665: 23 forts + 4 lakh hons of land; help against the Adilshahi.",
+   "prompt": "As per the Treaty of Purandar, what did Maharaj give the Mughals?",
+   "options": [
+    "Raigad and Rajgad only",
+    "Twenty-three forts and territories yielding four lakh hons a year",
+    "Twenty-seven forts taken in four months",
+    "The city of Surat"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-06-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Second Surat raid, then Vani-Dindori (Nashik): Daudkhan defeated.",
+   "prompt": "Which Mughal Sardar did Maharaj defeat in the great battle at Vani-Dindori?",
+   "options": [
+    "Dilerkhan",
+    "Daudkhan",
+    "Inayat Khan",
+    "Shaistakhan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-06-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f34",
+    "f36"
+   ],
+   "hook": "Jinji: won in the southern campaign; later Rajaram Maharaj's safe base.",
+   "prompt": "Which fort am I?",
+   "clues": [
+    "Chhatrapati Rajaram Maharaj later ran the administration of Swaraj from me.",
+    "Maharaj annexed me to Swaraj during the campaign of the South.",
+    "I am in today's Tamil Nadu."
+   ],
+   "options": [
+    "Vellore",
+    "Hoskote",
+    "Triambakgad",
+    "Jinji"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-06-24",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "event"
+   ],
+   "fids": [
+    "f23",
+    "f25",
+    "f26"
+   ],
+   "hook": "Crowned 1674 -> the Rajyabhisheka shaka, a new era; Hon and Shivrai coins.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "Maharaj was crowned at Raigad on 6 June 1674."
+    ],
+    [
+     "Zoya",
+     "A copper coin called Shivrai was minted for the coronation."
+    ],
+    [
+     "Arjun",
+     "As a symbol of sovereignty, the Hijri era was started."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Vikram",
+    "Fasli",
+    "Rajyabhisheka"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "February <b>1660</b>: Shaistakhan leaves Ahmadnagar for the Pune province.",
+   "prompt": "In which year did Shaistakhan leave Ahmadnagar and enter the Pune province?",
+   "year": 1660,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-06-26",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f12",
+    "f23",
+    "f30",
+    "f33"
+   ],
+   "hook": "June 1665, June 1674, September 1674, October 1677.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Twenty-three forts given to Mughals",
+     "y": "June 1665",
+     "k": 1665.06
+    },
+    {
+     "t": "First coronation, at Raigad",
+     "y": "June 1674",
+     "k": 1674.06
+    },
+    {
+     "t": "Second coronation",
+     "y": "September 1674",
+     "k": 1674.09
+    },
+    {
+     "t": "Visit to the Qutubshah at Golconda",
+     "y": "October 1677",
+     "k": 1677.1
+    }
+   ]
+  },
+  {
+   "qid": "c7-06-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Rajya-vyavahara-kosha: Persian words, Sanskrit alternatives.",
+   "prompt": "What am I?",
+   "clues": [
+    "I list pairs of equivalent words.",
+    "I am a dictionary.",
+    "I show Sanskrit alternatives for Persian words."
+   ],
+   "options": [
+    "Rajya-vyavahara-kosha",
+    "Budhabhushanam",
+    "Rajpatra",
+    "Dasbodh"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-28",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Throne: 8 jewelled pillars, 32 mann of gold.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "A grand throne was made for the coronation of Shivaji Maharaj."
+    ],
+    [
+     "Pooja",
+     "It had eight bejewelled pillars on eight sides."
+    ],
+    [
+     "Sahil",
+     "The throne was made of twelve mann of gold and studded with jewels."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "seventeen",
+    "twenty-seven",
+    "thirty-two"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Sambhaji Raje, 17 at the coronation, described it in Budhabhushanam.",
+   "prompt": "How old was Prince Sambhaji Raje at the time of the coronation?",
+   "options": [
+    "12",
+    "15",
+    "17",
+    "20"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-30",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Firangoji Narsala, Killedar of Chakan, stood up to Shaistakhan.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was the Killedar of a fort.",
+    "I offered a strong resistance to Shaistakhan's army.",
+    "My fort was Chakan, which the Mughals finally captured."
+   ],
+   "options": [
+    "Firangoji Narsala",
+    "Murarbaji Deshpande",
+    "Moropant Pingale",
+    "Prataprao Gujar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Sabhasad: 27 forts in 4 months. (Purandar gave away 23.)",
+   "prompt": "According to the chronicler Sabhasad, how many forts did Maharaj take in four months during the offensive against the Mughals?",
+   "options": [
+    "Twenty-three",
+    "Thirty-two",
+    "Seventeen",
+    "Twenty-seven"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-06-32",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Jaisingh's sea allies: Portuguese (Goa, Vasai), Dutch (Vengurla), British (Surat), Siddis (Janjira).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "Jaisingh rallied all the forces against Shivaji Maharaj."
+    ],
+    [
+     "Vihaan",
+     "He asked the Portuguese of Goa and Vasai to start a naval campaign."
+    ],
+    [
+     "Diya",
+     "The Siddis of Vengurla were also asked to join him."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Janjira",
+    "Surat",
+    "Goa"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-33",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "24 September <b>1674</b>: second coronation, under Nischalpuri Gosavi.",
+   "prompt": "In which year was the second coronation, under the guidance of Nischalpuri Gosavi, performed?",
+   "year": 1674,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-06-34",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f05",
+    "f12",
+    "f23",
+    "f33",
+    "f37"
+   ],
+   "hook": "1663 - 1665 - 1674 - 1677 - 1680: raid, treaty, crown, South, farewell.",
+   "prompt": "Put all five events in the order they happened.",
+   "items": [
+    {
+     "t": "Night raid at Lal Mahal",
+     "y": "1663",
+     "k": 1663.04
+    },
+    {
+     "t": "Treaty of Purandar signed",
+     "y": "1665",
+     "k": 1665.06
+    },
+    {
+     "t": "Hon and Shivrai coins minted",
+     "y": "1674",
+     "k": 1674.06
+    },
+    {
+     "t": "Treaty of friendship at Golconda",
+     "y": "1677",
+     "k": 1677.1
+    },
+    {
+     "t": "A great era comes to an end",
+     "y": "1680",
+     "k": 1680.04
+    }
+   ]
+  },
+  {
+   "qid": "c7-06-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f19",
+    "f20"
+   ],
+   "hook": "After Vani-Dindori, Moropant Pingale took Triambakgad near Nashik.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Maharaj attacked Surat a second time."
+    ],
+    [
+     "Myra",
+     "While returning, he fought the Mughals at Vani-Dindori in Nashik district."
+    ],
+    [
+     "Kabir",
+     "After that, Moropant Pingale captured Lohagad near Nashik."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Triambakgad",
+    "Rohida",
+    "Sinhgad"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Vyankoji, the half-brother, ruled Tanjavur - home of the Saraswati Mahal library.",
+   "prompt": "Who was ruling at Tanjavur at the time of the campaign of the South?",
+   "options": [
+    "Raghunath Narayan Hanamante",
+    "Rajaram Maharaj",
+    "Vyankoji",
+    "The Qutubshah"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-37",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Two traditions, two coronations: Gagabhatt in June, Nischalpuri Gosavi in September 1674.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Maharaj honoured two traditions of religious ceremonies.",
+    "Shortly after the first coronation, another was performed under my guidance.",
+    "I am linked to the date 24 September 1674."
+   ],
+   "options": [
+    "Gagabhatt",
+    "Krishnaji Anant Sabhasad",
+    "Raghunath Narayan Hanamante",
+    "Nischalpuri Gosavi"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-06-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Offensive after Agra: Sinhgad, Purandar, Lohagad, Mahuli, Karnala, Rohida.",
+   "prompt": "After returning from Agra, which forts did Maharaj recapture one after the other?",
+   "options": [
+    "Sinhgad, Purandar, Lohagad, Mahuli, Karnala and Rohida",
+    "Jinji, Vellore and Hoskote",
+    "Chakan, Lal Mahal and Shivneri",
+    "Golconda and Tanjavur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-06-39",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "year"
+   ],
+   "fids": [
+    "f34",
+    "f37"
+   ],
+   "hook": "Hanamante ran the southern lands; Maharaj died on 3 April 1680, aged fifty.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Raghunath Narayan Hanamante was made chief administrator of the conquered southern territories."
+    ],
+    [
+     "Reyansh",
+     "Shivaji Maharaj passed away on Raigad on 3 April 1680."
+    ],
+    [
+     "Tanvi",
+     "He was sixty years old when he died, and a great era came to an end."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "forty",
+    "seventy",
+    "fifty"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-06-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f23",
+    "f31",
+    "f26"
+   ],
+   "hook": "Vedic + Tantric = two coronations; Hon gold, Shivrai copper; Sambhaji was 17.",
+   "prompt": "Which statement about the coronation is correct?",
+   "options": [
+    "Maharaj honoured both the Vedic and the Tantric traditions by having two coronation ceremonies.",
+    "The second coronation was performed by Gagabhatt at Rajgad.",
+    "Sambhaji Raje was 12 years old at the coronation.",
+    "The Hon was a copper coin and the Shivrai was a gold coin."
+   ],
+   "answer": 0
+  }
+ ]
+}

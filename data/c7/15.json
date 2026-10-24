@@ -1,0 +1,1394 @@
+{
+ "class": 7,
+ "id": "15",
+ "title": "Preamble to the Constitution",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "The Constitution is the fundamental and the highest law of the land.",
+   "year": null,
+   "era": "CE",
+   "quote": "Our Constitution is the fundamental and the highest law of the land.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "A systematic arrangement of all the aims and objectives of a law is the Preface to the law.",
+   "year": null,
+   "era": "CE",
+   "quote": "A systematic arrangement of all the aims and objectives of a law is the Preface to the law.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The Preface to the Indian Constitution is called the Preamble; it sets out the objectives of the Constitution.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Preface to the Indian Constitution is called the 'Preamble'. The Preamble sets out the objectives of our Constitution.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "The Preamble begins with the words 'We, the people of India'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Preamble begins with the words, 'We, the people of India'.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "The Preamble talks of the resolve to constitute India into a Sovereign, Socialist, Secular, Democratic Republic.",
+   "year": null,
+   "era": "CE",
+   "quote": "It talks about the resolve of the Indians to constitute India into a 'Sovereign, Socialist, Secular, Democratic Republic'.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "British rule ended on 15th August 1947; India became independent and sovereign.",
+   "year": 1947,
+   "era": "CE",
+   "quote": "The British rule ended on 15th August 1947. Our country became independent. India became sovereign.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "Sovereign means that a State is not under the control of a foreign power.",
+   "year": null,
+   "era": "CE",
+   "quote": "The word sovereign means that a State is not under the control of a foreign power.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "The most important goal of the freedom struggle was to acquire sovereignty.",
+   "year": null,
+   "era": "CE",
+   "quote": "The most important goal of our freedom struggle was to acquire sovereignty.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Sovereignty means the ultimate authority to govern yourself; in a democracy it rests with the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sovereignty means the ultimate authority to govern yourself. In a democracy, sovereignty rests with the people.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The Constitution reflects the principle of popular sovereignty; the government elected by the people makes laws on their behalf.",
+   "year": null,
+   "era": "CE",
+   "quote": "Thus the Constitution reflects the principle of popular sovereignty and the government elected by the people makes laws on behalf of the people.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "In a Socialist State the gap between the rich and the poor is minimum and wealth is not concentrated in a few hands.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Socialist State is such a State where the gap between the rich and the poor is minimum. ... It is ensured that wealth is not concentrated in the hands of a few people.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "In a Secular State all religions are considered equal and no one religion is the State religion.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a secular State, all religions are considered as equal. No one religion is considered to be the State religion.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "In a Secular State citizens are free to follow their own religion and the State cannot discriminate on the basis of religion.",
+   "year": null,
+   "era": "CE",
+   "quote": "The citizens are free to follow their own religion. State cannot discriminate among citizens on the basis of religion.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "We have endeavoured to preserve the multi-religious nature of our society; while celebrating festivals we must care about public cleanliness, health and the environment.",
+   "year": null,
+   "era": "CE",
+   "quote": "We have endeavoured to preserve the multi-religious nature of our society. ... Whenever we celebrate our festivals, we are required to be concerned about public cleanliness, health and the environment.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "In a democracy the sovereign power is in the hands of the people; elections are held after a fixed period because all the people cannot decide day to day.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a democracy, the sovereign power is in the hands of the people. ... All the people are not able to come together and take such decisions on a day-to-day basis. Therefore, elections are conducted after a fixed period",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Elected representatives sit in institutions like the Parliament or Legislature and the Executive.",
+   "year": null,
+   "era": "CE",
+   "quote": "These representatives sit in the institutions created by the Constitution like the Parliament or Legislature and the Executive.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "In a Republic all public positions are elected by the people; none is occupied by hereditary succession.",
+   "year": null,
+   "era": "CE",
+   "quote": "All public positions in a Republic are elected by the people. No public position is occupied on the basis of hereditary succession.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "President, Prime Minister, Governor, Chief Minister, Mayor and Sarpanch are public positions open to any citizen meeting the age criterion.",
+   "year": null,
+   "era": "CE",
+   "quote": "The positions like the President, the Prime Minister, the Governor, the Chief Minister, the Mayor, the Sarpanch, etc. are public positions. Any Indian citizen fulfilling the prescribed age criterion can get himself/herself elected",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "In a monarchy, public positions may be occupied by members of a single family following the principle of heredity.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a monarchy, these positions may be occupied by members of a single family following the principle of heredity.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "event",
+   "text": "Deepa wrote on 'My Family'; even the grandparents are consulted and Anuja wants to take up agricultural research.",
+   "year": null,
+   "era": "CE",
+   "quote": "Read what Deepa has written on the topic : 'My Family'. ... even the grandparents are consulted. Anuja wants to take up agricultural research as her career.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "The Preamble guarantees the three values of Justice, Liberty and Equality.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Preamble has guaranteed the Indian citizens the three values of Justice, Liberty and Equality.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Justice implies removal of injustice and ensuring that everybody has the opportunity for progress; it means policies that promote public good.",
+   "year": null,
+   "era": "CE",
+   "quote": "Justice implies removal of injustice and ensuring that everybody has the opportunity for progress. Establishing justice is adopting such policies that will promote public good.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "Three types of justice are talked of in the Preamble: social, economic and political.",
+   "year": null,
+   "era": "CE",
+   "quote": "Three types of justice are talked of in the Preamble. ... (a) Social Justice ... (b) Economic Justice ... (c) Political Justice",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "Social justice: no discrimination on the basis of caste, creed, race, language, region, place of birth or sex.",
+   "year": null,
+   "era": "CE",
+   "quote": "There should be no discrimination among individuals on the basis of caste, creed, race, language, region, place of birth or sex.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Economic justice: poverty leads to hunger, hunger-deaths or malnourishment, so everyone should have the right to a source of livelihood.",
+   "year": null,
+   "era": "CE",
+   "quote": "Poverty leads to the evils of hunger, hunger-deaths or malnourishment. If poverty is to be eradicated, everyone should have the right to a source of livelihood",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Political justice: universal adult franchise; all citizens completing 18 years of age have the right to vote.",
+   "year": null,
+   "era": "CE",
+   "quote": "We have adopted universal adult franchise to enable equal participation in the running of the country. Accordingly, all citizens completing 18 years of age have the right to vote in elections.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Liberty means no coercive, unfair restrictions; democracy becomes mature only if citizens enjoy freedom.",
+   "year": null,
+   "era": "CE",
+   "quote": "Liberty implies that there should be no coercive, unfair restrictions upon us ... democracy becomes mature only if citizens enjoy freedom.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Freedom of thought and expression is the most fundamental freedom for an individual.",
+   "year": null,
+   "era": "CE",
+   "quote": "Freedom of thought and expression is the most fundamental freedom for an individual.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "The liberty of belief, faith and worship implies religious freedom.",
+   "year": null,
+   "era": "CE",
+   "quote": "The liberty of belief, faith and worship implies religious freedom.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "The Preamble guarantees an equality of status and of opportunity.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Preamble guarantees the Indian citizens an equality of status and of opportunity.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Equal status means not to discriminate between people in terms of high-low, superior-inferior.",
+   "year": null,
+   "era": "CE",
+   "quote": "The guarantee of equal status means not to discriminate between people in terms of high-low, superior-inferior.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The Preamble's unique ideal is promoting fraternity and assuring the dignity of the individual.",
+   "year": null,
+   "era": "CE",
+   "quote": "It is the goal of promoting fraternity among the citizens and to assure the dignity of the individual.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Fraternity implies a 'we-feeling' towards one another and creates a feeling of empathy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Fraternity implies a 'we-feeling' towards one another. It creates a feeling of empathy.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "The makers of the Constitution believed no amount of laws would achieve the goals if fraternity is lacking, so fraternity was included as a goal.",
+   "year": null,
+   "era": "CE",
+   "quote": "No amount of laws would help us achieve these goals if fraternity is lacking among Indians. Hence the promotion of fraternity has been included in the Preamble as a goal.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "Fraternity is closely related to human dignity; human dignity implies equal respect to each individual as a human being, not depending on caste, creed, race, sex or language.",
+   "year": null,
+   "era": "CE",
+   "quote": "Fraternity is closely related to human dignity. Human dignity implies equal respect to each individual as a human being. It does not depend upon the criteria of caste, creed, race, sex, language, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "When every individual respects another and honours their freedom and rights, dignity gets established and fraternity grows automatically.",
+   "year": null,
+   "era": "CE",
+   "quote": "When every individual respects another and honours their freedom and rights, dignity of the individual will get established. In such an atmosphere, fraternity will grow automatically.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "event",
+   "text": "The Preamble ends by mentioning that the people of India have given the Constitution to themselves.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Preamble ends with a mention of the fact that the people of India have given the Constitution to themselves.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "The Constituent Assembly made the Constitution of India.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Constituent Assembly made the Constitution of India.",
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-15-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Preface = Preamble: both start with <b>Pre</b>, both come first.",
+   "prompt": "What is the Preface to the Indian Constitution called?",
+   "options": [
+    "The Union List",
+    "The Preamble",
+    "The Code of Conduct",
+    "The Constituent Assembly"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "15th August <b>1947</b>: British rule ended, India became sovereign.",
+   "prompt": "In which year did British rule end, making India sovereign?",
+   "year": 1947,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-15-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Secular: all religions equal, no State religion.",
+   "prompt": "What am I?",
+   "clues": [
+    "The State in me cannot discriminate among citizens on the basis of religion.",
+    "Citizens in me are free to follow their own religion.",
+    "No one religion is the State religion in me.",
+    "In me, all religions are considered as equal."
+   ],
+   "options": [
+    "Socialist State",
+    "Sovereign State",
+    "Monarchy",
+    "Secular State"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f21",
+    "f26"
+   ],
+   "hook": "Three values: Justice, Liberty, Equality. Vote at <b>18</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Preamble begins with the words 'We, the people of India'."
+    ],
+    [
+     "Meera",
+     "The Preamble guarantees the three values of Justice, Liberty and Equality."
+    ],
+    [
+     "Kabir",
+     "The voting age for all citizens is 21 years under universal adult franchise."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "16",
+    "25",
+    "18"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "In a democracy, sovereign power is in the hands of the people.",
+   "prompt": "In a democracy, sovereignty rests with whom?",
+   "options": [
+    "A single family",
+    "A foreign power",
+    "The people",
+    "The Governor alone"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f35"
+   ],
+   "hook": "Fraternity = 'we-feeling' + empathy, linked to human dignity.",
+   "prompt": "What am I?",
+   "clues": [
+    "The makers of the Constitution included my promotion in the Preamble as a goal.",
+    "I am closely related to human dignity.",
+    "I create a feeling of empathy.",
+    "I am a 'we-feeling' towards one another."
+   ],
+   "options": [
+    "Liberty",
+    "Sovereignty",
+    "Franchise",
+    "Fraternity"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-07",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04",
+    "f37"
+   ],
+   "hook": "Starts 'We, the people of India', ends: the people gave it to themselves.",
+   "prompt": "What am I?",
+   "clues": [
+    "I end by mentioning that the people of India have given the Constitution to themselves.",
+    "I set out the objectives of the Constitution.",
+    "I begin with the words 'We, the people of India'.",
+    "I am the Preface to the Indian Constitution."
+   ],
+   "options": [
+    "Preamble",
+    "Union List",
+    "Election Commission",
+    "Constituent Assembly"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "Republic: every public position elected, none inherited.",
+   "prompt": "What am I?",
+   "clues": [
+    "Any Indian citizen fulfilling the age criterion can get elected to my public positions.",
+    "No public position in me is occupied by hereditary succession.",
+    "All public positions in me are elected by the people."
+   ],
+   "options": [
+    "Monarchy",
+    "Socialist State",
+    "Republic",
+    "Secular State"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-09",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Socialist: small gap between rich and poor; wealth not in a few hands.",
+   "prompt": "In which kind of State is the gap between the rich and the poor minimum?",
+   "options": [
+    "Secular State",
+    "Sovereign State",
+    "Socialist State",
+    "Monarchy"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-10",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f08"
+   ],
+   "hook": "Freedom struggle's top goal: sovereignty, won on 15th August <b>1947</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "India was ruled by Britain for a long period."
+    ],
+    [
+     "Dev",
+     "British rule ended on 15th August 1947 and India became sovereign."
+    ],
+    [
+     "Sana",
+     "Acquiring wealth was the most important goal of our freedom struggle."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "equality",
+    "sovereignty",
+    "franchise"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25",
+    "f23"
+   ],
+   "hook": "Economic justice fights poverty: a right to a source of livelihood.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am one of the three types of justice in the Preamble.",
+    "Poverty leads to hunger, hunger-deaths or malnourishment, and I want it eradicated.",
+    "I say everyone should have the right to a source of livelihood."
+   ],
+   "options": [
+    "Social Justice",
+    "Economic Justice",
+    "Political Justice",
+    "Fraternity"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Justice comes in 3: Social, Economic, Political.",
+   "prompt": "Which three types of justice are talked of in the Preamble?",
+   "options": [
+    "Social, economic and political",
+    "Social, religious and military",
+    "Economic, foreign and local",
+    "Political, regional and family"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f23"
+   ],
+   "hook": "Political justice = universal adult franchise: vote at <b>18</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am one of the three types of justice in the Preamble.",
+    "I enable equal participation in the running of the country.",
+    "Universal adult franchise was adopted for me, so citizens completing 18 years can vote."
+   ],
+   "options": [
+    "Social Justice",
+    "Economic Justice",
+    "Political Justice",
+    "Liberty"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Most fundamental freedom: to think and to express.",
+   "prompt": "Which freedom is called the most fundamental freedom for an individual?",
+   "options": [
+    "Freedom of faith and worship",
+    "Freedom to celebrate festivals",
+    "Freedom to choose a career",
+    "Freedom of thought and expression"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f17"
+   ],
+   "hook": "Republic: positions are elected, never inherited.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Preamble guarantees equality of status and of opportunity."
+    ],
+    [
+     "Tara",
+     "Equal status means not to discriminate in terms of high-low, superior-inferior."
+    ],
+    [
+     "Pooja",
+     "In a Republic, all public positions are inherited by the people."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "elected",
+    "bought",
+    "gifted"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Mayor, Sarpanch, President: public positions, filled by election.",
+   "prompt": "Which of these is named as a public position filled by election?",
+   "options": [
+    "Maharaja",
+    "Mayor",
+    "Raja",
+    "Raobahadur"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07",
+    "f11",
+    "f12",
+    "f17"
+   ],
+   "hook": "Sovereign = no foreign control; Socialist = small rich-poor gap; Secular = all religions equal.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Sovereign - not under the control of a foreign power",
+    "Secular - gap between rich and poor is minimum",
+    "Socialist - all religions considered as equal",
+    "Republic - positions passed down in one family"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38",
+    "f03",
+    "f01"
+   ],
+   "hook": "The Constitution: fundamental and <b>highest</b> law; its Preface is the Preamble.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "The Constituent Assembly made the Constitution of India."
+    ],
+    [
+     "Rohan",
+     "The Preface to the Indian Constitution is called the Preamble."
+    ],
+    [
+     "Zoya",
+     "Our Constitution is the fundamental and the lowest law of the land."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "highest",
+    "weakest",
+    "smallest"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f29"
+   ],
+   "hook": "Liberty: no unfair restrictions; democracy matures only with freedom.",
+   "prompt": "What am I?",
+   "clues": [
+    "My forms include the freedom of belief, faith and worship.",
+    "Democracy becomes mature only if citizens enjoy me.",
+    "I mean there should be no coercive, unfair restrictions upon us."
+   ],
+   "options": [
+    "Equality",
+    "Justice",
+    "Fraternity",
+    "Liberty"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Laws alone are not enough without the 'we-feeling'.",
+   "prompt": "Why was the promotion of fraternity included in the Preamble as a goal?",
+   "options": [
+    "Fraternity decides who becomes Sarpanch",
+    "No amount of laws would help achieve the goals if fraternity is lacking",
+    "Fraternity ended British rule in 1947",
+    "Fraternity divides the wealth equally among families"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f09"
+   ],
+   "hook": "Popular sovereignty: people elect, and the elected make laws for them.",
+   "prompt": "What principle am I?",
+   "clues": [
+    "The Constitution reflects me.",
+    "Because of me, the government elected by the people makes laws on behalf of the people.",
+    "People elect representatives and permit them to exercise authority on their behalf."
+   ],
+   "options": [
+    "Hereditary succession",
+    "Monarchy",
+    "Popular sovereignty",
+    "Residuary Powers"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f05",
+    "f30"
+   ],
+   "hook": "1947 sovereign; Preamble: equality of status and of <b>opportunity</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "On 15th August 1947 British rule ended and India became independent."
+    ],
+    [
+     "Neha",
+     "The Preamble talks of constituting India into a Sovereign, Socialist, Secular, Democratic Republic."
+    ],
+    [
+     "Vihaan",
+     "Equality of status and of wealth is guaranteed by the Preamble."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "religion",
+    "heredity",
+    "opportunity"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Dignity = equal respect for every human being.",
+   "prompt": "What does human dignity imply?",
+   "options": [
+    "Respect only for elected leaders",
+    "Respect depending on caste and language",
+    "Respect only for elders in the family",
+    "Equal respect to each individual as a human being"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19",
+    "f17"
+   ],
+   "hook": "Monarchy: one family by heredity. Republic: elected by the people.",
+   "prompt": "In a monarchy, how may public positions be occupied?",
+   "options": [
+    "By election after a fixed period",
+    "By members of a single family following the principle of heredity",
+    "By any citizen who meets the age criterion",
+    "By the Election Commission"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Festivals: freedom with care for cleanliness, health, environment.",
+   "prompt": "When we celebrate our festivals, what are we required to be concerned about?",
+   "options": [
+    "Public cleanliness, health and the environment",
+    "Only the size of the celebration",
+    "Which religion is the State religion",
+    "Hereditary customs of one family"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Deepa's 'My Family': grandparents consulted, Anuja picks agricultural research.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "Deepa wrote on the topic 'My Family'."
+    ],
+    [
+     "Om",
+     "In Deepa's family, even the grandparents are consulted when any change has to be made."
+    ],
+    [
+     "Aditi",
+     "Anuja wants to take up space research as her career."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "agricultural",
+    "medical",
+    "legal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Socialist: all have a right over the wealth; it is not in a few hands.",
+   "prompt": "In a Socialist State, what is ensured about wealth?",
+   "options": [
+    "It belongs only to the Mayor",
+    "It is passed down through one family",
+    "It is shared only among elected leaders",
+    "It is not concentrated in the hands of a few people"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f23"
+   ],
+   "hook": "Social justice: no discrimination by caste, creed, race, language, region, birthplace, sex.",
+   "prompt": "What am I?",
+   "clues": [
+    "As human beings, all have the right to the same dignity, respect and status under me.",
+    "I say place of birth or sex should not lead to discrimination.",
+    "I say there should be no discrimination on the basis of language or region."
+   ],
+   "options": [
+    "Social Justice",
+    "Political Justice",
+    "Economic Justice",
+    "Popular sovereignty"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Everyone can't meet daily, so voters elect representatives after a fixed period.",
+   "prompt": "Why are elections conducted after a fixed period in a democracy?",
+   "options": [
+    "Only one family is allowed to rule",
+    "Festivals must be celebrated together",
+    "The Preamble ends with an election",
+    "All the people are not able to come together and take decisions on a day-to-day basis"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13",
+    "f29"
+   ],
+   "hook": "Liberty of belief, faith and worship = <b>religious</b> freedom.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Siddharth",
+     "In a secular State, no one religion is considered to be the State religion."
+    ],
+    [
+     "Prisha",
+     "Citizens of a secular State are free to follow their own religion."
+    ],
+    [
+     "Yash",
+     "We know that economic freedom is implied by the liberty of belief, faith and worship."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "political",
+    "social",
+    "religious"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Preface = all the aims and objectives of a law, neatly arranged.",
+   "prompt": "What is the Preface to a law?",
+   "options": [
+    "A systematic arrangement of all the aims and objectives of a law",
+    "A list of punishments under the law",
+    "A list of the people who wrote the law",
+    "The last page where the law is signed"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f37",
+    "f04"
+   ],
+   "hook": "Begins 'We, the people of India'; ends: the people gave it to themselves.",
+   "prompt": "With which mention does the Preamble end?",
+   "options": [
+    "That India was ruled by Britain for a long period",
+    "That the Constitution belongs to the Constituent Assembly",
+    "That the President gave the Constitution to the people",
+    "That the people of India have given the Constitution to themselves"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-15-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f25",
+    "f26",
+    "f11"
+   ],
+   "hook": "Economic = livelihood; Political = vote at 18; Fraternity goes with dignity.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Fraternity is closely related to human dignity",
+    "Economic justice is about the right to vote at 18",
+    "Political justice is about the right to a source of livelihood",
+    "Secularism means the gap between rich and poor is minimum"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f26"
+   ],
+   "hook": "Political justice rests on universal <b>adult</b> franchise.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rahul",
+     "Social justice means no discrimination on the basis of caste, creed, race, language, region, place of birth or sex."
+    ],
+    [
+     "Divya",
+     "Economic justice says everyone should have the right to a source of livelihood."
+    ],
+    [
+     "Manav",
+     "For political justice we have adopted universal child franchise for equal participation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "adult",
+    "male",
+    "family"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-15-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f08"
+   ],
+   "hook": "Freedom struggle's top goal = the ultimate authority to govern yourself.",
+   "prompt": "What am I?",
+   "clues": [
+    "In a democracy, I rest with the people.",
+    "Acquiring me was the most important goal of our freedom struggle.",
+    "I mean the ultimate authority to govern yourself."
+   ],
+   "options": [
+    "Fraternity",
+    "Franchise",
+    "Sovereignty",
+    "Secularism"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "Sovereign, Socialist, Secular, Democratic Republic: 'Federal' is not one of them.",
+   "prompt": "Which word is NOT used in the Preamble's resolve to constitute India into a 'Sovereign, ... Republic'?",
+   "options": [
+    "Socialist",
+    "Federal",
+    "Secular",
+    "Democratic"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Respect others' freedom and rights: dignity is established, fraternity grows.",
+   "prompt": "What happens when every individual respects another and honours their freedom and rights?",
+   "options": [
+    "Wealth gets concentrated in a few hands",
+    "Public positions become hereditary",
+    "Dignity of the individual gets established and fraternity grows",
+    "Elections are no longer needed"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f33",
+    "f27"
+   ],
+   "hook": "Democracy matures only when citizens enjoy <b>freedom</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Esha",
+     "Justice implies removal of injustice and ensuring everybody has the opportunity for progress."
+    ],
+    [
+     "Karan",
+     "Establishing justice is adopting policies that will promote public good."
+    ],
+    [
+     "Mira",
+     "Fraternity creates a feeling of empathy among people."
+    ],
+    [
+     "Advait",
+     "Only if citizens enjoy wealth does democracy become mature."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 4
+   },
+   "options": [
+    "fame",
+    "power",
+    "freedom"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-15-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f17"
+   ],
+   "hook": "President, PM, Governor, CM, Mayor, Sarpanch: all elected public positions.",
+   "prompt": "Which set lists only public positions that are elected in a Republic?",
+   "options": [
+    "Raja, Maharaja, Mayor, Sarpanch",
+    "President, Prime Minister, Governor, Sarpanch",
+    "President, Raobahadur, Chief Minister, Mayor",
+    "Governor, Maharaja, Prime Minister, Raja"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-15-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Dignity is for every human being, whatever the caste, creed, race, sex or language.",
+   "prompt": "Which statement about human dignity is correct?",
+   "options": [
+    "It depends upon a person's caste",
+    "It does not depend upon caste, creed, race, sex or language",
+    "It is given only to elected representatives",
+    "It depends on the language a person speaks"
+   ],
+   "answer": 1
+  }
+ ]
+}

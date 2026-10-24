@@ -1,0 +1,1463 @@
+{
+ "class": 6,
+ "id": "15",
+ "title": "Local Self Government (Urban)",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "Urban local government institutions include the Nagar Panchayat, Nagar Parishad, Municipal Corporation and Cantonment Board.",
+   "year": null,
+   "era": "CE",
+   "quote": "Urban local government institutions include the Nagar Panchayat, Nagar Parishad, Municipal Corporation and Cantonment Board.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Due to urbanization, the number of cities in our country is increasing.",
+   "year": null,
+   "era": "CE",
+   "quote": "Due to urbanization, the number of cities in our country is increasing.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "When a rural settlement begins to urbanize, the State Government sets up a Nagar Panchayat, in an area with a population of more than 11,000 but less than 25,000.",
+   "year": null,
+   "era": "CE",
+   "quote": "When a rural settlement begins to undergo urbanization, the State Government establishes a Nagar Panchayat for that settlement. ... A Nagar Panchayat is established in an area with a population of more than 11,000 but less than 25,000.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "Nagar Panchayat members are elected from wards by adult franchise and secret ballot; it has 17 members; some seats are reserved for women and marginalized sections.",
+   "year": null,
+   "era": "CE",
+   "quote": "The members of the Nagar Panchayat are elected through adult franchise and a secret ballot system. Wards are created ... A Nagar Panchayat consists of 17 members. Certain seats are reserved for women and marginalized sections of the society.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "place",
+   "text": "There are 146 Nagar Panchayats in Maharashtra; the highest number are in the Nagpur Division.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are a total of 146 Nagar Panchayats in Maharashtra. The highest number of Nagar Panchayats are located in the Nagpur Division.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "The head of the Nagar Panchayat is the 'President' (Adhyaksh), elected directly by the people for five years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The head of the Nagar Panchayat is called the 'President' (Adhyaksh). The President is elected directly by the people. His/Her tenure is five years.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "Structure: Municipal Corporation - Mayor, Deputy Mayor, Commissioner; Cantonment Board - President, Vice President, Executive Officer; Municipal Council - President, Vice President, Chief Officer; Nagar Panchayat - President, Vice President, Executive Officer.",
+   "year": null,
+   "era": "CE",
+   "quote": "Municipal Corporation ... Mayor ... Deputy Mayor ... Commissioner; Cantonment Board ... President ... Vice President ... Executive Officer; Municipal Council ... President ... Vice President ... Chief Officer; Nagar Panchayat ... President ... Vice President ... Executive Officer",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "The Nagar Panchayat's Executive Officer is appointed by the State Government, is the administrative head and implements the Nagar Panchayat's decisions.",
+   "year": null,
+   "era": "CE",
+   "quote": "Executive Officer - Appointed by the State Government; serves as the administrative head - Responsible for implementing the decisions of the Nagar Panchayat",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Co-opted members have specialized knowledge or experience, are selected by the Nagar Panchayat President and are limited in number.",
+   "year": null,
+   "era": "CE",
+   "quote": "Co-opted Members - Individuals possessing specialized knowledge or experience - Selected by the Nagar Panchayat President - Limited in number",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The Nagar Panchayat's Vice-President is elected from among the elected members and takes charge in the President's absence.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vice-President - Elected from among the elected members - Holds a five-year tenure Assumes charge of duties in the absence of the Nagar Panchayat President",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The Nagar Panchayat levies taxes and also receives certain government grants.",
+   "year": null,
+   "era": "CE",
+   "quote": "Nagar Panchayat levies various taxes within its jurisdiction. ... Additionally, it also receives certain government grants.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "A Municipal Council is set up in towns with a population exceeding 25,000; Nagar Parishads are classified into 'A', 'B' and 'C' categories.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Municipal Council is established in towns with a population exceeding 25,000. Based on population criteria, Nagar Parishads are classified into 'A', 'B' and 'C' categories.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Municipal Council members, called Councillors, are elected by secret ballot and adult franchise; tenure five years; 17 to 38 members.",
+   "year": null,
+   "era": "CE",
+   "quote": "Members of the Municipal Council are elected through a system of secret ballot and adult franchise; these members are known as Councillors. The tenure of the Municipal Council is five years. The number of members of municipal council is a minium 17 to the maximum 38.",
+   "page": 3
+  },
+  {
+   "fid": "f14",
+   "kind": "place",
+   "text": "Maharashtra has 248 Municipal Councils: Pune Division 50 (highest), Chhatrapati Sambhajinagar 49, Nashik 45, Amravati 41, Nagpur 41, Konkan 22.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are a total of 248 Municipal Councils in Maharashtra. Of these, the highest number-50 Municipal Councils are located in the Pune Division, and 49 Municipal Councils are in the Chhatrapati Sambhajinagar Division. There are 41 in Amravati Division, 45 in Nashik Division, 41 in Nagpur Division, while the Konkan Division has 22 Municipal Councils.",
+   "page": 3
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "Councillors are also called Nagar Sevaks; the Municipal Council chart shows towns with a population from 25,000 to 3,00,000.",
+   "year": null,
+   "era": "CE",
+   "quote": "Established in cities/towns with a population ranging from 25,000 to 3,00,000 ... Councillors (Nagar Sevaks)",
+   "page": 3
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Optional tasks of Nagar Panchayat and Municipal Council: parks and gardens, gymnasiums and Dharmashalas, sports grounds, homes for the poor, employment.",
+   "year": null,
+   "era": "CE",
+   "quote": "2. Optional Tasks 1. Developing and managing public parks and gardens. 2. Constructing gymnasiums and rest houses (Dharmashalas). 3. Providing sports grounds. 4. Building homes for the poor. 5. Generating employment.",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Essential work of Nagar Panchayat and Municipal Council includes health (cleanliness, controlling epidemics), education (primary education, vocational training) and roads, street lights and records of births and deaths.",
+   "year": null,
+   "era": "CE",
+   "quote": "1. Essential work Health ... 3. To control epidemic diseases. ... Education 1. To arrange for primary education. ... Other 1. Providing roads and street lighting facilities. 2. Maintaining records of births, deaths (as well as marriages).",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "The head of the Municipal Council is the President (Nagaradhyaksha), elected directly by the people for five years; he/she is the 'First Citizen' of the town.",
+   "year": null,
+   "era": "CE",
+   "quote": "The head of the Municipal Council is known as the President (Nagaradhyaksha). He/She is elected directly by the people. His/Her tenure is for a period of five years. The President serves as the 'First Citizen' of the town.",
+   "page": 4
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "The Municipal Council President presides over meetings and oversees financial administration; the Vice-President (Up-Nagaradhyaksha) is elected from among the members.",
+   "year": null,
+   "era": "CE",
+   "quote": "She/He presides over all the meetings of the Municipal Council. The President oversees the financial administration of the Municipal Council. In his/her absence, the Vice-President (Up-Nagaradhyaksha) assumes charge of duties. The Vice-President is elected from among the members ...",
+   "page": 4
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "The Chief Officer is the administrative head of the Municipal Council, appointed by the State Government and selected through State Public Service Commission examinations.",
+   "year": null,
+   "era": "CE",
+   "quote": "Chief Officer serves as the administrative head of the Municipal Council. She/He is an officer appointed by the State Government. She/He is selected through examinations conducted by the State Public Service Commission.",
+   "page": 4
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "The Municipal Council taxes land and buildings, imported goods, professions, houses, trade, theatres and cinema halls and water supply, and gets State Government grants.",
+   "year": null,
+   "era": "CE",
+   "quote": "It imposes taxes on land and buildings, imported goods, professions, residential houses, trade and employment, theaters and cinema halls, water supply and similar items. ... the Municipal Council receives financial assistance and grants from the State Government.",
+   "page": 4
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "A Municipal Corporation is set up for cities with a population exceeding 300,000 and an annual income of at least Rs. 20 million (Rs. two crores); the Government of Maharashtra has the authority to set it up.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Municipal Corporation is established for cities that have a population exceeding 300,000 and an annual income of at least Rs. 20 million (Rs. two crores). The authority to establish a Municipal Corporation lies with the Government of Maharashtra.",
+   "page": 4
+  },
+  {
+   "fid": "f23",
+   "kind": "place",
+   "text": "Mumbai was the first city in Maharashtra to have a Municipal Corporation; there are now 29 Municipal Corporations in Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "Mumbai was the first city in Maharashtra to have a Municipal Corporation. Currently, there are a total of 29 Municipal Corporations in Maharashtra.",
+   "page": 4
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The State Election Commission fixes the number of members; wards are called prabhags; Maharashtra follows a 'four-member ward' structure, with single-member wards only in the Brihan Mumbai Municipal Corporation.",
+   "year": null,
+   "era": "CE",
+   "quote": "The State Election Commission determines the specific number of members ... the city is divided into various wards (prabhags) ... Currently, Maharashtra follows a 'four-member ward' structure. Single-member wards exist exclusively within the Brihan Mumbai Municipal Corporation.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "A Municipal Corporation has at least 65 members; Brihan Mumbai has the most, 227; a member from a ward is a 'Corporator', elected for five years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The minimum number of members in a Municipal Corporation is 65. The Brihan Mumbai Municipal Corporation has the highest number of members, totalling 227. A member elected from a ward is known as a 'Corporator'. ... The tenure of a Corporator is five years.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The term of a Municipal Corporation is five years; the State Government may dissolve it early; elections must then be held within six months.",
+   "year": null,
+   "era": "CE",
+   "quote": "The term of the Municipal Corporation itself is five years. The State Government may dissolve the Municipal Corporation prior to the completion of its term. ... it is mandatory to conduct elections for the Municipal Corporation within the subsequent six months.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Mayor heads the Municipal Corporation and is the First Citizen of the city; the Deputy Mayor is Vice-Chairperson; their tenure is two and half years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Chairperson of the Municipal Corporation is known as the 'Mayor', while the Vice-Chairperson is known as the 'Deputy Mayor'. The Mayor is the First Citizen of the city. The tenure of the Mayor and Deputy Mayor is two and half years.",
+   "page": 5
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "The Mayor is elected from among the Corporators and presides over General Body meetings.",
+   "year": null,
+   "era": "CE",
+   "quote": "The First Citizen of the city. Elected from among the Corporators. Presides over the General Body meetings.",
+   "page": 5
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "The Municipal Commissioner is the chief administrative officer of the Municipal Corporation, appointed by the State Government; an IAS officer.",
+   "year": null,
+   "era": "CE",
+   "quote": "Municipal Commissioner is the chief administrative officer of the Municipal Corporation. ... The Municipal Commissioner is appointed by the State Government. The officer holding the post of Commissioner is an officer belonging to the Indian Administrative Service (IAS).",
+   "page": 5
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Additional / Deputy Commissioners assist the Commissioner; heads of departments include the City Engineer, Health Officer, Education Officer and Chief Fire Officer.",
+   "year": null,
+   "era": "CE",
+   "quote": "Additional / Deputy Commissioners Assists the Commissioner. Heads of Departments City Engineer, Health Officer, Chief Accounts and Finance Officer, Education Officer, Chief Fire Officer, etc.",
+   "page": 5
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Municipal Corporation essential works include water supply, sewage, roads, hospitals, controlling epidemics and traffic and public transport; optional tasks include gardens, libraries, theatres, stadiums and museums.",
+   "year": null,
+   "era": "CE",
+   "quote": "Managing the city's water supply and sewage systems. ... Controlling epidemic diseases. ... Managing city's traffic as well as its public transportation system. ... Developing gardens and parks within the city. Constructing libraries, theaters, stadiums and museums.",
+   "page": 5
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The Municipal Corporation works through committees such as Standing, Education, Transport, Public Health, Law, Public Works and Market; the Standing Committee is the most important.",
+   "year": null,
+   "era": "CE",
+   "quote": "For example: the Standing Committee, Education Committee, Transport Committee, Public Health Committee, Law Committee, Public Works Committee, Market Committee etc. The Standing Committee is the most important committee within the Municipal Corporation.",
+   "page": 6
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Municipal Corporation direct taxes include property tax, taxes on transport, films and advertisements and water charges; it can raise loans with the government's consent.",
+   "year": null,
+   "era": "CE",
+   "quote": "Direct taxes include property tax, taxes on transport, taxes on films and advertisements, water charges etc. ... the Municipal Corporation possesses the authority with the consent of the government to raise loans in order to implement schemes for the public interest.",
+   "page": 6
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "The Cantonment Board is a form of urban administration, also called 'Chhavani Mandal' (Military Camp Board).",
+   "year": null,
+   "era": "CE",
+   "quote": "Cantonment Board is a form of urban administration. It is also referred to as a 'Chhavani Mandal' (Military Camp Board).",
+   "page": 6
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "Cantonment Boards were established in 1924.",
+   "year": 1924,
+   "era": "CE",
+   "quote": "Cantonment Boards were established in 1924.",
+   "page": 6
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "The Cantonment Board provides amenities and civic needs for citizens living in military areas.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Cantonment Board was established to provide amenities and fulfill the civic needs of the citizens residing in such military areas.",
+   "page": 6
+  },
+  {
+   "fid": "f37",
+   "kind": "place",
+   "text": "India has 61 Cantonment Boards; 7 are in Maharashtra: Khadki, Pune Camp, Dehuroad (Pune), Bhingar (Ahilyanagar), Deolali (Nashik), Chhatrapati Sambhaji Nagar and Kamptee (Nagpur).",
+   "year": null,
+   "era": "CE",
+   "quote": "There are a total of 61 Cantonment Boards in existence across India. Of these, 7 Cantonment Boards are located in Maharashtra. They are as follows: Khadki, Pune Camp, Dehuroad (Pune), Bhingar (Ahilyanagar), Deolali (Nashik), Chhatrapati Sambhaji Nagar and Kamptee (Nagpur).",
+   "page": 7
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "All Cantonment Boards work under the Department of Defence, Government of India; the administrative head is an Executive Officer appointed by the Central Government.",
+   "year": null,
+   "era": "CE",
+   "quote": "All Cantonment Boards in India operate under the control of the Department of Defence, Government of India. ... Administrative head of a Cantonment Board is an Executive Officer appointed by the Central Government.",
+   "page": 7
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "Elected ward members serve five years; military officers appointed by the government also sit on the Board.",
+   "year": null,
+   "era": "CE",
+   "quote": "Representatives elected by the people from these wards serve as members of the Cantonment Board. Their tenure is five years. In addition to these elected members, military officers appointed by the government also serve on the Cantonment Board.",
+   "page": 7
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "The senior-most military officer commanding the cantonment is ex-officio President; the Vice-President represents the general public of the civilian areas.",
+   "year": null,
+   "era": "CE",
+   "quote": "The senior-most military officer commanding the cantonment serves as the ex-officio President of the Cantonment Board. The Vice-President of the Cantonment Board is a representative of the general public residing in the civilian areas of the cantonment.",
+   "page": 7
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "Cantonment Boards are unique: they work under the direct authority of the Central Government, and the Department of Defence gives them financial assistance.",
+   "year": null,
+   "era": "CE",
+   "quote": "Cantonment Boards are unique among local government bodies in that they function under direct authority of the Central Government. The Department of Defence provides necessary financial assistance ...",
+   "page": 7
+  },
+  {
+   "fid": "f42",
+   "kind": "term",
+   "text": "Cantonment categories: First Class 15 (7 elected + 8), Second Class 15 (7 + 8), Third Class 9 (4 + 5), Fourth Class 3 (1 + 2).",
+   "year": null,
+   "era": "CE",
+   "quote": "First Class (I) More than 50,000 15 7 Elected + 8 Nominated/Ex-Officio; Second Class (II) 10,000 to 50,000 15 7 Elected + 8 ...; Third Class (III) 2,500 to 10,000 9 4 Elected + 5 ...; Fourth Class (IV) Less than 2,500 3 1 Elected + 2 ...",
+   "page": 7
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "To keep military administration dominant, nominated/ex-officio members are always one more than elected members.",
+   "year": null,
+   "era": "CE",
+   "quote": "To ensure the dominance of the military administration within the Cantonment Board, the number of nominated/ex-officio members is always one greater than the number of elected members.",
+   "page": 7
+  },
+  {
+   "fid": "f44",
+   "kind": "term",
+   "text": "Cantonment Board functions include education, healthcare, water, roads, street lighting, gardens, schools, fire brigade, dispensaries and vaccination; revenue comes from direct taxes and Central Government / Ministry of Defence help.",
+   "year": null,
+   "era": "CE",
+   "quote": "Arranging for fire brigade services. Arranging for dispensaries, vaccination drives etc. ... Revenue derived from direct taxes within the cantonment area. Financial assistance from the Central Government and the Union Ministry of Defence.",
+   "page": 8
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-15-01",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04",
+    "f06"
+   ],
+   "hook": "A village turning into a town gets a <b>Nagar Panchayat</b>: 17 members, led by a President.",
+   "prompt": "What am I?",
+   "clues": [
+    "I have 17 members.",
+    "My head is called the President (Adhyaksh).",
+    "The State Government sets me up when a rural settlement begins to become urban."
+   ],
+   "options": [
+    "Municipal Council",
+    "Nagar Panchayat",
+    "Municipal Corporation",
+    "Cantonment Board"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f28"
+   ],
+   "hook": "<b>Mayor</b>: First Citizen of the city, chosen from the Corporators, for 2.5 years.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My tenure is two and a half years.",
+    "I am elected from among the Corporators.",
+    "I am the First Citizen of the city and head the Municipal Corporation."
+   ],
+   "options": [
+    "Mayor",
+    "Municipal Commissioner",
+    "Deputy Mayor",
+    "Chief Officer"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-03",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Urban bodies: Nagar Panchayat, Nagar Parishad, <b>Municipal Corporation</b>, Cantonment Board.",
+   "prompt": "Which of these is an urban local government institution?",
+   "options": [
+    "Gram Panchayat",
+    "Zilla Parishad",
+    "Municipal Corporation",
+    "Panchayat Samiti"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "Mumbai came first; today Maharashtra has <b>29</b> Municipal Corporations.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "A Municipal Corporation is set up in cities with a population exceeding 300,000."
+    ],
+    [
+     "Sneha",
+     "Mumbai was the first city in Maharashtra to have a Municipal Corporation."
+    ],
+    [
+     "Rehan",
+     "Today Maharashtra has a total of 19 Municipal Corporations."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "27",
+    "29",
+    "36"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-05",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35",
+    "f34"
+   ],
+   "hook": "Chhavani Mandal, the Military Camp Board: Cantonment Boards set up in <b>1924</b>.",
+   "prompt": "In which year were Cantonment Boards established?",
+   "year": 1924,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-15-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "The Mayor is the elected head; the <b>Municipal Commissioner</b> runs the administration.",
+   "prompt": "Who is the chief administrative officer of a Municipal Corporation?",
+   "options": [
+    "Municipal Commissioner",
+    "Mayor",
+    "Chief Officer",
+    "Deputy Mayor"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Municipal Council President: elected directly by the people for <b>five</b> years.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "The head of the Municipal Council is called the President, or Nagaradhyaksha."
+    ],
+    [
+     "Ved",
+     "The President is elected directly by the people."
+    ],
+    [
+     "Mira",
+     "The President's tenure is for a period of three years."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "five",
+    "two",
+    "four"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Cantonment Board = <b>Chhavani Mandal</b>, the Military Camp Board.",
+   "prompt": "What is a Cantonment Board also called?",
+   "options": [
+    "Nagar Parishad",
+    "Chhavani Mandal",
+    "Prabhag",
+    "Gram Sabha"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Above 25,000 people: a <b>Municipal Council</b>, with 17 to 38 Councillors.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am divided into 'A', 'B' and 'C' categories.",
+    "I have 17 to 38 members.",
+    "My members are called Councillors."
+   ],
+   "options": [
+    "Nagar Panchayat",
+    "Municipal Council",
+    "Cantonment Board",
+    "Municipal Corporation"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "<b>Chief Officer</b>: passes the State Public Service Commission exam, runs the Municipal Council office.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am selected through examinations of the State Public Service Commission.",
+    "The State Government appoints me.",
+    "I am the administrative head of a Municipal Council."
+   ],
+   "options": [
+    "Municipal Commissioner",
+    "Executive Officer",
+    "Chief Officer",
+    "Mayor"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f06"
+   ],
+   "hook": "Nagar Panchayat: <b>17</b> members, a President elected directly by the people.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kunal",
+     "A Nagar Panchayat has a total of 21 members."
+    ],
+    [
+     "Ritu",
+     "Its President is elected directly by the people."
+    ],
+    [
+     "Sahil",
+     "Some seats are reserved for women and marginalised sections."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 7
+   },
+   "options": [
+    "38",
+    "17",
+    "65"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Municipal Council: <b>17</b> to <b>38</b> Councillors, elected for five years.",
+   "prompt": "How many members does a Municipal Council have?",
+   "options": [
+    "15 to 45",
+    "50 to 75",
+    "7 to 17",
+    "17 to 38"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-15-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Mayor and Deputy Mayor: <b>two and a half</b> years; Corporators: five years.",
+   "prompt": "What is the tenure of the Mayor and the Deputy Mayor?",
+   "options": [
+    "Five years",
+    "One year",
+    "Two and a half years",
+    "Six months"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Cantonments are military areas, so the <b>Department of Defence</b> controls their Boards.",
+   "prompt": "Under whose control do all Cantonment Boards in India work?",
+   "options": [
+    "The Department of Defence, Government of India",
+    "The Zilla Parishad",
+    "The Municipal Commissioner",
+    "The State Election Commission"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Municipal Council members are Councillors; Municipal Corporation members are <b>Corporators</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My tenure is five years.",
+    "I am elected through adult franchise and secret ballot.",
+    "I am a member elected from a ward of a Municipal Corporation."
+   ],
+   "options": [
+    "Corporator",
+    "Councillor",
+    "Mayor",
+    "Commissioner"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Only the <b>Government of Maharashtra</b> can set up a Municipal Corporation.",
+   "prompt": "Who has the authority to establish a Municipal Corporation?",
+   "options": [
+    "The Mayor",
+    "The Government of Maharashtra",
+    "The Gram Sabha",
+    "The Department of Defence"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-17",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f34",
+    "f35",
+    "f36"
+   ],
+   "hook": "Since <b>1924</b>, the <b>Cantonment Board</b> has served civilians living in military areas.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was established in 1924.",
+    "I provide amenities to citizens living in military areas.",
+    "I am also called the Chhavani Mandal."
+   ],
+   "options": [
+    "Nagar Panchayat",
+    "Municipal Council",
+    "Development Block",
+    "Cantonment Board"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-15-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "year",
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f36",
+    "f34"
+   ],
+   "hook": "Cantonment Boards: <b>1924</b>, the Military Camp Board for civilians in military areas.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pari",
+     "Cantonment Boards were established in 1942 in India."
+    ],
+    [
+     "Zubin",
+     "A Cantonment Board provides amenities to citizens living in military areas."
+    ],
+    [
+     "Lata",
+     "It is also called the Military Camp Board."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "1947",
+    "1950",
+    "1924"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-19",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Municipal Corporation: over 300,000 people AND at least <b>Rs. two crores</b> (Rs. 20 million) a year.",
+   "prompt": "A Municipal Corporation needs a population exceeding 300,000 and an annual income of at least how much?",
+   "options": [
+    "Rs. two lakhs",
+    "Rs. two crores",
+    "Rs. twenty crores",
+    "Rs. two thousand"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f30"
+   ],
+   "hook": "<b>Municipal Commissioner</b>: an IAS officer, the city's chief administrator.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Additional and Deputy Commissioners assist me.",
+    "I am an officer of the Indian Administrative Service.",
+    "I am the chief administrative officer of a Municipal Corporation."
+   ],
+   "options": [
+    "Mayor",
+    "Municipal Commissioner",
+    "Chief Officer",
+    "Executive Officer"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "Smallest Municipal Corporation: <b>65</b> members; Brihan Mumbai, the biggest: 227.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "The Brihan Mumbai Municipal Corporation has 227 members, the highest."
+    ],
+    [
+     "Jiya",
+     "Single-member wards exist only in the Brihan Mumbai Municipal Corporation."
+    ],
+    [
+     "Rahul",
+     "A Municipal Corporation has a minimum of 56 members."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "17",
+    "65",
+    "38"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Many committees, one leader: the <b>Standing Committee</b> is the most important.",
+   "prompt": "Which is the most important committee of a Municipal Corporation?",
+   "options": [
+    "Law Committee",
+    "Market Committee",
+    "Transport Committee",
+    "Standing Committee"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-15-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f27"
+   ],
+   "hook": "First Citizen: of a town, the <b>Municipal Council President</b>; of a city, the Mayor.",
+   "prompt": "Who is the 'First Citizen' of a town that has a Municipal Council?",
+   "options": [
+    "Municipal Council President",
+    "Chief Officer",
+    "Vice-President",
+    "Councillor"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38",
+    "f41"
+   ],
+   "hook": "Cantonment Boards answer to the Centre: their Executive Officer is appointed by the <b>Central Government</b>.",
+   "prompt": "Who appoints the Executive Officer of a Cantonment Board?",
+   "options": [
+    "The State Government",
+    "The Mayor",
+    "The Central Government",
+    "The Gram Sabha"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f05",
+    "f23",
+    "f37"
+   ],
+   "hook": "Maharashtra counts: <b>248</b> Municipal Councils, 146 Nagar Panchayats, 29 Municipal Corporations.",
+   "prompt": "How many Municipal Councils are there in Maharashtra?",
+   "options": [
+    "146",
+    "29",
+    "61",
+    "248"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-15-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "146 Nagar Panchayats, most of them in the <b>Nagpur</b> Division.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Dev",
+     "Maharashtra has a total of 146 Nagar Panchayats."
+    ],
+    [
+     "Anu",
+     "The highest number of Nagar Panchayats are in the Pune Division."
+    ],
+    [
+     "Ishan",
+     "A Nagar Panchayat President serves a five-year tenure."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "Nagpur",
+    "Konkan",
+    "Nashik"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "<b>Co-opted members</b>: a few experts picked by the Nagar Panchayat President.",
+   "prompt": "Who are we?",
+   "clues": [
+    "We are limited in number.",
+    "The Nagar Panchayat President selects us.",
+    "We have specialised knowledge or experience."
+   ],
+   "options": [
+    "Councillors",
+    "Corporators",
+    "Co-opted Members",
+    "Staff"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "A Municipal Corporation may borrow for public schemes, but only with the <b>government's consent</b>.",
+   "prompt": "With whose consent can a Municipal Corporation raise loans for public-interest schemes?",
+   "options": [
+    "The government",
+    "The Mayor alone",
+    "The Cantonment Board",
+    "The Gram Sabha"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Must-do: water, sewage, traffic, epidemics. <b>Optional</b>: libraries, theatres, stadiums, museums.",
+   "prompt": "Which of these is an optional task of a Municipal Corporation?",
+   "options": [
+    "Managing the city's water supply and sewage",
+    "Constructing libraries, theatres, stadiums and museums",
+    "Controlling epidemic diseases",
+    "Managing traffic and public transport"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-30",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f07"
+   ],
+   "hook": "Nagar Panchayat and Cantonment Board: run by an <b>Executive Officer</b>; Municipal Council: a Chief Officer.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am responsible for implementing the decisions of the Nagar Panchayat.",
+    "The State Government appoints me.",
+    "I am the administrative head of a Nagar Panchayat."
+   ],
+   "options": [
+    "Executive Officer",
+    "President",
+    "Chief Officer",
+    "Vice-President"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Corporation dissolved or term over? Elections within <b>six</b> months.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "The State Government may dissolve a Municipal Corporation before its term ends."
+    ],
+    [
+     "Hina",
+     "Then elections must be held within the next twelve months."
+    ],
+    [
+     "Arav",
+     "The term of a Municipal Corporation is five years."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "three",
+    "six",
+    "two"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f17"
+   ],
+   "hook": "Optional for towns: parks, gyms, Dharmashalas, sports grounds, <b>homes for the poor</b>, jobs.",
+   "prompt": "Which of these is an optional task of a Nagar Panchayat or Municipal Council?",
+   "options": [
+    "Arranging primary education",
+    "Controlling epidemic diseases",
+    "Building homes for the poor",
+    "Maintaining records of births and deaths"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f42",
+    "f43"
+   ],
+   "hook": "Third Class: 4 elected + 5 nominated = <b>9</b>; nominated always one more.",
+   "prompt": "How many members does a Third Class (III) Cantonment Board have?",
+   "options": [
+    "9: 4 elected and 5 nominated or ex-officio",
+    "15: 7 elected and 8 nominated or ex-officio",
+    "3: 1 elected and 2 nominated or ex-officio",
+    "9: 5 elected and 4 nominated or ex-officio"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f43",
+    "f40"
+   ],
+   "hook": "Military stays on top: nominated members are always one <b>more</b> than elected ones.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Yusuf",
+     "Nominated members of a Cantonment Board are always one fewer than elected members."
+    ],
+    [
+     "Pia",
+     "This ensures the dominance of the military administration."
+    ],
+    [
+     "Ravi",
+     "The senior-most military officer is the ex-officio President of the Board."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 9
+   },
+   "options": [
+    "lower",
+    "more",
+    "smaller"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "61 Cantonment Boards in India, <b>7</b> in Maharashtra, from Khadki to Kamptee.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aman",
+     "There are 61 Cantonment Boards in India."
+    ],
+    [
+     "Leena",
+     "Of these, 9 are located in Maharashtra."
+    ],
+    [
+     "Siddhi",
+     "Deolali in Nashik has a Cantonment Board."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "7",
+    "4",
+    "15"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-15-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Cantonment Board: President = senior-most military officer; Vice-President = a <b>civilian</b> representative.",
+   "prompt": "Who is the Vice-President of a Cantonment Board?",
+   "options": [
+    "The senior-most military officer",
+    "The Executive Officer",
+    "A Corporator",
+    "A representative of the general public in the civilian areas"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-15-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f41",
+    "f44"
+   ],
+   "hook": "Unique among local bodies: Cantonment Boards work directly under the <b>Central Government</b>.",
+   "prompt": "Which statement about Cantonment Boards is correct?",
+   "options": [
+    "They are run by the Zilla Parishad.",
+    "They work under the direct authority of the Central Government.",
+    "Their President is elected directly by the people.",
+    "They get money only from the State Government."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-15-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f24",
+    "f25"
+   ],
+   "hook": "<b>Brihan Mumbai</b>: first Municipal Corporation city, 227 members, single-member wards.",
+   "prompt": "Which body am I?",
+   "clues": [
+    "Single-member wards exist only in me.",
+    "I have 227 members, the highest of all Municipal Corporations.",
+    "My city was the first in Maharashtra to have a Municipal Corporation."
+   ],
+   "options": [
+    "Pune Camp Cantonment Board",
+    "Kamptee Cantonment Board",
+    "Konkan Division",
+    "Brihan Mumbai Municipal Corporation"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-15-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Pune 50, <b>Chhatrapati Sambhajinagar 49</b>, Nashik 45, Amravati 41, Nagpur 41, Konkan 22.",
+   "prompt": "Which division has 49 Municipal Councils?",
+   "options": [
+    "Pune",
+    "Nashik",
+    "Chhatrapati Sambhajinagar",
+    "Konkan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-15-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f29"
+   ],
+   "hook": "Mayor: elected, 2.5 years. Commissioner: <b>IAS</b>, appointed by the State Government.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gauri",
+     "The Mayor is the First Citizen of the city."
+    ],
+    [
+     "Tushar",
+     "The tenure of the Mayor is two and a half years."
+    ],
+    [
+     "Nisha",
+     "The Municipal Commissioner is an IPS officer appointed by the State Government."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "IFS",
+    "IAS",
+    "IRS"
+   ],
+   "answer": 1
+  }
+ ]
+}

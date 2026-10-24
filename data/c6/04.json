@@ -1,0 +1,1596 @@
+{
+ "class": 6,
+ "id": "04",
+ "title": "Vedic Culture",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "The verbal root 'Vid' in Sanskrit means 'to know'; from it the term 'Veda' was derived, which signifies 'knowledge'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The verbal root 'Vid' in Sanskrit means 'to know'. From this root, the term 'Veda' was derived. It signifies 'knowledge'.",
+   "page": 2
+  },
+  {
+   "fid": "f02",
+   "kind": "person",
+   "text": "The Vedic Hymns (Suktas or songs praising Gods) were composed by many sages (Rishis); some were composed by women.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Vedic Hymns (Suktas or songs praising Gods) were composed by many sages (Rishis). Some of the Vedic Hymns were composed by women.",
+   "page": 2
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The four Vedas are Rigveda, Yajurveda, Samaveda and Atharvaveda, composed in Sanskrit.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The four Vedas are Rigveda, Yajurveda, Samaveda and Atharvaveda. The Vedas are composed in Sanskrit.",
+   "page": 2
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The Rigveda is the oldest of all four Vedas.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Rigveda is the oldest of all four Vedas.",
+   "page": 2
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "The text of a Veda is called the 'Samhita'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The text of Veda is called as 'Samhita'.",
+   "page": 2
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "The supplementary texts of every Veda are the Brahmana texts, Aranyakas and Upanishads.",
+   "year": null,
+   "era": "BCE",
+   "quote": "These supplementary texts are the Brahmana texts, Aranyakas and Upanishads.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "The Brahmana texts mainly talk about sacrifices (Yajnas), worship and religious rituals and the proper manner of conducting sacrifices.",
+   "year": null,
+   "era": "BCE",
+   "quote": "These texts mainly talk about the sacrifices (Yajnas), worship and religious rituals. They provide detailed descriptions regarding the proper manner of conducting sacrifices, the mantras to be recited and the meaning behind Vedic rites.",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "'Aranyaka' comes from 'Aranya', meaning 'forest'; these texts were composed for seekers of knowledge staying in the forests.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The term 'Aranyaka' is derived from the word 'Aranya,' meaning 'forest,' These texts were composed for seekers of knowledge staying in the forests.",
+   "page": 3
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "'Upanishad' means getting knowledge by sitting close to a Guru; the Upanishads discuss Atman, Paramatman, Brahman and Vishwa.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The word 'Upanishad' means getting knowledge by sitting close to a Guru. These texts expound upon the philosophy about the individual soul (Atman), the Supreme Soul (Paramatman), the Ultimate Reality (Brahman) and the Universe (Vishwa).",
+   "page": 3
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The Rigveda contains prayer songs dedicated to deities such as Agni, Indra and Varuna; it is the earliest Veda.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Characteristics: Prayer songs dedicated to deities such as Agni, Indra and Varuna. ... Significance: The earliest Veda",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The Yajurveda's main subjects are sacrifice (Yajna), fire rituals (Havans) and other rituals; it teaches about rites, rituals and religious conduct.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Main Subjects: Sacrifice (Yajna), fire rituals (Havans) and other rituals ... Significance: Teaches about rites, rituals and religious conduct.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "The Samaveda's main subject is the recitation of Mantras; it facilitates understanding of musical notes.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Main Subjects: Recitation of Mantras ... Significance: Facilitates understanding of musical notes; and recitation of Mantras",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "The Atharvaveda's main subjects are way of life, agriculture and medicinal remedies; it is about health, medicines and home remedies.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Main Subjects: Way of life, agriculture, medicinal remedies. ... Significance: Health, medicines and home remedies, and practical wisdom.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "event",
+   "text": "The Vedic period is divided into the Early Vedic Period (also called the Rigvedic Period) and the Post Vedic Period.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Vedic period is broadly divided into two phases: the Early Vedic Period (also referred to as the Rigvedic Period) and the Post Vedic Period.",
+   "page": 3
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "The Early Vedic Period is dated to approximately 1500 BCE to 1000 BCE; the Rigveda is the primary source about it.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Early Vedic Period is generally dated to approximately 1500 BCE to 1000 BCE. Our primary source of information regarding this period is Rigveda.",
+   "page": 3
+  },
+  {
+   "fid": "f16",
+   "kind": "event",
+   "text": "In the Early Vedic Period social life was mainly based on pastoralism and the cow came to be regarded as the primary form of wealth.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Social life during this period was mainly based on pastoralism. Agriculture had gradually begun to emerge. During this time, the cow came to be regarded as the primary form of wealth.",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "The Post Vedic Period is dated to 1000 BCE to 600 BCE, when the Vedic people migrated into the Ganges Valley.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The post Vedic Period is dated to 1000 BCE to 600 BCE. During this phase, the Vedic people had migrated into the Ganges Valley and established settlements there.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "event",
+   "text": "In the Post Vedic Period agriculture, trade and handicrafts developed and urban centres began to emerge.",
+   "year": null,
+   "era": "BCE",
+   "quote": "In this period agriculture, trade and handicrafts developed significantly. As a result of this, urban centers began to emerge.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "The family was the smallest unit of society; the head of the family was called the 'Grihapati'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "the family was the smallest unit of society ... The head of the family was called the 'Grihapati'.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Several families formed a 'Gramavasahat' (village settlement); several villages formed a 'Jana' (Kingdom).",
+   "year": null,
+   "era": "BCE",
+   "quote": "A group of several families formed a 'Gramavasahat' (village settlement), the group of several villages constituted a 'Jana' (Kingdom).",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "The head of a village was the 'Gramani' and the head of a kingdom was the 'Rajan'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The head of a village was referred to as the 'Gramani' and the head of a kingdom was called the 'Rajan'.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Everyone was expected to follow righteousness (Dharma), truth and justice.",
+   "year": null,
+   "era": "BCE",
+   "quote": "It was considered essential for everyone in the society to adhere to the following principles: righteousness (Dharma), truth and justice.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "Vedic society was structured into four Varnas: Brahmana, Kshatriya, Vaishya and Shudra.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Vedic society was structured into four Varnas : Brahmana, Kshatriya, Vaishya and Shudra.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "place",
+   "text": "Students stayed in the Guru's Ashram (Gurukul) and studied the Vedas, Mathematics, Astronomy, Ayurveda, Ethics and weaponry.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Students stayed in the Guru's Ashram and studied. In the Gurukul, students had to live a disciplined life. ... Students studied subjects like the Vedas, Mathematics, Astronomy, Ayurveda, Ethics and the weaponry.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Education also aimed to inculcate humility, discipline, righteousness and self-control.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The objective of education was not just to acquire knowledge but also to inculcate values like humility, discipline, righteousness and self-control.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Under the Ashram system, a person's life was divided into four distinct stages.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Under this system, a person's life was divided into four distinct stages.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Brahmacharyashram was the first stage of life, when a child received education under the guidance of a Guru.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Brahmacharyashram is considered the first stage of life. During this stage, a child was supposed to receive education under guidance of Guru.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "After education a person entered the Grihasthashram, to marry and fulfil domestic duties and social responsibilities.",
+   "year": null,
+   "era": "BCE",
+   "quote": "After completing their education, a person would enter the Grihasthashram. It was important in this stage to marry and fulfill domestic duties and social responsibilities.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "In the Vanaprasthashram one withdrew from the family for meditation, penance and philosophical thinking.",
+   "year": null,
+   "era": "BCE",
+   "quote": "After fulfilling responsibilities of a householder, at this stage of Vanaprasthashram one was expected to withdraw from the family and engage in meditation, penance and philosophical thinking.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "The Sanyasashram was the concluding stage; a person renounced all relations and did not stay at one place for long.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Sanyasashram was considered the concluding stage of life. At this stage, a person was expected to renounce all relations ... A person was not supposed to stay at one place for long time.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Vedic people valued truthfulness, self-control and generosity; harmony with nature and honouring manual labour marked Vedic society.",
+   "year": null,
+   "era": "BCE",
+   "quote": "They were taught the importance of values such as truthfulness, self-control and generosity. ... Harmony with nature and honouring manual labor was characteristic of Vedic society.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The Vedic diet had grains, milk, curd, ghee, honey and vegetables, with barley, wheat, rice and millet; it was plant-based.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Their diet consisted of grains, milk, curd, ghee, honey and vegetables. They used various foodgrains such as barley, wheat, rice and millet in their meals. Thus, their diet consisted of plant-based foods.",
+   "page": 5
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Ancient Indian medical science promotes a balanced diet, yoga and physical and mental well-being, which boosts immunity.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Ancient Indian medical science promotes a balanced diet, yoga and both physical and mental well-being. This helps to boost immunity.",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Vedic people played archery, chariot racing, wrestling and board games like Saripata (a game like chess).",
+   "year": null,
+   "era": "BCE",
+   "quote": "They played games such as archery, chariot racing, wrestling and board games like Saripata (a game like chess).",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "Musical notes (swaras) were essential during the recitation of Vedic texts; the Samaveda dwells on this aspect.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Musical notes (swaras) were considered essential during the recitation of Vedic texts. ... Samaveda dwells on this particular aspect.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "Musical instruments such as Veena, Mridanga, Shankha (conch shell) and Bansuri were widely used.",
+   "year": null,
+   "era": "BCE",
+   "quote": "musical instruments such as Veena, Mridanga, Shankha (conch shell) and Bansuri were widely used.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "Vedic music formed the base of Indian classical music.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Vedic music formed the base of Indian classical music, which evolved later.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "Women were honoured in Early Vedic society and could study the Vedas; Lopamudra, Ghosha, Gargi, Maitreyi and Apala were famous female scholars.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Women were honoured in the Early Vedic society. ... Just like men, women had the freedom to study the Vedas. Lopamudra, Ghosha, Gargi, Maitreyi and Apala are some examples of famous female scholars from that period.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "event",
+   "text": "In the post-Vedic period society became increasingly patriarchal and the freedom of women was reduced gradually.",
+   "year": null,
+   "era": "BCE",
+   "quote": "However, during the post-Vedic period, society became increasingly patriarchal. Restrictions were imposed on women's education. The freedom of women was reduced gradually.",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "Economic life was based on agriculture and animal husbandry; the cow was used as a means of exchange.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The economic life of the people during Vedic period was based on agriculture and animal husbandry. ... The cow was used as means of exchange.",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "Horses were important for warfare and sacrificial rituals; oxen were used for ploughing and transportation.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Horses were important for warfare and sacrificial rituals, while oxen were employed for ploughing and transportation.",
+   "page": 6
+  },
+  {
+   "fid": "f42",
+   "kind": "term",
+   "text": "Occupations included metalworking, pottery, weaving, goldsmythy and chariot-building; trade was done through barter.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Animal husbandry, metalworking, pottery, weaving, goldsmythy and chariot-building were some of the significant occupations. Trade was gradually developing and transactions were made through barter.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "Groups of merchants and artisans were called 'Shreni' and their head was the 'Shreshthi'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The groups of merchants and artisans were known as 'Shreni' and their head was known as the 'Shreshthi'.",
+   "page": 6
+  },
+  {
+   "fid": "f44",
+   "kind": "term",
+   "text": "Religion was based on nature worship: Fire (Agni), water (Varuna), Wind (Marut), Sun (Surya), Dawn (Usha), Earth (Prithvi) and Moon (Soma).",
+   "year": null,
+   "era": "BCE",
+   "quote": "For example, Fire (Agni), water (Varuna), Wind (Marut), Sun (Surya), Dawn (Usha), Earth (Prithvi) and Moon (Soma).",
+   "page": 6
+  },
+  {
+   "fid": "f45",
+   "kind": "person",
+   "text": "Indra was considered the most powerful of all deities.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Indra was considered the most powerful of all deities.",
+   "page": 6
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "The 'Havi' (Ahuti) offered in a Yajna was believed to reach the deities through fire; food, ghee and grains were offered.",
+   "year": null,
+   "era": "BCE",
+   "quote": "It was believed that the 'Havi' (Ahuti) offered in a Yajna reached the deities through the medium of fire. Food, ghee and grains were offered as Havi during Yajna.",
+   "page": 6
+  },
+  {
+   "fid": "f47",
+   "kind": "term",
+   "text": "The foundation of the Vedic way of life was truth, justice and 'Rut', the principle of maintaining the sanctity of the natural cycle of life.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The foundation of Vedic way of life was truth, justice and 'Rut' the principle of maintaining the sanctity of the natural cycle of life.",
+   "page": 6
+  },
+  {
+   "fid": "f48",
+   "kind": "term",
+   "text": "The Indian Navy motto 'Sham No Varunah' is from a verse in the Upanishads and means 'May the deity Varuna protect us.'",
+   "year": null,
+   "era": "CE",
+   "quote": "The motto inscribed on the emblem of the Indian Navy - 'Sham No Varunah' ... is taken from a verse in the Upanishads. This phrase can be translated as: \"May the deity Varuna protect us.\"",
+   "page": 6
+  },
+  {
+   "fid": "f49",
+   "kind": "person",
+   "text": "After independence, Governor-General C. Rajagopalachari proposed this motto; the new Navy emblem is inspired by the Royal Seal of Chhatrapati Shivaji Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "the then Governor-General, C. Rajagopalachari, proposed this specific motto. The new emblem of the Indian Navy is inspired by the Royal Seal of Chhatrapati Shivaji Maharaj.",
+   "page": 6
+  },
+  {
+   "fid": "f50",
+   "kind": "term",
+   "text": "The Sabha (council of elders and senior individuals) and the Samiti (group of common people) advised the King.",
+   "year": null,
+   "era": "BCE",
+   "quote": "These two bodies were known as the 'Sabha' and the 'Samiti.' The 'Sabha' was a council comprising elders and distinguished senior individuals ... The 'Samiti' was the group of common people of the village or community.",
+   "page": 6
+  },
+  {
+   "fid": "f51",
+   "kind": "term",
+   "text": "The 'Vidatha' and 'Jana' also guided the King; women took an active part in the Sabha and the Vidatha.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The institutions known as the 'Vidatha' and 'Jana' also served to guide and counsel the King. Women also played an active role in the proceedings and functioning of the Sabha and the 'Vidatha'.",
+   "page": 6
+  },
+  {
+   "fid": "f52",
+   "kind": "person",
+   "text": "Important officials were the Priest (Purohit), Commander-in-Chief (Senapti) and Head of the Assembly (Sabhapati).",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Priest (Purohit), Commander-in-Chief (Senapti) and Head of the Assembly (Sabhapati) were officials of particular importance.",
+   "page": 7
+  },
+  {
+   "fid": "f53",
+   "kind": "term",
+   "text": "The 'Bhagdugh' collected the King's 'share' (bhaga).",
+   "year": null,
+   "era": "BCE",
+   "quote": "The official known as 'Bhagdugh' was appointed to collect the King's 'share' (bhaga).",
+   "page": 7
+  },
+  {
+   "fid": "f54",
+   "kind": "event",
+   "text": "In war the King led the army; he did not have absolute power and governed by the counsel of the Sabha and the Samiti.",
+   "year": null,
+   "era": "BCE",
+   "quote": "During times of war, the King himself led the army. ... Though the King was the head of the state, he did not possess absolute power. He used to govern in accordance with the counsel of the Sabha and the Samiti.",
+   "page": 7
+  },
+  {
+   "fid": "f55",
+   "kind": "person",
+   "text": "Shankaracharya Shri Bharati Krishna Tirtha wrote 'Vedic Mathematics'; its formula 'Nikhilam navatascharamam Dashatah' gives 98 x 99 = 9702.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shankaracharya Shri Bharati Krishna Tirtha has written a book entitled, 'Vedic Mathematics'. ... A formula given in the book 'Vedic Mathematics' is 'Nikhilam navatascharamam Dashatah'. ... Thus, Answer is 98 x 99 = 9702",
+   "page": 1
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-04-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f06"
+   ],
+   "hook": "Four Vedas: <b>Rig, Yajur, Sama, Atharva</b>. Upanishads are supplementary texts, not a fifth Veda.",
+   "prompt": "Which of these is one of the four Vedas?",
+   "options": [
+    "Upanishad",
+    "Aranyaka",
+    "Samaveda",
+    "Samhita"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f10",
+    "f15"
+   ],
+   "hook": "<b>Rig</b>veda = the oldest Veda, songs to Agni, Indra and Varuna.",
+   "prompt": "Which Veda am I?",
+   "clues": [
+    "I am the primary source of information about the Early Vedic Period.",
+    "My prayer songs are dedicated to deities such as Agni, Indra and Varuna.",
+    "I am the oldest of all four Vedas."
+   ],
+   "options": [
+    "Rigveda",
+    "Yajurveda",
+    "Samaveda",
+    "Atharvaveda"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f01",
+    "f03",
+    "f02"
+   ],
+   "hook": "Vid = to know, so Veda = <b>knowledge</b>, written in <b>Sanskrit</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The root Vid in Sanskrit means to know."
+    ],
+    [
+     "Meera",
+     "The Vedas are composed in Persian and contain mantras and prayer songs."
+    ],
+    [
+     "Kabir",
+     "Some of the Vedic Hymns were composed by women."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Sanskrit",
+    "Pali",
+    "Tamil"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Three pillars for everyone: <b>Dharma</b>, truth and justice.",
+   "prompt": "Which principles was everyone in Vedic society expected to follow?",
+   "options": [
+    "Righteousness (Dharma), truth and justice",
+    "Wealth, power and pride",
+    "Barter, trade and profit",
+    "War, conquest and fame"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Head of the family = <b>Grihapati</b>; head of a village = Gramani.",
+   "prompt": "What was the head of a Vedic family called?",
+   "options": [
+    "Gramani",
+    "Grihapati",
+    "Rajan",
+    "Shreshthi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "Gurukul: Vedas, Maths, Astronomy, Ayurveda, Ethics, weaponry, plus <b>humility and self-control</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I aimed to teach values like humility, discipline and self-control.",
+    "Students studied the Vedas, Mathematics, Astronomy and Ayurveda in me.",
+    "Students had to live a disciplined life here.",
+    "I am the Guru's Ashram where students stayed and studied."
+   ],
+   "options": [
+    "Sabha",
+    "Samiti",
+    "Gurukul",
+    "Shreni"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f27",
+    "f30"
+   ],
+   "hook": "Four stages in order: <b>Brahmacharya, Grihastha, Vanaprastha, Sanyasa</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Under the Ashram system, life was divided into four stages."
+    ],
+    [
+     "Dev",
+     "The Grihasthashram was considered the first stage of life."
+    ],
+    [
+     "Sana",
+     "In the Sanyasashram a person renounced all relations."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "Brahmacharyashram",
+    "Vanaprasthashram",
+    "Sanyasashram"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f50"
+   ],
+   "hook": "Sabha = <b>seniors</b>; Samiti = common people. Both advised the King.",
+   "prompt": "What was the Sabha?",
+   "options": [
+    "A group of merchants and artisans",
+    "A group of several villages",
+    "A village settlement of several families",
+    "A council of elders and distinguished senior individuals"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-04-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f35"
+   ],
+   "hook": "<b>Sama</b>veda sings: mantras with musical notes (swaras).",
+   "prompt": "Which Veda am I?",
+   "clues": [
+    "I am one of the four Vedas, composed in Sanskrit.",
+    "My main subject is the recitation of Mantras.",
+    "I help you understand musical notes."
+   ],
+   "options": [
+    "Rigveda",
+    "Atharvaveda",
+    "Samaveda",
+    "Yajurveda"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "<b>Atharva</b>veda = everyday life: health, medicines, home remedies.",
+   "prompt": "Which Veda am I?",
+   "clues": [
+    "My main subjects include the way of life and agriculture.",
+    "I am called the Veda associated with the lives of common people.",
+    "I tell about health, medicines and home remedies."
+   ],
+   "options": [
+    "Samaveda",
+    "Rigveda",
+    "Yajurveda",
+    "Atharvaveda"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-04-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11",
+    "f04",
+    "f13"
+   ],
+   "hook": "Rig = oldest. Yajur = Yajna rituals. Atharva = home remedies.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Yajurveda teaches about rites, rituals and religious conduct."
+    ],
+    [
+     "Anaya",
+     "The Yajurveda is the oldest of all four Vedas."
+    ],
+    [
+     "Rohan",
+     "The Atharvaveda tells about health, medicines and home remedies."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "Samaveda",
+    "Rigveda",
+    "Atharvaveda"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Upa-ni-shad: sit <b>close</b> to the Guru to get knowledge.",
+   "prompt": "What does the word 'Upanishad' mean?",
+   "options": [
+    "Forest",
+    "The text of a Veda",
+    "Songs praising Gods",
+    "Getting knowledge by sitting close to a Guru"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-04-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "The Veda's own text = <b>Samhita</b>; its helpers = Brahmana texts, Aranyakas, Upanishads.",
+   "prompt": "What is the text of a Veda called?",
+   "options": [
+    "Sukta",
+    "Shreni",
+    "Samhita",
+    "Swara"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f23"
+   ],
+   "hook": "Family, then <b>Gramavasahat</b> (village, head Gramani), then <b>Jana</b> (kingdom, head Rajan).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "A group of several families formed a Gramavasahat."
+    ],
+    [
+     "Yash",
+     "The head of a village was called the Rajan in Vedic times."
+    ],
+    [
+     "Neha",
+     "Vedic society was structured into four Varnas."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "Grihapati",
+    "Gramani",
+    "Shreshthi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f06",
+    "f08"
+   ],
+   "hook": "Upanishads: soul, Supreme Soul, Universe. Aranyakas: for seekers in the <b>forest</b>.",
+   "prompt": "What are we?",
+   "clues": [
+    "We discuss the individual soul, the Supreme Soul and the Universe.",
+    "We are supplementary texts of the Vedas.",
+    "Our name means getting knowledge by sitting close to a Guru."
+   ],
+   "options": [
+    "Brahmana texts",
+    "Upanishads",
+    "Aranyakas",
+    "Samhitas"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "Post Vedic: move to the <b>Ganges Valley</b>, farms and trade grow, towns appear.",
+   "prompt": "In the Post Vedic Period, into which valley did the Vedic people migrate?",
+   "options": [
+    "The Narmada Valley",
+    "The Godavari Valley",
+    "The Kaveri Valley",
+    "The Ganges Valley"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-04-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f19",
+    "f21"
+   ],
+   "hook": "Grihapati: family. Gramani: village (<b>grama</b>). Rajan: kingdom.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Rajan - head of the family",
+    "Gramani - head of a village",
+    "Shreshthi - head of a village",
+    "Grihapati - head of a kingdom"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f38",
+    "f39"
+   ],
+   "hook": "Early Vedic: women <b>honoured</b>, scholars like Gargi. Post-Vedic: freedom <b>reduced</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Women were honoured in the Early Vedic society."
+    ],
+    [
+     "Kunal",
+     "Lopamudra, Ghosha, Gargi and Apala were famous female scholars."
+    ],
+    [
+     "Zoya",
+     "In the post-Vedic period the freedom of women was gradually increased by society."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "doubled",
+    "restored",
+    "reduced"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28",
+    "f27"
+   ],
+   "hook": "Brahmacharya = study; then <b>Grihastha</b> = home, marriage and duties.",
+   "prompt": "Which stage of life am I?",
+   "clues": [
+    "A person entered me after completing education.",
+    "In me, a person fulfilled domestic duties and social responsibilities.",
+    "It was important to marry in this stage."
+   ],
+   "options": [
+    "Brahmacharyashram",
+    "Vanaprasthashram",
+    "Grihasthashram",
+    "Sanyasashram"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f50",
+    "f54"
+   ],
+   "hook": "<b>S</b>amiti = <b>S</b>imple common people; Sabha = seniors. The King took counsel from both.",
+   "prompt": "What was the Samiti?",
+   "options": [
+    "The group of common people of the village or community",
+    "A council of elders and senior individuals",
+    "The official who collected the King's share",
+    "A group of merchants and artisans"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40",
+    "f41"
+   ],
+   "hook": "Cow = money (exchange). Horse = war and rituals. Ox = plough and transport.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pranav",
+     "The cow was used as a means of exchange."
+    ],
+    [
+     "Diya",
+     "Horses were important for warfare and sacrificial rituals."
+    ],
+    [
+     "Arjun",
+     "In Vedic times goats were employed for ploughing and transportation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "oxen",
+    "horses",
+    "cows"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term",
+    "event"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "Early (Rigvedic) period, about 1500-1000 BCE: herders' life, <b>cow</b> = main wealth.",
+   "prompt": "In the Early Vedic Period (about 1500 BCE to 1000 BCE), what was regarded as the primary form of wealth?",
+   "options": [
+    "Gold",
+    "The cow",
+    "Land",
+    "The horse"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Brahmana texts = the <b>how-to</b> of Yajnas: steps, mantras and meaning.",
+   "prompt": "What are we?",
+   "clues": [
+    "We explain the meaning behind Vedic rites.",
+    "We describe the proper manner of conducting sacrifices.",
+    "We mainly talk about Yajnas, worship and religious rituals."
+   ],
+   "options": [
+    "Brahmana texts",
+    "Aranyakas",
+    "Upanishads",
+    "Samhitas"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f15",
+    "f17",
+    "f14"
+   ],
+   "hook": "Early: about 1500 to 1000 BCE. Post: 1000 to <b>600 BCE</b>. BCE numbers shrink as time moves on.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Post Vedic Period is dated to about 1000 BCE to 600 BCE.",
+    "The Early Vedic Period is dated to about 1000 BCE to 600 BCE.",
+    "The Post Vedic Period came before the Early Vedic Period.",
+    "The Early Vedic Period is also called the Post Vedic Period."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Saripata = the Vedic <b>board game like chess</b>; archery and chariot racing were sports.",
+   "prompt": "What was Saripata?",
+   "options": [
+    "A board game like chess",
+    "A musical instrument",
+    "A fire ritual",
+    "A type of chariot"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f36",
+    "f37",
+    "f31"
+   ],
+   "hook": "Veena, Mridanga, Shankha, Bansuri: Vedic music became the base of Indian <b>classical</b> music.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "Veena, Mridanga and Bansuri were widely used in the Vedic period."
+    ],
+    [
+     "Om",
+     "Vedic people were taught truthfulness, self-control and generosity."
+    ],
+    [
+     "Sia",
+     "Vedic music formed the base of Indian folk music which evolved later."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "classical",
+    "modern",
+    "film"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f45",
+    "f10"
+   ],
+   "hook": "Agni, Indra, Varuna in the Rigveda; <b>Indra</b> was the most powerful.",
+   "prompt": "Which deity am I?",
+   "clues": [
+    "The Vedic people gave me the status of a deity.",
+    "Prayer songs to me are in the Rigveda.",
+    "I was considered the most powerful of all deities."
+   ],
+   "options": [
+    "Agni",
+    "Indra",
+    "Varuna",
+    "Soma"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f48"
+   ],
+   "hook": "'Sham No Varunah' = 'May <b>Varuna</b> protect us', from the Upanishads, on the Navy emblem.",
+   "prompt": "The Indian Navy motto 'Sham No Varunah' is taken from a verse in which texts?",
+   "options": [
+    "The Brahmana texts",
+    "The Aranyakas",
+    "The Upanishads",
+    "The Atharvaveda"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f49",
+    "f55"
+   ],
+   "hook": "Rajagopalachari proposed 'Sham No Varunah'; the new emblem echoes Shivaji Maharaj's <b>Royal Seal</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I proposed a motto after India's independence.",
+    "The motto was for the emblem of the Chief of Naval Staff.",
+    "I was then the Governor-General."
+   ],
+   "options": [
+    "C. Rajagopalachari",
+    "Shri Bharati Krishna Tirtha",
+    "Chhatrapati Shivaji Maharaj",
+    "Eklavya"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f43",
+    "f42"
+   ],
+   "hook": "Shreni = merchants' group; its head = <b>Shreshthi</b>. Trade was by barter.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rudra",
+     "Groups of merchants and artisans were known as Shreni."
+    ],
+    [
+     "Ira",
+     "The head of a Shreni was known as the Gramani in those days."
+    ],
+    [
+     "Veer",
+     "Trade was gradually developing and transactions were made through barter."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "Shreshthi",
+    "Rajan",
+    "Purohit"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f53"
+   ],
+   "hook": "Bhaga = share, so <b>Bhagdugh</b> collected the King's share.",
+   "prompt": "What was the work of the Bhagdugh?",
+   "options": [
+    "To lead the army",
+    "To head the Assembly",
+    "To perform as the Priest",
+    "To collect the King's share"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-04-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "Havi (Ahuti) of food, ghee, grains reached the deities through <b>fire</b>.",
+   "prompt": "Through which medium was the Havi offered in a Yajna believed to reach the deities?",
+   "options": [
+    "Water",
+    "Wind",
+    "Fire",
+    "Music"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-33",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f30"
+   ],
+   "hook": "After the householder stage: <b>Vanaprastha</b> = leave the family, meditate. Sanyasa comes last.",
+   "prompt": "Which stage of life am I?",
+   "clues": [
+    "I came after fulfilling the responsibilities of a householder.",
+    "In me, one engaged in meditation, penance and philosophical thinking.",
+    "In me, one was expected to withdraw from the family."
+   ],
+   "options": [
+    "Sanyasashram",
+    "Vanaprasthashram",
+    "Grihasthashram",
+    "Brahmacharyashram"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f52"
+   ],
+   "hook": "Purohit = Priest, <b>Senapti</b> = Commander-in-Chief, Sabhapati = Head of the Assembly.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Harsh",
+     "The Priest was called the Purohit."
+    ],
+    [
+     "Lina",
+     "The Commander-in-Chief was called the Sabhapati in the Vedic period."
+    ],
+    [
+     "Nikhil",
+     "The Head of the Assembly was called the Sabhapati."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Bhagdugh",
+    "Gramani",
+    "Senapti"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-04-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f47",
+    "f46",
+    "f43",
+    "f05"
+   ],
+   "hook": "Truth, justice and <b>Rut</b>: keep the natural cycle of life sacred.",
+   "prompt": "Which term means the principle of maintaining the sanctity of the natural cycle of life?",
+   "options": [
+    "Rut",
+    "Havi",
+    "Shreni",
+    "Samhita"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "Sun = Surya, Moon = <b>Soma</b>, Dawn = Usha, Wind = Marut, Earth = Prithvi.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gauri",
+     "Dawn was given the status of a deity called Usha."
+    ],
+    [
+     "Samar",
+     "Wind was worshipped as Marut and Earth as Prithvi."
+    ],
+    [
+     "Pooja",
+     "The Moon was worshipped as Surya by the Vedic people."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Soma",
+    "Agni",
+    "Varuna"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f55"
+   ],
+   "hook": "98 and 99 are 2 and 1 below 100: 98 - 1 = <b>97</b>, 2 x 1 = <b>02</b>, so 9702.",
+   "prompt": "Using the Vedic Mathematics formula 'Nikhilam navatascharamam Dashatah', what is 98 x 99?",
+   "options": [
+    "9792",
+    "9602",
+    "9712",
+    "9702"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-04-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f54",
+    "f50"
+   ],
+   "hook": "Not an all-powerful King: he ruled by the counsel of the <b>Sabha and Samiti</b>.",
+   "prompt": "Which statement about the Vedic King is correct?",
+   "options": [
+    "He had absolute power and never took advice.",
+    "He did not possess absolute power and governed by the counsel of the Sabha and the Samiti.",
+    "He never led the army during war.",
+    "He was the head of a Shreni of merchants."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-04-39",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f51"
+   ],
+   "hook": "Villages join to make a <b>Jana</b>; the Jana and the Vidatha also counselled the King.",
+   "prompt": "What am I?",
+   "clues": [
+    "With the Vidatha, I also served to guide and counsel the King.",
+    "A group of several villages made me up.",
+    "My name is also translated as Kingdom."
+   ],
+   "options": [
+    "Jana",
+    "Gramavasahat",
+    "Sabha",
+    "Shreni"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-04-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f33"
+   ],
+   "hook": "Grains, milk, curd, ghee, honey, vegetables: a <b>plant-based</b>, balanced diet plus yoga.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kunal",
+     "Their diet had grains, milk, curd, ghee, honey and vegetables."
+    ],
+    [
+     "Tanvi",
+     "They used foodgrains such as barley, wheat, rice and millet."
+    ],
+    [
+     "Mira",
+     "Thus their diet consisted of animal-based foods that were pure and balanced."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "sea-based",
+    "meat-based",
+    "plant-based"
+   ],
+   "answer": 2
+  }
+ ]
+}

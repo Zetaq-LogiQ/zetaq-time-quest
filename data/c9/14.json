@@ -1,0 +1,1518 @@
+{
+ "class": 9,
+ "id": "14",
+ "title": "The United Nations",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "Two world wars were fought at the start of the twentieth century; the League of Nations was established after the First World War and the United Nations after the Second World War.",
+   "year": null,
+   "era": "CE",
+   "quote": "Two world wars were fought at the start of the twentieth century. ... the League of Nations was established after the First World War and the United Nations was established after the Second World War",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "event",
+   "text": "The League of Nations did not succeed at all; after the use of nuclear weapons in the Second World War, the idea took root that destructive wars should be stopped and that this is the collective responsibility of all nations.",
+   "year": null,
+   "era": "CE",
+   "quote": "The League of Nations did not succeed at all. But after the use of the nuclear weapons in the Second World War, the idea took root that such destructive wars should be stopped and that it is the collective responsibility of all nations to do so.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "date",
+   "text": "The Atlantic Treaty was signed between Prime Minister of England Sir Winston Churchill and American President Franklin D Roosevelt during the Second World War on 14 August 1941.",
+   "year": 1941,
+   "era": "CE",
+   "quote": "The Atlantic Treaty was signed between Prime Minister of England Sir Winston Churchill and American President Franklin D Roosevelt during the Second World War on 14th August 1941.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "According to the Atlantic Treaty, a decision was taken to set up a permanent mechanism to establish international security after the Second World War was over.",
+   "year": null,
+   "era": "CE",
+   "quote": "According to this treaty, a decision was taken to set up a permanent mechanism to establish international security after the Second World War was over.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "Detailed discussions followed in two conferences among the allied powers in 1944 and 1945, and a draft of the treaty to establish an international organisation was prepared.",
+   "year": null,
+   "era": "CE",
+   "quote": "Detailed discussions followed on this decision in two conferences among allied powers in 1944 and 1945 and a draft of the treaty to establish an international organisation was prepared.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "place",
+   "text": "At San Francisco in America, representatives of fifty countries drafted the Charter of the United Nations.",
+   "year": null,
+   "era": "CE",
+   "quote": "At San Francisco in America, representatives of fifty countries drafted the Charter of the United Nations after discussions.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "date",
+   "text": "The United Nations was established on 24 October 1945, as soon as the war got over.",
+   "year": 1945,
+   "era": "CE",
+   "quote": "As soon as the war got over, the Charter was signed on 24th October 1945 and the United Nations was established.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "The United Nations is an international organisation of sovereign nations and the world's largest international organisation.",
+   "year": null,
+   "era": "CE",
+   "quote": "The United Nations is an international organisation of sovereign nations. ... The United Nations is the world's largest international organisation.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "Objectives of the UN: to establish friendly relations among nations, to enhance international security by solving international disputes, to safeguard and foster human rights and freedom; it also aims at enhancing international economic cooperation.",
+   "year": null,
+   "era": "CE",
+   "quote": "To establish friendly relations among nations. To enhance international security by solving international disputes. To safeguard and foster human rights and freedom. Along with these, the United Nations also aim at enhancing economic cooperation at the international level.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "All member countries are bound by duty to respect the diplomatic privileges of sovereign nations, not to attack other countries and to abide by international law and treaties.",
+   "year": null,
+   "era": "CE",
+   "quote": "All member countries are bound by duty to respect the diplomatic privileges of sovereign nations, not to attack other countries and abide by international law and treaties.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Principle 1: all member nations have the same status; there is no discrimination among nations based on geographical size, economic or military power.",
+   "year": null,
+   "era": "CE",
+   "quote": "All member nations will have the same status. There is no discrimination among nations based on geographical size, economic or military power.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Principle 2: all member nations should respect the freedom and geographical unity of other member nations.",
+   "year": null,
+   "era": "CE",
+   "quote": "All member nations of the United Nations should respect the freedom and geographical unity of other member nations.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "Principle 3: all member nations should solve their international disputes and mutual differences by peaceful means.",
+   "year": null,
+   "era": "CE",
+   "quote": "All member nations should solve their international disputes and mutual differences by peaceful means.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "The UN has six main organs: General Assembly, Security Council, Economic and Social Council, International Court of Justice, Trusteeship Council and Secretariat.",
+   "year": null,
+   "era": "CE",
+   "quote": "The United Nations has six main organs: (1) General Assembly (2) Security Council (3) Economic and Social Council (4) International Court of Justice (5) Trusteeship Council (6) Secretariat",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Affiliated organisations of the UN that work in specific areas are called specialised agencies, for example ILO, FAO, WHO, World Bank, IMF, UNICEF and UNESCO.",
+   "year": null,
+   "era": "CE",
+   "quote": "there are many affiliated organisations of the United Nations that help it in its functions. They are called specialised agencies. ... International Labour Organisation (ILO), Food and Agriculture Organisation (FAO), World Health Organisation (WHO), World Bank (WB), International Monetary Fund (IMF), United Nations Children's Fund (UNICEF), United Nations Educational Scientific and Cultural Organisation (UNESCO).",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "All member countries are members of the General Assembly with the same position and status; every year it meets in its session from September to December.",
+   "year": null,
+   "era": "CE",
+   "quote": "All the member countries are members of the General Assembly. The position and status of all the countries, whether they are rich or poor, big or small, is the same. Every year the General Assembly meets in its session from September to December.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "The General Assembly discusses issues like environment and disarmament; its decisions are taken by majority in the form of resolutions; it only passes resolutions and does not make laws.",
+   "year": null,
+   "era": "CE",
+   "quote": "the General Assembly discusses important issues like environment, disarmament, etc. The decisions in the General Assembly are taken by majority. These decisions are in the form of resolutions. Thus, the General Assembly only passes resolutions; it does not make laws.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "Functions of the General Assembly: to elect the non-permanent members of the Security Council, to choose the Secretary General and the ICJ judges in consultation with the Security Council, and to pass the annual budget of the UN.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) To elect the non-permanent members of the Security Council (2) To choose the United Nations Secretary General and the judges of the International Court of Justice (ICJ) in consultation with the Security Council (3) To pass the annual budget of the United Nations",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "The headquarters of the United Nations are at New York; English, French, Russian, Spanish, Chinese and Arabic are its official languages.",
+   "year": null,
+   "era": "CE",
+   "quote": "The headquarters of the United Nations are at New York. English, French, Russian, Spanish, Chinese and Arabic are the official languages of the United Nations.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "The Security Council has 15 members: five permanent and ten non-permanent; the non-permanent members are chosen every two years by the General Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are 15 members in the Security Council. Of them, five are permanent members, while ten are non-permanent members. The non-permanent members are chosen every two years by the General Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "America, Russia, England, France and China are the permanent members of the Security Council and have the veto power.",
+   "year": null,
+   "era": "CE",
+   "quote": "America, Russia, England, France and China are permanent members of the Security Council. They have the veto power.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "For any decision, the assent of all five permanent members and four non-permanent members is necessary; if even one permanent member uses the veto (a negative vote), the decision cannot be taken.",
+   "year": null,
+   "era": "CE",
+   "quote": "For any decision to be taken, the assent of all five permanent members and four non-permanent members is necessary. If even one of the five permanent member uses his veto i.e. gives a negative vote, the decision cannot be taken.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The main responsibility of the Security Council is to maintain international peace and security; in a conflict it may resolve the conflict, impose economic sanctions or take a decision of military action against the aggressor nation.",
+   "year": null,
+   "era": "CE",
+   "quote": "The main responsibility of the Security Council is to maintain international peace and security. ... end / resolve conflict and make efforts to establish peace, impose economic sanctions or take a decision of military action against the aggressor nation.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "The Security Council also prepares policies for arms control and plays a joint role with the General Assembly in appointing the ICJ judges and the Secretary General.",
+   "year": null,
+   "era": "CE",
+   "quote": "(2) To prepare policies for arms control (3) To play a joint role along with the General Assembly in the appointments of the judges of the International Court of Justice and of the United Nations Secretary General.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The Economic and Social Council coordinates the UN's economic and social policies; it has 54 members selected by the General Assembly, each with a three-year tenure, and one-third are newly chosen each year.",
+   "year": null,
+   "era": "CE",
+   "quote": "The main objective of this organisation is to coordinate the economic and social policies of the United Nations. The Council has 54 members. They are selected by the General Assembly. Each member has a tenure of three years and each year, one-third of the members are newly chosen.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Economic and Social Council initiates global discussions on poverty, unemployment and economic and social inequality, and coordinates the organisations working with the UN.",
+   "year": null,
+   "era": "CE",
+   "quote": "Initiate discussions at the global level on issues like poverty, unemployment, economic and social inequality ... Coordinate the functioning of the different organisations working in association with the United Nations.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "The Secretariat carries out the administrative tasks of the UN; its chief, the Secretary General, is selected by the General Assembly and the Security Council for a tenure of five years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Secretariat has the responsibility of carrying out the administrative tasks of the United Nations. The chief of the Secretariat is the Secretary General. He is selected by the General Assembly and the Security Council. His tenure is of five years.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Functions of the Secretariat: to call international conferences on problems like climate change, to organise meetings of the General Assembly and Security Council, to compile information and to supply information to the media.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) To call international conferences on global problems like climate change, human rights, disarmament, etc. (2) To organise the meetings of the General Assembly and Security Council (3) To compile information (4) To supply information to the media",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "place",
+   "text": "The International Court of Justice is the judicial branch of the UN, located at The Hague in the Netherlands; it has 15 judges chosen by the General Assembly and the Security Council, each with a tenure of nine years.",
+   "year": null,
+   "era": "CE",
+   "quote": "International Court of Justice means the judicial branch of the United Nations. The International Court of Justice is located at The Hague in the Netherlands. There are 15 judges ... They are chosen by the General Assembly and the Security Council. Every judge has tenure of nine years.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Functions of the ICJ: to settle disputes between member nations, to interpret international law authentically and to advise UN organs on legal issues.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) To settle the disputes between two or more member nations of the United Nations. (2) To interpret international law authentically. (3) To advise the various organs or subsidiary bodies of the United Nations about legal issues.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The International Criminal Court is an inter-governmental organisation and international tribunal with headquarters at The Hague; it can prosecute individuals for genocide, crimes against humanity and war crimes.",
+   "year": null,
+   "era": "CE",
+   "quote": "The International Criminal Court is an inter-governmental organisation and an international tribunal. Its headquarters are at The Hague in the Netherlands. The International Criminal Court has the jurisdiction to prosecute individuals for international crimes of genocide, crimes against humanity and war crimes",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "After the Second World War, undeveloped territories were placed under the responsibility of developed nations through the Trusteeship Council, to help them develop and establish democracy; its work is over as no trust territories are left.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the Second World War, the territories that were undeveloped were placed under the responsibility of the developed nations. ... help establish democracy. The work of the Trusteeship Council is over as there are no trust territories left.",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "The work of the Trusteeship Council ended when Palau, an island in the Pacific Ocean east of the Philippines, got independence in 1994.",
+   "year": 1994,
+   "era": "CE",
+   "quote": "The work of the Trusteeship Council ended when Palau got independence on 1st November 1994. Palau is an island in the Pacific ocean, 500 m. east of Philippines.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "UNICEF works towards making nutritious food and health care available to children; several workshops were organised in India on overcoming malnutrition among babies and children.",
+   "year": null,
+   "era": "CE",
+   "quote": "UNICEF is an affiliated organisation of the United Nations. It works towards making nutritious food and health care available to children. Several workshops were organised in India to find out measures to overcome malnutrition among babies and children.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "UNESCO works towards peace and security by promoting cooperation between member countries in education, science and culture.",
+   "year": null,
+   "era": "CE",
+   "quote": "UNESCO, another affiliated organisation of the United Nations works towards peace and security in the world by promoting cooperation between member countries in the fields of education, science and culture.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "date",
+   "text": "UN member nations came together in 2000 and decided upon the Millennium Development Goals, such as eliminating poverty and hunger, primary education, women's empowerment and fighting diseases like AIDS and malaria; a time period was decided to achieve them.",
+   "year": 2000,
+   "era": "CE",
+   "quote": "The United Nations member nations came together in 2000 and decided upon the development goals for the new millennium. ... To eliminate poverty and hunger ... To fight diseases like AIDS, malaria, etc. ... A time period has been decided to achieve these goals.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "India has made considerable progress towards the Millennium Development Goals with the help of UNICEF and UNESCO.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has made considerable progress in the direction of achieving the millennium development goals with the help of UNICEF and UNESCO.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "To settle conflicts peacefully, the UN Charter includes appointing an acceptable intermediary, using the legal procedure, appointing an arbitrator and, if needed, military means.",
+   "year": null,
+   "era": "CE",
+   "quote": "It includes appointing an intermediary acceptable to the nations involved in the conflict, use the legal procedure, appoint an arbitrator to solve the dispute and if needed, to take recourse to military means",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "In modern times, human security has been threatened by terrorism, racist and religious conflict, so the UN's peace function has acquired importance.",
+   "year": null,
+   "era": "CE",
+   "quote": "In modern times, human security has been threatened by terrorism, racist and religious conflict. As a result, the function of securing peace of the United Nations has acquired a lot of importance.",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "To restore normalcy in strife-torn areas, the UN starts schools, creates awareness about human rights, makes facilities available and conducts elections.",
+   "year": null,
+   "era": "CE",
+   "quote": "normalcy is restored as soon as possible by, for example, starting schools, creating awareness among the people about human rights, make social, economic, political facilities available, conduct elections, etc.",
+   "page": 5
+  },
+  {
+   "fid": "f42",
+   "kind": "term",
+   "text": "UN peacekeeping creates circumstances favourable for permanent peace in strife-torn areas; security is provided and help is extended for establishing peace.",
+   "year": null,
+   "era": "CE",
+   "quote": "The peacekeeping activity of the United Nations involves creating appropriate circumstances favourable for bringing about permanent peace in strife-torn areas. ... In conflict-ridden areas, security is provided and at the same time, help is extended for establishing peace.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "Actions supplementary to peacekeeping: prevention of conflict and mediation, actually establishing peace, implementing measures of protecting peace, and peace-building.",
+   "year": null,
+   "era": "CE",
+   "quote": "Prevention of conflict and mediation * Actually establish peace * Implement the measures of protecting peace * Peace-building",
+   "page": 6
+  },
+  {
+   "fid": "f44",
+   "kind": "event",
+   "text": "India participated in the conferences held before the UN was established and brought issues like decolonisation, disarmament and racial segregation to the UN platform.",
+   "year": null,
+   "era": "CE",
+   "quote": "India had participated in the different Conferences that were held before the establishment of the United Nations. India has participated in bringing issues like decolonisation, disarmament, racial segregation on the United Nations platform.",
+   "page": 6
+  },
+  {
+   "fid": "f45",
+   "kind": "date",
+   "text": "In 1946, India was the first country to raise the question of racism in the United Nations.",
+   "year": 1946,
+   "era": "CE",
+   "quote": "In 1946, India was the first country to raise the question of racism in the United Nations.",
+   "page": 6
+  },
+  {
+   "fid": "f46",
+   "kind": "event",
+   "text": "India has always led discussions on the problems of undeveloped and developing countries, has always sent troops to UN peacekeeping forces and has sent an all-woman peacekeeping force as well.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has always led the discussions about the problems of undeveloped and developing countries. India has always sent her troops to participate in the United Nations peacekeeping forces. Not just that, India has sent an all-woman peacekeeping force as well.",
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-14-01",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "War over, Charter signed: the UN was born in <b>1945</b>.",
+   "prompt": "In which year was the United Nations established?",
+   "year": 1945,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-14-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f18",
+    "f19"
+   ],
+   "hook": "Every member sits here, September to December: the <b>General Assembly</b> passes resolutions, not laws.",
+   "prompt": "Which organ am I?",
+   "clues": [
+    "I pass the annual budget of the United Nations.",
+    "Every year my session runs from September to December.",
+    "I only pass resolutions; I do not make laws.",
+    "All the member countries are my members."
+   ],
+   "options": [
+    "Security Council",
+    "General Assembly",
+    "Secretariat",
+    "International Court of Justice"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-14-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f30"
+   ],
+   "hook": "ICJ at The Hague: <b>15</b> judges, <b>9</b>-year terms. UN headquarters: New York.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The headquarters of the United Nations are at New York."
+    ],
+    [
+     "Arjun",
+     "The International Court of Justice has 25 judges in all."
+    ],
+    [
+     "Sana",
+     "Every judge of the International Court of Justice has a tenure of nine years."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "9",
+    "54",
+    "15"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "<b>Six</b> main organs: GA, Security Council, ECOSOC, ICJ, Trusteeship Council, Secretariat.",
+   "prompt": "How many main organs does the United Nations have?",
+   "options": [
+    "Four",
+    "Five",
+    "Six",
+    "Seven"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "One 'no' from any of the five permanent members = <b>veto</b>, and the decision falls.",
+   "prompt": "What am I?",
+   "clues": [
+    "Only five members of the Security Council have me.",
+    "If even one of them uses me, the decision cannot be taken.",
+    "Using me means giving a negative vote."
+   ],
+   "options": [
+    "Resolution",
+    "Sanction",
+    "Veto",
+    "Charter"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "UN headquarters: <b>New York</b>. Courts: The Hague. Charter drafted: San Francisco.",
+   "prompt": "Where are the headquarters of the United Nations?",
+   "options": [
+    "New York",
+    "The Hague",
+    "San Francisco",
+    "Geneva"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Security Council: 15 = <b>5</b> permanent + <b>10</b> non-permanent (each chosen for <b>2</b> years).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kabir",
+     "There are 15 members in the Security Council."
+    ],
+    [
+     "Meera",
+     "Of them, five are permanent members and ten are non-permanent members."
+    ],
+    [
+     "Ishaan",
+     "Each non-permanent member is chosen for five years by the General Assembly."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "nine",
+    "three",
+    "two"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "UN aims: friendly relations, security by solving disputes, <b>human rights and freedom</b>.",
+   "prompt": "Which of these is an objective of the United Nations?",
+   "options": [
+    "To make laws for all member nations",
+    "To safeguard and foster human rights and freedom",
+    "To give more say to bigger and richer nations",
+    "To rule the trust territories for ever"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-14-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Churchill + Roosevelt, mid-war, <b>1941</b>: plan a permanent peace mechanism.",
+   "prompt": "In which year was the Atlantic Treaty signed?",
+   "year": 1941,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-14-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "<b>54</b> members, 3-year terms, one-third new each year: ECOSOC.",
+   "prompt": "Which organ am I?",
+   "clues": [
+    "Each year one-third of my members are newly chosen.",
+    "Each of my members has a tenure of three years.",
+    "I have 54 members selected by the General Assembly.",
+    "I start global discussions on poverty and unemployment."
+   ],
+   "options": [
+    "Economic and Social Council",
+    "Trusteeship Council",
+    "Security Council",
+    "Secretariat"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f03",
+    "f06",
+    "f10"
+   ],
+   "hook": "1941 treaty: Churchill + Roosevelt. Charter drafted at San Francisco by <b>fifty</b> countries.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "The Atlantic Treaty was signed during the Second World War on 14 August 1941."
+    ],
+    [
+     "Rohan",
+     "It was signed between Winston Churchill and Franklin D Roosevelt."
+    ],
+    [
+     "Neha",
+     "Representatives of thirty countries drafted the Charter at San Francisco."
+    ],
+    [
+     "Aditya",
+     "The United Nations aims to establish friendly relations among nations."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "fifty",
+    "fifteen",
+    "forty"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "<b>San Francisco</b>: fifty countries drafted the UN Charter.",
+   "prompt": "Where did representatives of fifty countries draft the Charter of the United Nations?",
+   "options": [
+    "New York",
+    "San Francisco",
+    "The Hague",
+    "London"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-14-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Chief of the Secretariat = <b>Secretary General</b>, 5-year tenure.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My tenure is five years.",
+    "I am selected by the General Assembly and the Security Council.",
+    "I am the chief of the Secretariat."
+   ],
+   "options": [
+    "Judge of the International Court of Justice",
+    "Prime Minister of England",
+    "American President",
+    "Secretary General"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-14-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "General Assembly: decides by <b>majority</b>, in the form of resolutions.",
+   "prompt": "How are decisions taken in the General Assembly?",
+   "options": [
+    "Only by the five permanent members",
+    "By the Secretary General alone",
+    "By majority, in the form of resolutions",
+    "By the International Court of Justice"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31",
+    "f41"
+   ],
+   "hook": "ICJ: settles disputes, interprets <b>international</b> law, advises on legal issues.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "The International Court of Justice is the judicial branch of the United Nations."
+    ],
+    [
+     "Sneha",
+     "It settles disputes between two or more member nations."
+    ],
+    [
+     "Dev",
+     "It interprets national law authentically."
+    ],
+    [
+     "Leela",
+     "To restore normalcy in strife-torn areas, the United Nations may start schools and conduct elections."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "international",
+    "religious",
+    "local"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f38"
+   ],
+   "hook": "<b>UNICEF</b>: food and health care for children; helped India on the MDGs with UNESCO.",
+   "prompt": "Which UN agency works towards making nutritious food and health care available to children?",
+   "options": [
+    "UNESCO",
+    "IMF",
+    "ILO",
+    "UNICEF"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-14-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f03",
+    "f07",
+    "f45",
+    "f34"
+   ],
+   "hook": "Treaty 1941, UN 1945, racism raised 1946, Palau free 1994.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Atlantic Treaty signed",
+     "y": "1941",
+     "k": 1941
+    },
+    {
+     "t": "United Nations established",
+     "y": "1945",
+     "k": 1945
+    },
+    {
+     "t": "India raises racism at the UN",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "Palau gets independence",
+     "y": "1994",
+     "k": 1994
+    }
+   ]
+  },
+  {
+   "qid": "c9-14-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "UN born 1945; just a year later, <b>1946</b>, India raised racism first.",
+   "prompt": "In which year was India the first country to raise the question of racism in the United Nations?",
+   "year": 1946,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-14-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f34"
+   ],
+   "hook": "Trust territories all gone; Palau's independence (1994) ended the <b>Trusteeship Council</b>'s work.",
+   "prompt": "Which organ am I?",
+   "clues": [
+    "After the Second World War, undeveloped territories came under the care of developed nations through me.",
+    "I was meant to help those territories develop and establish democracy.",
+    "My work ended when Palau got independence."
+   ],
+   "options": [
+    "Trusteeship Council",
+    "Economic and Social Council",
+    "Security Council",
+    "Secretariat"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f19"
+   ],
+   "hook": "General Assembly: <b>September to December</b>; elects non-permanent members; passes the budget.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "The General Assembly elects the non-permanent members of the Security Council."
+    ],
+    [
+     "Ira",
+     "It passes the annual budget of the United Nations."
+    ],
+    [
+     "Yash",
+     "Every year it meets in its session from January to December."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "September",
+    "March",
+    "June"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Security Council decision: all <b>5</b> permanent + <b>4</b> non-permanent must agree.",
+   "prompt": "For the Security Council to take any decision, whose assent is necessary?",
+   "options": [
+    "All five permanent members and four non-permanent members",
+    "Any nine members, permanent or not",
+    "All 15 members",
+    "Only the Secretary General"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Two courts at The Hague: ICJ judges nations; the <b>International Criminal Court</b> tries individuals.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am an inter-governmental organisation and an international tribunal.",
+    "My headquarters are at The Hague in the Netherlands.",
+    "I can prosecute individuals for genocide, crimes against humanity and war crimes."
+   ],
+   "options": [
+    "International Court of Justice",
+    "Security Council",
+    "Trusteeship Council",
+    "International Criminal Court"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-14-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f14",
+    "f11"
+   ],
+   "hook": "Same status for all; disputes solved by <b>peaceful</b> means; never attack others.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Zoya",
+     "All member nations of the United Nations will have the same status."
+    ],
+    [
+     "Farhan",
+     "There is no discrimination among them based on geographical size, economic or military power."
+    ],
+    [
+     "Pooja",
+     "Member nations should solve their international disputes by military means."
+    ],
+    [
+     "Kiran",
+     "Member countries are bound by duty not to attack other countries."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "economic",
+    "secret",
+    "peaceful"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15",
+    "f32"
+   ],
+   "hook": "Six organs, but the <b>International Criminal Court</b> is a separate tribunal.",
+   "prompt": "Which of these is NOT one of the six main organs of the United Nations?",
+   "options": [
+    "Trusteeship Council",
+    "International Criminal Court",
+    "Secretariat",
+    "Economic and Social Council"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-14-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Palau independent in <b>1994</b>: no trust territories left.",
+   "prompt": "In which year did Palau get independence, ending the work of the Trusteeship Council?",
+   "year": 1994,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-14-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "New millennium, new goals: MDGs decided in <b>2000</b>.",
+   "prompt": "In which year did the UN member nations decide upon the Millennium Development Goals?",
+   "year": 2000,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-14-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f36",
+    "f29"
+   ],
+   "hook": "Six official languages: English, French, Russian, Spanish, Chinese, <b>Arabic</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "UNESCO promotes cooperation in the fields of education, science and culture."
+    ],
+    [
+     "Shreya",
+     "English, French, Russian, Spanish, Chinese and Hindi are the official languages of the United Nations."
+    ],
+    [
+     "Manav",
+     "The Secretariat supplies information to the media."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "German",
+    "Arabic",
+    "Japanese"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-14-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f36",
+    "f38"
+   ],
+   "hook": "<b>UNESCO</b>: peace through education, science and culture.",
+   "prompt": "Which affiliated organisation am I?",
+   "clues": [
+    "I helped India make progress towards the Millennium Development Goals.",
+    "I work towards peace and security in the world.",
+    "I promote cooperation between member countries in education, science and culture."
+   ],
+   "options": [
+    "UNICEF",
+    "WHO",
+    "UNESCO",
+    "FAO"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Palau: an island in the <b>Pacific</b> Ocean, east of the Philippines.",
+   "prompt": "Palau, whose independence ended the Trusteeship Council's work, is an island in which ocean?",
+   "options": [
+    "Atlantic Ocean",
+    "Indian Ocean",
+    "Arctic Ocean",
+    "Pacific Ocean"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-14-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f24",
+    "f19",
+    "f31"
+   ],
+   "hook": "<b>Secretariat</b>: calls conferences, organises meetings, compiles and supplies information.",
+   "prompt": "Which of these is a function of the Secretariat?",
+   "options": [
+    "To impose economic sanctions",
+    "To elect the non-permanent members of the Security Council",
+    "To interpret international law authentically",
+    "To supply information to the media"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-14-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f44",
+    "f46",
+    "f43"
+   ],
+   "hook": "India <b>always</b> sends troops to UN peacekeeping, even an all-woman force.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meher",
+     "India had participated in the conferences held before the establishment of the United Nations."
+    ],
+    [
+     "Siddharth",
+     "India has sent an all-woman peacekeeping force as well."
+    ],
+    [
+     "Lata",
+     "India has rarely sent her troops to the United Nations peacekeeping forces."
+    ],
+    [
+     "Aarav",
+     "Besides peacekeeping, the United Nations may also take up peace-building."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "always",
+    "never",
+    "seldom"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-14-32",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f42",
+    "f46"
+   ],
+   "hook": "<b>Peacekeeping</b>: security plus help for permanent peace in strife-torn areas.",
+   "prompt": "Which UN activity am I?",
+   "clues": [
+    "I create circumstances favourable for permanent peace in strife-torn areas.",
+    "In conflict-ridden areas, I provide security.",
+    "India has even sent an all-woman force for me."
+   ],
+   "options": [
+    "Trusteeship",
+    "Disarmament",
+    "Peacekeeping",
+    "Arbitration"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f03",
+    "f07",
+    "f45",
+    "f34",
+    "f37"
+   ],
+   "hook": "1941 treaty, 1945 UN, 1946 racism, 1994 Palau, 2000 MDGs.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Atlantic Treaty signed",
+     "y": "1941",
+     "k": 1941
+    },
+    {
+     "t": "United Nations established",
+     "y": "1945",
+     "k": 1945
+    },
+    {
+     "t": "India first raises racism at the UN",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "Trusteeship work ends with Palau",
+     "y": "1994",
+     "k": 1994
+    },
+    {
+     "t": "Millennium Development Goals decided",
+     "y": "2000",
+     "k": 2000
+    }
+   ]
+  },
+  {
+   "qid": "c9-14-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "ECOSOC: 54 members, 3 years each, <b>one-third</b> new every year.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "The Economic and Social Council has 54 members."
+    ],
+    [
+     "Rahul",
+     "They are selected by the General Assembly."
+    ],
+    [
+     "Diya",
+     "Each member has a tenure of three years."
+    ],
+    [
+     "Kunal",
+     "Each year one-half of the members are newly chosen."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 2
+   },
+   "options": [
+    "one-fourth",
+    "one-third",
+    "two-thirds"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-14-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f28",
+    "f30",
+    "f26"
+   ],
+   "hook": "Tenures: Secretary General <b>5</b>, ICJ judge <b>9</b>, ECOSOC member <b>3</b>.",
+   "prompt": "Which set of tenures is correct?",
+   "options": [
+    "Secretary General 9 years, ICJ judge 5 years, ECOSOC member 3 years",
+    "Secretary General 5 years, ICJ judge 3 years, ECOSOC member 9 years",
+    "Secretary General 5 years, ICJ judge 9 years, ECOSOC member 3 years",
+    "Secretary General 3 years, ICJ judge 9 years, ECOSOC member 5 years"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f37",
+    "f38"
+   ],
+   "hook": "Agreed in <b>2000</b>: end poverty and hunger, primary education, fight AIDS and malaria.",
+   "prompt": "What am I?",
+   "clues": [
+    "A time period has been decided to achieve me.",
+    "I include fighting diseases like AIDS and malaria.",
+    "I aim to eliminate poverty and hunger.",
+    "UN member nations decided upon me in 2000."
+   ],
+   "options": [
+    "Atlantic Treaty",
+    "Millennium Development Goals",
+    "Charter of the United Nations",
+    "Trusteeship Council"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-14-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f40"
+   ],
+   "hook": "Security Council: sanctions, military action, and <b>arms</b> control policies.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gauri",
+     "In a conflict, the Security Council may impose economic sanctions."
+    ],
+    [
+     "Harsh",
+     "It may take a decision of military action against the aggressor nation."
+    ],
+    [
+     "Nisha",
+     "The Security Council also prepares policies for trade control."
+    ],
+    [
+     "Vikram",
+     "Human security has been threatened by terrorism, racist and religious conflict."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "price",
+    "border",
+    "arms"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f01",
+    "f02",
+    "f03",
+    "f04"
+   ],
+   "hook": "League (after WWI) failed; nuclear weapons in <b>WWII</b> made peace everyone's duty.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The League of Nations was established after the Second World War.",
+    "The Atlantic Treaty was signed after the Second World War was over.",
+    "After nuclear weapons were used in the Second World War, the idea took root that destructive wars should be stopped.",
+    "The League of Nations fully succeeded in keeping world peace."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Charter's ways: intermediary, legal procedure, <b>arbitrator</b>, military means if needed.",
+   "prompt": "Which is one of the ways laid down in the UN Charter to settle a conflict?",
+   "options": [
+    "Letting the stronger nation decide",
+    "Giving the disputed area to a permanent member",
+    "Appointing an arbitrator to solve the dispute",
+    "Asking the League of Nations to decide"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-14-40",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f22"
+   ],
+   "hook": "Arms control, sanctions, veto: the <b>Security Council</b> guards world peace.",
+   "prompt": "Which organ am I?",
+   "clues": [
+    "I play a joint role with another organ in appointing the ICJ judges and the Secretary General.",
+    "I prepare policies for arms control.",
+    "My main responsibility is to maintain international peace and security.",
+    "Five of my members have the veto power."
+   ],
+   "options": [
+    "Security Council",
+    "General Assembly",
+    "Economic and Social Council",
+    "International Court of Justice"
+   ],
+   "answer": 0
+  }
+ ]
+}

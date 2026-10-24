@@ -1,0 +1,1657 @@
+{
+ "class": 9,
+ "id": "15",
+ "title": "India and Other Countries",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "place",
+   "text": "Afghanistan, Pakistan, Sri Lanka, Bangladesh, Myanmar, Nepal, Bhutan, China and Maldives are India's neighbours.",
+   "year": null,
+   "era": "CE",
+   "quote": "Afghanistan, Pakistan, Sri Lanka, Bangladesh, Myanmar, Nepal, Bhutan, China, Maldives are India's neighbours.",
+   "page": 2
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "The values of equality and mutual respect have great importance in India's foreign policy; India has established relations with neighbours on their basis.",
+   "year": null,
+   "era": "CE",
+   "quote": "The values of equality and mutual respect have a great importance in India's foreign policy. India has established relations with neighbouring countries on the basis of these values.",
+   "page": 2
+  },
+  {
+   "fid": "f03",
+   "kind": "place",
+   "text": "India is the biggest country in the Indian subcontinent and economically and technologically more advanced, so it has a great influence among the South Asian countries.",
+   "year": null,
+   "era": "CE",
+   "quote": "India is the biggest country in the Indian subcontinent. Similarly, India is economically and technologically more advanced. It is thus natural that India has a great influence among the South Asian countries.",
+   "page": 2
+  },
+  {
+   "fid": "f04",
+   "kind": "date",
+   "text": "In 1947 India was partitioned and two independent countries, India and Pakistan, were created.",
+   "year": 1947,
+   "era": "CE",
+   "quote": "In 1947 India was partitioned and two independent countries, India and Pakistan, were created.",
+   "page": 2
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Indo-Pak relations are influenced by three main factors: differences in world views, the Kashmir question and nuclear rivalry.",
+   "year": null,
+   "era": "CE",
+   "quote": "Indo-Pak relations are influenced by three main factors: (1) Differences in the world views of both the countries (2) the Kashmir question and (3) Nuclear rivalry between the two countries",
+   "page": 2
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "In line with its world view, India opposed the military alliances of the Cold War and tried to solve the Indo-Pak conflict bilaterally; the Shimla Agreement of 1972 was based on this principle.",
+   "year": 1972,
+   "era": "CE",
+   "quote": "In line with the Indian world view, India opposed the military alliances of the Cold War and tried to solve the Indo-Pak conflict bilaterally. The Shimla Agreement of 1972 was based on this principle.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "event",
+   "text": "Pakistan tried to maintain relations with the Islamic world and China and entered into a military agreement with America.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pakistan tried to maintain relations with the Islamic world and China and entered into a military agreement with America.",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "date",
+   "text": "An Indo-Pak war took place in 1965 over Kashmir.",
+   "year": 1965,
+   "era": "CE",
+   "quote": "The first Indo-Pak war took place in 1965 over Kashmir.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "date",
+   "text": "The Tashkent Agreement was signed in 1966, but nothing much came out of it.",
+   "year": 1966,
+   "era": "CE",
+   "quote": "The Tashkent Agreement was signed in 1966, but nothing much came out of it.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "event",
+   "text": "The 1971 war was about the creation of Bangladesh, but it also had the dimension of the Kashmir problem.",
+   "year": 1971,
+   "era": "CE",
+   "quote": "Even though the 1971 war was about the creation of Bangladesh, it also had the dimension of the Kashmir problem to it.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "date",
+   "text": "The Shimla Agreement in 1972 provided a new format to the interaction between India and Pakistan.",
+   "year": 1972,
+   "era": "CE",
+   "quote": "The Shimla Agreement in1972 provided a new format to the interaction between India and Pakistan.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "date",
+   "text": "In 1999, there was a conflict between India and Pakistan over infiltration in the Kargil region.",
+   "year": 1999,
+   "era": "CE",
+   "quote": "In 1999, there was a conflict between India and Pakistan over the infiltration by Pakistan in the Kargil region.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "The Kashmir question has been the basic cause of conflict between the two countries; the new type of conflict can be described as terrorism.",
+   "year": null,
+   "era": "CE",
+   "quote": "Even today the Kashmir question is the basic cause of conflict between the two countries. The nature of the conflict has changed and this new type of conflict can be described as terrorism.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "Both India and Pakistan conducted nuclear tests in 1998; one more issue in Indo-Pak relations is the border dispute in the Sir Creek area.",
+   "year": 1998,
+   "era": "CE",
+   "quote": "Both India and Pakistan conducted nuclear tests in 1998 and that gave rise to new concerns in this region. ... One more issue in Indo-Pak relations is the border dispute in Sir Creek area.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "place",
+   "text": "The India-China conflict is connected to two issues, the border issue and the status of Tibet; the border dispute is related to the Aksai Chin area and the Macmahon line.",
+   "year": null,
+   "era": "CE",
+   "quote": "The conflict between India and China is connected to two issues: (1) Border issue and (2) Status of Tibet. The Border dispute between India and China is related to Aksai Chin area and the Macmahon line.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "place",
+   "text": "China is not willing to agree that the Macmahon Line is an international border; India's efforts to sort out the dispute by dialogue have not met with much success.",
+   "year": null,
+   "era": "CE",
+   "quote": "China is not willing to agree that Macmahon Line is an international border. India made several efforts to sort this border dispute by means of dialogue. But it has not met with much success.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "In 1962 China attacked India.",
+   "year": 1962,
+   "era": "CE",
+   "quote": "In 1962 China attacked India.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "Tibet was traditionally autonomous; when China was stepping up its military control in Tibet, the Dalai Lama took asylum in India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Tibet was traditionally autonomous. But when China was stepping up its military control in Tibet, Dalai Lama took asylum in India.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "event",
+   "text": "A joint executive group was set up to solve the Sino-Indian border dispute; with better economic and trade relations and tripartite talks between Russia, China and India, Sino-Indian relations are improving slowly.",
+   "year": null,
+   "era": "CE",
+   "quote": "A joint executive group has been set up to solve the Sino-Indian border dispute. ... Because of improvement in economic and trade relations between India and China and a series of tripartite talks between Russia, China and India, Sino-Indian relations are improving slowly.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "There is a lot of political instability in Afghanistan, caused by the dominance of the terrorist organisation Taliban; India has helped to bring peace and establish a democratic government.",
+   "year": null,
+   "era": "CE",
+   "quote": "There is a lot of political instability in Afghanistan. The dominance of the terrorist organisation Taliban is responsible for this. India has extended help to bring peace, security and stability, curb violence and establish a democratic government.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "India has helped Afghanistan reestablish communication facilities destroyed due to war, build roads, and build schools, health facilities and irrigation projects.",
+   "year": null,
+   "era": "CE",
+   "quote": "India is also helping Afghanistan in reestablishing communication facilities that have got destroyed due to war, build roads, cooperate in the fields of science and technology and build schools, health facilities and irrigation projects.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "place",
+   "text": "Today's Bangladesh is the erstwhile East Pakistan; Pakistan had two parts, West and East, with a linguistic difference between them.",
+   "year": null,
+   "era": "CE",
+   "quote": "Today's Bangladesh is the erstwhile East Pakistan. When Pakistan was created, it had two parts : West and East Pakistan. There was linguistic difference between them.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "India helped Bangladesh in its freedom struggle; Bangladesh was formed in 1971.",
+   "year": 1971,
+   "era": "CE",
+   "quote": "India helped Bangladesh in its freedom struggle. Bangladesh was formed in 1971.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "Treaties between India and Bangladesh about sharing river waters and the shared border ended the conflict between them; trade relations are growing.",
+   "year": null,
+   "era": "CE",
+   "quote": "Some treaties were signed between India and Bangladesh about sharing river waters and some regarding the shared border, which put an end to the conflict between them. Now trade relations between the two countries are growing.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "place",
+   "text": "Political instability in Sri Lanka after 1985 resulted from differences between the Tamils and the Sri Lankan Government; India sent a peacekeeping force to help the Sri Lankan government.",
+   "year": null,
+   "era": "CE",
+   "quote": "Political instability in Sri Lanka after 1985 was a result of the differences between the Tamils and the Sri Lankan Government. At that time India had sent a peacekeeping force to help the Sri Lankan government.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "place",
+   "text": "India has friendly relations with its southern neighbour Sri Lanka, which are important for security in the Indian Ocean.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has friendly relations with the southern neighbour Sri Lanka. ... Friendly relations with Sri Lanka are important from the point of view of security in the Indian Ocean.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "place",
+   "text": "Nepal and Bhutan are landlocked countries surrounded by mountainous terrain; their boundaries are linked with India and China.",
+   "year": null,
+   "era": "CE",
+   "quote": "Nepal and Bhutan are landlocked countries surrounded by mountainous terrain. Their boundaries are linked with India and China.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "The foundation of India-Nepal friendship was laid with the Indo-Nepalese Friendship Treaty in 1950; under it Nepalese citizens can enter India, take up government jobs and carry on trade in India.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "The foundation of friendship between India and Nepal was laid with Indo-Nepalese Friendship Treaty in 1950. According to this treaty, Nepalese citizens can not only enter India, but they are also permitted to take up government jobs and carry on trade in India.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "date",
+   "text": "The year 1990 marked the beginning of Nepal's transition to democracy.",
+   "year": 1990,
+   "era": "CE",
+   "quote": "The year 1990 marked the beginning of Nepal's transition to democracy.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "Nepal depends on India for economic progress, basic facilities, food, trade and energy needs; India sent a lot of help to Nepal at the time of the 2015 earthquake.",
+   "year": 2015,
+   "era": "CE",
+   "quote": "Nepal is dependent upon India for economic progress, basic facilities, food related needs, trade and energy needs. India sent a lot of help to Nepal at the time of the 2015 earthquake.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "place",
+   "text": "India bears the responsibility of the defence of Bhutan; India has cooperated in a project using Bhutan's huge source of water to produce hydel power on a large scale.",
+   "year": null,
+   "era": "CE",
+   "quote": "India bears the responsibility of the defence of Bhutan. Bhutan has a huge source of water. India has cooperated in the project to produce hydel power on a large scale using this source.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "place",
+   "text": "Myanmar is India's door to the South East Asian countries; rail and roadways will connect South Asia, Middle Asia and South East Asia, and India will be able to import natural gas from Myanmar.",
+   "year": null,
+   "era": "CE",
+   "quote": "Myanmar is India's door to the South East Asian countries. South Asia, Middle Asia and South East Asia will be connected with each other with the rail and roadways that are being developed in this area. ... India will be able to import natural gas from Myanmar.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "Aung Sang Su Kyi led a long drawn struggle against the military regime in Myanmar; she has been awarded the Nobel Peace Prize.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aung Sang Su Kyi is credited with having established democracy in Myanmar after a long drawn struggle against the military regime there. She has been awarded the Nobel Peace Prize.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "India's relations with Maldives, a small nation to the South of India, have been friendly from the beginning; trade relations have been established since 1981.",
+   "year": 1981,
+   "era": "CE",
+   "quote": "India's relations with Maldives have been friendly right from the beginning. This small nation to the South of India is dependent on India for a lot of reasons. Trade relations have been established between the two since 1981.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "India has helped Maldives develop infrastructure, health and communication; from 2006 onwards, cooperation in the military field also started.",
+   "year": 2006,
+   "era": "CE",
+   "quote": "India has helped Maldives in the development of basic facilities or infrastructure, health and communication. From 2006 onwards, cooperation in the military field also started between the two countries.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "event",
+   "text": "India and Maldives have treaties on space research, conservation of historical objects and tourism, and have decided to cooperate in fighting terrorism.",
+   "year": null,
+   "era": "CE",
+   "quote": "They have entered into treaties with respect to cooperation in space research, conservation of historical objects and tourism. Similarly they have decided to cooperate in the area of fighting against terrorism.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "date",
+   "text": "SAARC is a regional organisation established by the South Asian countries in 1985; its aim is to encourage economic cooperation and development of the South Asian region.",
+   "year": 1985,
+   "era": "CE",
+   "quote": "SAARC is a regional organisation established by the South Asian countries in 1985. The aim of this organisation is to encourage economic cooperation between South Asian nations and thereby achieve the development of the South Asian region.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "Common interests of South Asian countries include alleviation of poverty, development of agriculture and technological revolution; a treaty on a South Asian Free Trade Area was signed and South Asian University was established.",
+   "year": null,
+   "era": "CE",
+   "quote": "Some common interests of South Asian countries are alleviation of poverty, development of agriculture and technological revolution. ... a treaty about forming South Asian Free Trade Area was signed and South Asian University was established.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "place",
+   "text": "India and America are two powerful nations who have democratic political systems.",
+   "year": null,
+   "era": "CE",
+   "quote": "India and America are two powerful nations who have democratic political systems.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "After the end of the cold war, military relations between India and America increased on a large scale; after India accepted a free market economy, trade relations strengthened.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the end of cold war, the military relations between India and America have increased on a large scale. After India accepted free market economy, the speed of economic progress slowly increased. It resulted in further strengthening the trade relations between India and America.",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "India's nuclear tests in 1998 caused tension with America; after many rounds of talks, America came to believe that India will use its nuclear weapons with responsibility.",
+   "year": 1998,
+   "era": "CE",
+   "quote": "When India conducted nuclear tests in 1998, there was tension in the relations between the two countries. ... America came to believe that India will use its nuclear weapons with responsibility.",
+   "page": 5
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "The Civil Nuclear Agreement signed in 2005 and approved by the U.S. Congress in 2008 was an important landmark in Indo-American relations.",
+   "year": 2005,
+   "era": "CE",
+   "quote": "The Civil Nuclear Agreement signed in 2005 that was approved by the U.S. Congress in 2008 was an important landmark in Indo-American relations.",
+   "page": 5
+  },
+  {
+   "fid": "f43",
+   "kind": "person",
+   "text": "In 2005 the India-U.S. Civil-Nuclear Agreement was signed by Dr. Manmohan Singh, then Prime Minister of India, and George W. Bush Jr., then American President; in 2008 the IAEA approved the deal, making it possible for India to get nuclear technology from other countries as well.",
+   "year": 2008,
+   "era": "CE",
+   "quote": "In 2005, the India-U.S. Civil-Nuclear Agreement was signed by Dr. Manmohan Singh, the then Prime Minister of India and George W. Bush Jr. the then American President. In 2008 the International Atomic Energy Agency (IAEA) gave its approval to the deal. Because of this deal, it became possible for India to get nuclear technology from other countries as well.",
+   "page": 5
+  },
+  {
+   "fid": "f44",
+   "kind": "date",
+   "text": "In 1971, the Indo-Soviet Treaty of friendship and cooperation was signed, giving great impetus to cooperation in defence and technology.",
+   "year": 1971,
+   "era": "CE",
+   "quote": "In 1971, the Indo-Soviet Treaty of friendship and cooperation was signed between them and it gave great impetus to cooperation between the two countries in defence and technology.",
+   "page": 5
+  },
+  {
+   "fid": "f45",
+   "kind": "event",
+   "text": "Soviet Russia gave economic and military help to India; after it collapsed, relations did not improve much until after 1996, when they began to improve slowly; India and Russia have jointly built projects on military equipment and mineral oil.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Soviet Russia has also given economic and military help to India on a large scale. When the Soviet Russia collapsed ... relations did not improve much. After 1996, Indo-Russian relations began to improve slowly. India and Russia have jointly built projects related to production of military equipment, production of mineral oil, etc.",
+   "page": 5
+  },
+  {
+   "fid": "f46",
+   "kind": "place",
+   "text": "Germany and France invest on a large scale in technology in India; India gets the technology of production of weapons from European nations and is a major exporter in engineering and information technology.",
+   "year": null,
+   "era": "CE",
+   "quote": "Especially Germany and France invest on a large scale in the field of technology in India. Apart from this India gets the technology of production of weapons from European nations. India is a major exporter in the fields of engineering and information technology.",
+   "page": 5
+  },
+  {
+   "fid": "f47",
+   "kind": "event",
+   "text": "India and European nations have signed treaties on climate change, clean energy, defence production, disaster management, security of air space and terrorism.",
+   "year": null,
+   "era": "CE",
+   "quote": "Several treaties have been signed in the fields of climate change, clean energy, defence production, disaster management, security of air space and terrorism.",
+   "page": 5
+  },
+  {
+   "fid": "f48",
+   "kind": "place",
+   "text": "India has offered help for the all-round development of African youth and economic help and grants in technology, agriculture and tourism; India's energy needs can be fulfilled by energy rich countries like Egypt, Nigeria, Angola and Sudan.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has shown its readiness to help in the all-round development of African youth. India has also agreed to give economic help and even grants ... technology, agriculture, tourism, etc. India's energy needs can be fulfilled by the energy rich countries like Egypt, Nigeria, Angola and Sudan.",
+   "page": 6
+  },
+  {
+   "fid": "f49",
+   "kind": "date",
+   "text": "The Summit Conference of India and Africa was held in 2015, attended by representatives from all 54 African nations; climate change, terrorism and piracy were discussed.",
+   "year": 2015,
+   "era": "CE",
+   "quote": "The Summit Conference of India and Africa was held in 2015 and the representatives from all 54 African nations attended it. In this conference, discussions were held on many global issues, for example, climate change, terrorism, piracy, etc.",
+   "page": 6
+  },
+  {
+   "fid": "f50",
+   "kind": "place",
+   "text": "The Indo-Pacific area includes countries like Japan, Australia, New Zealand and the South-east Asian nations; India and Australia have treaties on social security, extradition of criminals, drug smuggling, terrorism, art and culture.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Indo-Pacific area includes countries like Japan, Australia, New Zealand and the South-east Asian nations. ... Treaties have been signed between India and Australia about social security, extradition of criminals, the mission against smuggling of drugs, terrorism, art and culture.",
+   "page": 6
+  },
+  {
+   "fid": "f51",
+   "kind": "place",
+   "text": "Japan cooperates with India in basic facilities, information technology, atomic energy and railways and in the development and security of coastal areas; joint naval exercises are carried out between the two.",
+   "year": null,
+   "era": "CE",
+   "quote": "Japan cooperates with India in basic facilities, economic cooperation, information technology, atomic energy and railways. Japan has agreed to extend cooperation and technological help to India in the development and security of coastal areas. Joint naval exercises are carried out between the navies and coast guards of both the countries.",
+   "page": 6
+  },
+  {
+   "fid": "f52",
+   "kind": "date",
+   "text": "After 1991 India adopted a free market economy and trade with South-east Asian nations grew; the policy of increasing this trade is known as the 'Look East' policy.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "After 1991 India changed its economic policy and adopted a free market economy. After that, the trade relations with South-east Asian nations have grown. The policy of increasing trade with South-east Asian nations is known as the 'Look East' policy.",
+   "page": 6
+  },
+  {
+   "fid": "f53",
+   "kind": "date",
+   "text": "After 2014 the 'Look East' policy was made more active; it is nowadays known as the 'Act East' policy.",
+   "year": 2014,
+   "era": "CE",
+   "quote": "After 2014, this policy was made further more active. It is nowadays known as the 'Act East' policy.",
+   "page": 6
+  },
+  {
+   "fid": "f54",
+   "kind": "place",
+   "text": "West Asian countries are primarily suppliers of mineral oil and natural gas; India imports mineral oil from Iran, Iraq, Baharein, Kuwait, Saudi Arabia and United Arab Emirates.",
+   "year": null,
+   "era": "CE",
+   "quote": "The West Asian countries are primarily suppliers of mineral oil and natural gas. ... India imports mineral oil from Iran, Iraq, Baharein, Kuwait, Saudi Arabia and United Arab Emirates.",
+   "page": 6
+  },
+  {
+   "fid": "f55",
+   "kind": "place",
+   "text": "India gets modern technology for agriculture and defence equipment from Israel; many Indians live in Israel for jobs or businesses.",
+   "year": null,
+   "era": "CE",
+   "quote": "We get modern technology for agriculture and defence equipment from Israel. Also, many Indians live in Israel for their jobs or businesses.",
+   "page": 6
+  },
+  {
+   "fid": "f56",
+   "kind": "term",
+   "text": "The main objective of India's foreign policy is to maintain friendly relations with all nations and help each other to bring about development of India and other nations.",
+   "year": null,
+   "era": "CE",
+   "quote": "The main objective of India's foreign policy is to maintain friendly relations with all nations and help each other so as to bring about development of India as well as other nations.",
+   "page": 6
+  },
+  {
+   "fid": "f57",
+   "kind": "event",
+   "text": "Many Indians went to America for education or work; because of these non-resident Indians, cultural, social and economic relations between America and India have been increasing.",
+   "year": null,
+   "era": "CE",
+   "quote": "America for education or work. Due to the presence of these non-resident Indians, the cultural, social and economic relations between America and India have been increasing.",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-15-01",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f11",
+    "f06"
+   ],
+   "hook": "Shimla <b>1972</b>: a new, bilateral format for India and Pakistan.",
+   "prompt": "In which year was the Shimla Agreement signed between India and Pakistan?",
+   "year": 1972,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f22",
+    "f23",
+    "f24"
+   ],
+   "hook": "East Pakistan became <b>Bangladesh</b> in 1971, with India's help.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "I signed treaties with India about sharing river waters and our shared border.",
+    "A linguistic difference with the western part led to a movement to liberate me.",
+    "India helped me in my freedom struggle.",
+    "I was once called East Pakistan."
+   ],
+   "options": [
+    "Nepal",
+    "Bangladesh",
+    "Sri Lanka",
+    "Myanmar"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "Indo-Pak: world views, Kashmir, <b>nuclear</b> rivalry.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Indo-Pak relations are influenced by three main factors."
+    ],
+    [
+     "Arjun",
+     "One factor is the difference in the world views of both the countries."
+    ],
+    [
+     "Sana",
+     "Another factor is the Kashmir question."
+    ],
+    [
+     "Kabir",
+     "The third factor is the sports rivalry between the two countries."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 5
+   },
+   "options": [
+    "trade",
+    "language",
+    "nuclear"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-15-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f15",
+    "f18"
+   ],
+   "hook": "India-China: the <b>border</b> issue and the <b>status of Tibet</b>.",
+   "prompt": "The conflict between India and China is connected to which two issues?",
+   "options": [
+    "The border issue and the status of Tibet",
+    "Kashmir and Sir Creek",
+    "River waters and trade",
+    "Oil and natural gas"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38"
+   ],
+   "hook": "<b>SAARC</b> (1985): South Asian countries working together for economic cooperation.",
+   "prompt": "What am I?",
+   "clues": [
+    "A South Asian University was established through me.",
+    "Treaties on my platform made trade easier among South Asian countries.",
+    "I am a regional organisation set up by the South Asian countries in 1985."
+   ],
+   "options": [
+    "SAARC",
+    "United Nations",
+    "International Atomic Energy Agency",
+    "Trusteeship Council"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "Nine neighbours, from Afghanistan to Maldives, met with <b>equality and mutual respect</b>.",
+   "prompt": "Which of these countries is NOT one of India's neighbours?",
+   "options": [
+    "Japan",
+    "Bhutan",
+    "Maldives",
+    "Myanmar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f27",
+    "f32",
+    "f18"
+   ],
+   "hook": "Nepal and Bhutan: <b>landlocked</b> and mountainous. Myanmar: door to South East Asia.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Myanmar is India's door to the South East Asian countries."
+    ],
+    [
+     "Ishaan",
+     "India will be able to import natural gas from Myanmar."
+    ],
+    [
+     "Tanvi",
+     "Nepal and Bhutan are coastal countries surrounded by mountainous terrain."
+    ],
+    [
+     "Rohan",
+     "When China stepped up its military control in Tibet, the Dalai Lama took asylum in India."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "landlocked",
+    "island",
+    "desert"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-08",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23",
+    "f10"
+   ],
+   "hook": "East Pakistan became free in <b>1971</b>: Bangladesh was formed.",
+   "prompt": "In which year was Bangladesh formed?",
+   "year": 1971,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Macmahon line dispute; in <b>1962</b> China attacked India.",
+   "prompt": "In which year did China attack India?",
+   "year": 1962,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f27",
+    "f31"
+   ],
+   "hook": "Water-rich <b>Bhutan</b>: hydel power on a large scale with India's cooperation.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "I am landlocked and surrounded by mountainous terrain.",
+    "I have a huge source of water.",
+    "India has cooperated with me to produce hydel power on a large scale."
+   ],
+   "options": [
+    "Nepal",
+    "Afghanistan",
+    "Maldives",
+    "Bhutan"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-15-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Nepal: friendship treaty <b>1950</b>, road to democracy from <b>1990</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "The Indo-Nepalese Friendship Treaty was signed in 1950."
+    ],
+    [
+     "Aditya",
+     "Under it, Nepalese citizens can take up government jobs in India."
+    ],
+    [
+     "Zoya",
+     "The year 2000 marked the beginning of Nepal's transition to democracy."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "1972",
+    "1985",
+    "1990"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-15-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f50",
+    "f51"
+   ],
+   "hook": "Indo-Pacific: <b>Japan, Australia, New Zealand</b> and South-east Asia.",
+   "prompt": "Which countries does the Indo-Pacific area include?",
+   "options": [
+    "Egypt, Nigeria, Angola and Sudan",
+    "Japan, Australia, New Zealand and the South-east Asian nations",
+    "Iran, Iraq, Kuwait and Saudi Arabia",
+    "Germany and France"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "<b>Sri Lanka</b>: southern neighbour; India sent a peacekeeping force after 1985.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "Friendly relations with me are important for security in the Indian Ocean.",
+    "After 1985, differences between the Tamils and my government caused political instability.",
+    "India sent a peacekeeping force to help my government.",
+    "I am India's southern neighbour."
+   ],
+   "options": [
+    "Maldives",
+    "Myanmar",
+    "Bangladesh",
+    "Sri Lanka"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-15-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f56",
+    "f02"
+   ],
+   "hook": "Foreign policy goal: <b>friendly relations with all</b>, development for all.",
+   "prompt": "What is the main objective of India's foreign policy?",
+   "options": [
+    "To join the military alliances of the Cold War",
+    "To trade only with neighbouring countries",
+    "To stay away from all international organisations",
+    "To maintain friendly relations with all nations and help each other develop"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-15-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f11",
+    "f12",
+    "f14",
+    "f09"
+   ],
+   "hook": "Nuclear tests <b>1998</b>, Kargil <b>1999</b>: one year apart.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Dev",
+     "The Shimla Agreement of 1972 provided a new format to the interaction between India and Pakistan."
+    ],
+    [
+     "Anaya",
+     "In 1999 there was a conflict between India and Pakistan in the Kargil region."
+    ],
+    [
+     "Om",
+     "In 2005 both India and Pakistan conducted nuclear tests."
+    ],
+    [
+     "Sneha",
+     "The Tashkent Agreement was signed in 1966."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "1998",
+    "1966",
+    "1962"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-16",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f08",
+    "f10",
+    "f11",
+    "f12"
+   ],
+   "hook": "War 1965, Bangladesh war 1971, Shimla 1972, Kargil 1999.",
+   "prompt": "Put these India-Pakistan events in order, earliest first.",
+   "items": [
+    {
+     "t": "Indo-Pak war over Kashmir",
+     "y": "1965",
+     "k": 1965
+    },
+    {
+     "t": "War over creation of Bangladesh",
+     "y": "1971",
+     "k": 1971
+    },
+    {
+     "t": "Shimla Agreement",
+     "y": "1972",
+     "k": 1972
+    },
+    {
+     "t": "Kargil conflict",
+     "y": "1999",
+     "k": 1999
+    }
+   ]
+  },
+  {
+   "qid": "c9-15-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f04",
+    "f28",
+    "f17",
+    "f09"
+   ],
+   "hook": "Partition 1947, Nepal treaty 1950, China attack 1962, Tashkent 1966.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Partition: India and Pakistan created",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "Indo-Nepalese Friendship Treaty",
+     "y": "1950",
+     "k": 1950
+    },
+    {
+     "t": "China attacks India",
+     "y": "1962",
+     "k": 1962
+    },
+    {
+     "t": "Tashkent Agreement",
+     "y": "1966",
+     "k": 1966
+    }
+   ]
+  },
+  {
+   "qid": "c9-15-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f09",
+    "f08"
+   ],
+   "hook": "War in 1965, Tashkent the next year, <b>1966</b>, but little came of it.",
+   "prompt": "In which year was the Tashkent Agreement signed?",
+   "year": 1966,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f32",
+    "f33"
+   ],
+   "hook": "<b>Myanmar</b>: natural gas, rail and road links, India's door to South East Asia.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "India will be able to import natural gas from me.",
+    "Rail and roadways through me will connect South Asia, Middle Asia and South East Asia.",
+    "Aung Sang Su Kyi struggled against the military regime here.",
+    "I am India's door to the South East Asian countries."
+   ],
+   "options": [
+    "Afghanistan",
+    "Myanmar",
+    "Nepal",
+    "Bangladesh"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f39",
+    "f40",
+    "f57"
+   ],
+   "hook": "India and America: democracies; after the cold war, military ties <b>increased</b> on a large scale.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "India and America are two powerful nations with democratic political systems."
+    ],
+    [
+     "Ira",
+     "Many Indians went to America for education or work."
+    ],
+    [
+     "Yash",
+     "After the end of the cold war, military relations between India and America decreased on a large scale."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 13
+   },
+   "options": [
+    "stopped",
+    "increased",
+    "weakened"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "India-China border: <b>Aksai Chin</b> and the <b>Macmahon line</b>.",
+   "prompt": "The border dispute between India and China is related to which areas?",
+   "options": [
+    "Sir Creek and Kargil",
+    "Tashkent and Shimla",
+    "Tibet and Bhutan",
+    "Aksai Chin area and the Macmahon line"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-15-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f44",
+    "f45"
+   ],
+   "hook": "<b>1971</b> Indo-Soviet Treaty: a big push to defence and technology ties.",
+   "prompt": "What am I?",
+   "clues": [
+    "I gave great impetus to cooperation in defence and technology.",
+    "I was signed between India and the erstwhile Soviet Russia.",
+    "I was signed in 1971."
+   ],
+   "options": [
+    "Shimla Agreement",
+    "Tashkent Agreement",
+    "Civil Nuclear Agreement",
+    "Indo-Soviet Treaty of friendship and cooperation"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-15-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "Maldives: small nation to India's <b>South</b>; trade since 1981; India helps with infrastructure.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "India's relations with Maldives have been friendly right from the beginning."
+    ],
+    [
+     "Farhan",
+     "Maldives is a small nation to the North of India."
+    ],
+    [
+     "Pooja",
+     "Trade relations between the two have been established since 1981."
+    ],
+    [
+     "Gauri",
+     "India has helped Maldives in the development of infrastructure, health and communication."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "East",
+    "North-east",
+    "South"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-15-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f14",
+    "f09"
+   ],
+   "hook": "India: no Cold War alliances, talks <b>bilaterally</b>; Pakistan signed a military pact with America.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "India opposed the military alliances of the Cold War.",
+    "India joined the military alliances of the Cold War.",
+    "The Sir Creek border dispute is between India and China.",
+    "The Tashkent Agreement settled the Kashmir question for ever."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Nepal friendship treaty <b>1950</b>: Nepalese citizens may work and trade in India.",
+   "prompt": "In which year was the Indo-Nepalese Friendship Treaty signed?",
+   "year": 1950,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "SAARC born in <b>1985</b> for South Asian economic cooperation.",
+   "prompt": "In which year was SAARC established by the South Asian countries?",
+   "year": 1985,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-27",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f34",
+    "f37",
+    "f29",
+    "f30"
+   ],
+   "hook": "Maldives trade 1981, SAARC 1985, Nepal's democracy from 1990, earthquake help 2015.",
+   "prompt": "Put these in order, earliest first.",
+   "items": [
+    {
+     "t": "Trade relations with Maldives begin",
+     "y": "1981",
+     "k": 1981
+    },
+    {
+     "t": "SAARC established",
+     "y": "1985",
+     "k": 1985
+    },
+    {
+     "t": "Nepal's transition to democracy begins",
+     "y": "1990",
+     "k": 1990
+    },
+    {
+     "t": "India helps Nepal after earthquake",
+     "y": "2015",
+     "k": 2015
+    }
+   ]
+  },
+  {
+   "qid": "c9-15-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "<b>Afghanistan</b>: India has helped rebuild roads, schools and irrigation after war.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "There has been a lot of political instability in me.",
+    "India has helped me build schools, health facilities and irrigation projects.",
+    "India has helped me reestablish communication facilities destroyed due to war."
+   ],
+   "options": [
+    "Afghanistan",
+    "Myanmar",
+    "Nepal",
+    "Sri Lanka"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f54",
+    "f55",
+    "f52",
+    "f53"
+   ],
+   "hook": "West Asia sends oil and gas; <b>Israel</b> sends farm and defence technology.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "The West Asian countries are primarily suppliers of mineral oil and natural gas."
+    ],
+    [
+     "Shreya",
+     "India has traditionally had relations with the West Asian countries."
+    ],
+    [
+     "Manav",
+     "From Egypt we get modern technology for agriculture and defence equipment."
+    ],
+    [
+     "Leela",
+     "The 'Look East' policy is nowadays known as the 'Act East' policy."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Israel",
+    "Nigeria",
+    "Sudan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f48",
+    "f49"
+   ],
+   "hook": "Energy-rich Africa: <b>Egypt, Nigeria, Angola, Sudan</b>.",
+   "prompt": "Which energy rich countries can help fulfil India's energy needs?",
+   "options": [
+    "Egypt, Nigeria, Angola and Sudan",
+    "Japan, Australia and New Zealand",
+    "Germany and France",
+    "Nepal and Bhutan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f46",
+    "f47",
+    "f51"
+   ],
+   "hook": "Germany and France invest in technology; weapons technology comes from <b>Europe</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meher",
+     "Germany and France invest on a large scale in the field of technology in India."
+    ],
+    [
+     "Siddharth",
+     "India is a major exporter in the fields of engineering and information technology."
+    ],
+    [
+     "Lata",
+     "From Bhutan India gets the technology of production of weapons."
+    ],
+    [
+     "Aarav",
+     "Joint naval exercises are carried out between India and Japan."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Europe",
+    "Nepal",
+    "Maldives"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-15-32",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f32"
+   ],
+   "hook": "<b>Aung Sang Su Kyi</b>: long struggle against Myanmar's military regime, Nobel Peace Prize.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I struggled for a long time against the military regime in my country.",
+    "My country is India's door to the South East Asian countries.",
+    "I have been awarded the Nobel Peace Prize."
+   ],
+   "options": [
+    "Manmohan Singh",
+    "Aung Sang Su Kyi",
+    "Winston Churchill",
+    "George W. Bush Jr."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f44",
+    "f41",
+    "f43",
+    "f49"
+   ],
+   "hook": "Soviet treaty 1971, tests 1998, nuclear deal 2005, IAEA nod 2008, Africa summit 2015.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Indo-Soviet Treaty of friendship",
+     "y": "1971",
+     "k": 1971
+    },
+    {
+     "t": "India conducts nuclear tests",
+     "y": "1998",
+     "k": 1998
+    },
+    {
+     "t": "Singh-Bush civil nuclear deal",
+     "y": "2005",
+     "k": 2005
+    },
+    {
+     "t": "IAEA approves the nuclear deal",
+     "y": "2008",
+     "k": 2008
+    },
+    {
+     "t": "India-Africa Summit Conference",
+     "y": "2015",
+     "k": 2015
+    }
+   ]
+  },
+  {
+   "qid": "c9-15-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f12",
+    "f14"
+   ],
+   "hook": "Nuclear tests 1998, then Kargil the very next year, <b>1999</b>.",
+   "prompt": "In which year was there a conflict between India and Pakistan in the Kargil region?",
+   "year": 1999,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-35",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f42",
+    "f43"
+   ],
+   "hook": "Agreed in <b>2005</b> (Manmohan Singh and Bush), approved in 2008: a landmark deal.",
+   "prompt": "In which year did Dr. Manmohan Singh and George W. Bush Jr. agree on the India-U.S. Civil-Nuclear deal?",
+   "year": 2005,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-15-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f42",
+    "f43"
+   ],
+   "hook": "Deal agreed 2005; U.S. Congress and IAEA approved it in <b>2008</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "Dr. Manmohan Singh was the Prime Minister of India at the time of the Civil Nuclear deal."
+    ],
+    [
+     "Rahul",
+     "It was approved by the U.S. Congress in 2008."
+    ],
+    [
+     "Diya",
+     "In 1998 the International Atomic Energy Agency gave its approval to the deal."
+    ],
+    [
+     "Kunal",
+     "Because of this deal, India could get nuclear technology from other countries as well."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "2014",
+    "2008",
+    "2005"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Sino-Indian border talks: a <b>joint executive group</b> was set up.",
+   "prompt": "What was set up to solve the Sino-Indian border dispute?",
+   "options": [
+    "The Trusteeship Council",
+    "A joint executive group",
+    "SAARC",
+    "The Tashkent Agreement"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f28",
+    "f29",
+    "f30"
+   ],
+   "hook": "<b>Nepal</b>: treaty 1950, democracy from 1990, India's help after the 2015 earthquake.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "My transition to democracy began in 1990.",
+    "India sent a lot of help to me at the time of the 2015 earthquake.",
+    "Under a 1950 treaty, my citizens can take up government jobs in India."
+   ],
+   "options": [
+    "Bhutan",
+    "Sri Lanka",
+    "Maldives",
+    "Nepal"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-15-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f44",
+    "f45"
+   ],
+   "hook": "Soviet help, a slow patch after the collapse, then better ties <b>after 1996</b>.",
+   "prompt": "Which statement about India and Russia is correct?",
+   "options": [
+    "Soviet Russia never gave military help to India.",
+    "After 1996, Indo-Russian relations began to improve slowly.",
+    "Relations became very close at once after Soviet Russia collapsed.",
+    "The Indo-Soviet Treaty of friendship and cooperation was signed in 1966."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-15-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38"
+   ],
+   "hook": "SAARC aim: <b>economic</b> cooperation; free trade area and South Asian University.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Harsh",
+     "SAARC was established by the South Asian countries in 1985."
+    ],
+    [
+     "Nisha",
+     "Its aim is to encourage political cooperation between South Asian nations."
+    ],
+    [
+     "Vikram",
+     "A treaty about forming a South Asian Free Trade Area was signed."
+    ],
+    [
+     "Leela",
+     "Common interests of South Asian countries include alleviation of poverty."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "military",
+    "economic",
+    "religious"
+   ],
+   "answer": 1
+  }
+ ]
+}

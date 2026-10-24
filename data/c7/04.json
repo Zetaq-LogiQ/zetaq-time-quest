@@ -1,0 +1,1506 @@
+{
+ "class": 7,
+ "id": "04",
+ "title": "Maharashtra before the Times of Shivaji Maharaj",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "At the beginning of the seventeenth century CE, most of Maharashtra was under Nizamshah of Ahmadnagar and Adilshah of Bijapur.",
+   "year": null,
+   "era": "CE",
+   "quote": "At the beginning of the seventeenth century CE, most of the territory in Maharashtra was under the control of Nizamshah of Ahmadnagar and Adilshah of Bijapur.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "event",
+   "text": "The Mughals had entered Khandesh; their objective was to expand their power in the south.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Mughals had entered Khandesh. Their objective was to expand their power in the south.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "person",
+   "text": "The Siddi people, who had come from Africa, had settlements along the Konkan coastline.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were settlements of Siddi people, who had come from Africa, along the coastline of Konkan.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "place",
+   "text": "The Portuguese had established their rule in Goa and Vasai on the western coastline.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Portuguese had already established their rule in Goa and Vasai on the western coastline.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "The British, the Dutch and the French entered through trading companies by setting up factories.",
+   "year": null,
+   "era": "CE",
+   "quote": "The British, the Dutch and the French had found an entry through the medium of trading companies by setting up factories.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "People from Europe were called 'Topkar' on the basis of their customary headgear.",
+   "year": null,
+   "era": "CE",
+   "quote": "These different people from Europe were called 'Topkar' on the basis of their customary headgear.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "A pargana was made up of many villages; its headquarters was generally called Kasba; a village smaller than a Kasba was called Mauja.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pargana was made up of many villages. Generally, the headquarters of a pargana was called 'Kasba'. A village smaller than a Kasba was called 'Mauja'.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "The chief of the village was the Patil; he tried to bring maximum land under cultivation and resolved disputes.",
+   "year": null,
+   "era": "CE",
+   "quote": "The chief of the village was the Patil. He used to try to bring maximum land under cultivation. When there was any dispute in the village, the Patil resolved it and made peace.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "A Kulkarni helped the Patil and kept the record of the revenue collected.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Kulkarni helped the Patil in his work. The Kulkarni kept the record of the revenue that was collected.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "Baluta was the share of agricultural produce that peasants gave to village artisans for their services.",
+   "year": null,
+   "era": "CE",
+   "quote": "The peasants gave a share of their agricultural produce to the artisans for the services they rendered to the village community. This share was known as baluta.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "place",
+   "text": "Indapur kasba of Indapur pargana and Wai kasba of Wai pargana were the headquarters of those parganas.",
+   "year": null,
+   "era": "CE",
+   "quote": "Indapur kasba of Indapur pargana, Wai kasba of Wai pargana were the headquarters of those parganas.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "A market (peth) was usually adjacent to a kasba; the Shete and Mahajan were its watandars and the Mahajan maintained its accounts.",
+   "year": null,
+   "era": "CE",
+   "quote": "There was usually a market (peth) adjacent to a kasba. The Shete and Mahajan were the watandars of the peth. ... The Mahajan maintained the accounts of the peth.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "place",
+   "text": "A peth established in Pashan near Pune was called Jijapur.",
+   "year": null,
+   "era": "CE",
+   "quote": "As per the order of Veermata Jajabai, a peth was established in Pashan near Pune. It was called Jijapur.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "place",
+   "text": "Malpura, Khelpura, Paraspura and Vithapura in Aurangabad were peths named after Maloji, Kheloji, Parasoji and Vithoji.",
+   "year": null,
+   "era": "CE",
+   "quote": "Malpura, Khelpura, Paraspura, Vithapura, in Aurangabad are also new peths established in the name of Maloji, Kheloji, Parasoji and Vithoji respectively.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "place",
+   "text": "Shivapur, adjacent to Khed, was a peth established in the name of Shivaji Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Shivapur' adjacent to 'Khed' was a peth established in the name of Shivaji Maharaj.",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "'Budruk' is the original town and 'Khurd' the new one, e.g. Vadgaon Budruk and Vadgaon Khurd.",
+   "year": null,
+   "era": "CE",
+   "quote": "The original town is 'Budruk' and the new one is 'Khurd'. For example, Vadgaon Budruk and Vadgaon Khurd.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "place",
+   "text": "The Pune pargana was a big pargana of 290 villages.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Pune pargana was a big pargana. It consisted of 290 villages.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "place",
+   "text": "There were 64 villages in the Chakan pargana.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were 64 villages in the Chakan pargana.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "place",
+   "text": "The Shirwal pargana was small, with only 40 villages.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Shirwal pargana was small. It had only 40 villages.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "The Deshmukh and the Deshpande were the watandar officers of the pargana; the Deshmukh was the chief of patils.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Deshmukh and the Deshpande were the watandar officers of the pargana. The Deshmukh was the chief of patils in a pargana.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "The Deshpande was the chief of all Kulkarnis in the pargana.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Deshpande was the chief of all Kulkarnis in the pargana.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Vatan is an Arabic word; in Maharashtra it refers to hereditary land for which the holder does not pay revenue.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vatan is an Arabic word. In Maharashtra, it is used is refer to hereditary land for which the holder does not have to pay revenue.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "A great famine occurred in Maharashtra in 1630 CE.",
+   "year": 1630,
+   "era": "CE",
+   "quote": "A great famine occurred in Maharashtra in 1630 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "During the famine, people were ready to sell themselves for a piece of bhakri, but nobody would buy them.",
+   "year": null,
+   "era": "CE",
+   "quote": "'People were ready to sell themselves for a piece of bhakri, but there was nobody to buy them'.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "The famine put an end to industries; financial transactions stopped; people wandered far for a livelihood.",
+   "year": null,
+   "era": "CE",
+   "quote": "The famine put an end to industries. All financial transactions came to a standstill. People had to wander to faraway regions in search of a livelihood.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "The tradition of Sants in Maharashtra began with Sant Dnyaneshwar and Sant Namdeo.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Maharashtra, the tradition of Sants which began with Sant Dnyaneshwar and Sant Namdeo was carried on by Sants coming from various strata of the society.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "Sants from all strata included Sant Chokhamela, Sant Goroba, Sant Sena, Sant Sawata, Sant Narhari and Sant Shaikh Muhammad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sant Chokhamela, Sant Goroba, Sant Sena, Sant Sawata, Sant Narhari, Sant Shaikh Muhammad, etc.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "Women Sants included Soyrabai (Sant Chokhoba's wife), Nirmalabai (his sister), Muktabai, Janabai, Kanhopatra and Bahinabai Siurkar.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sant Chokhoba's wife Sant Soyrabai, and sister Sant Nirmalabai, Sant Muktabai, Sant Janabai, Sant Kanhopatra, Sant Bahinabai Siurkar and other women were also among them.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "place",
+   "text": "Pandharpur was the centre of the Sant movement; Vitthal was worshipped there on the banks of the river Chandrabhaga.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pandharpur was at the centre of the Sant movement. Vitthal was the object of their worship. On the banks of the river Chandrabhaga at Pandharpur...",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "At Pandharpur, equality was propagated through bhajans, keertans and unity meals (kala).",
+   "year": null,
+   "era": "CE",
+   "quote": "There, equality was propagated through bhajans, keertans, and unity meals (kala).",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "Sant Namdeo was a skilled organiser and performed excellent keertans.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was a skilled organiser. He performed excellent keertans as well.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "place",
+   "text": "Sant Namdeo went up to the Punjab; his compositions are included in the 'Guru Granth Sahib' of the Sikhs.",
+   "year": null,
+   "era": "CE",
+   "quote": "He went up to the Punjab, propagating his thoughts. His compositions are included in the 'Guru Granth Sahib' of Sikhs.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "event",
+   "text": "Sant Namdeo built a memorial to Sant Chokhamela at Pandharpur.",
+   "year": null,
+   "era": "CE",
+   "quote": "He built a memorial to Sant Chokhamela at Pandharpur.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "person",
+   "text": "Sant Dnyaneshwar wrote the 'Bhavartha-deepika' or 'Dnyaneshwari', explaining the Bhagavad Geeta, and also composed the 'Amrutanubhav'.",
+   "year": null,
+   "era": "CE",
+   "quote": "He wrote the 'Bhavartha-deepika' or 'Dnyaneshwari' which elucidates the meaning of the Sanskrit 'Bhagavad Geeta'. He also composed the 'Amrutanubhav'.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "person",
+   "text": "Sant Dnyaneshwar gave the prestige of a religion to the Varkari movement; his 'Pasayadaan' is in the Dnyaneshwari.",
+   "year": null,
+   "era": "CE",
+   "quote": "He gave the prestige of a religion to the Varkari movement. ... His 'Pasayadaan' in Dnyaneshwari uplifts the mind.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "Sant Dnyaneshwar's brothers were Sant Nivruttinath and Sant Sopandev, and his sister was Muktabai.",
+   "year": null,
+   "era": "CE",
+   "quote": "The poetic compositions of his brothers Sant Nivruttinath and Sant Sopandev and sister Muktabai are well-known.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "Sant Eknath's compositions include abhanga, gavalana and bharud.",
+   "year": null,
+   "era": "CE",
+   "quote": "His compositions are many and diverse. They include abhanga, gavalana, bharud, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "Sant Eknath portrayed people's life in the Bhavarth Ramayana and explained in Marathi the Bhakti part of the Sanskrit 'Bhagwat'.",
+   "year": null,
+   "era": "CE",
+   "quote": "He has portrayed people's life in Bhavarth Ramayana through the story of Ram. He explained in Marathi, the Bhakti part of the Sanskrit work 'Bhagwat'.",
+   "page": 3
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Sant Eknath believed Marathi was inferior to no other language and criticised those who hated other religions.",
+   "year": null,
+   "era": "CE",
+   "quote": "He believed that our Marathi language was inferior to no other language. ... He heavily criticised those who hated other religions.",
+   "page": 3
+  },
+  {
+   "fid": "f40",
+   "kind": "place",
+   "text": "Sant Tukaram belonged to Dehu near Pune; his 'Gatha' is a precious treasure of the Marathi language.",
+   "year": null,
+   "era": "CE",
+   "quote": "He belonged to Dehu near Pune. ... His 'Gatha' is a precious treasure of the Marathi language.",
+   "page": 3
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "Sant Tukaram threw the loan documents into the river Indrayani and freed many poor families from debt.",
+   "year": null,
+   "era": "CE",
+   "quote": "he threw in the river Indrayani, the documents of the loans that people had borrowed from him and freed many poor families from the bonds of loan.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "event",
+   "text": "Sant Tukaram stressed that devotion should be coupled with morality; dogmatic people sank his abhangas in the Indrayani.",
+   "year": null,
+   "era": "CE",
+   "quote": "He stressed that devotion (Bhakti) should be coupled with morality. ... Some dogmatic people opposed the social awakening that he had undertaken, and sank his abhangas in the Indrayani.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "person",
+   "text": "Sant Tukaram's disciples and associates included Navji Mali, Gavnarshet Wani, Santaji Jagnade, Shivba Kasar, Bahinabai Siurkar and Mahadajipant Kulkarni.",
+   "year": null,
+   "era": "CE",
+   "quote": "They include Navji Mali, Gavnarshet Wani, Santaji Jagnade, Shivba Kasar, Bahinabai Siurkar and Mahadajipant Kulkarni.",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "event",
+   "text": "Gangarampant Maval and Santaji Jagnade wrote down the abhangas of Sant Tukaram.",
+   "year": null,
+   "era": "CE",
+   "quote": "An important task completed by Gangarampant Maval and Santaji Jagnade was writing down the abhangas of Sant Tukaram.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "event",
+   "text": "The Sants explained the complex dharma of the scholars (Shastris and Pandits) in the language of the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Sants elucidated the complex dharma of the scholars (Shastris and Pandits) in the language of the people.",
+   "page": 4
+  },
+  {
+   "fid": "f46",
+   "kind": "person",
+   "text": "The Sants found God in their work; Sant Sawata's famous line refers to farm work.",
+   "year": null,
+   "era": "CE",
+   "quote": "They found God in their work. Sant Sawata said, ... This statement refers to farm work but applies to work in all walks of life.",
+   "page": 4
+  },
+  {
+   "fid": "f47",
+   "kind": "person",
+   "text": "Ramdas Swami was from Jamb in Marathwada and explained the importance of physical fitness.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ramdas Swami : He was from Jamb in Marathwada. He explained the importance of physical fitness to the people",
+   "page": 4
+  },
+  {
+   "fid": "f48",
+   "kind": "person",
+   "text": "Ramdas Swami gave lessons through Dasbodh, Karunashtaka and Manache Shlok.",
+   "year": null,
+   "era": "CE",
+   "quote": "He gave practical education and lessons in good conduct through his works like Dasbodh, Karunashtaka, Manache Shlok.",
+   "page": 5
+  },
+  {
+   "fid": "f49",
+   "kind": "place",
+   "text": "Ramdas Swami founded the Samarth Sampradaya, with Chaphal as its centre, and propagated the worship of Ram and Hanuman.",
+   "year": null,
+   "era": "CE",
+   "quote": "founded the Samarth Sampradaya. Chaphal was the centre of this Sampradaya. He propagated the worship of Ram and Hanuman.",
+   "page": 5
+  },
+  {
+   "fid": "f50",
+   "kind": "person",
+   "text": "Shahaji Maharaj, considered a visionary of Swaraj, was at the forefront of those dreaming of freedom.",
+   "year": null,
+   "era": "CE",
+   "quote": "Among them, Shahaji Maharaj, who is considered to be a visionary of Swaraj was on the forefront.",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-04-01",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "<b>1630</b>: the year of the great famine - no rain, no crops, no fodder.",
+   "prompt": "In which year did a great famine occur in Maharashtra?",
+   "year": 1630,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-04-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f34",
+    "f36"
+   ],
+   "hook": "Dnyaneshwar wrote the Dnyaneshwari - the name gives it away!",
+   "prompt": "Which Sant am I?",
+   "clues": [
+    "My brothers were Sant Nivruttinath and Sant Sopandev.",
+    "I also composed the 'Amrutanubhav'.",
+    "I wrote the 'Bhavartha-deepika', which explains the Bhagavad Geeta."
+   ],
+   "options": [
+    "Sant Namdeo",
+    "Sant Dnyaneshwar",
+    "Sant Eknath",
+    "Sant Tukaram"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-03",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Patil = village chief; Kulkarni = his record-keeper.",
+   "prompt": "Who was the chief of a village?",
+   "options": [
+    "The Deshmukh",
+    "The Mahajan",
+    "The Kulkarni",
+    "The Patil"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f41",
+    "f43"
+   ],
+   "hook": "Tukaram of Dehu: loan papers into the Indrayani, poor families set free.",
+   "prompt": "Which Sant am I?",
+   "clues": [
+    "Navji Mali and Shivba Kasar were among my associates.",
+    "My 'Gatha' is a precious treasure of Marathi.",
+    "I threw loan documents into the river Indrayani.",
+    "I belonged to Dehu near Pune."
+   ],
+   "options": [
+    "Sant Eknath",
+    "Sant Namdeo",
+    "Ramdas Swami",
+    "Sant Tukaram"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f29",
+    "f30"
+   ],
+   "hook": "Pandharpur sits on the Chandrabhaga; Vitthal is worshipped there.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Pandharpur was at the centre of the Sant movement."
+    ],
+    [
+     "Meera",
+     "The Sants worshipped Vitthal on the banks of the Krishna river at Pandharpur."
+    ],
+    [
+     "Kabir",
+     "They spread equality through bhajans, keertans and unity meals."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "Indrayani",
+    "Neera",
+    "Chandrabhaga"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Siddis came from Africa and settled on the Konkan coast.",
+   "prompt": "Who were the Siddi people?",
+   "options": [
+    "People from Africa who settled along the Konkan coastline",
+    "Traders from Europe who set up factories",
+    "Officers of a pargana",
+    "Rulers of Ahmadnagar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "Early 1600s: Nizamshah (Ahmadnagar) + Adilshah (Bijapur) ruled most of Maharashtra; Mughals in Khandesh.",
+   "prompt": "At the beginning of the seventeenth century CE, who controlled most of Maharashtra?",
+   "options": [
+    "The Mughals and the Portuguese",
+    "The British and the Dutch",
+    "The Siddis and the French",
+    "Nizamshah of Ahmadnagar and Adilshah of Bijapur"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Baluta: a share of the harvest for the village artisans.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was given for services to the village community.",
+    "Peasants gave me out of their agricultural produce.",
+    "Village artisans received me."
+   ],
+   "options": [
+    "Vatan",
+    "Baluta",
+    "Peth",
+    "Kasba"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f47",
+    "f48",
+    "f49"
+   ],
+   "hook": "Ramdas Swami of Jamb: fitness, Dasbodh, Samarth Sampradaya centred at Chaphal.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Chaphal was the centre of the Sampradaya I founded.",
+    "I wrote Dasbodh and Manache Shlok.",
+    "I came from Jamb in Marathwada.",
+    "I explained the importance of physical fitness."
+   ],
+   "options": [
+    "Sant Eknath",
+    "Ramdas Swami",
+    "Sant Sawata",
+    "Sant Namdeo"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-10",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07",
+    "f11"
+   ],
+   "hook": "Pargana's HQ = Kasba (Wai kasba of Wai pargana).",
+   "prompt": "What was the headquarters of a pargana generally called?",
+   "options": [
+    "Mauja",
+    "Vatan",
+    "Peth",
+    "Kasba"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f09",
+    "f21"
+   ],
+   "hook": "Kulkarni keeps the village records; Deshpande is chief of all Kulkarnis.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "A Kulkarni helped the Patil in his work."
+    ],
+    [
+     "Dev",
+     "The Kulkarni kept the record of the revenue that was collected."
+    ],
+    [
+     "Isha",
+     "The Deshmukh was the chief of all Kulkarnis in a pargana."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Deshpande",
+    "Mahajan",
+    "Patil"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f39"
+   ],
+   "hook": "Eknath: bharud, gavalana, Bhavarth Ramayana - and pride in Marathi.",
+   "prompt": "Which Sant am I?",
+   "clues": [
+    "I believed Marathi was inferior to no other language.",
+    "I explained in Marathi the Bhakti part of the 'Bhagwat'.",
+    "I portrayed people's life in the Bhavarth Ramayana.",
+    "I composed bharuds and gavalanas."
+   ],
+   "options": [
+    "Sant Dnyaneshwar",
+    "Sant Tukaram",
+    "Ramdas Swami",
+    "Sant Eknath"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Portuguese rule: Goa and Vasai on the western coast.",
+   "prompt": "Which Europeans had already established their rule in Goa and Vasai?",
+   "options": [
+    "The Portuguese",
+    "The British",
+    "The Dutch",
+    "The French"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f31",
+    "f32",
+    "f33"
+   ],
+   "hook": "Namdeo: keertans, Punjab, Guru Granth Sahib, and a memorial to Chokhamela.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "Sant Namdeo was a skilled organiser who performed excellent keertans."
+    ],
+    [
+     "Om",
+     "His compositions are included in the Guru Granth Sahib of the Sikhs."
+    ],
+    [
+     "Tara",
+     "He built a memorial to Sant Tukaram at Pandharpur."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Eknath",
+    "Chokhamela",
+    "Dnyaneshwar"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Peth = the market next to a kasba, run by Shete and Mahajan.",
+   "prompt": "What was the market adjacent to a kasba called?",
+   "options": [
+    "Pargana",
+    "Mauja",
+    "Peth",
+    "Baluta"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Deshmukh does for the pargana what the Patil does for the village.",
+   "prompt": "The Deshmukh was the chief of which officers in a pargana?",
+   "options": [
+    "The Kulkarnis",
+    "The Mahajans",
+    "The Patils",
+    "The Shetes"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f49",
+    "f34",
+    "f38"
+   ],
+   "hook": "Tukaram-Dehu, Ramdas-Chaphal, Dnyaneshwar-Amrutanubhav, Eknath-Bhavarth Ramayana.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Ramdas Swami - Pandharpur",
+    "Sant Tukaram - Dehu near Pune",
+    "Sant Dnyaneshwar - Bhavarth Ramayana",
+    "Sant Eknath - Amrutanubhav"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "Village: Patil + Kulkarni. Pargana: Deshmukh + Deshpande.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neel",
+     "The Deshmukh did at the pargana level what the Patil did at the village level."
+    ],
+    [
+     "Avni",
+     "The Deshpande did the work of the Patils at the pargana level."
+    ],
+    [
+     "Yash",
+     "These watandar officers were the link between the people and the government."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Shetes",
+    "Kulkarnis",
+    "Mahajans"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-19",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f17",
+    "f18",
+    "f19"
+   ],
+   "hook": "Pune 290, Chakan 64, Shirwal only 40 villages.",
+   "prompt": "Which of these parganas had the fewest villages?",
+   "options": [
+    "Pune",
+    "Chakan",
+    "Shirwal"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f31",
+    "f32",
+    "f33"
+   ],
+   "hook": "Namdeo reached the Punjab - his verses are in the Guru Granth Sahib.",
+   "prompt": "Which Sant am I?",
+   "clues": [
+    "I built a memorial to Sant Chokhamela at Pandharpur.",
+    "My compositions are included in the 'Guru Granth Sahib'.",
+    "I went up to the Punjab to spread my thoughts.",
+    "I was a skilled organiser and performed keertans."
+   ],
+   "options": [
+    "Sant Namdeo",
+    "Sant Sena",
+    "Sant Eknath",
+    "Sant Dnyaneshwar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f06"
+   ],
+   "hook": "Topkar = Europeans, named for their headgear.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "The Portuguese ruled Goa and Vasai on the western coast."
+    ],
+    [
+     "Zoya",
+     "The British, the Dutch and the French came in through trading companies and set up factories."
+    ],
+    [
+     "Arjun",
+     "Their customary weapons gave the Europeans the name Topkar."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "headgear",
+    "ships",
+    "language"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f41",
+    "f40"
+   ],
+   "hook": "Tukaram of Dehu threw loan papers into the Indrayani.",
+   "prompt": "Which statement about Sant Tukaram is correct?",
+   "options": [
+    "He wrote the Dasbodh.",
+    "He founded the Samarth Sampradaya.",
+    "He threw loan documents into the Indrayani and freed poor families from debt.",
+    "He belonged to Jamb in Marathwada."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Budruk = original town, Khurd = new one.",
+   "prompt": "Of Vadgaon Budruk and Vadgaon Khurd, which is the original town?",
+   "options": [
+    "Vadgaon Budruk",
+    "Vadgaon Khurd",
+    "Both were founded together"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f50",
+    "f01"
+   ],
+   "hook": "Maharashtra was not independent - Shahaji Maharaj, the Swaraj visionary, dreamt of freedom.",
+   "prompt": "Who was at the forefront of those dreaming of freedom, and is considered a visionary of Swaraj?",
+   "options": [
+    "Ramdas Swami",
+    "Sant Eknath",
+    "Adilshah of Bijapur",
+    "Shahaji Maharaj"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Vatan (Arabic): hereditary land - no revenue to pay.",
+   "prompt": "What am I?",
+   "clues": [
+    "My name comes from an Arabic word.",
+    "I am land that passes down in a family.",
+    "My holder does not have to pay revenue on me."
+   ],
+   "options": [
+    "Baluta",
+    "Vatan",
+    "Kasba",
+    "Peth"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-26",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Pune pargana: 290 villages - far bigger than Chakan's 64.",
+   "prompt": "How many villages did the Pune pargana have?",
+   "options": [
+    "64",
+    "40",
+    "290",
+    "190"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "Maloji-Malpura, Vithoji-Vithapura, Shivaji Maharaj-Shivapur near Khed.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "Malpura in Aurangabad was named after Maloji."
+    ],
+    [
+     "Pooja",
+     "Vithapura was named after Vithoji."
+    ],
+    [
+     "Sahil",
+     "Shivapur near Khed was named after Shahaji Maharaj."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Kheloji",
+    "Parasoji",
+    "Shivaji"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f43"
+   ],
+   "hook": "Gangarampant Maval + Santaji Jagnade wrote down Tukaram's abhangas.",
+   "prompt": "Who wrote down the abhangas of Sant Tukaram?",
+   "options": [
+    "Gangarampant Maval and Santaji Jagnade",
+    "Navji Mali and Shivba Kasar",
+    "Nivruttinath and Sopandev",
+    "Gavnarshet Wani and Mahadajipant Kulkarni"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Jijapur peth: Pashan, near Pune.",
+   "prompt": "Where was the peth called Jijapur established?",
+   "options": [
+    "Pashan near Pune",
+    "Khed",
+    "Aurangabad",
+    "Wai"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Dnyaneshwar's family of poets: Nivruttinath, Sopandev and Muktabai.",
+   "prompt": "Who were the brothers of Sant Dnyaneshwar?",
+   "options": [
+    "Sant Chokhamela and Sant Goroba",
+    "Sant Sena and Sant Sawata",
+    "Navji Mali and Shivba Kasar",
+    "Sant Nivruttinath and Sant Sopandev"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f45",
+    "f46",
+    "f42"
+   ],
+   "hook": "Tukaram: devotion must go with morality. Sawata: God in farm work.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "The Sants explained the dharma of the Shastris and Pandits in the language of the people."
+    ],
+    [
+     "Vihaan",
+     "Sant Sawata's famous line refers to farm work."
+    ],
+    [
+     "Diya",
+     "Sant Namdeo stressed that devotion should be coupled with morality."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Eknath",
+    "Sena",
+    "Tukaram"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f24",
+    "f23"
+   ],
+   "hook": "1630 famine: people would sell themselves for a piece of bhakri.",
+   "prompt": "During the great famine, people were ready to sell themselves for what?",
+   "options": [
+    "A pot of water",
+    "A piece of bhakri",
+    "A handful of salt",
+    "A bundle of fodder"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-33",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f23",
+    "f25"
+   ],
+   "hook": "Famine of <b>1630</b>: industries ended, trade stopped, people wandered far.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "A great famine struck Maharashtra in 1636 and people were greatly distressed."
+    ],
+    [
+     "Myra",
+     "The famine put an end to industries and stopped all financial transactions."
+    ],
+    [
+     "Kabir",
+     "People had to wander to faraway regions in search of a livelihood."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 6
+   },
+   "options": [
+    "1630",
+    "1620",
+    "1656"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-34",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Shete and Mahajan ran the peth; the Mahajan kept its accounts.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I received some land from the government for setting up a peth.",
+    "I was a watandar of the peth along with the Shete.",
+    "I maintained the accounts of the peth."
+   ],
+   "options": [
+    "Shete",
+    "Mahajan",
+    "Kulkarni",
+    "Deshpande"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f27",
+    "f28"
+   ],
+   "hook": "Women Sants: Soyrabai, Nirmalabai, Muktabai, Janabai, Kanhopatra, Bahinabai. Goroba is in the other list of Sants.",
+   "prompt": "Which of these was NOT among the women Sants?",
+   "options": [
+    "Sant Goroba",
+    "Sant Kanhopatra",
+    "Sant Janabai",
+    "Sant Nirmalabai"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f34",
+    "f48",
+    "f40",
+    "f38"
+   ],
+   "hook": "Amrutanubhav - Dnyaneshwar; Dasbodh - Ramdas; Gatha - Tukaram; Bhavarth Ramayana - Eknath.",
+   "prompt": "Which work was composed by Sant Dnyaneshwar?",
+   "options": [
+    "Dasbodh",
+    "Gatha",
+    "Bhavarth Ramayana",
+    "Amrutanubhav"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-04-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f49",
+    "f47"
+   ],
+   "hook": "Ramdas Swami: from Jamb, Sampradaya centred at Chaphal, Ram and Hanuman.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Ramdas Swami founded the Samarth Sampradaya."
+    ],
+    [
+     "Reyansh",
+     "The Samarth Sampradaya had Dehu as its centre."
+    ],
+    [
+     "Tanvi",
+     "He propagated the worship of Ram and Hanuman."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "Chaphal",
+    "Jamb",
+    "Pandharpur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-04-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "Deshmukh heads the Patils; Deshpande heads the Kulkarnis.",
+   "prompt": "Which statement about the watandar officers of a pargana is correct?",
+   "options": [
+    "The Deshpande was chief of the patils and the Deshmukh was chief of the Kulkarnis.",
+    "The Deshmukh was chief of the patils and the Deshpande was chief of the Kulkarnis.",
+    "The Shete was chief of the patils and the Mahajan was chief of the Kulkarnis.",
+    "The Patil was chief of the Deshmukhs and the Kulkarni was chief of the Deshpandes."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-04-39",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f41",
+    "f42"
+   ],
+   "hook": "Indrayani: loan papers thrown in by Tukaram; his abhangas sunk by opponents.",
+   "prompt": "Which river am I?",
+   "clues": [
+    "Some dogmatic people sank a Sant's abhangas in me.",
+    "A Sant threw loan documents into me to free poor families.",
+    "That Sant belonged to Dehu near Pune."
+   ],
+   "options": [
+    "Chandrabhaga",
+    "Neera",
+    "Indrayani",
+    "Godavari"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-04-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "Chakan pargana: 64 villages. Shirwal: 40.",
+   "prompt": "How many villages were there in the Chakan pargana?",
+   "options": [
+    "40",
+    "46",
+    "64",
+    "290"
+   ],
+   "answer": 2
+  }
+ ]
+}

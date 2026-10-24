@@ -1,0 +1,1461 @@
+{
+ "class": 7,
+ "id": "12",
+ "title": "Progression of the Empire",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "person",
+   "text": "Malharrao was the founder of the Holkar rule at Indore and was well-versed in guerrilla warfare.",
+   "year": null,
+   "era": "CE",
+   "quote": "Malharrao was the founder of the Holkar rule at Indore. He served the Maratha state for a long time. He was well-versed in guerrilla warfare.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "event",
+   "text": "Malharrao fought in the northern campaigns under Bajirao I and Nanasaheb Peshwa, helped establish Maratha supremacy in Malwa and Rajputana, and helped Peshwa Madhavrao revive Maratha prestige after Panipat.",
+   "year": null,
+   "era": "CE",
+   "quote": "He proved his valour in the northern campaigns of the Marathas at the time of Bajirao I and Nanasaheb Peshwa. He was instrumental in establishing the Maratha supremacy in Malwa and Rajputana. He proved to be of great help to Peshwa Madhavrao in reviving the Maratha prestige in the North after the defeat at Panipat.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "person",
+   "text": "Punyashloka Ahilyabai Holkar was the wife of Khanderao, Malharrao's son.",
+   "year": null,
+   "era": "CE",
+   "quote": "Punyashloka Ahilyabai Holkar was the wife of Khanderao, who was Malharrao's son.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "place",
+   "text": "Khanderao died in the battle of Kumbheri; a few days later Malharrao also passed away.",
+   "year": null,
+   "era": "CE",
+   "quote": "Khanderao died in the battle of Kumbheri. After a few days, Malharrao also passed away.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "After Malharrao, Ahilyabai assumed the reins of the Indore administration.",
+   "year": null,
+   "era": "CE",
+   "quote": "After him, Ahilyabai assumed the reins of the Indore administration.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "event",
+   "text": "Ahilyabai made new laws for agricultural cess and revenue collection, and dug wells for farmers, promoted trade and industry and built lakes and tanks.",
+   "year": null,
+   "era": "CE",
+   "quote": "She made new laws for agricultural cess, revenue collection etc. and put the affairs of the State in order. She strove to bring more land under cultivation, digging wells for farmers, promoting trade and industry, building lakes and tanks.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "event",
+   "text": "Ahilyabai built temples, Ghats, Maths, Dharamshalas and drinking water facilities at places of pilgrimage in the four quarters of India, important for cultural integration.",
+   "year": null,
+   "era": "CE",
+   "quote": "She built temples, Ghats, Maths, Dharamshalas, drinking water facilities at all important places of pilgrimage in the four quarters of India. This effort of hers was important for the cultural integration of the country.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "event",
+   "text": "Ahilyabai ruled ably for twenty-eight years and enhanced the Maratha prestige in the North.",
+   "year": null,
+   "era": "CE",
+   "quote": "She ruled ably for twentyeight years and enhanced the Maratha prestige in the North.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "Yashwantrao Holkar tried to save the Maratha Kingdom when it was on the decline.",
+   "year": null,
+   "era": "CE",
+   "quote": "Yashwantrao Holkar tried to save the Maratha Kingdom when it was on the decline.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "Parasoji was given the jagir of Varhad and Gondawan during the reign of Shahu Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Parasoji was given the jagir of Varhad and Gondawan during the reign of Shahu Maharaj.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Raghuji was the bravest and most capable of the Bhosales of Nagpur; he brought the area around Tirucherapalli and Arcot under Maratha dominance.",
+   "year": null,
+   "era": "CE",
+   "quote": "Among the Bhosales of Nagpur, Raghuji was the bravest and the most capable. He brought the area surrounding Tirucherapalli and Arcot in the South under Maratha dominance.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "Shahu Maharaj assigned Raghuji the chauthai rights of Bengal, Bihar and Odisha.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shahu Maharaj had assigned to him the chauthai rights of Bengal, Bihar and Odisha.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "date",
+   "text": "In 1751 CE the Bhosales of Nagpur won the Odisha territory from Ali Vardi Khan.",
+   "year": 1751,
+   "era": "CE",
+   "quote": "In 1751 CE the Bhosales of Nagpur won the Odisha territory from Ali Vardi Khan.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "The Marathas dominated Odisha till 1803 CE.",
+   "year": 1803,
+   "era": "CE",
+   "quote": "Till 1803 CE Marathas dominated Odisha.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "The Maratha ditch was dug by the British around Kolkata to protect the city from a possible attack by the Bhosales of Nagpur.",
+   "year": null,
+   "era": "CE",
+   "quote": "The British at Kolkata used to fear the Bhosales from Nagpur. So, to protect the city of Kolkata from a possible Maratha attack, they dug a ditch around the city. That ditch came to be known as the Maratha ditch.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "Bajirao I made Ranoji Shinde a Sardar in the North; Ranoji's sons Jayappa, Dattaji and Mahadji strengthened Maratha rule in North India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bajirao I had rightly judged the capabilities of Ranoji Shinde and made him a Sardar in the North. After Ranoji's death, his sons Jayappa, Dattaji and Mahadji, too, proved their valour",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "Peshwa Madhavrao conferred the family title on Mahadji.",
+   "year": null,
+   "era": "CE",
+   "quote": "Peshwa Madhavrao conferred the family title on Mahadji.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "Mahadji felt guerilla tactics did not suit the plains of the North, so he trained his army and modernised his artillery under the French military expert de Boigne.",
+   "year": null,
+   "era": "CE",
+   "quote": "He realised that the guerilla tactics of the Marathas would not be suitable for the warfare in the plains of the North. He trained his army and modernised his artillery under the guidance of a French military expert de Boigne.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "event",
+   "text": "With his trained army Mahadji subdued the Rohillas, the Jats, the Rajputs and the Bundellas.",
+   "year": null,
+   "era": "CE",
+   "quote": "With the help of this trained army, he subdued the Rohillas, the Jats, the Rajputs and the Bundellas.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "event",
+   "text": "The British got the Diwani rights of Bengal province and wanted to capture the Emperor; Mahadji Shinde defeated the British and reinstated the Emperor.",
+   "year": null,
+   "era": "CE",
+   "quote": "They managed to get Diwani rights of Bengal province and wanted to capture the Emperor of Delhi. In these adverse circumstances, Mahadji Shinde defeated the British and reinstated the Emperor on the throne.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "The Emperor conferred on Mahadji the title Vakil-i-Mutlak (Chief agent of the emperor), which he accepted on behalf of the minor Peshwa Savai Madhavrao.",
+   "year": null,
+   "era": "CE",
+   "quote": "conferred the title of 'Vakil - i - Mutlak (Chief agent of the emperor) upon him, which meant that he had the authority of civil and military rights. He accepted that position on behalf of the minor Peshwa Savai Madhavrao.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "date",
+   "text": "Mahadji looked after the Delhi affairs from 1784 CE.",
+   "year": 1784,
+   "era": "CE",
+   "quote": "looked after the Delhi affairs during 1784 CE to 1794 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "Mahadji looked after the Delhi affairs until 1794 CE.",
+   "year": 1794,
+   "era": "CE",
+   "quote": "looked after the Delhi affairs during 1784 CE to 1794 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "person",
+   "text": "Ghulam Kadir, Najib's grandson, captured the Red Fort, tortured the Emperor, gouged out his eyes and took the royal treasure; Mahadji defeated him and returned the wealth to the Emperor.",
+   "year": null,
+   "era": "CE",
+   "quote": "Najib's grandson Ghulam Kadir captured the Red Fort and tortured the Emperor and his begums for their wealth. He gouged out the Emperor's eyes and took hold of the royal treasure. In these circumstances, Mahadji defeated Kadir. He confiscated the wealth from him and returned it to the emperor.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "Raghunathrao went to the British camp wanting to become a Peshwa with their help, leading to conflict between the Marathas and the British.",
+   "year": null,
+   "era": "CE",
+   "quote": "Raghunathrao opted to go to the British camp. He wanted to become a Peshwa with the help of the British. ... This led to an inevitable conflict between the Marathas and the British.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "place",
+   "text": "The British marched from Mumbai via Borghat; the Marathas under Mahadaji Shinde blocked their foodgrain supply with guerrilla tactics.",
+   "year": null,
+   "era": "CE",
+   "quote": "From Mumbai, the British marched on the Marathas via Borghat. The Maratha army gathered under the leadership of Mahadaji Shinde. The Marathas blocked the supply of foodgrains to the British, using guerrilla tactics.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "place",
+   "text": "The armies met at Wadgaon (on today's Pune-Mumbai Road); the British were defeated and surrendered Raghunathrao to the Marathas.",
+   "year": null,
+   "era": "CE",
+   "quote": "Both the armies met at Wadgaon (on today's Pune-Mumbai Road). The British were defeated in this battle and were forced to surrender the custody of Raghunathrao to the Marathas.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "Delhi was under Maratha control till 1803 CE.",
+   "year": 1803,
+   "era": "CE",
+   "quote": "Delhi was under Maratha control till 1803 CE.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "place",
+   "text": "Mahadaji died at Wanawadi near Pune, where a memorial (the Shinde Chhatri) is built to him.",
+   "year": null,
+   "era": "CE",
+   "quote": "He died at Wanawadi near Pune where a memorial is built to him.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "Kanhoji Angre and his son Tulaji strengthened the navy raised by Shivaji Maharaj and contained the Portuguese, the British and the Siddhis.",
+   "year": null,
+   "era": "CE",
+   "quote": "The navy raised by Shivaji Maharaj was strengthened by Kanhoji Angre and his son Tulaji. With this strong navy, they contained the naval powers of the Portuguese, the British and the Siddhis.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "Khanderao Dabhade and his son Trimbakrao laid the foundation of Maratha power in Gujarat.",
+   "year": null,
+   "era": "CE",
+   "quote": "Khanderao Dabhade and his son Trimbakrao laid the foundation of Maratha power in Gujarat.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "After Khanderao's death, his wife Umabai routed the Mughal Sardar of Ahmadabad and conquered the fort there.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the death of Khanderao, his wife Umabai routed the Mughal Sardar of Ahmadabad. She conquered the fort there.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "place",
+   "text": "The Gaikwads made Vadodara in Gujarat a seat of their power.",
+   "year": null,
+   "era": "CE",
+   "quote": "Later, the Gaikwads made Vadodara in Gujarat a seat of their power.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "place",
+   "text": "The Pawars of Dhar and Dewas in Madhya Pradesh helped the Shindes and the Holkars expand Maratha power in the North.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Pawars of Dhar and Dewas in Madhya Pradesh rendered valuable assistance to the Shindes and the Holkars in expanding the Maratha power in the North.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "person",
+   "text": "After Madhavrao's death, Nana Phadnavis set right the State's affairs with Mahadaji's help and managed the South, helped by the Patwardhans, Haripant Phadke and the Rastes.",
+   "year": null,
+   "era": "CE",
+   "quote": "Nana Phadanvis, the famous administrator of the Peshwas and a Maratha statesman, set right the affairs of the State with the help of Mahadaji. While Mahadaji was busy restoring the Maratha supremacy in the North, Nana managed the affairs of the South. In this, he was helped by the Patwardhans, Haripant Phadke, the Rastes and other Sardars.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "event",
+   "text": "The Holkars of Indore, Bhosales of Nagpur, Shindes of Gwalior and Gaikwads of Vadodara were the pillars of the Maratha power in its last phase.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Holkars of Indore, Bhosales of Nagpur, Shindes of Gwalior, Gaikwads of Vadodara ... were the pillars of the Maratha power in its last phase.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "After the deaths of Mahadaji Shinde and Nana Phadanavis the Maratha power waned; Peshwa Bajirao II, son of Raghunathrao, lacked leadership qualities and had many vices.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the death of Mahadaji Shinde and Nana Phadanavis, the Maratha power began to wane. At that time, Bajirao II, the son of Raghunathrao was the Peshwa. He did not have leadership qualities and had many vices.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "The British captured Pune in 1817 CE and hoisted their flag, the Union Jack, there.",
+   "year": 1817,
+   "era": "CE",
+   "quote": "The British captured Pune in 1817 CE and hoisted their flag 'Union Jack' there.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "date",
+   "text": "In 1818 CE the British defeated the Marathas in the battle of Ashti in Solapur district and the Maratha power came to an end.",
+   "year": 1818,
+   "era": "CE",
+   "quote": "In 1818 CE the British defeated Marathas in the battle of Ashti in Solapur district and finally the Maratha power came to an end.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "With the end of Maratha power the medieval period of Indian history ended and the Modern period began.",
+   "year": null,
+   "era": "CE",
+   "quote": "The medieval period of Indian history came to an end. The Modern period began.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-12-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f13",
+    "f22",
+    "f38",
+    "f39"
+   ],
+   "hook": "Pune taken in <b>1817</b>, Ashti lost in <b>1818</b>: the end came one year later.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Bhosales win Odisha",
+     "y": "1751",
+     "k": 1751
+    },
+    {
+     "t": "Mahadji takes charge of Delhi affairs",
+     "y": "1784",
+     "k": 1784
+    },
+    {
+     "t": "British capture Pune",
+     "y": "1817",
+     "k": 1817
+    },
+    {
+     "t": "Battle of Ashti",
+     "y": "1818",
+     "k": 1818
+    }
+   ]
+  },
+  {
+   "qid": "c7-12-02",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f22",
+    "f23",
+    "f38",
+    "f39"
+   ],
+   "hook": "Mahadji in Delhi 1784 to 1794: ten years.",
+   "prompt": "Arrange these events from earliest to latest.",
+   "items": [
+    {
+     "t": "Mahadji begins Delhi affairs",
+     "y": "1784",
+     "k": 1784
+    },
+    {
+     "t": "Mahadji's Delhi years end",
+     "y": "1794",
+     "k": 1794
+    },
+    {
+     "t": "Union Jack hoisted in Pune",
+     "y": "1817",
+     "k": 1817
+    },
+    {
+     "t": "Maratha power ends at Ashti",
+     "y": "1818",
+     "k": 1818
+    }
+   ]
+  },
+  {
+   "qid": "c7-12-03",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f13",
+    "f22",
+    "f28",
+    "f38"
+   ],
+   "hook": "Odisha won 1751; Delhi under Marathas till 1803.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Odisha won from Ali Vardi Khan",
+     "y": "1751",
+     "k": 1751
+    },
+    {
+     "t": "Mahadji starts looking after Delhi",
+     "y": "1784",
+     "k": 1784
+    },
+    {
+     "t": "Maratha control of Delhi ends",
+     "y": "1803",
+     "k": 1803
+    },
+    {
+     "t": "British capture Pune",
+     "y": "1817",
+     "k": 1817
+    }
+   ]
+  },
+  {
+   "qid": "c7-12-04",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f13",
+    "f22",
+    "f23",
+    "f14",
+    "f39"
+   ],
+   "hook": "Odisha 1751 to 1803: Maratha rule there for 52 years.",
+   "prompt": "Five events, one line: put them in order.",
+   "items": [
+    {
+     "t": "Bhosales win Odisha",
+     "y": "1751",
+     "k": 1751
+    },
+    {
+     "t": "Mahadji takes over Delhi affairs",
+     "y": "1784",
+     "k": 1784
+    },
+    {
+     "t": "Mahadji's Delhi charge ends",
+     "y": "1794",
+     "k": 1794
+    },
+    {
+     "t": "Maratha dominance over Odisha ends",
+     "y": "1803",
+     "k": 1803
+    },
+    {
+     "t": "British win the battle of Ashti",
+     "y": "1818",
+     "k": 1818
+    }
+   ]
+  },
+  {
+   "qid": "c7-12-05",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "<b>1818</b>: Ashti, Solapur district. The Maratha power ends.",
+   "prompt": "In which year did the British defeat the Marathas in the battle of Ashti?",
+   "year": 1818,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-12-06",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "<b>1817</b>: the Union Jack over Pune, one year before Ashti.",
+   "prompt": "In which year did the British capture Pune and hoist the Union Jack there?",
+   "year": 1817,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-12-07",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "<b>1751</b>: the Bhosales of Nagpur take Odisha.",
+   "prompt": "In which year did the Bhosales of Nagpur win the Odisha territory from Ali Vardi Khan?",
+   "year": 1751,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-12-08",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "<b>1784</b>: Mahadji starts managing Delhi.",
+   "prompt": "In which year did Mahadji begin looking after the Delhi affairs?",
+   "year": 1784,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-12-09",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Odisha: won 1751, held till <b>1803</b>.",
+   "prompt": "Till which year did the Marathas dominate Odisha?",
+   "year": 1803,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-12-10",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "1784 to <b>1794</b>: Mahadji's ten years with Delhi affairs.",
+   "prompt": "Till which year did Mahadji look after the Delhi affairs?",
+   "year": 1794,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-12-11",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "<b>1803</b>: the end of Maratha control of Delhi, and of Odisha too.",
+   "prompt": "Till which year was Delhi under Maratha control?",
+   "year": 1803,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-12-12",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f03",
+    "f04",
+    "f05",
+    "f07",
+    "f08"
+   ],
+   "hook": "Punyashloka Ahilyabai: 28 years of wise rule at Indore.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My husband Khanderao died in the battle of Kumbheri.",
+    "I built temples and Ghats at places of pilgrimage across India.",
+    "I ruled ably for twenty-eight years.",
+    "I assumed the reins of the Indore administration."
+   ],
+   "options": [
+    "Umabai",
+    "Ahilyabai Holkar",
+    "Maharani Tarabai",
+    "Rani Kishori"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f19",
+    "f21",
+    "f24",
+    "f29"
+   ],
+   "hook": "de Boigne's training, Vakil-i-Mutlak, memorial at Wanawadi.",
+   "prompt": "Who am I?",
+   "clues": [
+    "A French military expert, de Boigne, guided me in training my army.",
+    "The Emperor gave me the title Vakil-i-Mutlak.",
+    "I defeated Ghulam Kadir.",
+    "My memorial stands at Wanawadi near Pune."
+   ],
+   "options": [
+    "Mahadji Shinde",
+    "Ranoji Shinde",
+    "Malharrao Holkar",
+    "Raghuji Bhosale"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f11",
+    "f12"
+   ],
+   "hook": "Raghuji: bravest Bhosale; chauthai of Bengal, Bihar, Odisha.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Shahu Maharaj gave me the chauthai rights of Bengal, Bihar and Odisha.",
+    "I brought Tirucherapalli and Arcot under Maratha dominance.",
+    "I was the bravest and most capable among the Bhosales of Nagpur."
+   ],
+   "options": [
+    "Parasoji",
+    "Mahadji Shinde",
+    "Raghuji Bhosale",
+    "Yashwantrao Holkar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-12-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f01",
+    "f02",
+    "f03"
+   ],
+   "hook": "Malharrao: guerrilla expert, founder at Indore.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was well-versed in guerrilla warfare.",
+    "I proved my valour in the northern campaigns of Bajirao I and Nanasaheb Peshwa.",
+    "My son Khanderao was the husband of Ahilyabai.",
+    "I founded my family's rule at Indore."
+   ],
+   "options": [
+    "Yashwantrao Holkar",
+    "Malharrao Holkar",
+    "Ranoji Shinde",
+    "Khanderao Dabhade"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-16",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Nana in the South, Mahadji in the North.",
+   "prompt": "Who am I?",
+   "clues": [
+    "The Patwardhans, Haripant Phadke and the Rastes helped me.",
+    "I set right the affairs of the State after Peshwa Madhavrao's death.",
+    "I managed the affairs of the South while Mahadji restored supremacy in the North."
+   ],
+   "options": [
+    "Bajirao II",
+    "Raghunathrao",
+    "Trimbakrao",
+    "Nana Phadnavis"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-12-17",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f31",
+    "f32"
+   ],
+   "hook": "Umabai of the Dabhades took the fort at Ahmadabad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My husband and his son laid the foundation of Maratha power in Gujarat.",
+    "After my husband's death I routed the Mughal Sardar of Ahmadabad.",
+    "I conquered the fort at Ahmadabad."
+   ],
+   "options": [
+    "Ahilyabai Holkar",
+    "Maharani Tarabai",
+    "Umabai",
+    "Rani Kishori"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-12-18",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Najib's grandson Ghulam Kadir, defeated by Mahadji.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was the grandson of Najib Khan.",
+    "I captured the Red Fort.",
+    "I gouged out the Emperor's eyes and took the royal treasure."
+   ],
+   "options": [
+    "Ali Vardi Khan",
+    "Qutub Shah",
+    "Ghulam Kadir",
+    "de Boigne"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-12-19",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Bajirao II, Raghunathrao's son: no leadership, the power waned.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My father was Raghunathrao.",
+    "I did not have leadership qualities and had many vices.",
+    "I could not unite the Maratha Sardars.",
+    "I was the Peshwa when the Maratha power began to wane."
+   ],
+   "options": [
+    "Bajirao I",
+    "Sawai Madhavrao",
+    "Nana Phadnavis",
+    "Bajirao II"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-12-20",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "The British at Kolkata feared the Bhosales: hence the Maratha ditch.",
+   "prompt": "What am I?",
+   "clues": [
+    "The British at Kolkata feared the Bhosales of Nagpur.",
+    "I was dug around the city of Kolkata.",
+    "I was meant to protect the city from a possible Maratha attack."
+   ],
+   "options": [
+    "Maratha ditch",
+    "Shinde Chhatri",
+    "Union Jack",
+    "Red Fort"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-21",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f03",
+    "f06",
+    "f08"
+   ],
+   "hook": "Ahilyabai ruled for twenty-eight years.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Ahilyabai Holkar was the wife of Khanderao, Malharrao's son."
+    ],
+    [
+     "Isha",
+     "She made new laws for agricultural cess and revenue collection."
+    ],
+    [
+     "Kabir",
+     "She ruled ably for eighteen years and enhanced the Maratha prestige in the North."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "twelve",
+    "twenty-eight",
+    "forty"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-22",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f10",
+    "f13",
+    "f14"
+   ],
+   "hook": "Odisha: won 1751, dominated till 1803.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Parasoji was given the jagir of Varhad and Gondawan."
+    ],
+    [
+     "Dev",
+     "In 1751 the Bhosales of Nagpur won Odisha from Ali Vardi Khan."
+    ],
+    [
+     "Meera",
+     "Till 1818 the Marathas dominated Odisha."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "1784",
+    "1794",
+    "1803"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-12-23",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "The Maratha ditch went round Kolkata.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "The British at Kolkata feared the Bhosales from Nagpur."
+    ],
+    [
+     "Sana",
+     "They dug a ditch around Mumbai to protect the city."
+    ],
+    [
+     "Vihaan",
+     "It came to be known as the Maratha ditch."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Pune",
+    "Nagpur",
+    "Kolkata"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-12-24",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f16",
+    "f18"
+   ],
+   "hook": "de Boigne was a French military expert.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Bajirao I made Ranoji Shinde a Sardar in the North."
+    ],
+    [
+     "Rohan",
+     "Ranoji's sons were Jayappa, Dattaji and Mahadji."
+    ],
+    [
+     "Tara",
+     "Mahadji trained his army under the British expert de Boigne."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Portuguese",
+    "French",
+    "Afghan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-25",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f22",
+    "f23"
+   ],
+   "hook": "Delhi affairs: 1784 to 1794.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Mahadji defeated the British and reinstated the Emperor on the throne."
+    ],
+    [
+     "Anaya",
+     "The Emperor gave him the title Vakil-i-Mutlak, meaning chief agent of the emperor."
+    ],
+    [
+     "Kavya",
+     "From 1784 to 1799 Mahadji looked after the Delhi affairs."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "1803",
+    "1818",
+    "1794"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-12-26",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Mahadji beat Ghulam Kadir and gave the wealth back to the Emperor.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rahul",
+     "Ghulam Kadir was the grandson of Najib Khan."
+    ],
+    [
+     "Simran",
+     "He captured the Red Fort and took hold of the royal treasure."
+    ],
+    [
+     "Om",
+     "In the end Malharrao defeated Kadir and returned the wealth to the Emperor."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Raghuji",
+    "Mahadji",
+    "Yashwantrao"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "Wadgaon: the British lost and handed over Raghunathrao.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditya",
+     "From Mumbai, the British marched on the Marathas via Borghat."
+    ],
+    [
+     "Pooja",
+     "The Marathas blocked the supply of foodgrains using guerrilla tactics."
+    ],
+    [
+     "Yash",
+     "The armies met at Wadgaon and the Marathas lost the battle against the British."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "won",
+    "fled",
+    "surrendered"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-28",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f31",
+    "f32",
+    "f33"
+   ],
+   "hook": "Gaikwads: seat of power at Vadodara in Gujarat.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "Khanderao Dabhade and his son Trimbakrao laid the foundation of Maratha power in Gujarat."
+    ],
+    [
+     "Zoya",
+     "Umabai routed the Mughal Sardar of Ahmadabad."
+    ],
+    [
+     "Harsh",
+     "Later the Gaikwads made Indore in Gujarat a seat of their power."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Vadodara",
+    "Gwalior",
+    "Nagpur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-29",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f39"
+   ],
+   "hook": "Ashti is in Solapur district; 1818 ended Maratha power.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kunal",
+     "Bajirao II was the son of Raghunathrao."
+    ],
+    [
+     "Riddhi",
+     "The British captured Pune in 1817 and hoisted the Union Jack."
+    ],
+    [
+     "Pranav",
+     "In 1818 the British defeated the Marathas at Ashti in Pune district."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "Solapur",
+    "Satara",
+    "Nagpur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-30",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f01",
+    "f09"
+   ],
+   "hook": "Malharrao founded the Holkar rule at Indore.",
+   "prompt": "Who was the founder of the Holkar rule at Indore?",
+   "options": [
+    "Khanderao",
+    "Malharrao",
+    "Yashwantrao Holkar",
+    "Parasoji"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-31",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Ashti, 1818: the last battle.",
+   "prompt": "In which battle did the British finally end the Maratha power?",
+   "options": [
+    "Ashti",
+    "Wadgaon",
+    "Kumbheri",
+    "Panipat"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-32",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Maratha power ends: medieval period out, Modern period in.",
+   "prompt": "Which period of Indian history began after the Maratha power came to an end?",
+   "options": [
+    "The Modern period",
+    "The medieval period",
+    "The ancient period"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-33",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Shinde Chhatri at Wanawadi, Pune.",
+   "prompt": "Where did Mahadaji Shinde die?",
+   "options": [
+    "Wadgaon",
+    "Gwalior",
+    "Delhi",
+    "Wanawadi near Pune"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-12-34",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f33",
+    "f36"
+   ],
+   "hook": "Gaikwads of Vadodara: one of the four pillars.",
+   "prompt": "Which family made Vadodara in Gujarat the seat of its power?",
+   "options": [
+    "The Pawars",
+    "The Gaikwads",
+    "The Bhosales",
+    "The Holkars"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-35",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Pawars of Dhar and Dewas backed the Shindes and Holkars.",
+   "prompt": "The Pawars of Dhar and Dewas helped which families expand Maratha power in the North?",
+   "options": [
+    "The Shindes and the Holkars",
+    "The Bhosales and the Gaikwads",
+    "The Patwardhans and the Rastes",
+    "The Angres and the Dabhades"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-36",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Kanhoji Angre and son Tulaji: guardians of the coast.",
+   "prompt": "Who strengthened the navy raised by Shivaji Maharaj?",
+   "options": [
+    "Khanderao Dabhade and Trimbakrao",
+    "Ranoji Shinde and Jayappa",
+    "Kanhoji Angre and his son Tulaji",
+    "Parasoji and Raghuji"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-12-37",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Raghunathrao wanted the Peshwa's seat with British help.",
+   "prompt": "Why did Raghunathrao go to the British camp?",
+   "options": [
+    "To learn how to build a navy",
+    "To protect Kolkata from the Bhosales",
+    "To get the Diwani rights of Bengal",
+    "He wanted to become a Peshwa with the help of the British."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-12-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Diwani of Bengal gave the British a foothold to meddle in Delhi.",
+   "prompt": "What did the British manage to get in Bengal province before they tried to capture the Emperor?",
+   "options": [
+    "Chauthai rights",
+    "Diwani rights",
+    "The title Vakil-i-Mutlak",
+    "The jagir of Varhad"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-12-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f03",
+    "f10",
+    "f35"
+   ],
+   "hook": "Mahadji: guerrilla tactics don't suit the northern plains.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Mahadji felt guerilla tactics would not suit warfare in the plains of the North.",
+    "Ahilyabai Holkar was the daughter of Malharrao.",
+    "Parasoji was given the jagir of Bengal and Bihar.",
+    "Nana Phadnavis managed the North while Mahadji managed the South."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-12-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f17",
+    "f21"
+   ],
+   "hook": "Family title from Peshwa Madhavrao; Vakil-i-Mutlak from the Emperor.",
+   "prompt": "Who conferred the family title on Mahadji?",
+   "options": [
+    "The Emperor",
+    "Peshwa Madhavrao",
+    "Bajirao I",
+    "Shahu Maharaj"
+   ],
+   "answer": 1
+  }
+ ]
+}

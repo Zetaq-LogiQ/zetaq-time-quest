@@ -1,0 +1,1633 @@
+{
+ "class": 7,
+ "id": "13",
+ "title": "Life of the People in Maharashtra",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "The Hindawi Swaraj formed by Chhatrapati Shivaji Maharaj was a State for the people, founded for the welfare of common people, removal of oppression and protection of Maharashtra Dharma.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Hindawi Swaraj formed by Chhatrapati Shivaji Maharaj was a State for the people, founded with the noble intention of the welfare of common people, removal of oppression and the protection of Maharashtra Dharma.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "event",
+   "text": "After Shivaji Maharaj, Maratha power spread to all parts of India and lasted for about 150 years.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the period after Shivaji Maharaj, Maratha power spread to all parts of India. It lasted for about 150 years.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The Patil was responsible for the protection of the village.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Patil was responsible for the protection of the village",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The Kulkarni handled the revenue of the village.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Kulkarni handled the revenue.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "The Patil received land as inam for his work and also a part of the village revenue.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Patil received land as inam for his work as a Patil. He also received a part of the village revenue.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "The balutedars were paid in kind (objects, foodgrains, etc.) for the work they did for the village people.",
+   "year": null,
+   "era": "CE",
+   "quote": "The balutedars were paid in kind (in the form of objects, foodgrains, etc.) for the work they did for the village people.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "There were twelve balutedars in a village, such as the blacksmith, carpenter, potter and goldsmith.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were twelve balutedars such as the blacksmith, carpenter, potter, goldsmith, etc. in a village.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "Village occupations were divided into kali and pandhari: peasants worked in the kali (land, earth or soil), others in pandhari within the village precincts.",
+   "year": null,
+   "era": "CE",
+   "quote": "The village occupations were divided into kali and pandhari. Peasants worked in their fields in the kali (land, earth or soil) and others, in pandhari - within the village precincts.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "Agriculture was the major source of production in villages and the joint family system was prevalent.",
+   "year": null,
+   "era": "CE",
+   "quote": "Agriculture and occupations based on agriculture were the major sources of production at the village level. ... Joint family system was prevalent.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "event",
+   "text": "Child marriages were prevalent, having many wives was acceptable and there are a few examples of widow marriages.",
+   "year": null,
+   "era": "CE",
+   "quote": "Child marriages were prevalent. It was acceptable to have many wives. There are a few examples of widow marriages in this period.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "Muhurta, or auspicious occasions, were sought for every little thing, and also to open battles.",
+   "year": null,
+   "era": "CE",
+   "quote": "Muhurta, or auspicious occasions were sought for every little thing, and also to open battles.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Anushthans were performed to avoid the wrath of gods and planets.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Anushthans' were performed to avoid the wrath of gods and planets.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Offerings to god (navas) were considered more important than medical treatment.",
+   "year": null,
+   "era": "CE",
+   "quote": "offerings to god (navas) were considered more important than medical treatment.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "event",
+   "text": "Burning, burial and immersion methods were used to perform the last rites.",
+   "year": null,
+   "era": "CE",
+   "quote": "To perform the last rites, burning, burial and immersion methods were used as per tradition.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "event",
+   "text": "Most people lived in villages, which were mostly self-sufficient; only salt had to be imported.",
+   "year": null,
+   "era": "CE",
+   "quote": "A majority of people lived in villages. The villages were mostly self-sufficient. Only salt had to be imported from other places.",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Farmers grew jowar, bajra, wheat, ragi (nachani), maize, rice and other grains.",
+   "year": null,
+   "era": "CE",
+   "quote": "They grew jowar, bajra, wheat, ragi (nachani), maize, rice and other grains in their fields.",
+   "page": 1
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "The daily diet was bhakari, onion, chutney and an accompaniment; rich people ate rice, dal, chapatis, vegetables, salads, milk and dahi products.",
+   "year": null,
+   "era": "CE",
+   "quote": "The daily diet consisted of bhakari, onion, chutney and an accompaniment. ... Rice, dal, chapatis, vegetables, salads, milk and dahi products were mainly included in the rich people's diet.",
+   "page": 1
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "Barter system was used for everyday transactions.",
+   "year": null,
+   "era": "CE",
+   "quote": "Barter system was used for everyday transactions.",
+   "page": 1
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "Village houses were simple mud and brick constructions; wadas with one or two storeys were seen in cities.",
+   "year": null,
+   "era": "CE",
+   "quote": "Village houses were simple mud and brick constructions. Wadas with one or two storeys were seen in cities.",
+   "page": 1
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Men wore a dhoti, kurta, angarakha and mundase; women wore nine-yard sarees and blouses.",
+   "year": null,
+   "era": "CE",
+   "quote": "Men wore a dhoti, kurta, angarakha and mundase. Women wore nine-yard sarees and blouses.",
+   "page": 1
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "People celebrated Gudhi Padwa, Nagpanchmi, Bail-pola, Dasara, Diwali, Makarsankrant, Holi, Eid and other festivals; gudhis were raised for Gudhi Padwa.",
+   "year": null,
+   "era": "CE",
+   "quote": "People celebrated Gudhi Padwa, Nagpanchmi, Bail-pola, Dasara, Diwali, Makarsankrant, Holi, Eid and other festivals. ... Gudhis were raised to celebrate Gudhi Padwa.",
+   "page": 1
+  },
+  {
+   "fid": "f22",
+   "kind": "event",
+   "text": "In the Peshwa period Ganeshotsava was celebrated in many homes; the Peshwa himself was a devotee of Ganesha.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the Peshwa period, Ganeshotsava was celebrated in many homes. The Peshwa himself being a devotee of Ganesha, these celebrations acquired importance.",
+   "page": 1
+  },
+  {
+   "fid": "f23",
+   "kind": "event",
+   "text": "Every year the Ganeshotsava celebrations lasted from Bhadrapad Chaturthi up to Anant Chaturdashi.",
+   "year": null,
+   "era": "CE",
+   "quote": "Every year these celebrations lasted from Bhadrapad Chaturthi up to Anant Chaturdashi.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "Dasara was considered one of the three and a half most auspicious occasions; many new things were started on this day.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dasara being considered as one of the three and a half most auspicious occasions, many new things were started on this day.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "On Dasara weapons were offered puja, boundaries were crossed ceremoniously (seemollanghana) and apta leaves were distributed.",
+   "year": null,
+   "era": "CE",
+   "quote": "Weapons were offered puja, and it was customary to cross the boundaries ceremoniously (seemollanghana) and distribute 'apta' leaves on Dasara.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "event",
+   "text": "The Marathas launched their campaigns after Dasara.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Marathas launched their campaigns after Dasara.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "event",
+   "text": "During Diwali, Balipratipada and Bhau-beej celebrations had special importance.",
+   "year": null,
+   "era": "CE",
+   "quote": "During Diwali, Balipratipada and Bhau-beej celebrations had special importance.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Fairs (jatras) were held in most villages, with wrestling bouts; Tamasha was a popular form of entertainment.",
+   "year": null,
+   "era": "CE",
+   "quote": "In most of the villages, fairs were held. Wrestling bouts were a common feature of the fairs, (jatras). ... Tamasha was a popular form of entertainment.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Pathshalas and madarasas imparted education; reading, writing and arithmetic were taught at home.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pathshalas and madarasas were the institutes that imparted education. Reading, writing and arithmetic was taught at home.",
+   "page": 2
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "The modi script was used in most transactions.",
+   "year": null,
+   "era": "CE",
+   "quote": "The modi script was used in most transactions.",
+   "page": 2
+  },
+  {
+   "fid": "f31",
+   "kind": "event",
+   "text": "Cloth, foodgrains and groceries were transported on the backs of bullocks; small boats were used in rivers; messengers and camel riders carried letters.",
+   "year": null,
+   "era": "CE",
+   "quote": "Cloth, foodgrains, groceries were transported by loading them on the backs of bullocks. Small boats were used in rivers. Messengers and camel riders carried letters to and fro.",
+   "page": 2
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "Wrestling and martial arts were very popular; mallakhamb, dand, lathi, dandpatta and bothati were practised.",
+   "year": null,
+   "era": "CE",
+   "quote": "Wrestling and martial arts were very popular. Mallakhamb, dand, lathi, dandpatta, bothati were practised.",
+   "page": 2
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Hututu, kho-kho and atyapatya were popular outdoor games; chess, ganjifa and dice were popular indoor games.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hututu, kho-kho, atyapatya were the popular outdoor games and chess, ganjifa, dice were popular indoor games.",
+   "page": 2
+  },
+  {
+   "fid": "f34",
+   "kind": "event",
+   "text": "The two major religions were Hindu and Muslim; Chhatrapati Shivaji Maharaj had a liberal religious policy.",
+   "year": null,
+   "era": "CE",
+   "quote": "The two major religions seen in this period were Hindu and Muslim. Chhatrapati Shivaji Maharaj had a liberal religious policy.",
+   "page": 2
+  },
+  {
+   "fid": "f35",
+   "kind": "event",
+   "text": "The government gave grants to pathshalas, temples, madarasas and mosques; followers of both religions took part in each other's festivals.",
+   "year": null,
+   "era": "CE",
+   "quote": "The government gave grants to pathshalas, temples, madarasas and mosques. Followers of both religions took part in the celebration of each other's festivals.",
+   "page": 2
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "Varkari, Mahanubhav, Datta, Nath and Ramdasi panths were prevalent.",
+   "year": null,
+   "era": "CE",
+   "quote": "Varkari, Mahanubhav, Datta, Nath and Ramdasi panths were prevalent.",
+   "page": 2
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "Women's education was neglected; exceptional women included Veermata Jijabai, Maharani Yesubai, Maharani Tarabai, Umabai Dabhade, Gopikabai and Punyashlok Ahilyabai.",
+   "year": null,
+   "era": "CE",
+   "quote": "Their education was neglected. Only a few exceptional women had achieved any progress in literacy, administration and battle skills. They include Veermata Jijabai, Maharani Yesubai, Maharani Tarabai, Umabai Dabhade, Gopikabai, Punyashlok Ahilyabai.",
+   "page": 2
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "Child marriage, unequal marriage, widowhood, keshwapan, sati and polygamy imposed harsh restrictions on women.",
+   "year": null,
+   "era": "CE",
+   "quote": "Customs like child marriage, unequal marriage, widowhood, keshwapan, sati, polygamy had imposed harsh restrictions on the way women lived.",
+   "page": 3
+  },
+  {
+   "fid": "f39",
+   "kind": "date",
+   "text": "The period from 1630 CE to 1810 CE is broadly defined as Maratheshahi (it begins in 1630).",
+   "year": 1630,
+   "era": "CE",
+   "quote": "The period from 1630 CE to 1810 CE is broadly defined as Maratheshahi.",
+   "page": 3
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "Maratheshahi, broadly defined, ends in 1810 CE.",
+   "year": 1810,
+   "era": "CE",
+   "quote": "The period from 1630 CE to 1810 CE is broadly defined as Maratheshahi.",
+   "page": 3
+  },
+  {
+   "fid": "f41",
+   "kind": "place",
+   "text": "Architecture of the period includes restoration of Kasba Ganapati Mandir, building of the Lal Mahal, construction on Rajgad and Raigad and building of sea forts.",
+   "year": null,
+   "era": "CE",
+   "quote": "We find references to restoration of Kasba Ganapati Mandir, building of the Lal Mahal, construction on Rajgad and Raigad, building of sea forts, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f42",
+   "kind": "person",
+   "text": "Hiroji Indulkar was a famous architect of that period.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hiroji Indulkar was a famous architect of that period.",
+   "page": 3
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "In a new village, roads cut one another at right angles, with stone construction along the sides and extensive ghats (steps) along the river bank.",
+   "year": null,
+   "era": "CE",
+   "quote": "While setting up a village, the usual pattern was : roads cutting one another at right angles, stone construction along the sides and extensive ghats (steps) along the river bank.",
+   "page": 3
+  },
+  {
+   "fid": "f44",
+   "kind": "place",
+   "text": "In the Peshwa period a drinking water supply system was built like the one at Ahmadnagar and Bijapur; the Peshwas built underground pipes, small dams, gardens, tanks and fountains.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the Peshwa period, a drinking water supply system was built like the one at Ahmadnagar and Bijapur. The Peshwas built underground pipes, small dams, gardens and courts, tanks, fountains, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f45",
+   "kind": "place",
+   "text": "The Mastani Talav is at Diveghat, Hadapsar near Pune city.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Mastani Talav at Diveghat, Hadapsar near Pune city is worth a mention in this regard.",
+   "page": 3
+  },
+  {
+   "fid": "f46",
+   "kind": "place",
+   "text": "Shaniwarwada and Vishrambagwada in Pune, Sarkarwada in Nashik and Raghunathrao Peshwa's wada at Kopargaon are symbols of the medieval wada culture.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shaniwarwada and Vishrambagwada in Pune, Sarkarwada in Nashik, Raghunathrao Peshwa's wada at Kopargaon, the wadas of the Satara Chhatrapati, as also the old wadas at Wai, Menvali, Toke, Shrigonde, Pandharpur are symbols of the medieval wada culture.",
+   "page": 3
+  },
+  {
+   "fid": "f47",
+   "kind": "term",
+   "text": "Wadas were built with baked and unbaked bricks and decorated with sketches, paintings, wooden sculptures and mirrors.",
+   "year": null,
+   "era": "CE",
+   "quote": "Baked as well as unbaked bricks were used to build the wadas. ... The wadas were decorated with sketches, paintings, wooden sculptures and mirrors.",
+   "page": 3
+  },
+  {
+   "fid": "f48",
+   "kind": "term",
+   "text": "The temples of this period were built in the Hemadpanti style of the Yadav period.",
+   "year": null,
+   "era": "CE",
+   "quote": "The temples of this period are build in the Hemadpanti style of the Yadav period.",
+   "page": 3
+  },
+  {
+   "fid": "f49",
+   "kind": "place",
+   "text": "The shikhar of the Ambabai temple at Kolhapur, the temples on the Jotiba hill, the Shambhu Mahadev temple at Shikhar-Shinganapur and the Ghrishneshwar temple at Verul are excellent specimens of sculpture.",
+   "year": null,
+   "era": "CE",
+   "quote": "The shikhar of the Ambabai temple at Kolhapur, the temples on the Jotiba hill, Shambhu Mahadev temple at Shikhar-Shinganapur, Ghrishneshwar temple at Verul are excellent specimens of sculpture.",
+   "page": 3
+  },
+  {
+   "fid": "f50",
+   "kind": "place",
+   "text": "The Bhavanidevi temple on Pratapgad and the Saptkoteshwar temple at Goa were built by Shivaji Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Bhavanidevi temple on Pratapgad and the Saptkoteshwar temple at Goa were built by Shivaji Maharaj.",
+   "page": 3
+  },
+  {
+   "fid": "f51",
+   "kind": "place",
+   "text": "Peshwa-period temples include the Kalaram temple at Nashik, the Shiva temple at Trimbakeshwar, the Shiva temples at Kaygaon and Toke and the Mohiniraj temple at Newase.",
+   "year": null,
+   "era": "CE",
+   "quote": "Other temples of the Peshwa period are the Kalaram temple at Nashik, the Shiva temple at Trimbakeshwar, the Shiva temples at Kaygaon and Toke on the confluence of the Godavari and Pravara, and the Mohiniraj temple at Newase.",
+   "page": 3
+  },
+  {
+   "fid": "f52",
+   "kind": "place",
+   "text": "The most remarkable ghat is at Toke, Pravara Sangam, on the confluence of the Godavari and Pravara.",
+   "year": null,
+   "era": "CE",
+   "quote": "The most remarkable specimen of a ghat is the one at Toke, Pravara Sangam on the confluence of the Godavari and Pravara.",
+   "page": 3
+  },
+  {
+   "fid": "f53",
+   "kind": "term",
+   "text": "A ghat had one wide step at regular intervals, and strong bastions were built to prevent damage due to water currents.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a flight of steps, there would be one wide step at regular intervals. ... Strong bastions were built at regular intervals so as to prevent damage due to water currents.",
+   "page": 3
+  },
+  {
+   "fid": "f54",
+   "kind": "person",
+   "text": "The paintings on the walls of Shaniwarwada are important; Ragho, Tanaji, Anuprao, Shivram and Mankoji were important painters.",
+   "year": null,
+   "era": "CE",
+   "quote": "The paintings on the walls of Shaniwarwada are the important ones of the Peshwa period. Ragho, Tanaji, Anuprao, Shivram, Mankoji are some of the important painters of this period.",
+   "page": 3
+  },
+  {
+   "fid": "f55",
+   "kind": "person",
+   "text": "The painter Gangaram Tambat was famous at the time of Sawai Madhavrao Peshwa; the Peshwas encouraged painting.",
+   "year": null,
+   "era": "CE",
+   "quote": "The painter Gangaram Tambat was famous at the time of Sawai Madhavrao Peshwa. The Peshwas encouraged painting.",
+   "page": 3
+  },
+  {
+   "fid": "f56",
+   "kind": "place",
+   "text": "At Jamod in Vidarbha, Jin Charitra paintings adorned the Jain temple.",
+   "year": null,
+   "era": "CE",
+   "quote": "At Jamod in Vidarbha, Jin Charitra paintings adorned the Jain temple.",
+   "page": 4
+  },
+  {
+   "fid": "f57",
+   "kind": "person",
+   "text": "Sculptures include the meeting between Mallamma Desai and Shivaji Maharaj at the time of his Karnataka campaign, and the memorial to Punyashlok Ahilyabai in Madhya Pradesh.",
+   "year": null,
+   "era": "CE",
+   "quote": "Important specimens include the sculpture of the meeting between Mallamma Desai and Shivaji Maharaj at the time of his Karnataka campaign, ... the memorial to Punyashlok Ahilyabai in Madhya Pradesh",
+   "page": 4
+  },
+  {
+   "fid": "f58",
+   "kind": "term",
+   "text": "The Peshwas specially commissioned the metal idols of Parvati and Ganapati in the Parvati temple for puja.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Peshwas had specially commissioned the metal idols of Parvati and Ganapati in the Parvati temple for the purpose of Puja.",
+   "page": 4
+  },
+  {
+   "fid": "f59",
+   "kind": "term",
+   "text": "Literature forms included compositions of the Sants, teeka literature, owi, abhanga, powadas, bakhars and historical letters.",
+   "year": null,
+   "era": "CE",
+   "quote": "Important forms of literature include the compositions of the Sants, mythological narratives, 'teeka' literature, owi, abhanga, treatises, narrative poems, biographies, aaratis of deities, powadas, bakhars, historical letters, etc.",
+   "page": 4
+  },
+  {
+   "fid": "f60",
+   "kind": "place",
+   "text": "At Tanjavur in the South, Marathi plays emerged near the end of the seventeenth century; Sarfoji Raje encouraged this art.",
+   "year": null,
+   "era": "CE",
+   "quote": "At Tanjavur in the South, Marathi plays has emerged near the end of the seventeenth century. Sarfoji Raje encouraged this art.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-13-01",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f05"
+   ],
+   "hook": "<b>Patil</b> = protector of the village, paid with land as inam plus a share of revenue.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I also received a part of the village revenue.",
+    "I received land as inam for my work.",
+    "I was responsible for the protection of the village."
+   ],
+   "options": [
+    "Kulkarni",
+    "Balutedar",
+    "Peshwa",
+    "Patil"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-13-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04"
+   ],
+   "hook": "Patil protects, <b>Kulkarni</b> keeps the revenue.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I worked at the village level in this period.",
+    "Protecting the village was not my job; the Patil did that.",
+    "I handled the revenue of the village."
+   ],
+   "options": [
+    "Patil",
+    "Balutedar",
+    "Kulkarni",
+    "Peshwa"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Maratheshahi: <b>1630</b> CE to 1810 CE, a span of 180 years.",
+   "prompt": "In which year does the period broadly defined as Maratheshahi begin?",
+   "year": 1630,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-13-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Self-sufficient villages bought only one thing from outside: <b>salt</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "A majority of people lived in villages in this period."
+    ],
+    [
+     "Meera",
+     "The villages were mostly self-sufficient."
+    ],
+    [
+     "Kabir",
+     "Only sugar had to be imported from other places."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "cloth",
+    "grain",
+    "salt"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Most transactions were written in the <b>modi</b> script.",
+   "prompt": "Which script was used in most transactions?",
+   "options": [
+    "Brahmi",
+    "Roman",
+    "Kharoshthi",
+    "Modi"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-13-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f26"
+   ],
+   "hook": "Dasara: weapon puja, seemollanghana, apta leaves, and then the campaigns began.",
+   "prompt": "Which festival am I?",
+   "clues": [
+    "I am one of the three and a half most auspicious occasions.",
+    "The Marathas launched their campaigns after me.",
+    "Weapons are offered puja on my day.",
+    "On my day people cross boundaries ceremoniously and distribute apta leaves."
+   ],
+   "options": [
+    "Diwali",
+    "Holi",
+    "Gudhi Padwa",
+    "Dasara"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-13-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Balutedars were paid <b>in kind</b>: objects and foodgrains, not coins.",
+   "prompt": "How were the balutedars paid for the work they did for the village people?",
+   "options": [
+    "In gold coins every month",
+    "With land given as inam",
+    "They were not paid at all",
+    "In kind, such as objects and foodgrains"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-13-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f07"
+   ],
+   "hook": "<b>Twelve</b> balutedars: blacksmith, carpenter, potter, goldsmith and more, paid in kind.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The balutedars were paid in kind for their work."
+    ],
+    [
+     "Sana",
+     "There were seven balutedars such as the blacksmith and potter in a village."
+    ],
+    [
+     "Rohan",
+     "The carpenter and the goldsmith were balutedars too."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "twelve",
+    "five",
+    "twenty"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f39",
+    "f40"
+   ],
+   "hook": "1630 + 180 = <b>1810</b>: the end of Maratheshahi.",
+   "prompt": "Maratheshahi began in 1630 CE. In which year did this period end?",
+   "year": 1810,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-13-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "<b>Kali</b> = land, earth or soil, where peasants farmed; pandhari = inside the village.",
+   "prompt": "What am I?",
+   "clues": [
+    "Village occupations were divided into me and one other.",
+    "My meaning is land, earth or soil.",
+    "Peasants worked in their fields in me."
+   ],
+   "options": [
+    "Kali",
+    "Pandhari",
+    "Inam",
+    "Navas"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f20"
+   ],
+   "hook": "Bhakari, onion, chutney to eat; <b>nine-yard</b> sarees for women; mundase for men.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Priya",
+     "The daily diet consisted of bhakari, onion, chutney and an accompaniment."
+    ],
+    [
+     "Arjun",
+     "Men wore a dhoti, kurta, angarakha and mundase."
+    ],
+    [
+     "Tanvi",
+     "Women wore six-yard sarees and blouses."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "five-yard",
+    "nine-yard",
+    "twelve-yard"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "Ganeshotsava ran from Bhadrapad <b>Chaturthi</b> to Anant <b>Chaturdashi</b>.",
+   "prompt": "Every year, which celebration lasted from Bhadrapad Chaturthi up to Anant Chaturdashi?",
+   "options": [
+    "Diwali",
+    "Ganeshotsava",
+    "Holi",
+    "Makarsankrant"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f33"
+   ],
+   "hook": "Mallakhamb, dand, lathi, dandpatta, bothati: practised. Chess, ganjifa, dice: indoor games.",
+   "prompt": "Which of these was practised along with dand, lathi, dandpatta and bothati?",
+   "options": [
+    "Ganjifa",
+    "Chess",
+    "Dice",
+    "Mallakhamb"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-13-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Two major religions: <b>Hindu and Muslim</b>, under a liberal religious policy.",
+   "prompt": "Which were the two major religions seen in this period?",
+   "options": [
+    "Jain and Buddhist",
+    "Hindu and Christian",
+    "Hindu and Muslim",
+    "Buddhist and Muslim"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "<b>Liberal</b> policy: grants to temples and mosques, festivals shared by both.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Zoya",
+     "The government gave grants to pathshalas, temples, madarasas and mosques."
+    ],
+    [
+     "Kabir",
+     "Followers of both religions took part in each other's festivals."
+    ],
+    [
+     "Meera",
+     "Chhatrapati Shivaji Maharaj had a harsh religious policy."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "narrow",
+    "cruel",
+    "liberal"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "After Shivaji Maharaj, Maratha power spread across India for about <b>150</b> years.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Hindawi Swaraj was a State for the people."
+    ],
+    [
+     "Meera",
+     "After Shivaji Maharaj, Maratha power spread to all parts of India."
+    ],
+    [
+     "Kabir",
+     "That power lasted for about 50 years in all."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "300",
+    "150",
+    "500"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04",
+    "f05"
+   ],
+   "hook": "<b>P</b>atil = <b>P</b>rotection; <b>K</b>ulkarni = <b>K</b>eeps the revenue.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Kulkarni protected the village and the Patil handled the revenue.",
+    "The Patil protected the village and the Kulkarni handled the revenue.",
+    "The balutedars handled the revenue of the village.",
+    "The Patil received no land for his work."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Kali = the fields; <b>pandhari</b> = within the village precincts.",
+   "prompt": "What am I?",
+   "clues": [
+    "Village occupations were divided into me and one other.",
+    "Peasants did not work in me.",
+    "I lay within the village precincts."
+   ],
+   "options": [
+    "Kali",
+    "Inam",
+    "Pandhari",
+    "Muhurta"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-19",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f26"
+   ],
+   "hook": "Weapon puja on Dasara, then the Marathas set out: campaigns began <b>after Dasara</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "Dasara was one of the three and a half most auspicious occasions."
+    ],
+    [
+     "Sana",
+     "It was after Holi that the Marathas launched their campaigns."
+    ],
+    [
+     "Ishaan",
+     "Weapons were offered puja on Dasara."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "Diwali",
+    "Dasara",
+    "Makarsankrant"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Goods rode on <b>bullocks</b>; letters went with messengers and camel riders.",
+   "prompt": "How were cloth, foodgrains and groceries transported?",
+   "options": [
+    "On elephants",
+    "Loaded on the backs of bullocks",
+    "On large sea ships",
+    "By railway"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f41",
+    "f42"
+   ],
+   "hook": "Lal Mahal, Rajgad, Raigad, sea forts: the age of the architect <b>Hiroji Indulkar</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I lived in the age when Rajgad and Raigad were built on and sea forts were made.",
+    "My work was building, not painting.",
+    "I was a famous architect of that period."
+   ],
+   "options": [
+    "Hiroji Indulkar",
+    "Gangaram Tambat",
+    "Sarfoji Raje",
+    "Mankoji"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f27",
+    "f28"
+   ],
+   "hook": "Diwali brought <b>Balipratipada</b> and <b>Bhau-beej</b>; jatras brought wrestling.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "In most of the villages, fairs were held."
+    ],
+    [
+     "Priya",
+     "Balipratipada and Bhau-beej were special during Holi celebrations."
+    ],
+    [
+     "Arjun",
+     "Tamasha was a popular form of entertainment."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "Diwali",
+    "Eid",
+    "Dasara"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f46",
+    "f54"
+   ],
+   "hook": "Shaniwarwada, Pune: a wada whose <b>wall paintings</b> are the key ones of the Peshwa period.",
+   "prompt": "Which wada am I?",
+   "clues": [
+    "I am a symbol of medieval wada culture.",
+    "I stand in Pune, like Vishrambagwada.",
+    "The paintings on my walls are the important ones of the Peshwa period."
+   ],
+   "options": [
+    "Sarkarwada",
+    "Lal Mahal",
+    "Shaniwarwada",
+    "Vishrambagwada"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f48"
+   ],
+   "hook": "Maratheshahi temples kept the <b>Hemadpanti</b> style of the Yadav period.",
+   "prompt": "In which style were the temples of this period built?",
+   "options": [
+    "The Dravida style of the Chola period",
+    "The Hemadpanti style of the Yadav period",
+    "The Mughal style of Delhi",
+    "The Gothic style of Europe"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f54",
+    "f55"
+   ],
+   "hook": "Sawai Madhavrao's famous painter: <b>Gangaram Tambat</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "The Peshwas encouraged my art.",
+    "I was a painter.",
+    "I was famous at the time of Sawai Madhavrao Peshwa."
+   ],
+   "options": [
+    "Gangaram Tambat",
+    "Ragho",
+    "Hiroji Indulkar",
+    "Mankoji"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f43",
+    "f44",
+    "f45"
+   ],
+   "hook": "Pipes, dams, tanks, fountains; Mastani Talav at Diveghat, Hadapsar, near <b>Pune</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kabir",
+     "While setting up a village, roads cut one another at right angles."
+    ],
+    [
+     "Zoya",
+     "The Peshwas built underground pipes, small dams, tanks and fountains."
+    ],
+    [
+     "Aarav",
+     "The Mastani Talav at Diveghat lies near Nashik city."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Pune",
+    "Satara",
+    "Kolhapur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f50",
+    "f51"
+   ],
+   "hook": "Shivaji Maharaj built Bhavanidevi on <b>Pratapgad</b> and Saptkoteshwar at <b>Goa</b>.",
+   "prompt": "Which two temples were built by Shivaji Maharaj?",
+   "options": [
+    "The Kalaram temple at Nashik and the Mohiniraj temple at Newase",
+    "The Shiva temples at Kaygaon and Toke",
+    "The Bhavanidevi temple on Pratapgad and the Saptkoteshwar temple at Goa",
+    "The Shiva temple at Trimbakeshwar and the Kalaram temple at Nashik"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f51"
+   ],
+   "hook": "Mohiniraj temple: <b>Newase</b>, a Peshwa-period temple.",
+   "prompt": "Where is the Mohiniraj temple of the Peshwa period?",
+   "options": [
+    "Newase",
+    "Jamod",
+    "Kopargaon",
+    "Diveghat"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Education of women was <b>neglected</b>; only a few like Jijabai and Tarabai rose above it.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Veermata Jijabai and Maharani Yesubai were exceptional women of the period."
+    ],
+    [
+     "Sana",
+     "Women's education was encouraged in those days."
+    ],
+    [
+     "Rohan",
+     "Maharani Tarabai and Umabai Dabhade were also among those exceptional women."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "compulsory",
+    "promoted",
+    "neglected"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f56"
+   ],
+   "hook": "Jain temple at Jamod in Vidarbha: <b>Jin Charitra</b> paintings.",
+   "prompt": "Which paintings adorned the Jain temple at Jamod in Vidarbha?",
+   "options": [
+    "Dashavatara",
+    "Rampanchayatana",
+    "Jin Charitra",
+    "Ramayana"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f60"
+   ],
+   "hook": "Marathi plays in the South: <b>Tanjavur</b>, encouraged by Sarfoji Raje.",
+   "prompt": "Where in the South did Marathi plays emerge near the end of the seventeenth century?",
+   "options": [
+    "Tanjavur",
+    "Kolhapur",
+    "Goa",
+    "Jamod"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-32",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11",
+    "f12",
+    "f13"
+   ],
+   "hook": "Muhurta, anushthans and <b>navas</b> (offerings): belief came before medical treatment.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Muhurta was sought for every little thing, even to open battles."
+    ],
+    [
+     "Tanvi",
+     "Anushthans were performed to avoid the wrath of gods and planets."
+    ],
+    [
+     "Arjun",
+     "Offerings to god called inam were thought more important than medical treatment."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "apta",
+    "navas",
+    "bhakari"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-33",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37",
+    "f57"
+   ],
+   "hook": "Punyashlok <b>Ahilyabai</b>: an exceptional woman with a memorial in Madhya Pradesh.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am counted among the few exceptional women of that age.",
+    "My memorial in Madhya Pradesh is an important specimen of sculpture.",
+    "I am remembered with the title Punyashlok."
+   ],
+   "options": [
+    "Ahilyabai",
+    "Gopikabai",
+    "Tarabai",
+    "Umabai Dabhade"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-34",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "The Peshwas copied the water supply of <b>Ahmadnagar and Bijapur</b>.",
+   "prompt": "During the Peshwa period, a drinking water supply system was built like the one at which places?",
+   "options": [
+    "Ahmadnagar and Bijapur",
+    "Nashik and Satara",
+    "Kolhapur and Goa",
+    "Pune and Wai"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "Wadas: Shaniwar and Vishrambag in Pune, Sarkarwada in Nashik, Raghunathrao's at <b>Kopargaon</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Priya",
+     "Shaniwarwada and Vishrambagwada are in Pune."
+    ],
+    [
+     "Kabir",
+     "Sarkarwada is in Nashik."
+    ],
+    [
+     "Zoya",
+     "Raghunathrao Peshwa's wada at Satara is a symbol of wada culture."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Wai",
+    "Toke",
+    "Kopargaon"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f57"
+   ],
+   "hook": "Carved in stone: <b>Mallamma Desai</b> meeting Shivaji Maharaj on his Karnataka campaign.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am remembered in a sculpture.",
+    "The sculpture shows my meeting with Shivaji Maharaj.",
+    "We met at the time of his Karnataka campaign."
+   ],
+   "options": [
+    "Yesubai",
+    "Mallamma Desai",
+    "Gopikabai",
+    "Umabai Dabhade"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-13-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f23",
+    "f25"
+   ],
+   "hook": "Chaturthi comes first, Chaturdashi last; gudhis on Padwa, seemollanghana on Dasara.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Gudhis were raised to celebrate Dasara.",
+    "Ganeshotsava lasted every year from Anant Chaturdashi up to Bhadrapad Chaturthi.",
+    "Ganeshotsava lasted every year from Bhadrapad Chaturthi up to Anant Chaturdashi.",
+    "Seemollanghana was performed on Gudhi Padwa."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-13-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f51",
+    "f52"
+   ],
+   "hook": "Kaygaon and Toke share the confluence, but the finest <b>ghat</b> is at Toke.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "Shiva temples were built at me in the Peshwa period.",
+    "I am on the confluence of the Godavari and Pravara.",
+    "The most remarkable ghat of Maratheshahi is mine."
+   ],
+   "options": [
+    "Kaygaon",
+    "Newase",
+    "Wai",
+    "Toke"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-13-39",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f54",
+    "f58"
+   ],
+   "hook": "Parvati temple: the Peshwas ordered <b>metal</b> idols of Parvati and Ganapati for puja.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Ragho, Tanaji, Anuprao, Shivram and Mankoji were important painters."
+    ],
+    [
+     "Meera",
+     "The Peshwas commissioned clay idols of Parvati and Ganapati for the Parvati temple."
+    ],
+    [
+     "Rohan",
+     "Wooden sculptures were also seen in this period."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "metal",
+    "stone",
+    "silver"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-13-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f59",
+    "f32",
+    "f33"
+   ],
+   "hook": "Owi, abhanga, powadas, bakhars: words on paper. Ganjifa, mallakhamb, atyapatya: games and sport.",
+   "prompt": "Which list contains only forms of literature of this period?",
+   "options": [
+    "Owi, abhanga, ganjifa and bakhars",
+    "Powadas, mallakhamb, aaratis and teeka",
+    "Bakhars, atyapatya, owi and abhanga",
+    "Owi, abhanga, powadas and bakhars"
+   ],
+   "answer": 3
+  }
+ ]
+}

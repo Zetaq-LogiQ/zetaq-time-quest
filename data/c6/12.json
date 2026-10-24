@@ -1,0 +1,1630 @@
+{
+ "class": 6,
+ "id": "12",
+ "title": "The Constitution of India",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "date",
+   "text": "On 15th August 1947 India attained independence and was liberated from British subjugation; so every year 15th August is celebrated as Independence Day.",
+   "year": 1947,
+   "era": "CE",
+   "quote": "On 15th August 1947, our country attained independence. We were liberated from British subjugation. Therefore, every year on 15th August we celebrate Independence Day.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "date",
+   "text": "On 26th January 1950 the Constitution came into force; so every year 26th January is celebrated as Republic Day.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "On 26th January 1950, the Constitution which India had drafted to govern the country's administration came into force. That is why, every year on 26th January, we celebrate it's Republic Day.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "event",
+   "text": "Independence Day and Republic Day are national festivals; flag hoisting ceremonies take place at school on both days.",
+   "year": null,
+   "era": "CE",
+   "quote": "Do you know that Independence Day and Republic Day are our national festivals? ... flag hoisting ceremonies take place at our school",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "A cricket match on a sports ground follows written rules with organization and official umpires, but a street match lacks them; in the same way a country needs a Constitution to be governed well.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a cricket match played on a sports ground, there is a sense of organization and formality and written rules are strictly observed. However, matches played on the street lack written rules, organization and official umpires. In the same vein, if a country is to be governed effectively, a Constitution is essential.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "The fundamental laws, rules and provisions made for the governance of a country are together called the Constitution.",
+   "year": null,
+   "era": "CE",
+   "quote": "The fundamental laws, rules and provisions formulated for the governance of a country are collectively referred to as the 'Constitution'.",
+   "page": 2
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "Framework of rules and order: the Constitution is the supreme source of laws within a country.",
+   "year": null,
+   "era": "CE",
+   "quote": "Framework of Rules and Order: The Constitution serves as the supreme source of laws within a country.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "Without a constitution the government could misuse its power; the Constitution defines the government's powers and limits them.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the absence of a constitution, the government could potentially misuse its power. The Constitution clearly defines the government's powers and imposes limitations upon them.",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "The Constitution grants fundamental rights to citizens and protects them, such as freedom of expression and freedom of movement.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Constitution grants certain fundamental rights to the citizens and ensures their protection. (Such as - Freedom of Expression, Freedom of Movement)",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "The Legislature is the body responsible for formulating laws.",
+   "year": null,
+   "era": "CE",
+   "quote": "Legislature: The body responsible for formulating laws is called the Legislature.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The Executive is the body responsible for implementing laws.",
+   "year": null,
+   "era": "CE",
+   "quote": "Executive: The body responsible for implementing laws is called the Executive.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The Judiciary is the body responsible for interpreting laws and administering justice.",
+   "year": null,
+   "era": "CE",
+   "quote": "Judiciary: The body responsible for interpreting laws and administering justice is called the Judiciary.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "The Constitution ensures that the majority group cannot inflict injustice upon minorities and safeguards their language, culture and educational rights.",
+   "year": null,
+   "era": "CE",
+   "quote": "Constitution ensures that the majority group cannot inflict injustice upon minorities. It is the responsibility of the Constitution to safeguard their language, culture and educational rights.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "The direction of the nation becomes clear through the Preamble; the Constitution of India has adopted the goals of Justice, Liberty, Equality and Fraternity.",
+   "year": null,
+   "era": "CE",
+   "quote": "The direction in which the nation is to be steered becomes evident through the 'Preamble' of the Constitution. For instance, Constitution of India has adopted the goals of Justice, Liberty, Equality and Fraternity.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The constitution is a 'soul' of India, which keeps democracy alive in the country.",
+   "year": null,
+   "era": "CE",
+   "quote": "The constitution is a 'soul' of India, which keeps democracy alive in our country.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "A written constitution compiles all the fundamental rules into a single document or set of written documents; examples are India and the USA.",
+   "year": null,
+   "era": "CE",
+   "quote": "Written : When all the fundamental rules, laws and principles required to govern a nation are systematically compiled into a single document or a specific set of written documents, it is termed a 'Written Constitution'. Examples: India, USA.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "An unwritten constitution is one whose rules were not drafted together by a specific Constituent Assembly at a particular time; example: Britain (United Kingdom).",
+   "year": null,
+   "era": "CE",
+   "quote": "Unwritten : When the rules required to govern a nation have not been drafted collectively by a specific Constituent Assembly at a particular point in time, it is termed an Unwritten Constitution.' Example: Britain (United Kingdom)",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Because of India's vast geographical expanse, large population and cultural diversity, governing it without a constitution is difficult.",
+   "year": null,
+   "era": "CE",
+   "quote": "Considering India's vast geographical expanse, large population and cultural diversity, governing the country without a constitution is a difficult task.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "The process of drafting the Constitution began in 1946, once it was certain India would become independent; a Constituent Assembly was established.",
+   "year": 1946,
+   "era": "CE",
+   "quote": "The process of drafting the Constitution began in 1946, once it became certain that our country would attain independence. To this end, a Constituent Assembly was established.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "event",
+   "text": "Leaders of the freedom movement insisted that independent India be governed by laws framed by Indians themselves, not by the British.",
+   "year": null,
+   "era": "CE",
+   "quote": "The leaders of the freedom movement insisted that \"the governance of independent India shall not be conducted according to laws framed by the British, but rather according to laws framed by Indians themselves.\"",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "In 1946 public representatives were elected to administer the provinces, such as the Bombay Presidency, Bengal Presidency and Madras Presidency; they selected members for the Constituent Assembly.",
+   "year": 1946,
+   "era": "CE",
+   "quote": "In 1946, public representatives were elected to administer the various provinces of the country (at that time, the divisions included the Bombay Presidency, Bengal Presidency, Madras Presidency etc.). The representatives from each province selected a few members from among themselves",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "The rulers of the Princely States sent their own representatives to the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "The rulers of these Princely States sent their own representatives to participate in the work of the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "The Constituent Assembly had 299 members from the provinces and the Princely States, including a few women members.",
+   "year": null,
+   "era": "CE",
+   "quote": "In total, the Constituent Assembly consisted of 299 members drawn from both the provinces and the Princely States. This included a few women members as well.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "229 members were elected from the provincial legislatures and 70 members were nominated by the Princely States.",
+   "year": null,
+   "era": "CE",
+   "quote": "1. Number of members elected from the provincial legislatures: 229 2. Number of members nominated by the Princely States: 70",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "place",
+   "text": "In 1928, at the Olympic Games in Amsterdam, the Indian hockey team won India's first-ever Olympic gold medal; its captain later became a member of the Constituent Assembly.",
+   "year": 1928,
+   "era": "CE",
+   "quote": "In 1928, at the Olympic Games held in Amsterdam, the Indian hockey team won India's first-ever Olympic gold medal. The captain of that hockey team later became a member of India's Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "date",
+   "text": "The first meeting of the Constituent Assembly was held on 9th December 1946.",
+   "year": 1946,
+   "era": "CE",
+   "quote": "The first meeting of the Constituent Assembly was held on 9th December 1946.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "Dr. Sachchidananda Sinha was elected as the interim President of the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr. Sachchidananda Sinha was elected as the interim President of the Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "On 11th December 1946, Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly.",
+   "year": 1946,
+   "era": "CE",
+   "quote": "On 11th December 1946, Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "B.N. Rau was appointed as the Legal Advisor to the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "B.N. Rau was appointed as the Legal Advisor to the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "A total of 22 committees were constituted to streamline the proceedings of the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "A total of 22 committees were constituted to streamline the proceedings of the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "Dr. Rajendra Prasad headed the Constituent Assembly Rules Committee (Steering Committee).",
+   "year": null,
+   "era": "CE",
+   "quote": "Constituent Assembly Rules Committee (Steering Committee) Dr. Rajendra Prasad",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "Dr. Babasaheb Ambedkar headed the Drafting Committee.",
+   "year": null,
+   "era": "CE",
+   "quote": "Drafting Committee Dr. Babasaheb Ambedkar",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "Pandit Jawaharlal Nehru headed the Union Powers Committee.",
+   "year": null,
+   "era": "CE",
+   "quote": "Union Powers Committee Pandit Jawaharlal Nehru",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "Sardar Vallabhbhai Patel headed the Fundamental Rights and Minorities Committee.",
+   "year": null,
+   "era": "CE",
+   "quote": "Fundamental Rights and Minorities Committee Sardar Vallabhbhai Patel",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "The Drafting Committee, the most important committee, was established on 29th August 1947.",
+   "year": 1947,
+   "era": "CE",
+   "quote": "The Drafting Committee was the most important committee responsible for the creation of the Indian Constitution. This committee was established on 29th August 1947.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "The final draft was adopted by the Constituent Assembly on 26th November 1949.",
+   "year": 1949,
+   "era": "CE",
+   "quote": "The final draft thus prepared was adopted by the Constituent Assembly on 26th November 1949.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "The Drafting Committee had seven members including the Chairman: Dr. B. R. Ambedkar (Chairman), Shri N. Gopalaswami Ayyangar, Shri Alladi Krishnaswami Ayyar, Dr. K. M. Munshi, Shri Mohammed Saadulla, Shri B. L. Mitter and Shri D. P. Khaitan.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Drafting Committee consisted of a total of seven members, including the Chairman. 1. Dr. B. R. Ambedkar (Chairman) 2. Shri N. Gopalaswami Ayyangar 3. Shri Alladi Krishnaswami Ayyar 4. Dr. K. M. Munshi 5. Shri Mohammed Saadulla 6. Shri B. L. Mitter ... 7. Shri D. P. Khaitan",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "Shri K. N. Madhava Rao was appointed after Shri B. L. Mitter resigned; Shri T. T. Krishnamachari was appointed after the death of Shri D. P. Khaitan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shri B. L. Mitter (Shri K. N. Madhava Rao was appointed following his resignation.) 7. Shri D. P. Khaitan (Shri T. T. Krishnamachari was appointed following his death.)",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "At the Lahore Session of December 1929, the Indian National Congress demanded 'Complete Swaraj' (Complete Independence) from the British.",
+   "year": 1929,
+   "era": "CE",
+   "quote": "During the Lahore Session of December 1929, the Indian National Congress demanded 'Complete Swaraj' (Complete Independence) from the British.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "date",
+   "text": "26th January 1930 was celebrated across the country as 'Independence Day' for the very first time.",
+   "year": 1930,
+   "era": "CE",
+   "quote": "In accordance with this resolution, 26th January 1930 was celebrated across the entire country as 'Independence Day' for the very first time.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "To cherish the memory of that day, the Constitution was brought into force on 26th January 1950, and so it is celebrated as Republic Day.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "To cherish the significance and memory of this historic day in the Indian struggle for freedom, the Constitution was brought into force on 26th January 1950. For this very reason, this day is celebrated as 'Republic Day'.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "person",
+   "text": "Dr. Babasaheb Ambedkar made a comparative study of the constitutions of various countries, studied all committee reports, prepared the draft and presented it before the Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr. Babasaheb Ambedkar conducted a comparative study of the constitutions of various countries. Furthermore, after conducting an in-depth study of the reports submitted by all the committees of the Constituent Assembly, he prepared the draft and presented it before the Assembly.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "person",
+   "text": "Dr. Babasaheb Ambedkar answered the members' questions and doubts and added the amendments; he is revered as the 'Architect' of the Indian Constitution.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr. Babasaheb Ambedkar competently shouldered the responsibility of answering the questions and addressing the doubts raised by the members ... Due to this unparalleled contribution, he is revered as the 'Architect' of the Indian Constitution.",
+   "page": 5
+  },
+  {
+   "fid": "f43",
+   "kind": "event",
+   "text": "Dr. Babasaheb Ambedkar presented the draft of the Indian Constitution to the President of the Constituent Assembly, Dr. Rajendra Prasad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr. Babasaheb Ambedkar presenting the draft of the Indian Constitution to the President of the Constituent Assembly, Dr. Rajendra Prasad",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "person",
+   "text": "Women members of the Constituent Assembly included Vijayalakshmi Pandit, Sarojini Naidu, Ammu Swaminathan, Renuka Ray, Annie Mascarene, Sucheta Kripalani, Dakshayani Velayudhan, Hansa Mehta, Begum Aizaz Rasul, Malti Choudhury, Leela Roy, Rajkumari Amrit Kaur, Durgabai Deshmukh, Purnima Banerjee and Kamala Chaudhri.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vijayalakshmi Pandit Sarojini Naidu Ammu Swaminathan Renuka Ray Annie Mascarene Sucheta Kripalani Dakshayani Velayudhan Hansa Mehta Begum Aizaz Rasul Malti Choudhury Leela Roy Rajkumari Amrit Kaur Durgabai Deshmukh Purnima Banerjee Kamala Chaudhri Women Members of the Constituent Assembly",
+   "page": 5
+  },
+  {
+   "fid": "f45",
+   "kind": "date",
+   "text": "The initial draft of the Constitution, prepared by the Drafting Committee, was published in February 1948.",
+   "year": 1948,
+   "era": "CE",
+   "quote": "The initial draft of the Constitution, prepared by the Drafting Committee, was published in February 1948 and subsequently subjected to discussion.",
+   "page": 5
+  },
+  {
+   "fid": "f46",
+   "kind": "event",
+   "text": "Decisions on the majority of the provisions were arrived at unanimously.",
+   "year": null,
+   "era": "CE",
+   "quote": "Decisions regarding the majority of the provisions were arrived at unanimously.",
+   "page": 5
+  },
+  {
+   "fid": "f47",
+   "kind": "event",
+   "text": "The proceedings of the Constituent Assembly spanned 2 years, 11 months and 18 days (from 9th December 1946 to 25th November 1949).",
+   "year": null,
+   "era": "CE",
+   "quote": "The proceedings of the Constituent Assembly spanned a period of 2 years, 11 months, and 18 days (from 9th December 1946 to 25th November 1949).",
+   "page": 5
+  },
+  {
+   "fid": "f48",
+   "kind": "event",
+   "text": "During the tenure of the Constituent Assembly, 53,000 people watched the proceedings from the visitor's gallery.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the tenure of the Constituent Assembly, 53,000 people witnessed the proceedings firsthand by observing from the visitor's gallery.",
+   "page": 5
+  },
+  {
+   "fid": "f49",
+   "kind": "date",
+   "text": "The members of the Constituent Assembly signed the copies of the Constitution on 24th January 1950.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "The members of the Constituent Assembly signed the copies of the Constitution on 24th January 1950.",
+   "page": 5
+  },
+  {
+   "fid": "f50",
+   "kind": "term",
+   "text": "The original Constitution consisted of a Preamble, 22 Parts, 395 Articles and 8 Schedules.",
+   "year": null,
+   "era": "CE",
+   "quote": "The original Constitution consisted of a Preamble, 22 Parts, 395 Articles and 8 Schedules.",
+   "page": 5
+  },
+  {
+   "fid": "f51",
+   "kind": "date",
+   "text": "On 26th November 1949 the Constituent Assembly adopted the entire Constitution; so 26th November is celebrated as 'Constitution Day'.",
+   "year": 1949,
+   "era": "CE",
+   "quote": "On 26th November 1949, the Constituent Assembly adopted the entire Constitution. Consequently, 26th November is celebrated as 'Constitution Day'.",
+   "page": 5
+  },
+  {
+   "fid": "f52",
+   "kind": "date",
+   "text": "The Constituent Assembly worked as India's 'Interim Parliament' from 26th January 1950 until the first general elections were held in 1952.",
+   "year": 1952,
+   "era": "CE",
+   "quote": "the Constituent Assembly functioned as India's 'Interim Parliament' from 26th January 1950 until the first general elections were held in 1952.",
+   "page": 5
+  },
+  {
+   "fid": "f53",
+   "kind": "person",
+   "text": "The original Constitution's handwritten manuscript in English was written by Prem Behari Narain Raizada.",
+   "year": null,
+   "era": "CE",
+   "quote": "Original Constitution's handwritten manuscript in English Language - Prem Behari Narain Raizada.",
+   "page": 6
+  },
+  {
+   "fid": "f54",
+   "kind": "person",
+   "text": "The original Constitution's handwritten manuscript in Hindi was written by Vasant Krishna Vaidya.",
+   "year": null,
+   "era": "CE",
+   "quote": "Original Constitution's handwritten manuscript in Hindi Language - Vasant Krishna Vaidya.",
+   "page": 6
+  },
+  {
+   "fid": "f55",
+   "kind": "person",
+   "text": "Both manuscripts were decorated by Acharya Nandalal Bose.",
+   "year": null,
+   "era": "CE",
+   "quote": "Decoration of both manuscript - Acharya Nandalal Bose.",
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-12-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f18",
+    "f01",
+    "f35",
+    "f02"
+   ],
+   "hook": "<b>1946</b> start, <b>1947</b> freedom, <b>1949</b> adopted, <b>1950</b> in force.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "Drafting of the Constitution begins",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "India attains independence",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "Constitution adopted on 26th November",
+     "y": "1949",
+     "k": 1949
+    },
+    {
+     "t": "Constitution comes into force",
+     "y": "1950",
+     "k": 1950
+    }
+   ]
+  },
+  {
+   "qid": "c6-12-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f02",
+    "f40"
+   ],
+   "hook": "26th January <b>1950</b>: the Constitution comes into force, so 26th January is Republic Day.",
+   "prompt": "In which year did the Constitution of India come into force?",
+   "year": 1950,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-12-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f31",
+    "f41",
+    "f42"
+   ],
+   "hook": "Chairman of the Drafting Committee = the <b>Architect</b> of the Indian Constitution.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I made a comparative study of the constitutions of various countries.",
+    "I answered the questions and doubts of the members on the draft.",
+    "I headed the Drafting Committee.",
+    "I am revered as the Architect of the Indian Constitution."
+   ],
+   "options": [
+    "Dr. Rajendra Prasad",
+    "Dr. Babasaheb Ambedkar",
+    "Pandit Jawaharlal Nehru",
+    "B.N. Rau"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f27",
+    "f30",
+    "f43"
+   ],
+   "hook": "11th December 1946: <b>Dr. Rajendra Prasad</b> becomes permanent President; he received the draft.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I headed the Constituent Assembly Rules Committee (Steering Committee).",
+    "Dr. Babasaheb Ambedkar presented the draft of the Constitution to me.",
+    "On 11th December 1946, I was elected as the permanent President of the Constituent Assembly."
+   ],
+   "options": [
+    "Dr. Sachchidananda Sinha",
+    "Sardar Vallabhbhai Patel",
+    "Dr. Rajendra Prasad",
+    "Pandit Jawaharlal Nehru"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f01",
+    "f02",
+    "f03"
+   ],
+   "hook": "15th August = Independence Day; 26th January = <b>Republic</b> Day.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "On 15th August 1947 our country attained independence."
+    ],
+    [
+     "Meera",
+     "Flag hoisting ceremonies take place at school on Independence Day and Republic Day."
+    ],
+    [
+     "Kabir",
+     "On 26th January 1950 the Constitution came into force."
+    ],
+    [
+     "Sana",
+     "So every year we celebrate 26th January as Independence Day."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 8
+   },
+   "options": [
+    "Constitution",
+    "Republic",
+    "Freedom"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05"
+   ],
+   "hook": "A street match has no written rules or umpires; a country needs a <b>Constitution</b>.",
+   "prompt": "Compared with a match on a sports ground, what does a cricket match played on the street lack?",
+   "options": [
+    "Written rules, organization and official umpires",
+    "Players",
+    "A ball and a bat",
+    "Fun"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "India and the USA: written. <b>Britain</b> (United Kingdom): unwritten.",
+   "prompt": "Which country is given as an example of an unwritten constitution?",
+   "options": [
+    "Britain (United Kingdom)",
+    "India",
+    "USA"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event",
+    "year"
+   ],
+   "fids": [
+    "f51",
+    "f27"
+   ],
+   "hook": "Adopted 26th November 1949, so 26th November is <b>Constitution</b> Day.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "The Constituent Assembly adopted the entire Constitution on 26th November 1949."
+    ],
+    [
+     "Priya",
+     "So 26th November is celebrated as Republic Day."
+    ],
+    [
+     "Ishaan",
+     "Dr. Rajendra Prasad was the permanent President of the Constituent Assembly."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "Independence",
+    "Freedom",
+    "Constitution"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "<b>1946</b>: drafting begins, so India would be ruled by laws framed by Indians.",
+   "prompt": "In which year did the process of drafting the Constitution begin?",
+   "year": 1946,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-12-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f51",
+    "f35"
+   ],
+   "hook": "Adopted 26th November <b>1949</b>; in force 26th January 1950.",
+   "prompt": "In which year did the Constituent Assembly adopt the entire Constitution?",
+   "year": 1949,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-12-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f22",
+    "f23",
+    "f25"
+   ],
+   "hook": "<b>299</b> members = 229 elected + 70 nominated; first met on 9th December 1946.",
+   "prompt": "What am I?",
+   "clues": [
+    "I held my first meeting on 9th December 1946.",
+    "229 of my members were elected from provincial legislatures and 70 were nominated by the Princely States.",
+    "I was established to draft the Constitution of independent India."
+   ],
+   "options": [
+    "Drafting Committee",
+    "Constituent Assembly",
+    "Legislature",
+    "Union Powers Committee"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f10",
+    "f11"
+   ],
+   "hook": "Legislature makes, Executive implements, <b>Judiciary</b> interprets laws.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am one of the three key components of governance.",
+    "I do not make laws and I do not implement them.",
+    "I interpret laws and administer justice."
+   ],
+   "options": [
+    "Judiciary",
+    "Legislature",
+    "Executive",
+    "Drafting Committee"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f22",
+    "f23"
+   ],
+   "hook": "299 members = 229 from the provinces + <b>70</b> from the Princely States.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "In 1946 the provinces included the Bombay Presidency, Bengal Presidency and Madras Presidency."
+    ],
+    [
+     "Arjun",
+     "The Constituent Assembly had 299 members in total."
+    ],
+    [
+     "Zoya",
+     "The Princely States nominated 90 members."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "22",
+    "53",
+    "70"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f31",
+    "f32",
+    "f33"
+   ],
+   "hook": "Nehru: Union Powers. Patel: Fundamental Rights. Ambedkar: <b>Drafting</b>. Prasad: Steering.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kabir",
+     "Pandit Jawaharlal Nehru headed the Union Powers Committee."
+    ],
+    [
+     "Meera",
+     "Sardar Vallabhbhai Patel headed the Fundamental Rights and Minorities Committee."
+    ],
+    [
+     "Aarav",
+     "Dr. Babasaheb Ambedkar headed the Steering Committee."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Union",
+    "Rules",
+    "Drafting"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f10",
+    "f11"
+   ],
+   "hook": "Make laws: Legislature. <b>Implement</b> laws: Executive. Interpret laws: Judiciary.",
+   "prompt": "Which statement about the separation of power is correct?",
+   "options": [
+    "The Executive implements laws.",
+    "The Legislature interprets laws.",
+    "The Judiciary makes laws.",
+    "The Executive administers justice."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f50"
+   ],
+   "hook": "Original Constitution: a Preamble, <b>22</b> Parts, <b>395</b> Articles, <b>8</b> Schedules.",
+   "prompt": "Besides a Preamble, what did the original Constitution consist of?",
+   "options": [
+    "8 Parts, 395 Articles and 22 Schedules",
+    "22 Parts, 395 Articles and 8 Schedules",
+    "22 Parts, 299 Articles and 8 Schedules",
+    "7 Parts, 22 Articles and 8 Schedules"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f24",
+    "f38",
+    "f39",
+    "f25"
+   ],
+   "hook": "1928 gold, 1929 Complete Swaraj, 1930 first Independence Day, then 1946 first meeting.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "Hockey gold at Amsterdam Olympics",
+     "y": "1928",
+     "k": 1928
+    },
+    {
+     "t": "Lahore Session demands Complete Swaraj",
+     "y": "1929",
+     "k": 1929
+    },
+    {
+     "t": "First 'Independence Day' on 26th January",
+     "y": "1930",
+     "k": 1930
+    },
+    {
+     "t": "First meeting of Constituent Assembly",
+     "y": "1946",
+     "k": 1946
+    }
+   ]
+  },
+  {
+   "qid": "c6-12-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f39",
+    "f40"
+   ],
+   "hook": "26th January <b>1930</b>: first Independence Day; remembered on 26th January 1950.",
+   "prompt": "In which year was 26th January celebrated across the country as 'Independence Day' for the very first time?",
+   "year": 1930,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-12-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f34",
+    "f01"
+   ],
+   "hook": "29th August <b>1947</b>: Drafting Committee set up, two weeks after 15th August 1947.",
+   "prompt": "In which year was the Drafting Committee established?",
+   "year": 1947,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-12-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "<b>B.N. Rau</b> = Legal Advisor to the Constituent Assembly.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My name is linked with the Constituent Assembly.",
+    "My work was about legal matters.",
+    "I was appointed as the Legal Advisor to the Constituent Assembly."
+   ],
+   "options": [
+    "Dr. K. M. Munshi",
+    "Dr. Sachchidananda Sinha",
+    "Prem Behari Narain Raizada",
+    "B.N. Rau"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-12-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "Interim President: <b>Dr. Sachchidananda Sinha</b>; permanent President: Dr. Rajendra Prasad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My portrait appears beside that of Dr. Rajendra Prasad.",
+    "I was a President of the Constituent Assembly, but not its permanent President.",
+    "I was elected as the interim President of the Constituent Assembly."
+   ],
+   "options": [
+    "Dr. Rajendra Prasad",
+    "B.N. Rau",
+    "Shri Mohammed Saadulla",
+    "Dr. Sachchidananda Sinha"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-12-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f28",
+    "f29",
+    "f50"
+   ],
+   "hook": "<b>22</b> committees, 22 Parts: the number 22 appears twice.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Priya",
+     "The first meeting of the Constituent Assembly was held on 9th December 1946."
+    ],
+    [
+     "Rohan",
+     "B.N. Rau was appointed as the Legal Advisor to the Constituent Assembly."
+    ],
+    [
+     "Sana",
+     "A total of 12 committees were constituted to streamline its proceedings."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "7",
+    "395",
+    "22"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f07"
+   ],
+   "hook": "Huge land, large population, many cultures: India needs a Constitution to limit power.",
+   "prompt": "Why is it difficult to govern India without a constitution?",
+   "options": [
+    "Because India is a very small country",
+    "Because of India's vast geographical expanse, large population and cultural diversity",
+    "Because India has no cultures",
+    "Because India has only a few people"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event",
+    "year"
+   ],
+   "fids": [
+    "f38",
+    "f39",
+    "f40"
+   ],
+   "hook": "1929 demand for Complete Swaraj -> 26th January <b>1930</b> -> 26th January 1950.",
+   "prompt": "Why was the Constitution brought into force on 26th January 1950?",
+   "options": [
+    "Because India became independent on that day",
+    "Because the Drafting Committee was set up on that day",
+    "Because the first general elections were held on that day",
+    "To cherish the memory of 26th January 1930, celebrated as Independence Day for the very first time"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-12-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "Committee set up 1947, first draft published February <b>1948</b>, adopted 1949.",
+   "prompt": "In which year was the initial draft of the Constitution published?",
+   "year": 1948,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-12-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f52"
+   ],
+   "hook": "Interim Parliament from 1950 until the first general elections in <b>1952</b>.",
+   "prompt": "In which year were India's first general elections held?",
+   "year": 1952,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-12-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f53",
+    "f54",
+    "f55"
+   ],
+   "hook": "English by hand: <b>Prem Behari Narain Raizada</b>; Hindi: Vasant Krishna Vaidya.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My work is part of the original Constitution.",
+    "Acharya Nandalal Bose decorated my manuscript.",
+    "I wrote the original Constitution by hand in the English language."
+   ],
+   "options": [
+    "Vasant Krishna Vaidya",
+    "Prem Behari Narain Raizada",
+    "Acharya Nandalal Bose",
+    "B.N. Rau"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f55",
+    "f53",
+    "f54"
+   ],
+   "hook": "<b>Acharya Nandalal Bose</b> decorated both the English and Hindi manuscripts.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My work is linked with the original Constitution.",
+    "I did not write the manuscripts by hand.",
+    "I decorated both the English and the Hindi manuscripts."
+   ],
+   "options": [
+    "Acharya Nandalal Bose",
+    "Prem Behari Narain Raizada",
+    "Vasant Krishna Vaidya",
+    "Dr. K. M. Munshi"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "<b>Amsterdam</b> 1928: India's first-ever Olympic gold, in hockey.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "The captain of a team that won in me later joined the Constituent Assembly.",
+    "The Olympic Games were held in me in 1928.",
+    "The Indian hockey team won India's first-ever Olympic gold medal in me."
+   ],
+   "options": [
+    "Lahore",
+    "Bombay",
+    "Amsterdam",
+    "Madras"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36",
+    "f37"
+   ],
+   "hook": "Mitter <b>resigned</b> (Madhava Rao came); Khaitan <b>died</b> (Krishnamachari came).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Drafting Committee had seven members, including the Chairman."
+    ],
+    [
+     "Tanvi",
+     "Shri K. N. Madhava Rao was appointed after Shri B. L. Mitter resigned."
+    ],
+    [
+     "Arjun",
+     "Shri D. P. Khaitan retired and Shri T. T. Krishnamachari was appointed in his place."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "resigned",
+    "died",
+    "moved"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f08",
+    "f12"
+   ],
+   "hook": "The Constitution: <b>supreme</b> source of laws, protector of rights and of minorities.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Zoya",
+     "The Constitution serves as the weakest source of laws within a country."
+    ],
+    [
+     "Kabir",
+     "It grants fundamental rights like freedom of expression and freedom of movement."
+    ],
+    [
+     "Meera",
+     "It ensures that the majority group cannot inflict injustice upon minorities."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "smallest",
+    "supreme",
+    "foreign"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-12-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f47",
+    "f25"
+   ],
+   "hook": "9th December 1946 to 25th November 1949: 2 years, 11 months, <b>18</b> days.",
+   "prompt": "How long did the proceedings of the Constituent Assembly last?",
+   "options": [
+    "2 years, 11 months and 18 days",
+    "2 years, 11 months and 28 days",
+    "3 years and 18 days",
+    "1 year, 11 months and 18 days"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f38",
+    "f25",
+    "f34",
+    "f45",
+    "f35"
+   ],
+   "hook": "1929, 1946, 1947, 1948, 1949: demand, meeting, committee, draft, adoption.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "Congress demands Complete Swaraj",
+     "y": "1929",
+     "k": 1929
+    },
+    {
+     "t": "Constituent Assembly's first meeting",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "Drafting Committee established",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "Initial draft published in February",
+     "y": "1948",
+     "k": 1948
+    },
+    {
+     "t": "Final draft adopted",
+     "y": "1949",
+     "k": 1949
+    }
+   ]
+  },
+  {
+   "qid": "c6-12-34",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f39",
+    "f01",
+    "f51",
+    "f49",
+    "f52"
+   ],
+   "hook": "1930, 1947, 1949, 1950, 1952: from the first Independence Day to the first general elections.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "First 'Independence Day' celebrated",
+     "y": "1930",
+     "k": 1930
+    },
+    {
+     "t": "Freedom from British subjugation",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "Constitution Day: Constitution adopted",
+     "y": "1949",
+     "k": 1949
+    },
+    {
+     "t": "Members sign copies of the Constitution",
+     "y": "1950",
+     "k": 1950
+    },
+    {
+     "t": "First general elections",
+     "y": "1952",
+     "k": 1952
+    }
+   ]
+  },
+  {
+   "qid": "c6-12-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f22",
+    "f36"
+   ],
+   "hook": "A few women among the 299, such as Hansa Mehta, Sarojini Naidu and Durgabai Deshmukh.",
+   "prompt": "Which of these was a woman member of the Constituent Assembly?",
+   "options": [
+    "Shri Mohammed Saadulla",
+    "Shri N. Gopalaswami Ayyangar",
+    "Hansa Mehta",
+    "Dr. K. M. Munshi"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Fundamental Rights and Minorities Committee: <b>Sardar Vallabhbhai Patel</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I headed one of the important committees of the Constituent Assembly.",
+    "My committee did not prepare the draft.",
+    "My committee was the Fundamental Rights and Minorities Committee."
+   ],
+   "options": [
+    "Sardar Vallabhbhai Patel",
+    "Pandit Jawaharlal Nehru",
+    "Dr. Rajendra Prasad",
+    "Dr. Babasaheb Ambedkar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f49",
+    "f02",
+    "f48",
+    "f52"
+   ],
+   "hook": "Signed 24th January 1950, in force 26th January 1950, Interim Parliament until <b>1952</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The members signed the copies of the Constitution on 24th January 1950."
+    ],
+    [
+     "Priya",
+     "The Constitution came into force two days later, on 26th January 1950."
+    ],
+    [
+     "Rohan",
+     "About 53,000 people watched the proceedings from the visitor's gallery."
+    ],
+    [
+     "Sana",
+     "Until the first general elections in 1951 the Constituent Assembly worked as India's Interim Parliament."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 6
+   },
+   "options": [
+    "1952",
+    "1948",
+    "1950"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f46",
+    "f36"
+   ],
+   "hook": "Drafting Committee: <b>seven</b> members, Dr. B. R. Ambedkar as Chairman.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Decisions on most provisions were arrived at unanimously."
+    ],
+    [
+     "Tanvi",
+     "Dr. B. R. Ambedkar was the Chairman of the Drafting Committee."
+    ],
+    [
+     "Arjun",
+     "Shri Alladi Krishnaswami Ayyar and Dr. K. M. Munshi were its members."
+    ],
+    [
+     "Zoya",
+     "The Drafting Committee had nine members in all, including the Chairman."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 4
+   },
+   "options": [
+    "seven",
+    "five",
+    "22"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-12-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f34",
+    "f25",
+    "f27",
+    "f45"
+   ],
+   "hook": "First meeting 9th Dec 1946, President 11th Dec 1946, committee 29th Aug 1947, draft Feb 1948.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The first meeting of the Constituent Assembly was held on 11th December 1946.",
+    "The initial draft was published in February 1949.",
+    "The Drafting Committee was established on 29th August 1947.",
+    "Dr. Rajendra Prasad was elected permanent President on 9th December 1946."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-12-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f14"
+   ],
+   "hook": "The Preamble shows the nation's direction: Justice, Liberty, Equality, Fraternity.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Preamble lists only the names of the committees.",
+    "The Constitution has adopted the goals of Justice, Liberty, Equality and Fraternity, seen through the Preamble.",
+    "The Constitution has no goals or values.",
+    "The Constitution weakens democracy in India."
+   ],
+   "answer": 1
+  }
+ ]
+}

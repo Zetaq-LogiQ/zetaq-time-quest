@@ -1,0 +1,1475 @@
+{
+ "class": 8,
+ "id": "19",
+ "title": "The State Government",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "In the federal system the government exists at two levels: the Central Government at the national level and the State government at the regional or State level.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the federal system, the government exists at two levels. Federal that is the Central Government works at the national level and the State government works at the regional or State level.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "India has a large geographic expanse and a multicultural population; it could not be governed from one centralised place, so the Constitution adopted a federal setup.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has a large geographic expanse with a multicultural population. ... It would not have been possible to govern from a centralised place; therefore the Constitution has adopted a federal setup for India.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "event",
+   "text": "It was decided to form the States on the basis of language; accordingly, linguistic reorganisation of states took place.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was decided to form the States on the basis of language. Accordingly, linguistic reorganisation of states took place.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "place",
+   "text": "The nature of government machinery in all states of India is the same; Jammu and Kashmir is an exception.",
+   "year": null,
+   "era": "CE",
+   "quote": "The nature of government machinery in all states of India is same. However, Jammu and Kashmir is an exception.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "India has 28 Constituent States but 31 Vidhan Sabhas, because the Union Territories of Delhi and Puducherry and Jammu and Kashmir also have Vidhan Sabhas.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has 28 Constituent States but there are 31 Vidhan Sabhas. This is because the Union Territories of Delhi and Puducherry and Jammu and Kashmir both have Vidhan Sabhas.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "Every State has its own legislature, but only seven states in India have two Houses, i.e. bicameral legislatures; Maharashtra has a bicameral legislature.",
+   "year": null,
+   "era": "CE",
+   "quote": "every State has its own legislature. But only seven states in India have two Houses ie. Bicameral legislatures. Maharashtra has a bicameral legislature.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "Members of State legislatures are known as Members of Legislative Assembly (MLA) or Members of Legislative Council (MLC).",
+   "year": null,
+   "era": "CE",
+   "quote": "The members of State legislatures are known as Members of Legislative Assembly (MLA) or Members of Legislative Council (MLC).",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "The Legislature of Maharashtra has two Houses: Vidhan Sabha (Legislative Assembly) and Vidhan Parishad (Legislative Council).",
+   "year": null,
+   "era": "CE",
+   "quote": "Legislature of Maharashtra has two Houses, namely-Vidhan Sabha (Legislative Assembly) and Vidhan Parishad (Legislative Council).",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "place",
+   "text": "Vidhan Bhavan is in Mumbai.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vidhan Bhavan, Mumbai",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The Vidhan Sabha is the first House of the Maharashtra legislature and has 288 members.",
+   "year": null,
+   "era": "CE",
+   "quote": "This is the first House of the Maharashtra legislature and comprises of 288 members.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "If the Anglo-Indian community is inadequately represented, the Governor nominates one member from this community to the Vidhan Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "In case there is inadequate representation of the Anglo-Indian community the Governor nominates one member from this community in the Vidhan Sabha.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Some Vidhan Sabha seats are reserved for the Scheduled Castes and Scheduled Tribes.",
+   "year": null,
+   "era": "CE",
+   "quote": "Some seats are reserved for the Scheduled Castes and Scheduled Tribes.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Maharashtra is divided into territorial constituencies for elections, and one member is elected from each constituency.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharashtra is divided into territorial constituencies for the purpose of elections. One member is elected from each of the constituencies.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The tenure of the Vidhan Sabha is 5 years, but in exceptional circumstances elections can be held before 5 years are completed.",
+   "year": null,
+   "era": "CE",
+   "quote": "Tenure of Vidhan Sabha is 5 years. However, in exceptional circumstances elections can be held before the completion of 5 years.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "Any citizen residing in Maharashtra who has completed 25 years of age can contest the Vidhan Sabha elections.",
+   "year": null,
+   "era": "CE",
+   "quote": "Any citizen residing in Maharashtra and who has completed 25 years of age can contest the elections to the Vidhan Sabha.",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "The proceedings of the Vidhan Sabha are carried out under the supervision and guidance of the Speaker.",
+   "year": null,
+   "era": "CE",
+   "quote": "The proceedings of the Vidhan Sabha are carried out under the supervision and guidance of the Speaker.",
+   "page": 1
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "The elected members of a newly constituted Vidhan Sabha elect the Speaker and Deputy Speaker from amongst themselves.",
+   "year": null,
+   "era": "CE",
+   "quote": "The elected members of the newly constituted Vidhan Sabha elect the Speaker and Deputy Speaker of the Vidhan Sabha from amongst themselves.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "The Speaker prepares the order of business, conducts the House in a disciplined manner and can suspend members for misbehaviour or misconduct.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Speaker has many responsibilities which range from the power to prepare the order of business, to carry out the proceedings of the House in a disciplined manner, or to suspend members for misbehaviour or misconduct.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "In the absence of the Speaker, the Deputy Speaker takes over the responsibility.",
+   "year": null,
+   "era": "CE",
+   "quote": "In absence of the Speaker, the responsibility is taken over by the Deputy Speaker.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "Maharashtra's legislature holds at least three sessions a year: the budget and monsoon sessions in Mumbai and the winter session in Nagpur.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharashtra's legislature conducts minimum three sessions in a year. The budget session and monsoon session is conducted in Mumbai while the winter session is conducted in Nagpur.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "The Vidhan Parishad is the second House of the Maharashtra legislature; its members are indirectly elected from various sections of society.",
+   "year": null,
+   "era": "CE",
+   "quote": "It is the second House of the Maharashtra legislature and members are indirectly elected from various sections of society.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "There are 78 members in the Vidhan Parishad of Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are 78 members in the Vidhan Parishad of Maharashtra.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "person",
+   "text": "Some Vidhan Parishad members, distinguished personalities from literature, science and social service, are nominated by the Governor.",
+   "year": null,
+   "era": "CE",
+   "quote": "some members who are distinguished personalities from the fields of literature, science and social service are nominated by the Governor",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The remaining Vidhan Parishad members are elected by the members of Vidhan Sabha, local government institutions, teacher-constituencies and graduate constituencies.",
+   "year": null,
+   "era": "CE",
+   "quote": "remaining representatives are elected by the members of Vidhan Sabha, local government institutions, teacher-constituencies and graduate constituencies.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "The Vidhan Parishad is never fully dissolved; a specific number of members retire every 2 years and fresh elections fill those seats.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Vidhan Parishad is never fully dissolved. A specific number of members retire every 2 years and these vacant seats are filled again by conducting fresh elections for those seats.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "The proceedings of the Vidhan Parishad are under the Chairman; in his absence, the Deputy Chairman takes over.",
+   "year": null,
+   "era": "CE",
+   "quote": "The proceedings of the Vidhan Parishad are conducted under the control and guidance of the Chairman. In absence of the Chairman, the Deputy Chairman takes over the responsibility.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Governor, the Chief Minister and the Council of Ministers together form the executive of Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Governor, Chief Minister and the Council of Ministers together form the executive of Maharashtra.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "The President is a nominal head at the Centre while the Governor is the nominal head at the state level.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President is a nominal head at the Centre while the Governor is the nominal head at the state-level.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "The Governor is appointed by the President and holds office during the pleasure of the President.",
+   "year": null,
+   "era": "CE",
+   "quote": "Governor is appointed by the President and holds the office during the pleasure of the President.",
+   "page": 2
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "Bills passed by the Vidhan Sabha and Vidhan Parishad become laws only after the assent of the Governor.",
+   "year": null,
+   "era": "CE",
+   "quote": "the bills passed by the Vidhan Sabha and Vidhan Parishad are converted into laws only after receiving the assent of the Governor.",
+   "page": 2
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "The Governor has the right to summon the session of the state legislature.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Governor has the right to summon the session of the state legislature.",
+   "page": 2
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "When the legislature is not in session but a law is needed, the Governor can issue an Ordinance.",
+   "year": null,
+   "era": "CE",
+   "quote": "When the legislature is not in session but the need arises to make the law, then the Governor can issue an Ordinance for the same.",
+   "page": 2
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "The leader of the majority party in the Legislative Assembly becomes the Chief Minister.",
+   "year": null,
+   "era": "CE",
+   "quote": "The leader of the majority party in Legislative Assembly becomes the Chief Minister.",
+   "page": 2
+  },
+  {
+   "fid": "f34",
+   "kind": "person",
+   "text": "Like the Prime Minister, the executive head of the Union, the Chief Minister is the head of the state executive.",
+   "year": null,
+   "era": "CE",
+   "quote": "Like the Prime Minister who is the executive head of the Union, the Chief Minister is the head of the state executive.",
+   "page": 2
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "The government of the state is run in the name of the Governor, but in reality the administration is carried out by the Chief Minister.",
+   "year": null,
+   "era": "CE",
+   "quote": "The government of the state is run in the name of the Governor. But in reality, the administration is carried out by the Chief Minister.",
+   "page": 2
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "After proving the majority, the Chief Minister forms the Council of Ministers, accommodating various regions and social groups to make it representative.",
+   "year": null,
+   "era": "CE",
+   "quote": "After proving the majority, the Chief Minister forms his/her Council of Ministers. This is a challenging task because in order to make the Council more representative, various regions and social groups ... have to be accommodated.",
+   "page": 2
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "If no party gets a clear majority, different parties can come together to form the government, and the Chief Minister must give a place to all parties in the alliance.",
+   "year": null,
+   "era": "CE",
+   "quote": "If no party secures a clear majority, different parties can come together to form the government. In such case, the Chief Minister has to perform the difficult task of giving a place to all the constituent parties in the alliance.",
+   "page": 2
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "While distributing portfolios, the Chief Minister considers political experience, administrative skills, awareness of public opinion and leadership qualities.",
+   "year": null,
+   "era": "CE",
+   "quote": "While distributing portfolios, he/she has to consider the political experience, administrative skills, awareness of public opinion, leadership qualities etc.",
+   "page": 3
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "The Chief Minister and the Council of Ministers are collectively responsible to the Legislative Assembly; the Chief Minister bears the ultimate responsibility of efficient administration.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Chief Minister along with his Council of Ministers are collectively responsible to the Legislative Assembly. The Chief Minister bears the ultimate responsibility of the efficient administration.",
+   "page": 3
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "The Chief Minister resolves conflicts between Departments so they work towards the same goal in the same direction.",
+   "year": null,
+   "era": "CE",
+   "quote": "Therefore, the Chief Minister has to resolve conflicts between Departments and ensure that they work towards the same goal and in the same direction.",
+   "page": 3
+  },
+  {
+   "fid": "f41",
+   "kind": "person",
+   "text": "Just as the Prime Minister leads the country, the Chief Minister leads the state; people look at the Chief Minister as a problem solver.",
+   "year": null,
+   "era": "CE",
+   "quote": "Just as the Prime Minister leads the country, the Chief Minister leads the state. ... The people look at the Chief Minister as a problem solver.",
+   "page": 3
+  },
+  {
+   "fid": "f42",
+   "kind": "place",
+   "text": "Maharashtra is one of the progressive States; it leads in sectors like education, industry, service sector, health and social security.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharashtra is one of the progressive States in India. The State leads in sectors like education, industry, service sector, health and social security etc.",
+   "page": 3
+  },
+  {
+   "fid": "f43",
+   "kind": "place",
+   "text": "Terror attacks and Naxalite (Left-wing extremist) movements are the two major challenges facing Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "Terror attacks and Naxalite (Left-wing extremist) movements active in certain regions are the two major challenges facing the State of Maharashtra.",
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-19-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Vidhan Sabha = <b>288</b> seats; Vidhan Parishad = 78.",
+   "prompt": "How many members does the Vidhan Sabha of Maharashtra have?",
+   "options": [
+    "78",
+    "250",
+    "543",
+    "288"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f30",
+    "f31",
+    "f28"
+   ],
+   "hook": "Appointed by the President, signs bills into law, summons sessions: the <b>Governor</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Bills of the Vidhan Sabha and Vidhan Parishad become laws only after my assent.",
+    "I have the right to summon the session of the state legislature.",
+    "I am the nominal head at the state level.",
+    "The President appoints me."
+   ],
+   "options": [
+    "Governor",
+    "Chief Minister",
+    "Speaker",
+    "Chief Justice"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Budget and monsoon in <b>Mumbai</b>, winter in <b>Nagpur</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Maharashtra's legislature holds at least three sessions in a year."
+    ],
+    [
+     "Meera",
+     "The budget session and monsoon session are held in Mumbai."
+    ],
+    [
+     "Kabir",
+     "The winter session is held in Pune every year."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Aurangabad",
+    "Delhi",
+    "Nagpur"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Lead the <b>majority party</b> in the Assembly, become <b>Chief Minister</b>.",
+   "prompt": "Who becomes the Chief Minister?",
+   "options": [
+    "The oldest member of the Vidhan Parishad",
+    "The person chosen by the Chief Justice",
+    "The Speaker of the Vidhan Sabha",
+    "The leader of the majority party in the Legislative Assembly"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f14",
+    "f15"
+   ],
+   "hook": "Vidhan Sabha: <b>5</b>-year tenure, contest at <b>25</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Maharashtra's legislature has two Houses, the Vidhan Sabha and the Vidhan Parishad."
+    ],
+    [
+     "Ishaan",
+     "The tenure of the Vidhan Sabha is 6 years in normal times."
+    ],
+    [
+     "Tara",
+     "A citizen residing in Maharashtra can contest Vidhan Sabha elections after completing 25 years of age."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "5",
+    "2",
+    "4"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22",
+    "f25"
+   ],
+   "hook": "Second House, <b>78</b> members, never fully dissolved: the <b>Vidhan Parishad</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "A specific number of my members retire every 2 years.",
+    "I am never fully dissolved.",
+    "I have 78 members in Maharashtra.",
+    "I am the second House of the Maharashtra legislature."
+   ],
+   "options": [
+    "Vidhan Sabha",
+    "Vidhan Parishad",
+    "Council of Ministers",
+    "Gram Panchayat"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "The <b>President</b> appoints the Governor, who serves during the President's pleasure.",
+   "prompt": "Who appoints the Governor?",
+   "options": [
+    "The Chief Minister",
+    "The Prime Minister",
+    "The Chief Justice",
+    "The President"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Federal = <b>two levels</b>: Centre (national) and State (regional).",
+   "prompt": "At how many levels does government exist in the federal system?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f16",
+    "f17",
+    "f18"
+   ],
+   "hook": "Runs the Vidhan Sabha, sets the order of business, can suspend members: the <b>Speaker</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I can suspend members for misbehaviour or misconduct.",
+    "I prepare the order of business of the House.",
+    "The elected members of the Vidhan Sabha elect me from amongst themselves.",
+    "The proceedings of the Vidhan Sabha are carried out under my guidance."
+   ],
+   "options": [
+    "Governor",
+    "Chairman",
+    "Speaker",
+    "Chief Minister"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "The <b>President</b>: nominal head at the Centre, appoints the Governor.",
+   "prompt": "Who am I?",
+   "options": [
+    "Prime Minister",
+    "President",
+    "Chief Minister",
+    "Chief Justice"
+   ],
+   "answer": 1,
+   "clues": [
+    "The Governor holds office during my pleasure.",
+    "I appoint the Governor of a state.",
+    "I am the nominal head at the Centre."
+   ]
+  },
+  {
+   "qid": "c8-19-11",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Legislature not sitting but a law is needed? The Governor issues an <b>Ordinance</b>.",
+   "prompt": "What can the Governor issue when the legislature is not in session but a law is needed?",
+   "options": [
+    "An Ordinance",
+    "An affidavit",
+    "A First Information Report",
+    "A portfolio"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f08"
+   ],
+   "hook": "State legislators are <b>MLA</b> (Legislative Assembly) or <b>MLC</b> (Legislative Council).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "Every State in India has its own legislature."
+    ],
+    [
+     "Arjun",
+     "Members of State legislatures are known as MP or MLC."
+    ],
+    [
+     "Neha",
+     "Maharashtra's legislature has two Houses, the Vidhan Sabha and the Vidhan Parishad."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "MLA",
+    "Sarpanch",
+    "Collector"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "States were formed on the basis of <b>language</b>: linguistic reorganisation.",
+   "prompt": "On what basis was it decided to form the States?",
+   "options": [
+    "Religion",
+    "Size of population",
+    "Language",
+    "Rivers"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f19",
+    "f17"
+   ],
+   "hook": "Speaker away? The <b>Deputy Speaker</b> takes over in the Vidhan Sabha.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am chosen from amongst the elected members of the Vidhan Sabha.",
+    "The members of a newly constituted Vidhan Sabha elect me along with the Speaker.",
+    "When the Speaker is absent, I take over the responsibility."
+   ],
+   "options": [
+    "Deputy Speaker",
+    "Deputy Chairman",
+    "Governor",
+    "Chief Minister"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "One constituency, <b>one</b> member; some seats reserved for SC and ST.",
+   "prompt": "Which statement about Vidhan Sabha elections is correct?",
+   "options": [
+    "Each constituency elects three members.",
+    "No seats are reserved for anyone.",
+    "Maharashtra is divided into territorial constituencies and one member is elected from each.",
+    "Members are nominated by the Speaker."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f35"
+   ],
+   "hook": "Government runs in the <b>Governor's</b> name, but the <b>Chief Minister</b> really runs it.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "The Chief Minister is the head of the state executive."
+    ],
+    [
+     "Pari",
+     "The state government is run in the name of the Speaker of the state."
+    ],
+    [
+     "Jay",
+     "In reality, the administration is carried out by the Chief Minister."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "Governor",
+    "Chairman",
+    "President"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f22"
+   ],
+   "hook": "Big house <b>288</b>, small house <b>78</b>: 210 more seats in the Vidhan Sabha.",
+   "prompt": "Which pair is correct for Maharashtra?",
+   "options": [
+    "Vidhan Sabha 78, Vidhan Parishad 288",
+    "Vidhan Sabha 288, Vidhan Parishad 288",
+    "Vidhan Sabha 250, Vidhan Parishad 78",
+    "Vidhan Sabha 288, Vidhan Parishad 78"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "Vidhan Parishad: never fully dissolved, members retire every <b>2</b> years; run by the Chairman.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "The Vidhan Parishad is never fully dissolved."
+    ],
+    [
+     "Dev",
+     "A specific number of its members retire every 5 years."
+    ],
+    [
+     "Pooja",
+     "Its proceedings are conducted under the guidance of the Chairman."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "3",
+    "2",
+    "6"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f23",
+    "f32",
+    "f29"
+   ],
+   "hook": "The <b>Governor</b> nominates distinguished people to the Parishad and can issue Ordinances.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I nominate distinguished personalities from literature, science and social service to the Vidhan Parishad.",
+    "When the legislature is not in session but a law is needed, I can issue an Ordinance.",
+    "I hold office during the pleasure of the President."
+   ],
+   "options": [
+    "Chief Minister",
+    "Governor",
+    "Speaker",
+    "Chairman"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Maharashtra's executive = <b>Governor + Chief Minister + Council of Ministers</b>.",
+   "prompt": "Which of these together form the executive of Maharashtra?",
+   "options": [
+    "The Speaker, the Chairman and the Deputy Speaker",
+    "The Vidhan Sabha and the Vidhan Parishad",
+    "The President, the Prime Minister and the Chief Justice",
+    "The Governor, the Chief Minister and the Council of Ministers"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f32"
+   ],
+   "hook": "Governor's law powers: <b>assent</b> to bills, <b>summon</b> sessions, issue <b>Ordinances</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "Bills become laws only after receiving the assent of the Governor."
+    ],
+    [
+     "Yash",
+     "The Speaker has the right to summon the session of the state legislature."
+    ],
+    [
+     "Zoya",
+     "The Governor can issue an Ordinance when the legislature is not in session."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "Governor",
+    "Chairman",
+    "Collector"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f39",
+    "f40"
+   ],
+   "hook": "CM and ministers answer <b>together</b> to the Legislative Assembly; the CM keeps departments in step.",
+   "prompt": "To whom are the Chief Minister and the Council of Ministers collectively responsible?",
+   "options": [
+    "The Governor's office staff",
+    "The Legislative Assembly",
+    "The High Court",
+    "The Vidhan Parishad Chairman"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36",
+    "f38",
+    "f40",
+    "f41"
+   ],
+   "hook": "Forms the Council, shares portfolios, solves problems: the <b>Chief Minister</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I resolve conflicts between Departments.",
+    "I distribute portfolios among the ministers.",
+    "After proving the majority, I form the Council of Ministers.",
+    "People look at me as a problem solver who leads the state."
+   ],
+   "options": [
+    "Governor",
+    "Chief Minister",
+    "Speaker",
+    "President"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f41",
+    "f28"
+   ],
+   "hook": "PM leads the country, CM leads the state: people see the <b>Chief Minister</b> as a <b>problem solver</b>.",
+   "prompt": "Just as the Prime Minister leads the country, the Chief Minister leads the state. How do the people look at the Chief Minister?",
+   "options": [
+    "As the nominal head of the state",
+    "As the head of the judiciary",
+    "As the Chairman of the Vidhan Parishad",
+    "As a problem solver"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Portfolios go by <b>experience, admin skill, public opinion and leadership</b>.",
+   "prompt": "Which of these does the Chief Minister consider while distributing portfolios?",
+   "options": [
+    "The minister's age only",
+    "Only which city the minister lives in",
+    "Only the minister's height",
+    "Political experience, administrative skills, awareness of public opinion and leadership qualities"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f23"
+   ],
+   "hook": "Parishad voters: <b>Vidhan Sabha members, local bodies, teachers, graduates</b>; plus the Governor's nominees.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "Some Vidhan Parishad members are nominated by the Governor."
+    ],
+    [
+     "Vihaan",
+     "Other members are elected by Vidhan Sabha members and local government institutions."
+    ],
+    [
+     "Riya",
+     "Teacher constituencies and doctor constituencies also elect members."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "graduate",
+    "farmer",
+    "student"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Vidhan Parishad: Chairman leads; if absent, the <b>Deputy Chairman</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I work in the second House of the Maharashtra legislature.",
+    "My House has 78 members and is never fully dissolved.",
+    "When the Chairman of the Vidhan Parishad is absent, I take over."
+   ],
+   "options": [
+    "Deputy Chairman",
+    "Deputy Speaker",
+    "Governor",
+    "Chief Minister"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "Maharashtra's two big challenges: <b>terror attacks</b> and <b>Naxalite</b> movements.",
+   "prompt": "What are the two major challenges facing the State of Maharashtra?",
+   "options": [
+    "Floods and earthquakes",
+    "Low industry and poor education",
+    "Terror attacks and Naxalite (Left-wing extremist) movements",
+    "Lack of a legislature and lack of courts"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f36",
+    "f37"
+   ],
+   "hook": "No clear majority? Parties form an <b>alliance</b>, and the CM must give each a place.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meher",
+     "The Chief Minister forms the Council of Ministers after proving the majority."
+    ],
+    [
+     "Sahil",
+     "Various regions and social groups have to be accommodated in the Council."
+    ],
+    [
+     "Nisha",
+     "If no party secures a clear majority, single parties can come together to form the government."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "different",
+    "no",
+    "zero"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "Progressive Maharashtra leads in <b>education, industry, services, health, social security</b>.",
+   "prompt": "Which statement about Maharashtra is correct?",
+   "options": [
+    "It has a unicameral legislature.",
+    "It is one of the progressive States and leads in sectors like education and industry.",
+    "Its winter session is held in Mumbai.",
+    "Its Vidhan Sabha has 78 members."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Too big and diverse to rule from one place, so India chose a <b>federal</b> setup.",
+   "prompt": "Why did the Constitution adopt a federal setup for India?",
+   "options": [
+    "India is too small to need states.",
+    "All Indians speak one language.",
+    "The Governor asked for it.",
+    "India has a large geographic expanse and multicultural population, so it could not be governed from one centralised place."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-19-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f09",
+    "f20"
+   ],
+   "hook": "<b>Vidhan Bhavan</b> stands in <b>Mumbai</b>, where the budget session meets.",
+   "prompt": "In which city is the Vidhan Bhavan of Maharashtra?",
+   "options": [
+    "Nagpur",
+    "Pune",
+    "Mumbai",
+    "Aurangabad"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-33",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f17",
+    "f15"
+   ],
+   "hook": "Vidhan <b>Sabha</b> members elect their own Speaker and Deputy Speaker; the Parishad has a Chairman.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aryan",
+     "Some Vidhan Sabha seats are reserved for the Scheduled Castes and Scheduled Tribes."
+    ],
+    [
+     "Diya",
+     "The elected members of a newly constituted Vidhan Parishad elect the Speaker and Deputy Speaker from amongst themselves."
+    ],
+    [
+     "Kunal",
+     "A citizen residing in Maharashtra must complete 25 years of age to contest Vidhan Sabha elections."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "Bhavan",
+    "Mandal",
+    "Sabha"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-34",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f14",
+    "f13",
+    "f17"
+   ],
+   "hook": "<b>288</b> seats, <b>5</b> years, one member per constituency: the <b>Vidhan Sabha</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "My members elect a Speaker and a Deputy Speaker from amongst themselves.",
+    "One member is elected to me from each territorial constituency.",
+    "My tenure is 5 years.",
+    "I am the first House of the Maharashtra legislature, with 288 members."
+   ],
+   "options": [
+    "Vidhan Sabha",
+    "Vidhan Parishad",
+    "Council of Ministers",
+    "Lok Sabha"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f27",
+    "f28",
+    "f35",
+    "f34"
+   ],
+   "hook": "Governor = <b>nominal</b> head; Chief Minister = <b>real</b> head of the state executive.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Governor is the nominal head, while the Chief Minister heads the state executive and carries out the administration.",
+    "The Chief Minister is the nominal head of the state and the Governor runs the administration.",
+    "The President runs the administration of every state.",
+    "The Speaker is the head of the state executive."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f22",
+    "f15",
+    "f25"
+   ],
+   "hook": "Sabha <b>288</b>, Parishad <b>78</b>, contest at <b>25</b>, Parishad members retire every <b>2</b> years.",
+   "prompt": "Which set of facts about Maharashtra's legislature is correct?",
+   "options": [
+    "Sabha 288 seats; Parishad 78 seats; Sabha contest age 21; Parishad members retire every 2 years",
+    "Sabha 78 seats; Parishad 288 seats; Sabha contest age 25; Parishad members retire every 2 years",
+    "Sabha 288 seats; Parishad 78 seats; Sabha contest age 25; Parishad members retire every 2 years",
+    "Sabha 288 seats; Parishad 78 seats; Sabha contest age 25; Parishad members retire every 5 years"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f39",
+    "f40",
+    "f41"
+   ],
+   "hook": "CM and ministers answer <b>together</b> to the Legislative <b>Assembly</b>; the CM keeps departments on one goal.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Leela",
+     "The Chief Minister resolves conflicts between Departments."
+    ],
+    [
+     "Manav",
+     "The Chief Minister and his ministers are collectively responsible to the Legislative Council of the state."
+    ],
+    [
+     "Gauri",
+     "Just as the Prime Minister leads the country, the Chief Minister leads the state."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 12
+   },
+   "options": [
+    "Court",
+    "Assembly",
+    "Bureau"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-19-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f31"
+   ],
+   "hook": "No session, urgent need: the Governor's <b>Ordinance</b> fills the gap.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am issued by the Governor.",
+    "I am used when the need arises to make a law.",
+    "I come when the state legislature is not in session."
+   ],
+   "options": [
+    "Ordinance",
+    "Affidavit",
+    "Portfolio",
+    "Budget session"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-19-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f24",
+    "f23",
+    "f13"
+   ],
+   "hook": "Vidhan Sabha: <b>direct</b>, one per constituency. Vidhan Parishad: <b>indirect</b>, many sections of society.",
+   "prompt": "How are most members of the Vidhan Parishad chosen?",
+   "options": [
+    "Directly, one from each territorial constituency",
+    "They are all appointed by the Chief Minister",
+    "Indirectly, from various sections of society",
+    "By the Speaker of the Vidhan Sabha"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-19-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f25",
+    "f29"
+   ],
+   "hook": "Vidhan Sabha <b>5</b> years; Parishad never dissolved, members retire every <b>2</b> years.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Vidhan Parishad is fully dissolved every 5 years.",
+    "The Vidhan Sabha has a 5-year tenure, but the Vidhan Parishad is never fully dissolved.",
+    "The Governor holds office during the pleasure of the Chief Minister.",
+    "The Vidhan Sabha can never have elections before 5 years."
+   ],
+   "answer": 1
+  }
+ ]
+}

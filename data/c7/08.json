@@ -1,0 +1,1438 @@
+{
+ "class": 7,
+ "id": "08",
+ "title": "An Ideal Ruler",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "Before the foundation of Swaraj, Maharashtra was under the domination of the Adilshahi, Siddi, Portuguese and Mughal powers.",
+   "year": null,
+   "era": "CE",
+   "quote": "Before the foundation of Swaraj, Maharashtra was under the domination of the Adilshahi, Siddi, Portuguese and Mughal powers.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Shivaji Maharaj turned Swaraj into a Surajya, a kingdom that sought the welfare of all.",
+   "year": null,
+   "era": "CE",
+   "quote": "He turned Swaraj into a Surajya, a kingdom that sought the welfare of all.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "event",
+   "text": "The meeting with Afzalkhan, the siege of Panhala, the attack on Shaistakhan and the escape from Agra all involved great risk; no harm came to Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Events like the meeting with the Afzalkhan, the seige of Panhala, the attack on Shaistakhan, the escape from Agra, all involved a great amount of risk. ... No harm came to him.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "person",
+   "text": "Jiva Mahala killed Bada Sayyad at a critical moment during the meeting with Afzalkhan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Jiva Mahala, who killed Bada Sayyad at a critical moment during the meeting with Afzalkhan",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "person",
+   "text": "Shiva Kashid crossed the siege of Panhalagad in the disguise of Shivaji Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shiva Kashid who crossed the siege of Panhalagad in the disguise of Shivaji Maharaj",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "person",
+   "text": "Bajiprabhu Deshpande blocked the advances of the enemy on the way to Vishalgad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bajiprabhu Deshpande, who blocked the advances of the enemy on the way to Vishalgad",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "person",
+   "text": "Murarbaji Deshpande defended the fort of Purander.",
+   "year": null,
+   "era": "CE",
+   "quote": "Murarbaji Deshpande, who defended the fort of Purander",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "Tanaji Malusare sacrificed his life while conquering Sinhagad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Tanaji Malusare, who sacrificed his life while conquering Sinhagad",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "Hiroji Farjand and Madari Meheter risked their lives during the escape of Maharaj from Agra.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hiroji Farjand and Madari Meheter, who risked their lives during the escape of Maharaj from Agra",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "Kanhoji Jedhe was with Maharaj in the work of the Swaraj from the very beginning; when he fell ill, Maharaj told him not to neglect his medicines.",
+   "year": null,
+   "era": "CE",
+   "quote": "Kanhoji Jedhe was associated with Maharaj in the work of the Swaraj from the very beginning. When the ageing Kanhoji fell ill, Maharaj told him not to neglect his medicines or treatment on any account.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "event",
+   "text": "During Shaistakhan's campaign, Maharaj told the Deshmukh of the Rohida valley to visit every village and shift people to a safe place down the ghats without delay.",
+   "year": null,
+   "era": "CE",
+   "quote": "At the time of Shaistakhan's campaign, Maharaj warned the Deshmukh of the Rohida valley not to fail in his duty towards the ryot. He told Deshmukh to visit every village and shift people to a safe place down the ghats.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "Maharaj warned that otherwise the Mughal army would take the people prisoner and it would be seen as the Deshmukh's doing.",
+   "year": null,
+   "era": "CE",
+   "quote": "if he did not thus take care of the ryot, the Mughal army would take the people prisoner and then it would be seen as the Deshmukh's doing.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Maharaj took utmost care to protect the ryot and saw that soldiers did not harm the ryot.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj used to take utmost care to protect the ryot. ... Maharaj also saw to it that the soldiers did not in any way cause any harm to the ryot.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "event",
+   "text": "Maharaj paid soldiers' salaries in time and in cash, setting aside the practice of paying them in jagirs.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was particular about paying the salaries of the army in time. He made arrangements to pay the salaries of soldiers in cash. ... a system of making payments to soldiers in the form of jagirs. Maharaj set this practice aside.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "event",
+   "text": "Valuables collected in enemy territories had to be deposited with the Government.",
+   "year": null,
+   "era": "CE",
+   "quote": "any valuables collected during the campaigns in enemy territories were to be deposited with the Government.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "event",
+   "text": "Brave soldiers were honoured; families of soldiers who died were looked after; wounded soldiers were cared for; surrendered or captured enemy soldiers were treated well.",
+   "year": null,
+   "era": "CE",
+   "quote": "Soldiers were honoured for their bravery in a campaign. He looked after the maintenance of the families of soldiers who died in battle. He took care of the wounded soldiers, he treated well the enemy soldiers who had surrendered themselves or who had been captured.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "In 1674 CE Chhatrapati Shivaji Maharaj wrote a letter to his military officers about discipline in the army.",
+   "year": 1674,
+   "era": "CE",
+   "quote": "The letter written by Chhatrapati Shivaji Maharaj in 1674 CE to his military officers is very important in this regard.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "event",
+   "text": "The letter warned that harassing subjects for grains, fodder, grass and vegetables would make them migrate and starve, as if the soldiers were more atrocious than the Mughals.",
+   "year": null,
+   "era": "CE",
+   "quote": "If you harass and trouble the subjects ... by robbing them of their grains, fodder, grass, vegetables, etc., those subjects would leave their houses and migrate elsewhere. Many of them would starve to death. It would be as if you are more atrocious than the Mughals.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "event",
+   "text": "Maharaj fought the Adilshah, the Mughals and the Siddis, yet considered the Muslims in the Swaraj as his own subjects.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj had to struggle against his enemies - the Adilshah, the Mughals and the Siddis. ... he considered the Muslims in the Swaraj as his own subjects.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "At the time of the meeting with Afzalkhan, Siddi Ibrahim was a trusted servant in the army of Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "At the time of the meeting with Afzalkhan, Siddi Ibrahim was a trusted servant in his army.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "Siddi Hilal was a Sardar in the army of Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Siddi Hilal was a Sardar in the army of Maharaj.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "person",
+   "text": "Daulatkhan was an important officer in the navy of the Swaraj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Daulatkhan was an important officer in the navy of the Swaraj.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "event",
+   "text": "In conquered territories, Maharaj continued the facilities given to Muslim places of worship.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the enemy territories that he conquered, he continued the facilities that had been given to the Muslim places of worship.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "person",
+   "text": "Contemporary historian Khafikhan wrote that Shivaji's soldiers were not to harm a mosque and were to hand over any copy of the Holy Quran with reverence to a Muslim.",
+   "year": null,
+   "era": "CE",
+   "quote": "His contemporary historian Khafikhan writes ... 'Shivaji had framed strict rules for his soldiers that during the campaigns, they should not harm a mosque. If they came in possession of a copy of the Holy Quran, they should hand over the same, with reverence, to a Muslim.'",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "person",
+   "text": "Chhatrasal, who was in the service of the Mughals, was inspired by Maharaj to create an independent kingdom in Bundelkhand.",
+   "year": null,
+   "era": "CE",
+   "quote": "When Chhatrasal, who was in the service of the Mughals, came to see Maharaj, Maharaj inspired him to create an independent kingdom in Bundelkhand.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "event",
+   "text": "Maharaj was very intelligent, had mastered many arts and was conversant with many languages and scripts.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj was very intelligent. He had mastered many arts. He was conversant with many languages and scripts.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "event",
+   "text": "He severely punished those who misbehaved with women and took care of farmers, craftsmen, soldiers, traders and merchants.",
+   "year": null,
+   "era": "CE",
+   "quote": "He used to punish those severely who would misbehave with women. He used to take care of all sections of the society like farmers, craftsmen, soldiers, traders, merchants, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "He brought back into swadharma, their original religion, persons who had converted to another religion.",
+   "year": null,
+   "era": "CE",
+   "quote": "He brought back into swadharma, their original religion, persons who had converted to another religion",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "event",
+   "text": "Despite opposition on religious grounds to crossing the seas, he built sea forts and created a navy.",
+   "year": null,
+   "era": "CE",
+   "quote": "At that time, there was opposition on religious grounds to crossing the seas. Yet he built sea forts like Singhudurg and created a navy.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "After his coronation, he later had a second Coronation from a different religious perspective.",
+   "year": null,
+   "era": "CE",
+   "quote": "He became the ruler of Swaraj officially through his coronation, he later, had a second Coronation from a different religious perspective.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "event",
+   "text": "His order prohibited soldiers from taking vegetables from peasants' fields by force; he also restricted the cutting of trees.",
+   "year": null,
+   "era": "CE",
+   "quote": "The order that prohibited soldiers from taking vegetables from the fields of the peasants by force, is exemplary ... The restrictions on the cutting of trees enforced by him are also noteworthy.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "event",
+   "text": "Garbage on the fort was to be burnt in an allotted space and vegetables grown on its ash.",
+   "year": null,
+   "era": "CE",
+   "quote": "He had ordered that the garbage on the fort should be burnt in an allotted space without dumping it elsewhere, and vegetables should be grown on its ash.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "Mahatma Jotirao Phule, in his struggle for equality, described Maharaj's greatness in powadas; he composed a Powada on Shivaji Maharaj in 1869 CE.",
+   "year": 1869,
+   "era": "CE",
+   "quote": "Mahatma Jotirao Phule composed a Powada in 1869 CE on Shivaji Maharaj.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "person",
+   "text": "Lokmanya Tilak brought about national awakening through Shivajayanti celebrations.",
+   "year": null,
+   "era": "CE",
+   "quote": "Lokmanya Tilak brought about national awakening through the medium of Shivajayanti celebrations.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "person",
+   "text": "Lala Lajpatrai wrote a book about the greatness of Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Lala Lajpatrai has written a book about the greatness of Maharaj.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "The great Tamil poet Subramanyam Bharati wrote a poem about an imaginary incident in which Shivaji Maharaj talks to his associates.",
+   "year": null,
+   "era": "CE",
+   "quote": "The great Tamil poet Subramanyam Bharati has written a poem about an imaginary incident in which Shivaji Maharaj talks to his associates.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "Vishwakavi Rabindranath Tagore wrote a long poem on Maharaj and saw his efforts to found Swaraj as efforts for realizing a noble cause.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vishwakavi Rabindranath Tagore has written a long poem on Maharaj. Tagore sees his efforts to found Swaraj as efforts for realizing a noble cause.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "Sir Jadunaath Sarkar praised Maharaj's achievements in his book 'Shivaji and His Times'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sir Jadunaath Sarkar has praised his achievements in his book 'Shivaji and His Times'.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Pandit Jawaharlal Nehru said Maharaj belonged not to Maharashtra alone but to the whole Indian nation, a symbol especially of love of country.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pandit Jawaharlal Nehru has said that Maharaj did not belong to Maharashtra alone, he belonged to the whole Indian nation. ... he was a symbol of many virtues, more especially of love of country.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "He was not just a warrior but a sculptor who created a new, independent, ethical and cultured society; he was a great national hero.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was not just a warrior, but also a sculptor who created a new, independent, ethical and cultured society. ... Shivaji Maharaj was a great national hero.",
+   "page": 3
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "The special value of Maharaj's efforts for Swaraj is the value of freedom: an independent and sovereign existence.",
+   "year": null,
+   "era": "CE",
+   "quote": "It is the value of freedom. He aimed at establishing and maintaining an independent and sovereign existence that did not accept the dominance of any other power.",
+   "page": 2
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-08-01",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Tanaji Malusare gave his life to win Sinhagad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a close associate of Maharaj.",
+    "I risked everything for a fort.",
+    "I sacrificed my life while conquering Sinhagad."
+   ],
+   "options": [
+    "Bajiprabhu Deshpande",
+    "Murarbaji Deshpande",
+    "Jiva Mahala",
+    "Tanaji Malusare"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-08-02",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Swaraj became a <b>Surajya</b>: a kingdom that sought the welfare of all.",
+   "prompt": "What is a Surajya?",
+   "options": [
+    "A kingdom that sought the welfare of all",
+    "A fort built on the sea",
+    "A payment to soldiers in jagirs",
+    "A letter to military officers"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f05",
+    "f06",
+    "f07"
+   ],
+   "hook": "Two Deshpandes: Bajiprabhu blocked the way to Vishalgad; Murarbaji defended Purander.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Shiva Kashid crossed the siege of Panhalagad in the disguise of Shivaji Maharaj."
+    ],
+    [
+     "Isha",
+     "Bajiprabhu Deshpande blocked the enemy on the way to Vishalgad."
+    ],
+    [
+     "Rohan",
+     "The brave Tanaji defended the fort of Purander."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "Hiroji",
+    "Bajiprabhu",
+    "Murarbaji"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-04",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "1674: a letter to his officers - do not rob the subjects of grains, fodder and vegetables.",
+   "prompt": "In which year did Chhatrapati Shivaji Maharaj write a letter to his military officers about discipline in the army?",
+   "year": 1674,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-08-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "At the Afzalkhan meeting, Jiva Mahala struck down Bada Sayyad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a loyal associate during a dangerous meeting.",
+    "That meeting was with Afzalkhan.",
+    "At a critical moment, I killed Bada Sayyad."
+   ],
+   "options": [
+    "Jiva Mahala",
+    "Hiroji Farjand",
+    "Shiva Kashid",
+    "Kanhoji Jedhe"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Cash, on time: Maharaj set aside the old jagir system of paying soldiers.",
+   "prompt": "How did Maharaj pay the salaries of his soldiers?",
+   "options": [
+    "In the form of jagirs",
+    "In land and vatans",
+    "With valuables taken from enemy territories",
+    "In cash, and in time"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-08-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Chhatrasal was in the service of the Mughals; inspired by Maharaj, he created an independent kingdom in Bundelkhand.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Chhatrasal was in the service of the Mughals."
+    ],
+    [
+     "Kabir",
+     "In Malwa he was inspired to create an independent kingdom."
+    ],
+    [
+     "Meera",
+     "Maharaj inspired others too, for freedom."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "Gujarat",
+    "Bundelkhand",
+    "Konkan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "year"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Phule sang of Shivaji: a Powada in 1869 CE, in his struggle for equality.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I struggled for equality.",
+    "I described the greatness of Shivaji Maharaj in my powadas.",
+    "I composed a Powada on Shivaji Maharaj in 1869 CE."
+   ],
+   "options": [
+    "Lokmanya Tilak",
+    "Mahatma Jotirao Phule",
+    "Lala Lajpatrai",
+    "Subramanyam Bharati"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-09",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Four powers before Swaraj: Adilshahi, Siddi, Portuguese, Mughal.",
+   "prompt": "Which powers dominated Maharashtra before the foundation of Swaraj?",
+   "options": [
+    "Adilshahi, Siddi, Portuguese and Mughal",
+    "British, French, Dutch and Portuguese",
+    "Rajput, British, French and Siddi"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Tilak + Shivajayanti celebrations = national awakening.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was part of the national movement.",
+    "I used celebrations to bring about awakening.",
+    "Shivajayanti celebrations were my medium for national awakening."
+   ],
+   "options": [
+    "Pandit Jawaharlal Nehru",
+    "Lokmanya Tilak",
+    "Lala Lajpatrai",
+    "Sir Jadunaath Sarkar"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f09",
+    "f10"
+   ],
+   "hook": "Escape from Agra: Hiroji Farjand and Madari Meheter risked their lives.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "The escape of Maharaj from Delhi was helped by Hiroji Farjand and Madari Meheter."
+    ],
+    [
+     "Arjun",
+     "Kanhoji Jedhe was with Maharaj in the work of the Swaraj from the very beginning."
+    ],
+    [
+     "Neha",
+     "When Kanhoji fell ill, Maharaj told him not to neglect his medicines."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "Raigad",
+    "Satara",
+    "Agra"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Shaistakhan's campaign: the Deshmukh of the Rohida valley was told to move people down the ghats.",
+   "prompt": "Whom did Maharaj warn during Shaistakhan's campaign not to fail in his duty towards the ryot?",
+   "options": [
+    "Kanhoji Jedhe",
+    "Siddi Hilal",
+    "Chhatrasal",
+    "The Deshmukh of the Rohida valley"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-08-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f22",
+    "f19"
+   ],
+   "hook": "Daulatkhan served at sea: an important officer in the navy of the Swaraj.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am named among the Muslims who served the Swaraj.",
+    "My work was not in the army on land.",
+    "I was an important officer in the navy of the Swaraj."
+   ],
+   "options": [
+    "Daulatkhan",
+    "Siddi Ibrahim",
+    "Siddi Hilal",
+    "Khafikhan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "A fair army: valuables to the Government, care for families and the wounded, good treatment of captives.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "Valuables collected in enemy territories were deposited with the Government."
+    ],
+    [
+     "Pooja",
+     "Maharaj looked after the families of soldiers who died in battle."
+    ],
+    [
+     "Sahil",
+     "Captured enemy soldiers were treated badly by his army."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "well",
+    "harshly",
+    "cruelly"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Khafikhan, a contemporary historian, recorded the rule: never harm a mosque.",
+   "prompt": "What did Khafikhan write about the rules for Maharaj's soldiers during campaigns?",
+   "options": [
+    "They could keep any valuables they found",
+    "They could take vegetables from the fields",
+    "They should cut trees to build forts",
+    "They should not harm a mosque"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-08-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Kanhoji Jedhe: with Maharaj from the very beginning, cared for in old age.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I grew old in the service of the Swaraj.",
+    "I was with Maharaj in the work of the Swaraj from the very beginning.",
+    "When I fell ill, Maharaj told me not to neglect my medicines."
+   ],
+   "options": [
+    "Murarbaji Deshpande",
+    "Kanhoji Jedhe",
+    "Hiroji Farjand",
+    "Madari Meheter"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-17",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "1869 CE: Mahatma Jotirao Phule's Powada on Shivaji Maharaj - 195 years after the 1674 letter.",
+   "prompt": "In which year did Mahatma Jotirao Phule compose a Powada on Shivaji Maharaj?",
+   "year": 1869,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-08-18",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f05",
+    "f06",
+    "f07",
+    "f08",
+    "f09"
+   ],
+   "hook": "Panhalagad - Shiva Kashid; Vishalgad - Bajiprabhu; Purander - Murarbaji; Sinhagad - Tanaji; Agra - Hiroji.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Shiva Kashid - crossed the siege of Panhalagad",
+    "Bajiprabhu Deshpande - defended the fort of Purander",
+    "Jiva Mahala - sacrificed his life conquering Sinhagad",
+    "Murarbaji Deshpande - risked his life in the escape from Agra"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-19",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f22"
+   ],
+   "hook": "Siddi Ibrahim (trusted servant), Siddi Hilal (Sardar), Daulatkhan (navy): Muslims in the Swaraj.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Siddi Ibrahim was a trusted servant in the army of Maharaj."
+    ],
+    [
+     "Dev",
+     "Siddi Hilal was a Sardar in the army of Maharaj."
+    ],
+    [
+     "Riya",
+     "Daulatkhan was an important officer in the cavalry of the Swaraj."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "navy",
+    "infantry",
+    "treasury"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Nehru: Maharaj belongs to the whole Indian nation - a symbol of love of country.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I called Maharaj a symbol of many virtues.",
+    "I said he was a symbol especially of love of country.",
+    "I said Maharaj did not belong to Maharashtra alone but to the whole Indian nation."
+   ],
+   "options": [
+    "Rabindranath Tagore",
+    "Lala Lajpatrai",
+    "Pandit Jawaharlal Nehru",
+    "Lokmanya Tilak"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Four risky events: Afzalkhan meeting, Panhala siege, attack on Shaistakhan, escape from Agra.",
+   "prompt": "Which events were grave dangers that Maharaj faced while founding the Swaraj?",
+   "options": [
+    "The meeting with Afzalkhan and the escape from Agra",
+    "The siege of Delhi and the escape from Bundelkhand",
+    "The meeting with Chhatrasal and the attack on Goa"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Vishwakavi Tagore wrote a long poem: Swaraj as a noble cause.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I wrote a long poem on Maharaj.",
+    "I saw his efforts to found Swaraj as efforts for realizing a noble cause.",
+    "I am known as Vishwakavi."
+   ],
+   "options": [
+    "Rabindranath Tagore",
+    "Subramanyam Bharati",
+    "Mahatma Jotirao Phule",
+    "Sir Jadunaath Sarkar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event",
+    "people"
+   ],
+   "fids": [
+    "f11",
+    "f12"
+   ],
+   "hook": "Rohida valley warning: move people down the ghats, or the Mughal army will take them prisoner.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anika",
+     "During Shaistakhan's campaign, Maharaj warned the Deshmukh of the Rohida valley."
+    ],
+    [
+     "Om",
+     "He told the Deshmukh to shift people to a safe place down the ghats."
+    ],
+    [
+     "Anika",
+     "He warned that otherwise the Adilshahi army would take the people prisoner."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Siddi",
+    "Mughal",
+    "Portuguese"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Burn the fort's garbage in one place, then grow vegetables on the ash.",
+   "prompt": "What did Maharaj order to be done with the garbage on the fort?",
+   "options": [
+    "Dump it outside the fort walls",
+    "Throw it down the ghats",
+    "Send it to the nearest village",
+    "Burn it in an allotted space and grow vegetables on its ash"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-08-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Sir Jadunaath Sarkar's book: 'Shivaji and His Times'.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I praised the achievements of Maharaj.",
+    "I did this in a book.",
+    "My book is called 'Shivaji and His Times'."
+   ],
+   "options": [
+    "Lala Lajpatrai",
+    "Khafikhan",
+    "Sir Jadunaath Sarkar",
+    "Rabindranath Tagore"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "1674 letter: robbing subjects would make you 'more atrocious than the Mughals'.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "In 1674 CE Maharaj wrote a letter to his military officers."
+    ],
+    [
+     "Yash",
+     "It warned that troubled subjects would leave their houses and migrate elsewhere."
+    ],
+    [
+     "Aditi",
+     "The letter said they would be more atrocious than the Siddis themselves."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "Portuguese",
+    "British",
+    "Mughals"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "<b>Swadharma</b> = their original religion; Maharaj brought converts back into it.",
+   "prompt": "What does 'swadharma' mean?",
+   "options": [
+    "A royal edict",
+    "A tax on salt",
+    "Their original religion",
+    "A kind of warship"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Tamil poet Subramanyam Bharati imagined Shivaji Maharaj talking to his associates.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I wrote a poem about an imaginary incident.",
+    "In my poem, Shivaji Maharaj talks to his associates.",
+    "I am a great Tamil poet."
+   ],
+   "options": [
+    "Rabindranath Tagore",
+    "Lala Lajpatrai",
+    "Mahatma Jotirao Phule",
+    "Subramanyam Bharati"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-08-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Even small orders mattered: no taking vegetables by force, limits on cutting trees.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nisha",
+     "Maharaj restricted the cutting of trees."
+    ],
+    [
+     "Rahul",
+     "He also banned soldiers from taking fruits from the fields of peasants by force."
+    ],
+    [
+     "Nisha",
+     "He wanted an ethical, qualitative base to the Swaraj."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "salt",
+    "timber",
+    "vegetables"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Spoils of a campaign went to the Government, not to the soldier's pocket.",
+   "prompt": "What happened to valuables collected during campaigns in enemy territories?",
+   "options": [
+    "The soldiers kept them",
+    "They were deposited with the Government",
+    "They were given to the Deshmukh",
+    "They were sent to the Mughals"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Khafikhan lived in Maharaj's time and recorded his tolerant religious policy.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I lived in the same times as Maharaj.",
+    "I wrote that his soldiers were not to harm a mosque.",
+    "I was a contemporary historian who wrote about his tolerant religious policy."
+   ],
+   "options": [
+    "Khafikhan",
+    "Siddi Ibrahim",
+    "Sir Jadunaath Sarkar",
+    "Daulatkhan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Some objected to crossing the seas, yet Maharaj built sea forts and a navy.",
+   "prompt": "There was opposition on religious grounds to crossing the seas. What did Maharaj still do?",
+   "options": [
+    "He stopped all trade by sea",
+    "He gave the coast to the Portuguese",
+    "He built sea forts and created a navy",
+    "He banned ships in the Swaraj"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f35",
+    "f36",
+    "f37",
+    "f38"
+   ],
+   "hook": "Phule - Powada; Tilak - Shivajayanti; Lajpatrai - a book; Bharati - Tamil poem; Tagore - long poem.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Lokmanya Tilak composed a Powada in 1869 CE",
+    "Subramanyam Bharati wrote 'Shivaji and His Times'",
+    "Lala Lajpatrai wrote a book about the greatness of Maharaj",
+    "Rabindranath Tagore brought about national awakening through Shivajayanti celebrations"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-34",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "From Mughal service to freedom: Chhatrasal and Bundelkhand.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was once in the service of the Mughals.",
+    "I came to see Maharaj.",
+    "Inspired by him, I created an independent kingdom in Bundelkhand."
+   ],
+   "options": [
+    "Chhatrasal",
+    "Shaistakhan",
+    "Afzalkhan",
+    "Siddi Hilal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f09"
+   ],
+   "hook": "Afzalkhan meeting - Jiva Mahala; Panhalagad - Shiva Kashid; Agra - Hiroji and Madari.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "Shiva Kashid crossed the siege of Panhalagad."
+    ],
+    [
+     "Manav",
+     "Hiroji Farjand and Madari Meheter risked their lives during the escape from Agra."
+    ],
+    [
+     "Ira",
+     "During the Shaistakhan meeting, Jiva Mahala killed Bada Sayyad."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "Chhatrasal",
+    "Afzalkhan",
+    "Aurangzeb"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Afzalkhan - meeting; Panhala - siege; Shaistakhan - attack; Agra - escape.",
+   "prompt": "Which list correctly names the four risky events in the life of Maharaj?",
+   "options": [
+    "The meeting with Shaistakhan, the siege of Purander, the attack on Afzalkhan, the escape from Panhala",
+    "The meeting with Afzalkhan, the siege of Panhala, the attack on Shaistakhan, the escape from Agra",
+    "The meeting with Chhatrasal, the siege of Vishalgad, the attack on Afzalkhan, the escape from Agra"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-08-37",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "The ryot were the people Maharaj protected first, even from his own soldiers.",
+   "prompt": "What am I?",
+   "clues": [
+    "I suffered whenever enemies invaded.",
+    "Maharaj took utmost care to protect me.",
+    "Soldiers were ordered not to harm me in any way."
+   ],
+   "options": [
+    "ryot",
+    "Surajya",
+    "jagir",
+    "Powada"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f26",
+    "f27",
+    "f30"
+   ],
+   "hook": "One coronation made him ruler officially; a second Coronation came later.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "Maharaj was conversant with many languages and scripts."
+    ],
+    [
+     "Veer",
+     "He took care of farmers, craftsmen, soldiers, traders and merchants."
+    ],
+    [
+     "Tara",
+     "He became the ruler officially through his coronation and later had a third Coronation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 12
+   },
+   "options": [
+    "fourth",
+    "fifth",
+    "second"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-08-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Tilak used Shivajayanti; Phule used powadas; Tagore wrote a long poem.",
+   "prompt": "What did Lokmanya Tilak use to bring about national awakening?",
+   "options": [
+    "Shivajayanti celebrations",
+    "Powadas",
+    "A long poem",
+    "The book 'Shivaji and His Times'"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-08-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f17",
+    "f33"
+   ],
+   "hook": "1869 - 1674 = <b>195</b> years between the letter to the officers and Phule's Powada.",
+   "prompt": "How many years after Maharaj's 1674 CE letter to his officers did Mahatma Jotirao Phule compose his Powada on him?",
+   "options": [
+    "195",
+    "185",
+    "205",
+    "175"
+   ],
+   "answer": 0
+  }
+ ]
+}

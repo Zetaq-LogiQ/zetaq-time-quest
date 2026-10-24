@@ -1,0 +1,1490 @@
+{
+ "class": 6,
+ "id": "14",
+ "title": "Local Self Government (Rural)",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "Local self government in both rural and urban areas is together called 'Panchayat Raj'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Local self government at both rural and urban areas are collectively referred to as 'Panchayat Raj.'",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Panchayat Raj was set up so that the governance of villages, Talukas and Districts stays in the hands of local elected representatives.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Panchayat Raj system was established to ensure that the governance of villages, Talukas and Districts remains in the hands of local elected representatives.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "A three-tier structure was created: the Gram Panchayat, the Panchayat Samiti and the Zilla Parishad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Accordingly, a three-tier structure was created, comprising the Gram Panchayat, the Panchayat Samiti and the Zilla Parishad.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "This resulted in decentralization of democracy, with maximum power in the hands of elected representatives at the local level.",
+   "year": null,
+   "era": "CE",
+   "quote": "This resulted in decentralization of democracy, wherein maximum power was vested in the hands of elected representatives at the local level.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "Through the 73rd and 74th Constitutional Amendments, enacted on 22nd December 1992, Panchayat Raj institutions got constitutional status.",
+   "year": 1992,
+   "era": "CE",
+   "quote": "Through the 73rd and 74th Constitutional Amendments, enacted on 22nd December 1992, Panchayat Raj institutions were accorded constitutional status.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "person",
+   "text": "Mahatma Gandhi said, 'The real India resides in villages.'",
+   "year": null,
+   "era": "CE",
+   "quote": "'The real India resides in villages.' - Mahatma Gandhi",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "The local government institution that manages the administration of a village and its development work is the Gram Panchayat.",
+   "year": null,
+   "era": "CE",
+   "quote": "The local government institution responsible for managing the administration of a village and undertaking village development work is known as the 'Gram Panchayat'.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "The Gram Panchayat is the foundational institution of Panchayat Raj; in Maharashtra it has from 7 to 17 members, depending on population.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Gram Panchayat is the foundational institution within the Panchayat Raj structure. ... In the state of Maharashtra, the number of Gram Panchayat members ranges from a minimum of 7 to a maximum of 17, depending on the population size.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "The tenure of a Gram Panchayat is five years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The tenure of a Gram Panchayat is five years.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "Gram Panchayat members are elected through adult franchise and secret ballot; a candidate must be at least 21 years of age.",
+   "year": null,
+   "era": "CE",
+   "quote": "All members of the Gram Panchayat are elected through adult franchise and a secret ballot system. To contest an election, a candidate must be at least 21 years of age.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "Members are elected from wards; some seats are reserved for SC, ST and OBC; in Maharashtra 50% of seats are reserved for women.",
+   "year": null,
+   "era": "CE",
+   "quote": "Wards are created to elect the members of Gram Panchayat. ... Some seats are reserved for the members from the categories of SC, ST and OBC. In Maharashtra 50% of seats are reserved for the women representatives at Gram Panchayats.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Elected members are called 'Panch' or 'Members'; the head is the Sarpanch and the deputy head is the Up-Sarpanch.",
+   "year": null,
+   "era": "CE",
+   "quote": "Elected members of the Gram Panchayat are referred to as 'Panch' or 'Members.' Earlier, these elected members would select one among themselves to serve as the 'Sarpanch' (Head) and another as the 'Up-Sarpanch' (Deputy Head).",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Currently in Maharashtra the Sarpanch is elected directly by the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "Currently, however, in Maharashtra, the Sarpanch is elected directly by the people. The Sarpanch is the popularly elected office-bearer of the Gram Panchayat.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "When one Gram Panchayat serves two or more villages with a combined population of less than 600, it is called a 'Group Gram Panchayat'.",
+   "year": null,
+   "era": "CE",
+   "quote": "When a single Gram Panchayat serves two or more villages with a combined population of less than 600, it is known as a 'Group Gram Panchayat.'",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "Members by population: up to 1,500 = 7; 1,501-3,000 = 9; 3,001-4,500 = 11; 4,501-6,000 = 13; 6,001-7,500 = 15; above 7,500 = 17.",
+   "year": null,
+   "era": "CE",
+   "quote": "Up to 1,500 7 Members ... 1,501 to 3,000 9 Members ... 3,001 to 4,500 11 Members ... 4,501 to 6,000 13 Members ... 6,001 to 7,500 15 Members ... Population exceeding 7,500 17 Members",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Gram Panchayat functions include roads, electricity, drinking water, sewage, records of births, deaths and marriages, cleanliness, primary education, healthcare and collecting property tax and water tax.",
+   "year": null,
+   "era": "CE",
+   "quote": "Constructing and repairing roads for the village. Managing the village's electricity supply, drinking water and sewage systems. Maintaining records of births, deaths and marriages. ... Collecting property tax and water tax.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "place",
+   "text": "Hiware Bazar, a small village in Ahilyanagar district, beat drought through rainwater harvesting, watershed conservation and tree planting, and became an 'Ideal Gram Panchayat'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hiware Bazar is a small village located in Ahilyanagar district. ... initiatives for rainwater harvesting and watershed conservation were undertaken ... The village of Hiware Bazar set a sterling example of an 'Ideal Gram Panchayat'.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "Mr. Popatrao Pawar, then Sarpanch of Hiware Bazar, was honoured with the 'Padma Shri' in 2020.",
+   "year": 2020,
+   "era": "CE",
+   "quote": "In recognition of this work, then Sarpanch of the village, Mr. Popatrao Pawar, was honored with the Government of India's civilian award, 'Padma Shri,' in the year 2020.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "The Gram Sevak is the administrative head and the Secretary of the Gram Panchayat.",
+   "year": null,
+   "era": "CE",
+   "quote": "Gram Sevak serves as the administrative head of the Gram Panchayat. ... The Gram Sevak acts as the Secretary of the Gram Panchayat.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "One or more Gram Sevaks may be appointed; the appointment is made by the Chief Executive Officer (CEO) of the Zilla Parishad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Depending on the requirements of the Gram Panchayat, one or more Gram Sevaks may be appointed. Her/His appointment is made by the Chief Executive Officer (CEO) of Zilla Parishad.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "By a Government Resolution dated September 23rd, 2024, the post of 'Gram Sevak' was renamed 'Gram Panchayat Officer'.",
+   "year": 2024,
+   "era": "CE",
+   "quote": "According to a Government Resolution dated September 23rd, 2024, the designation of the post of 'Gram Sevak' has been officially changed to 'Gram Panchayat Officer.'",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "The Gram Sabha is made of all registered voters (aged 18 and above) of the village; the Sarpanch presides, or the Deputy Sarpanch in his/her absence.",
+   "year": null,
+   "era": "CE",
+   "quote": "Gram Sabha consists of all the registered voters residing in the village. The Sarpanch presides over the Gram Sabha. In the absence of the Sarpanch, Deputy Sarpanch assumes the role of the presiding officer ... The Gram Sabha is an assembly comprising all voters aged 18 and above.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "The Gram Sabha oversees the administration of the Gram Panchayat and gives final approval to development works in the village.",
+   "year": null,
+   "era": "CE",
+   "quote": "Its primary functions are to oversee the administration of the Gram Panchayat and to grant final approval to the various development works undertaken in the village.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "In Maharashtra the Gram Sabha must meet at least four times a year.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Maharashtra, there is a statutory mandate requiring the Gram Sabha to convene at least four meetings annually.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "Gram Sabha meetings are held on 26th January, 1st May, 15th August and 2nd October; the Sarpanch can call special meetings; a meeting of women representatives is held first.",
+   "year": null,
+   "era": "CE",
+   "quote": "Meetings of Gramsabha are convened on 26th January, 1st May, 15th August and 2nd October. In addition to this, the Sarpanch exercises exclusive power to call special meetings of Gram Sabha. ... A metting of women representatives are held before the commencement of Gram Sabha.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The Gram Sabha examines and approves the income and expenditure accounts and the annual budget; its proceedings are recorded in a register.",
+   "year": null,
+   "era": "CE",
+   "quote": "Examining and approving the Gram Panchayat's income and expenditure accounts; approving the annual budget ... A record of all Gram Sabha proceedings is maintained in a register by the Gram Panchayat official.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Gram Panchayat income: local taxes (house tax, water tax), grants from Central Government, State Government or Zilla Parishad, plus market tax, professional taxes and rent from its properties.",
+   "year": null,
+   "era": "CE",
+   "quote": "Local taxes (such as house tax and water tax), along with grants received from the Central Government, State Government or Zilla Parishad constitute the primary sources of income ... funds are also raised through market tax, professional taxes and rent generated from Gram Panchayat properties.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "All the villages in one Taluka form a 'Development Block'; the institution running it is the 'Panchayat Samiti'.",
+   "year": null,
+   "era": "CE",
+   "quote": "All the villages within a single 'Taluka' (administrative block) collectively constitute a 'Development Block.' The institution responsible for administering the affairs of this Development Block is known as the 'Panchayat Samiti.'",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "The Panchayat Samiti links the Gram Panchayat with the Zilla Parishad and has 15 to 45 members.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Panchayat Samiti serves as a crucial link connecting Gram Panchayat with Zilla Parishad. A Panchayat Samiti consists of a minimum of 15 and a maximum of 45 members, based on the population size.",
+   "page": 5
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Panchayat Samiti members elect a Chairperson and a Deputy Chairperson from among themselves for two and half years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The elected members of the Panchayat Samiti elect one member from among themselves to serve as the Chairperson and another as the Deputy Chairperson. The tenure ... is two and half years.",
+   "page": 5
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "The Chairperson convenes and presides over meetings and implements orders received from the Zilla Parishad.",
+   "year": null,
+   "era": "CE",
+   "quote": "Their primary functions include convening meetings of the Panchayat Samiti, presiding over the meetings, regulating the proceedings, implementing orders received from Zilla Parishad and exercising control over the administration of Panchayat Samiti.",
+   "page": 5
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The Block Development Officer (BDO) is the administrative head of the Panchayat Samiti; selected through MPSC examinations and appointed by the Government of Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "Block Development Officer (BDO) serves as the administrative head of the Panchayat Samiti. In Maharashtra, one BDO is appointed for every Panchayat Samiti. Selection for this post is conducted through examinations administered by the Maharashtra Public Service Commission (MPSC); however, the actual appointment is made by the Government of Maharashtra.",
+   "page": 5
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "The BDO implements development schemes and decisions for the Taluka.",
+   "year": null,
+   "era": "CE",
+   "quote": "BDO is responsible for implementing development schemes and decisions pertaining to the Taluka (block).",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Panchayat Samiti functions: planning, monitoring work on behalf of the Zilla Parishad, coordinating Zilla Parishad and Gram Panchayats, implementing schemes in a Taluka.",
+   "year": null,
+   "era": "CE",
+   "quote": "Planning activities within the jurisdiction of the Panchayat Samiti. Monitoring the ongoing work within its operational area on behalf of Zilla Parishad. Establishing coordination between Zilla Parishad and Gram Panchayats. Implementing development schemes within a Taluka.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "The Panchayat Samiti has no independent sources of revenue; its budget is part of the Zilla Parishad budget and it gets grants from the Zilla Parishad and the State Government.",
+   "year": null,
+   "era": "CE",
+   "quote": "Panchayat Samiti does not possess its own independent sources of revenue. Budget of Panchayat Samiti is incorporated into the overall budget of Zilla Parishad. Grants are provided by the Zilla Parishad and the State Government ...",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "In the Panchayat Samiti, the Women and Child Welfare Committee looks after women's empowerment, child development schemes and Anganwadi supervision.",
+   "year": null,
+   "era": "CE",
+   "quote": "Women and Child Welfare Committee ... Women's Empowerment ... Child Development Schemes ... Anganwadi Supervision",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "The Zilla Parishad is the apex local self-government body at the district level.",
+   "year": null,
+   "era": "CE",
+   "quote": "Zilla Parishad is the apex body among local self-government institutions operating at the district level.",
+   "page": 6
+  },
+  {
+   "fid": "f38",
+   "kind": "place",
+   "text": "Maharashtra has 36 districts but 34 Zilla Parishads, because Mumbai City and Mumbai Suburban are entirely urbanized.",
+   "year": null,
+   "era": "CE",
+   "quote": "Currently, there are 36 districts in Maharashtra; however, the number of Zilla Parishads stands at 34. The reason for this is that the two districts - Mumbai City and Mumbai Suburban - are entirely urbanized areas; consequently, no Zilla Parishad exists in these districts.",
+   "page": 6
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "A Zilla Parishad has 50 to 75 members; the Chairpersons of all Panchayat Samitis are ex-officio members; members' tenure is five years.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Zilla Parishad consists of a minimum of 50 and a maximum of 75 members. The Chairpersons of all the Panchayat Samitis serve as ex-officio members of the Zilla Parishad. The tenure of the members is five years.",
+   "page": 6
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "Zilla Parishad members elect a President and a Vice-President for two and half years; the President is ex-officio Chairperson of the Standing Committee.",
+   "year": null,
+   "era": "CE",
+   "quote": "The elected members of Zilla Parishad elect one member from among themselves to serve as the President and another as the Vice-President. Their term of office is two and half years. ... The Zilla Parishad President serves as the ex-officio Chairperson of the Standing Committee.",
+   "page": 6
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "The Chief Executive Officer (CEO) is the administrative head of the Zilla Parishad, an IAS officer appointed by the State Government.",
+   "year": null,
+   "era": "CE",
+   "quote": "He/She functions as the administrative head of the Zilla Parishad. ... CEO of Zilla Parishad is an officer of the Indian Administrative Service (IAS) cadre. He/She is appointed by the State Government.",
+   "page": 6
+  },
+  {
+   "fid": "f42",
+   "kind": "term",
+   "text": "The Zilla Parishad has ten committees; the Standing Committee is the most important; a Chairperson is elected for each committee.",
+   "year": null,
+   "era": "CE",
+   "quote": "Zilla Parishad comprises a total of ten committees ... Among these, Standing Committee is the most important one. A Chairperson is elected for each committee.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "Zilla Parishad revenue includes water tax, pilgrimage tax and market tax, plus State grants in proportion to the land revenue.",
+   "year": null,
+   "era": "CE",
+   "quote": "Important sources of Zilla Parishad's revenue are the water tax, pilgrimage tax, market tax etc. In addition to this, the state Government provides additional grants to the Zilla Parishad in propostion to the land revenue.",
+   "page": 6
+  },
+  {
+   "fid": "f44",
+   "kind": "term",
+   "text": "Zilla Parishad committees: Standing (administration, supervising other committees), Animal Husbandry and Dairy (veterinary clinics), Education (primary schools, scholarships and uniforms), Water Management (clean drinking water).",
+   "year": null,
+   "era": "CE",
+   "quote": "Standing Committee 1. General Administration, Finance and Coordination 2. Supervision over other committees ... Animal Husbandry and Dairy ... 2. Supervision of veterinary clinics ... Education 1. Control and management of primary schools 2. Distribution of scholarships and uniforms to students",
+   "page": 6
+  },
+  {
+   "fid": "f45",
+   "kind": "term",
+   "text": "Meetings: Gram Panchayat monthly, Gram Sabha at least 4 times a year; Panchayat Samiti monthly; Zilla Parishad once every 3 months.",
+   "year": null,
+   "era": "CE",
+   "quote": "Monthly Meeting, Gram Sabha At least 4 times a year ... Monthly ... Once every 3 months",
+   "page": 7
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "Resignation: Sarpanch to Panchayat Samiti Chairperson; Panchayat Samiti Chairperson to Zilla Parishad President; Zilla Parishad President to Divisional Commissioner.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sarpanch -> Chairperson (Panchayat Samiti) Member -> Sarpanch ... Chairperson -> President (Z. P.) ... President -> Divisional Commissioner",
+   "page": 7
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-14-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Village, Taluka, District: <b>Gram Panchayat</b>, <b>Panchayat Samiti</b>, <b>Zilla Parishad</b>.",
+   "prompt": "Which three institutions make up the three-tier Panchayat Raj structure?",
+   "options": [
+    "Gram Panchayat, Panchayat Samiti and Zilla Parishad",
+    "Gram Sabha, Development Block and Standing Committee",
+    "Panch, Sarpanch and Up-Sarpanch",
+    "Gram Sevak, Block Development Officer and Chief Executive Officer"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07",
+    "f08"
+   ],
+   "hook": "The base of Panchayat Raj runs the village: the <b>Gram Panchayat</b>, with 7 to 17 members.",
+   "prompt": "What am I?",
+   "clues": [
+    "My members range from 7 to 17 in Maharashtra.",
+    "I am the foundational institution of Panchayat Raj.",
+    "I manage the administration of a village and its development work."
+   ],
+   "options": [
+    "Gram Panchayat",
+    "Zilla Parishad",
+    "Panchayat Samiti",
+    "Gram Sabha"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13",
+    "f22"
+   ],
+   "hook": "The <b>Sarpanch</b>: once chosen by the members, now elected directly by the people.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Earlier, the elected members chose me from among themselves.",
+    "I preside over the Gram Sabha.",
+    "Today in Maharashtra the people elect me directly as the head of the Gram Panchayat."
+   ],
+   "options": [
+    "Gram Sevak",
+    "Up-Sarpanch",
+    "Sarpanch",
+    "Block Development Officer"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f10"
+   ],
+   "hook": "Gram Panchayat: tenure 5 years; to contest, you must be at least <b>21</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The tenure of a Gram Panchayat is five years."
+    ],
+    [
+     "Rahul",
+     "To contest the election, a candidate must be at least 25 years old."
+    ],
+    [
+     "Neha",
+     "Members are elected through adult franchise and a secret ballot system."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "21",
+    "18",
+    "30"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "In Maharashtra, half the seats (<b>50</b> percent) in Gram Panchayats are for women.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "In Maharashtra 25 percent of seats in Gram Panchayats are reserved for women."
+    ],
+    [
+     "Isha",
+     "Members of the Gram Panchayat are elected from wards."
+    ],
+    [
+     "Dev",
+     "Some seats are reserved for SC, ST and OBC members."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 2
+   },
+   "options": [
+    "33",
+    "75",
+    "50"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Gram Sabha = <b>every registered voter</b> of the village, aged 18 and above.",
+   "prompt": "Who are the members of the Gram Sabha?",
+   "options": [
+    "Only the Sarpanch and Up-Sarpanch",
+    "All the registered voters of the village",
+    "Only the elected Panch",
+    "Only the Gram Sevaks"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "Rural and urban local self government together: <b>Panchayat Raj</b>.",
+   "prompt": "What is local self government in rural and urban areas together called?",
+   "options": [
+    "Panchayat Raj",
+    "Development Block",
+    "Gram Sabha",
+    "Standing Committee"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f39"
+   ],
+   "hook": "Top of the pyramid: the <b>Zilla Parishad</b>, 50 to 75 members, at the district level.",
+   "prompt": "What am I?",
+   "clues": [
+    "My members number from 50 to 75.",
+    "The Chairpersons of all Panchayat Samitis are my ex-officio members.",
+    "I am the apex local self-government body at the district level."
+   ],
+   "options": [
+    "Gram Sabha",
+    "Zilla Parishad",
+    "Panchayat Samiti",
+    "Gram Panchayat"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "22nd December <b>1992</b>: the 73rd and 74th Amendments gave Panchayat Raj constitutional status.",
+   "prompt": "In which year were the 73rd and 74th Constitutional Amendments enacted?",
+   "year": 1992,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-14-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f19",
+    "f20",
+    "f21"
+   ],
+   "hook": "<b>Gram Sevak</b>: Secretary of the Gram Panchayat, appointed by the Zilla Parishad CEO.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Since 2024 my post has officially had a new name.",
+    "The CEO of the Zilla Parishad appoints me.",
+    "I am the Secretary and administrative head of the Gram Panchayat."
+   ],
+   "options": [
+    "Sarpanch",
+    "Gram Sevak",
+    "Block Development Officer",
+    "Chief Executive Officer"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f35"
+   ],
+   "hook": "The middle tier, <b>Panchayat Samiti</b>: 15 to 45 members, linking village and district.",
+   "prompt": "What am I?",
+   "clues": [
+    "I have no independent sources of revenue of my own.",
+    "I have 15 to 45 members.",
+    "I am the link between the Gram Panchayat and the Zilla Parishad."
+   ],
+   "options": [
+    "Panchayat Samiti",
+    "Gram Sabha",
+    "Zilla Parishad",
+    "Group Gram Panchayat"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f33"
+   ],
+   "hook": "<b>BDO</b>: passes the MPSC exam, runs the Panchayat Samiti office for the Taluka.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am selected through MPSC examinations.",
+    "The Government of Maharashtra appoints me.",
+    "I am the administrative head of the Panchayat Samiti."
+   ],
+   "options": [
+    "Gram Sevak",
+    "Chief Executive Officer",
+    "Sarpanch",
+    "Block Development Officer"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-14-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f05"
+   ],
+   "hook": "Gram Panchayat: from 7 up to <b>17</b> members; Panchayat Raj got constitutional status in 1992.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "In Maharashtra a Gram Panchayat has from 7 to 15 members."
+    ],
+    [
+     "Pooja",
+     "The number of members depends on the village's population."
+    ],
+    [
+     "Arnav",
+     "Panchayat Raj institutions got constitutional status in 1992."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 9
+   },
+   "options": [
+    "45",
+    "17",
+    "21"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f10"
+   ],
+   "hook": "Gram Sabha: all voters aged <b>18</b> and above. To contest a Gram Panchayat election: at least 21.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The Gram Sabha includes all voters aged 21 and above."
+    ],
+    [
+     "Yash",
+     "The Sarpanch presides over the Gram Sabha."
+    ],
+    [
+     "Anaya",
+     "When the Sarpanch is absent, the Deputy Sarpanch presides."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 7
+   },
+   "options": [
+    "18",
+    "25",
+    "16"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Small villages (together under <b>600</b> people) share one: a <b>Group Gram Panchayat</b>.",
+   "prompt": "One Gram Panchayat serves two or more villages with a combined population of less than 600. What is it called?",
+   "options": [
+    "Development Block",
+    "Gram Sabha",
+    "Group Gram Panchayat",
+    "Panchayat Samiti"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Zilla Parishad <b>CEO</b>: an IAS officer appointed by the <b>State Government</b>.",
+   "prompt": "Who appoints the Chief Executive Officer of a Zilla Parishad?",
+   "options": [
+    "The Gram Sabha",
+    "The Zilla Parishad President",
+    "The Block Development Officer",
+    "The State Government"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-14-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f24"
+   ],
+   "hook": "Jan, May, Aug, Oct: <b>4</b> fixed Gram Sabha meetings, the minimum the law asks for each year.",
+   "prompt": "Put these Gram Sabha meeting days in the order they come in a year.",
+   "items": [
+    {
+     "t": "Gram Sabha on 26th January",
+     "y": "26 Jan",
+     "k": 126
+    },
+    {
+     "t": "Gram Sabha on 1st May",
+     "y": "1 May",
+     "k": 501
+    },
+    {
+     "t": "Gram Sabha on 15th August",
+     "y": "15 Aug",
+     "k": 815
+    },
+    {
+     "t": "Gram Sabha on 2nd October",
+     "y": "2 Oct",
+     "k": 1002
+    }
+   ]
+  },
+  {
+   "qid": "c6-14-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "23rd September <b>2024</b>: 'Gram Sevak' became 'Gram Panchayat Officer'.",
+   "prompt": "In which year was the post of 'Gram Sevak' officially renamed 'Gram Panchayat Officer'?",
+   "year": 2024,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-14-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f18",
+    "f17"
+   ],
+   "hook": "Hiware Bazar's then Sarpanch Popatrao Pawar: Padma Shri in <b>2020</b>.",
+   "prompt": "In which year was Mr. Popatrao Pawar, then Sarpanch of Hiware Bazar, honoured with the Padma Shri?",
+   "year": 2020,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-14-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "<b>Hiware Bazar</b> (Ahilyanagar): rainwater harvesting + trees = an Ideal Gram Panchayat.",
+   "prompt": "Which village am I?",
+   "clues": [
+    "Droughts and poor farm yields were my old problems.",
+    "Tree planting raised my groundwater level.",
+    "My then Sarpanch received the Padma Shri in 2020.",
+    "I am a small village in Ahilyanagar district."
+   ],
+   "options": [
+    "Hiware Bazar",
+    "Mumbai City",
+    "Sangli",
+    "Nandurbar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04"
+   ],
+   "hook": "Three tiers put power in local hands: <b>decentralisation of democracy</b>.",
+   "prompt": "What did the three-tier Panchayat Raj structure result in?",
+   "options": [
+    "All power going to the State Government",
+    "Ending elections in villages",
+    "Decentralisation of democracy",
+    "Closing all Gram Sabhas"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "36 districts minus the 2 fully urban Mumbai districts = <b>34</b> Zilla Parishads.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Maharashtra has 36 districts but only 30 Zilla Parishads."
+    ],
+    [
+     "Aarav",
+     "Mumbai City and Mumbai Suburban are entirely urbanised districts."
+    ],
+    [
+     "Diya",
+     "So no Zilla Parishad exists in these two districts."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 6
+   },
+   "options": [
+    "35",
+    "32",
+    "34"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f38",
+    "f37"
+   ],
+   "hook": "No villages, no Zilla Parishad: Mumbai City and Mumbai Suburban are <b>entirely urbanised</b>.",
+   "prompt": "Why is there no Zilla Parishad in Mumbai City and Mumbai Suburban districts?",
+   "options": [
+    "They have fewer than 600 people",
+    "They are entirely urbanised areas",
+    "They are run by the Gram Sabha",
+    "They have no voters"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f41"
+   ],
+   "hook": "Gram Panchayat keeps the village's <b>birth, death and marriage</b> records.",
+   "prompt": "Which of these is a function of the Gram Panchayat?",
+   "options": [
+    "Appointing the Chief Executive Officer",
+    "Maintaining records of births, deaths and marriages",
+    "Selecting the Block Development Officer through examinations",
+    "Electing the Zilla Parishad President"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "7, 9, <b>11</b>, 13, 15, 17: each 1,500 more people adds 2 members; 3,001 to 4,500 gets 11.",
+   "prompt": "A village has a population of 4,000. How many members will its Gram Panchayat have?",
+   "options": [
+    "13",
+    "15",
+    "11",
+    "9"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f35"
+   ],
+   "hook": "Gram Panchayat: house tax, water tax, market tax, rent. Panchayat Samiti: <b>no</b> independent revenue of its own.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kabir",
+     "Local taxes like house tax and water tax are main sources of Gram Panchayat income."
+    ],
+    [
+     "Sana",
+     "The Gram Panchayat also raises funds through market tax and rent from its properties."
+    ],
+    [
+     "Rohan",
+     "The Panchayat Samiti has many independent sources of revenue of its own."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "no",
+    "two",
+    "four"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40",
+    "f42",
+    "f44"
+   ],
+   "hook": "Ten Zilla Parishad committees; the <b>Standing Committee</b> is the most important, led by the President.",
+   "prompt": "Which committee am I?",
+   "clues": [
+    "I look after general administration, finance and coordination.",
+    "I supervise the other committees.",
+    "The Zilla Parishad President is my ex-officio Chairperson.",
+    "I am the most important of the ten Zilla Parishad committees."
+   ],
+   "options": [
+    "Finance Committee",
+    "Health Committee",
+    "Education Committee",
+    "Standing Committee"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-14-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "Vets for animals: the <b>Animal Husbandry and Dairy</b> Committee supervises veterinary clinics.",
+   "prompt": "Which Zilla Parishad committee supervises veterinary clinics?",
+   "options": [
+    "Health Committee",
+    "Education Committee",
+    "Animal Husbandry and Dairy Committee",
+    "Public Works Committee"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Zilla Parishad CEO = <b>IAS</b> officer, appointed by the State Government.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "The CEO is the administrative head of the Zilla Parishad."
+    ],
+    [
+     "Aisha",
+     "The CEO is an IPS officer appointed by the State Government."
+    ],
+    [
+     "Kavya",
+     "The CEO supervises the operations of the Zilla Parishad."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "IFS",
+    "IRS",
+    "IAS"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f23"
+   ],
+   "hook": "The village's own assembly checks the money: the Gram Sabha <b>approves the budget</b>.",
+   "prompt": "Which of these is done by the Gram Sabha?",
+   "options": [
+    "Approving the Gram Panchayat's annual budget",
+    "Appointing the Gram Sevak",
+    "Electing the Zilla Parishad President",
+    "Selecting the Block Development Officer"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "No income of its own: the Panchayat Samiti's budget sits inside the <b>Zilla Parishad</b> budget.",
+   "prompt": "Which statement about the Panchayat Samiti's money is correct?",
+   "options": [
+    "It collects its own pilgrimage tax",
+    "It gets grants from the Zilla Parishad and the State Government",
+    "It has many independent sources of revenue",
+    "It gets all its money from the Gram Sabha"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "All villages of one Taluka = a <b>Development Block</b>, run by the Panchayat Samiti.",
+   "prompt": "What do all the villages within a single Taluka together form?",
+   "options": [
+    "Development Block",
+    "Group Gram Panchayat",
+    "Ward",
+    "Gram Sabha"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "Resignations go up the ladder: Sarpanch to Chairperson, Chairperson to ZP President, ZP President to <b>Divisional Commissioner</b>.",
+   "prompt": "To whom does a Zilla Parishad President submit his or her resignation?",
+   "options": [
+    "Chief Executive Officer",
+    "Divisional Commissioner",
+    "Block Development Officer",
+    "Sarpanch"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-14-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "Gram Panchayat and Panchayat Samiti: monthly. Zilla Parishad: once every <b>3</b> months.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ansh",
+     "A Gram Panchayat holds a monthly meeting."
+    ],
+    [
+     "Tanya",
+     "A Panchayat Samiti also meets every month."
+    ],
+    [
+     "Reva",
+     "A Zilla Parishad meets once every 6 months."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "2",
+    "12",
+    "3"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "Each resigns to the next tier's head: a Panchayat Samiti Chairperson to the Zilla Parishad <b>President</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "A Sarpanch submits resignation to the Panchayat Samiti Chairperson."
+    ],
+    [
+     "Leela",
+     "A Gram Panchayat member submits resignation to the Sarpanch."
+    ],
+    [
+     "Farhan",
+     "The Zilla Parishad CEO receives the resignation of a Panchayat Samiti Chairperson."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Secretary",
+    "Treasurer",
+    "President"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f29",
+    "f39"
+   ],
+   "hook": "Members grow up the tiers: <b>7-17</b>, then <b>15-45</b>, then <b>50-75</b>.",
+   "prompt": "Which shows the number of members correctly for the Gram Panchayat, Panchayat Samiti and Zilla Parishad?",
+   "options": [
+    "7 to 17, 50 to 75, 15 to 45",
+    "15 to 45, 7 to 17, 50 to 75",
+    "7 to 15, 15 to 45, 45 to 75",
+    "7 to 17, 15 to 45, 50 to 75"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-14-37",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f24",
+    "f25",
+    "f26"
+   ],
+   "hook": "The <b>Gram Sabha</b>: all village voters, at least 4 meetings a year, minutes kept in a register.",
+   "prompt": "What am I?",
+   "clues": [
+    "A record of my proceedings is kept in a register.",
+    "A meeting of women representatives is held before I begin.",
+    "I must meet at least four times a year.",
+    "I am made up of all the registered voters of the village."
+   ],
+   "options": [
+    "Gram Panchayat",
+    "Panchayat Samiti",
+    "Gram Sabha",
+    "Standing Committee"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-14-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f39"
+   ],
+   "hook": "Panchayat Samiti <b>Chairperson</b>: 2.5 years, carries out Zilla Parishad orders, sits in the Zilla Parishad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My tenure is two and a half years.",
+    "I implement orders received from the Zilla Parishad.",
+    "I am an ex-officio member of the Zilla Parishad.",
+    "The members of a Taluka-level body elect me from among themselves."
+   ],
+   "options": [
+    "Zilla Parishad President",
+    "Block Development Officer",
+    "Sarpanch",
+    "Panchayat Samiti Chairperson"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-14-39",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f42",
+    "f43"
+   ],
+   "hook": "Zilla Parishad: <b>ten</b> committees; water, pilgrimage and market taxes plus land-revenue grants.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "Zilla Parishad revenue includes water tax and pilgrimage tax."
+    ],
+    [
+     "Mohan",
+     "The State Government gives it extra grants in proportion to the land revenue."
+    ],
+    [
+     "Zara",
+     "A Zilla Parishad has a total of twelve committees."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "ten",
+    "eight",
+    "six"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-14-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f32",
+    "f41"
+   ],
+   "hook": "Gram Sevak: appointed by the ZP <b>CEO</b>. BDO and CEO: appointed by the <b>State Government</b>.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Gram Sevak is appointed by the Sarpanch.",
+    "The Block Development Officer is appointed by the Zilla Parishad President.",
+    "The Chief Executive Officer is elected by the Gram Sabha.",
+    "The Gram Sevak is appointed by the Zilla Parishad CEO, and the BDO by the Government of Maharashtra."
+   ],
+   "answer": 3
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+[
+ {
+  "id": "01",
+  "num": "H1",
+  "title": "Sources of History",
+  "unit": "History",
+  "pages": "1-4",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "02",
+  "num": "H2",
+  "title": "India: Events after 1960",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "03",
+  "num": "H3",
+  "title": "India's Internal Challenges",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "04",
+  "num": "H4",
+  "title": "Economic Development",
+  "unit": "History",
+  "pages": "1-8",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "05",
+  "num": "H5",
+  "title": "Education",
+  "unit": "History",
+  "pages": "1-8",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "06",
+  "num": "H6",
+  "title": "Empowerment of Women and other Weaker Sections",
+  "unit": "History",
+  "pages": "1-6",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "07",
+  "num": "H7",
+  "title": "Science and Technology",
+  "unit": "History",
+  "pages": "1-6",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "08",
+  "num": "H8",
+  "title": "Industry and Trade",
+  "unit": "History",
+  "pages": "1-4",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "09",
+  "num": "H9",
+  "title": "Changing Life: 1",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "10",
+  "num": "H10",
+  "title": "Changing Life: 2",
+  "unit": "History",
+  "pages": "1-3",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "11",
+  "num": "PS1",
+  "title": "Post World War Political Developments",
+  "unit": "Political Science",
+  "pages": "1-8",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "12",
+  "num": "PS2",
+  "title": "India's Foreign Policy",
+  "unit": "Political Science",
+  "pages": "1-7",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "13",
+  "num": "PS3",
+  "title": "India's Defence System",
+  "unit": "Political Science",
+  "pages": "1-5",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "14",
+  "num": "PS4",
+  "title": "The United Nations",
+  "unit": "Political Science",
+  "pages": "1-7",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "15",
+  "num": "PS5",
+  "title": "India and Other Countries",
+  "unit": "Political Science",
+  "pages": "1-7",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ },
+ {
+  "id": "16",
+  "num": "PS6",
+  "title": "International Problems",
+  "unit": "Political Science",
+  "pages": "1-6",
+  "book": "C9 History and Political Science (2017, reprint 2021)"
+ }
+]

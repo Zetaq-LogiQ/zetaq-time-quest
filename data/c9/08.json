@@ -1,0 +1,1395 @@
+{
+ "class": 9,
+ "id": "08",
+ "title": "Industry and Trade",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "date",
+   "text": "After independence the Industrial Finance Corporation of India was established in 1948 to make available long term loans to industrial projects.",
+   "year": 1948,
+   "era": "CE",
+   "quote": "After India became independent, the Industrial Finance Corporation of India was established in 1948 with the purpose of making available long term loans to industrial projects.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "date",
+   "text": "The Industrial Development Corporation was established in 1954 to bring about greater development of the industrial sector.",
+   "year": 1954,
+   "era": "CE",
+   "quote": "Similarly the Industrial Development Corporation was established in 1954 in order to bring about greater development of the industrial sector.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The textile industry includes the powerloom and the handloom industries; the handloom industries are labour intensive.",
+   "year": null,
+   "era": "CE",
+   "quote": "It includes the powerloom and the handloom industries. The handloom industries are labour intensive.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "date",
+   "text": "According to the 'Textile Committee Act 1963' a Textile Committee was established; it sets quality standards for textiles for the internal market and for export.",
+   "year": 1963,
+   "era": "CE",
+   "quote": "According to the 'Textile Committee Act 1963', a Textile Committee has been established. This committee sets the quality standards for textiles manufactured for sale in the internal market as well as for export.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "place",
+   "text": "The silk industry functions under the Ministry of Textiles; research on silkworm species and mulberry trees is done in the Seribiotic Research Laboratory at Bengaluru.",
+   "year": null,
+   "era": "CE",
+   "quote": "This industry functions under the Ministry of Textiles. The research about the species of the silkworm and mulberry trees is done in the Seribiotic Research Laboratory at Bengaluru.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "place",
+   "text": "The silk industry is primarily in Karnataka, Andhra Pradesh, West Bengal and Jammu and Kashmir, and is now spreading to States with predominantly tribal populations.",
+   "year": null,
+   "era": "CE",
+   "quote": "This industry is primarily in the States of Karnataka, Andhra Pradesh, West Bengal and Jammu and Kashmir. Now it is being spread in States with predominantly tribal populations.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "India is a major exporter of jute products; we get cloth, sack cloth and ropes from jute.",
+   "year": null,
+   "era": "CE",
+   "quote": "India is a major exporter of jute products. We get cloth, sack cloth and ropes from jute.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "'Mega cluster' is a scheme that helps weavers through self-finance groups and non-governmental organisations, with raw material, design banks, technology and welfare.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Mega cluster' is a scheme that helps weavers through self-finance groups and non-governmental organisations. Help is given in the form of raw material, design banks, development of technology and welfare of the weavers.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Hand sculpting is a labour intensive craft that absorbs more craftsmen with small investment; market mechanisms like 'Dilli Haat' give craftsmen a market for their wares.",
+   "year": null,
+   "era": "CE",
+   "quote": "This is a labour intensive craft. Sculptors got employment due to the capacity of the craft to absorb more craftsmen, small investment, more profits, preference to exports ... Several cities have market mechanisms like 'Dilli Haat' which enables the craftsmen from rural and urban areas to get a market for their wares.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The automobile industry is called the 'sunrise sector' in India.",
+   "year": null,
+   "era": "CE",
+   "quote": "The automobile industry is called the 'sunrise sector' in India.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "place",
+   "text": "Tractors manufactured in India are exported to Turkey, Malaysia and several countries in Africa.",
+   "year": null,
+   "era": "CE",
+   "quote": "Tractors manufactured in India are exported to Turkey, Malaysia and several countries in Africa.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "The cement industry is important for housing and infrastructure and is one of the most technologically advanced industries.",
+   "year": null,
+   "era": "CE",
+   "quote": "The role of cement industry is important in the development of housing and infrastructure. This industry is one of the most technologically advanced.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "The leather industry is a big industry in India and is primarily export oriented.",
+   "year": null,
+   "era": "CE",
+   "quote": "It is a big industry in India. It is primarily export oriented.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "place",
+   "text": "Bicycles are made in Punjab and Tamil Nadu; the main centre of bicycle manufacturing in India is Ludhiana; bicycles are exported to countries like Nigeria, Mexico, Kenya, Uganda and Brazil.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bicycles are made in the States of Punjab and Tamil Nadu. The main centre of bicycle manufacturing in India is Ludhiana. India exports bicycles to countries like Nigeria, Mexico, Kenya, Uganda and Brazil.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "The Khadi and Village Industries Commission gives impetus to industrialisation in rural areas, develops traditional industries, handicrafts and cottage industries, and aims to make villages self-reliant by creating employment.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Khadi and Village Industries Commission was established to give impetus to industrialisation in rural areas. The main objectives ... were to develop the traditional industries, handicrafts, cottage industries ... and make the villages self-reliant by creating employment there.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Agriculture uses traditional and modern methods: many tasks are done using bullocks, and machines are used for ploughing, sowing, harvesting and threshing.",
+   "year": null,
+   "era": "CE",
+   "quote": "In India, agriculture is practised using traditional and modern methods. Many agricultural tasks are performed using bullocks. Similarly, machines are being used in different tasks like ploughing, sowing to harvesting, threshing, etc.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "In agriculture the participation of women is equal to that of men.",
+   "year": null,
+   "era": "CE",
+   "quote": "In this industry the participation of women is equal to that of men.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "Jowar, wheat, rice, pulses and oilseeds are mainly produced; cotton and sugarcane are processed to manufacture cloth and sugar respectively.",
+   "year": null,
+   "era": "CE",
+   "quote": "Jowar, wheat, rice, pulses and oilseeds are mainly produced. Along with it, cotton and sugarcane are processed to manufacture cloth and sugar respectively.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "Loans are given to farmers through rural banks and cooperative institutions; study visits and farmers' get-togethers are organised through the Panchayat Samitis.",
+   "year": null,
+   "era": "CE",
+   "quote": "In order to encourage farming, loans are given to farmers through rural banks and cooperative institutions. Study visits, agricultural outdoor trips and farmers' get-togethers are organised through the Panchayat Samitis to bring about improvements in agriculture.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Farmers get training in soil testing, pisciculture, poultry, dairy farming, etc.; guidance comes from a district level training institute; financial help is given to build warehouses.",
+   "year": null,
+   "era": "CE",
+   "quote": "The farmers are given training regarding soil testing, nursery of fruit plants, pisciculture, poultry, cattle and goat rearing, dairy farming, etc. Guidance is given to farmers by a district level training institute. Financial help is given to build warehouses for storing the farm produce.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "Modern techniques like drip irrigation and organic farming are used for farming.",
+   "year": null,
+   "era": "CE",
+   "quote": "Modern techniques like drip irrigation, organic farming are used for farming.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "In the fourth five year plan, focus was placed on paper, pharmaceutical, motor-tractor, leather goods, textile, food processing, oil, colour and sugar industries, etc.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the fourth five year plan, focus was placed on paper industry, pharmaceutical industry, motor-tractor industry, leather goods, textile industry, food processing industry, oil, colour, sugar industries, etc.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "Under the Industrial Licensing Policy of 1970, factories requiring an investment of more than 5 crore rupees were heavy industries; big industrial houses and foreign companies could invest in heavy industries not reserved for the public sector.",
+   "year": 1970,
+   "era": "CE",
+   "quote": "According to the Industrial Licensing Policy of 1970, all those factories requiring an investment of more than 5 crore rupees were to be included as heavy industries. The big industrial houses and foreign companies were allowed to invest in heavy industries that were not reserved for the public sector.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "date",
+   "text": "As a result of this policy, by the end of 1972, 3 lakh 18 thousand small industries were registered with the government registration office.",
+   "year": 1972,
+   "era": "CE",
+   "quote": "As a result of this policy, by the end of 1972, 3 lakh 18 thousand small industries were registered with the government registration office.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "The availability of minerals, iron and coal plays a major role in industrial development; India has adequate stores of iron, manganese, coal and mineral oil.",
+   "year": null,
+   "era": "CE",
+   "quote": "The availability of the minerals, iron and coal plays a major role in the industrial development of the country. We have adequate stores of iron, manganese, coal and mineral oil in our country.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Government has reserved some forests for forest-based industries; conservation is done by the central government, the State government and the local people.",
+   "year": null,
+   "era": "CE",
+   "quote": "Government has reserved some forests for the industries based on forests. The task of conservation of the forests is done by the central government, the State government and by the local people.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Forests give raw material for industries like construction, paper, newsprint, silk, matchboxes, medicinal herbs, honey, lacquer and paint.",
+   "year": null,
+   "era": "CE",
+   "quote": "Forests are necessary for the raw material for industries like construction, paper, newsprint, silk, matchboxes, medicinal herbs, honey, lacquer and raw material needed for paint.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Fisheries include sea water fish and fresh water fish; harbours, fish seed incubation centres and fishing industry training centres have been provided.",
+   "year": null,
+   "era": "CE",
+   "quote": "Fisheries include sea water fish and fresh water fish found in rivers, canals, ponds and lakes. Harbours have been built or old harbours have been redeveloped, fish seed incubation centres and fishing industry training centres have been provided for the growth of this industry.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Tourists travel in India throughout the year; facilities are provided through the Tourism Development Corporation; sale of curios and the hotel industry thrive in tourist places.",
+   "year": null,
+   "era": "CE",
+   "quote": "Tourists from our country as well as from abroad travel in India throughout the year. The facilities for tourists to stay, travel, etc. are provided through the Tourism Development Corporation. Sale of curios and the hotel industry thrives in tourist places.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Guides, and local people who help tourists reach remote places in return for a fee, show how tourism generates employment.",
+   "year": null,
+   "era": "CE",
+   "quote": "In some places, there are guides who give information to tourists about that area. Sometimes when vehicles don't reach the destination in some remote and difficult to reach tourist places, the local people help the tourists in return for a fee. Employment opportunities are generated out of these needs.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "date",
+   "text": "When planning started in 1951, imports increased; India's imports included machines, iron, mineral oil, fertilisers, medicines, etc.",
+   "year": 1951,
+   "era": "CE",
+   "quote": "When planning started in 1951, the import of industrial goods and raw material required for production increased, India's imports included machines, iron, mineral oil, fertilisers, medicines, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "India gave impetus to exports after independence to gain valuable foreign exchange; exports included tea, coffee, spices, cotton textiles, leather, footwear, pearls, precious stones, etc.",
+   "year": null,
+   "era": "CE",
+   "quote": "India also gave impetus to exports after independence in order to gain valuable foreign exchange. India's exports included tea, coffee, spices, cotton textiles, leather, footwear, pearls, precious stones, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "place",
+   "text": "India's internal trade takes place via railways, waterways, roads and airways; ports like Mumbai, Kolkata, Cochi and Chennai are important.",
+   "year": null,
+   "era": "CE",
+   "quote": "India's internal trade takes place via railways, waterways, roads, airways, etc. Ports like Mumbai, Kolkata, Cochi and Chennai are important.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Due to the development of industries, the standard of life improves and many opportunities for employment become available.",
+   "year": null,
+   "era": "CE",
+   "quote": "Due to the development of industries, the standard of life in the country improves. Many opportunities for employment become available.",
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-08-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f01",
+    "f02",
+    "f04",
+    "f23"
+   ],
+   "hook": "Loans 1948, development 1954, textile quality 1963, licensing 1970.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Industrial Finance Corporation of India",
+     "y": "1948",
+     "k": 19480000
+    },
+    {
+     "t": "Industrial Development Corporation",
+     "y": "1954",
+     "k": 19540000
+    },
+    {
+     "t": "Textile Committee Act",
+     "y": "1963",
+     "k": 19630000
+    },
+    {
+     "t": "Industrial Licensing Policy",
+     "y": "1970",
+     "k": 19700000
+    }
+   ]
+  },
+  {
+   "qid": "c9-08-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "1948, soon after independence: long term loans for industry.",
+   "prompt": "In which year was the Industrial Finance Corporation of India established?",
+   "year": 1948,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-08-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "IFCI 1948 = Finance = long term loans.",
+   "prompt": "Which body am I?",
+   "clues": [
+    "I was set up soon after India became independent.",
+    "I was established in 1948.",
+    "My purpose was to make available long term loans to industrial projects."
+   ],
+   "options": [
+    "Industrial Development Corporation",
+    "Industrial Finance Corporation of India",
+    "Textile Committee",
+    "Khadi and Village Industries Commission"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "KVIC: rural industry, handicrafts, cottage industries, self-reliant villages.",
+   "prompt": "Which body am I?",
+   "clues": [
+    "I encourage industries that use local material and human resources.",
+    "I develop traditional industries, handicrafts and cottage industries.",
+    "I was set up to give impetus to industrialisation in rural areas."
+   ],
+   "options": [
+    "Tourism Development Corporation",
+    "Textile Committee",
+    "Industrial Finance Corporation of India",
+    "Khadi and Village Industries Commission"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-08-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "1948 Finance, 1954 Development: six years apart.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The Industrial Finance Corporation of India was established in 1948 to give long term loans."
+    ],
+    [
+     "Kabir",
+     "The Industrial Development Corporation was established in 1964 for greater development of the industrial sector."
+    ],
+    [
+     "Riya",
+     "Both were set up after India became independent."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "1948",
+    "1970",
+    "1954"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-08-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Khadi and Village Industries Commission = rural industrialisation.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Khadi and Village Industries Commission gives impetus to industrialisation in urban areas."
+    ],
+    [
+     "Sneha",
+     "It develops traditional industries, handicrafts and cottage industries."
+    ],
+    [
+     "Aarav",
+     "It aims to make villages self-reliant by creating employment there."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 11
+   },
+   "options": [
+    "coastal",
+    "hill",
+    "rural"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-08-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Sunrise sector = automobiles; tractors go to Turkey, Malaysia, Africa.",
+   "prompt": "Which industry in India is called the 'sunrise sector'?",
+   "options": [
+    "Jute industry",
+    "Cement industry",
+    "Khadi and village industry",
+    "Automobile industry"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-08-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Textile Committee (Act of 1963) = quality standards, home and export.",
+   "prompt": "What is the main work of the Textile Committee?",
+   "options": [
+    "Producing cloth in its own mills",
+    "Setting quality standards for textiles",
+    "Giving long term loans to industries",
+    "Running tourist facilities"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "1954: Industrial Development Corporation, six years after IFCI.",
+   "prompt": "In which year was the Industrial Development Corporation established?",
+   "year": 1954,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-08-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Textile Committee Act 1963: quality standards for textiles.",
+   "prompt": "In which year was the Textile Committee Act passed?",
+   "year": 1963,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-08-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Textile Committee: born of an Act of 1963, guardian of textile quality.",
+   "prompt": "Which body am I?",
+   "clues": [
+    "My work covers goods for the internal market as well as for export.",
+    "I was established under an Act of 1963.",
+    "I set the quality standards for textiles."
+   ],
+   "options": [
+    "Mega cluster",
+    "Textile Committee",
+    "Industrial Development Corporation",
+    "Tourism Development Corporation"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "Automobile industry: vehicles and tractors abroad - the sunrise sector.",
+   "prompt": "Which industry am I?",
+   "clues": [
+    "Tractors made under me are exported to Turkey and Malaysia.",
+    "Several countries in Africa also buy my tractors.",
+    "I am called the 'sunrise sector' in India."
+   ],
+   "options": [
+    "Cement industry",
+    "Leather industry",
+    "Automobile industry",
+    "Jute industry"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-08-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f03",
+    "f04"
+   ],
+   "hook": "Handlooms need many hands: labour intensive.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "The textile industry includes the powerloom and the handloom industries."
+    ],
+    [
+     "Rohan",
+     "The handloom industries are capital intensive by nature."
+    ],
+    [
+     "Meera",
+     "A Textile Committee was set up under the Textile Committee Act 1963."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "machine",
+    "labour",
+    "energy"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19",
+    "f20",
+    "f21"
+   ],
+   "hook": "Farmer help: rural bank loans, district level training institute, drip irrigation.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Loans are given to farmers through rural banks and cooperative institutions."
+    ],
+    [
+     "Diya",
+     "Guidance is given to farmers by a State level training institute."
+    ],
+    [
+     "Ishaan",
+     "Modern techniques like drip irrigation and organic farming are used for farming."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "national",
+    "district",
+    "village"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07",
+    "f27",
+    "f32",
+    "f25"
+   ],
+   "hook": "Jute gives cloth, sack cloth and ropes.",
+   "prompt": "Which products do we get from jute?",
+   "options": [
+    "Paper, newsprint and matchboxes",
+    "Tea, coffee and spices",
+    "Cloth, sack cloth and ropes",
+    "Iron, manganese and coal"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-08-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Panchayat Samitis organise study visits and farmers' get-togethers.",
+   "prompt": "Through which bodies are study visits and farmers' get-togethers organised?",
+   "options": [
+    "Tourism Development Corporation",
+    "Textile Committee",
+    "Industrial Finance Corporation of India",
+    "Panchayat Samitis"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-08-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f31",
+    "f02",
+    "f23",
+    "f24"
+   ],
+   "hook": "Planning 1951, IDC 1954, licensing 1970, 3 lakh 18 thousand small units by 1972.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Planning starts in India",
+     "y": "1951",
+     "k": 19510000
+    },
+    {
+     "t": "Industrial Development Corporation",
+     "y": "1954",
+     "k": 19540000
+    },
+    {
+     "t": "Industrial Licensing Policy",
+     "y": "1970",
+     "k": 19700000
+    },
+    {
+     "t": "3 lakh 18 thousand small industries registered",
+     "y": "end of 1972",
+     "k": 19721231
+    }
+   ]
+  },
+  {
+   "qid": "c9-08-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "1951: planning begins, imports of machines and raw material rise.",
+   "prompt": "In which year did planning start in India, leading to more imports of industrial goods?",
+   "year": 1951,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-08-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "Silk: Ministry of Textiles, Seribiotic lab in Bengaluru.",
+   "prompt": "Which industry am I?",
+   "clues": [
+    "I am now spreading to States with predominantly tribal populations.",
+    "I am found mainly in Karnataka, Andhra Pradesh, West Bengal and Jammu and Kashmir.",
+    "Research on my mulberry trees is done at the Seribiotic Research Laboratory in Bengaluru."
+   ],
+   "options": [
+    "Jute industry",
+    "Silk industry",
+    "Leather industry",
+    "Bicycle industry"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Ludhiana: India's main bicycle centre.",
+   "prompt": "Which city am I?",
+   "clues": [
+    "India exports bicycles to countries like Nigeria and Brazil.",
+    "Bicycles are made in the States of Punjab and Tamil Nadu.",
+    "I am the main centre of bicycle manufacturing in India."
+   ],
+   "options": [
+    "Mumbai",
+    "Cochi",
+    "Ludhiana",
+    "Kolkata"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-08-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "Silk works under the Ministry of Textiles; research in Bengaluru.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "The silk industry functions under the Ministry of Agriculture in India."
+    ],
+    [
+     "Arjun",
+     "Silkworm and mulberry research is done in the Seribiotic Research Laboratory at Bengaluru."
+    ],
+    [
+     "Kavya",
+     "Silk is now being spread in States with predominantly tribal populations."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 8
+   },
+   "options": [
+    "Commerce",
+    "Textiles",
+    "Mines"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "year",
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f24"
+   ],
+   "hook": "1970 policy: over 5 crore = heavy; private giants allowed where not reserved for the public sector.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Under the Industrial Licensing Policy of 1970, factories needing over 5 crore rupees were heavy industries."
+    ],
+    [
+     "Vivaan",
+     "Big industrial houses and foreign companies could invest in heavy industries not reserved for the private sector."
+    ],
+    [
+     "Neha",
+     "By the end of 1972, 3 lakh 18 thousand small industries were registered."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 15
+   },
+   "options": [
+    "small",
+    "public",
+    "foreign"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "1970 licensing: more than 5 crore rupees = heavy industry.",
+   "prompt": "According to the Industrial Licensing Policy of 1970, which factories were to be included as heavy industries?",
+   "options": [
+    "Those requiring an investment of more than 5 lakh rupees",
+    "Those employing only women",
+    "Those set up only in villages",
+    "Those requiring an investment of more than 5 crore rupees"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-08-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f31",
+    "f32"
+   ],
+   "hook": "1951 imports: machines, iron, mineral oil, fertilisers. Exports: tea, coffee, spices.",
+   "prompt": "Which pair lists two items India imported after planning started in 1951?",
+   "options": [
+    "Machines and fertilisers",
+    "Tea and coffee",
+    "Spices and pearls",
+    "Footwear and leather"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-08-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "1970: Industrial Licensing Policy - 5 crore line for heavy industry.",
+   "prompt": "In which year was the Industrial Licensing Policy introduced that defined heavy industries as those needing more than 5 crore rupees?",
+   "year": 1970,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-08-26",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "1954 Industrial Development Corporation: develop the industrial sector.",
+   "prompt": "Which body am I?",
+   "clues": [
+    "I came six years after the body that gave long term loans to industry.",
+    "I was established in 1954.",
+    "My aim was greater development of the industrial sector."
+   ],
+   "options": [
+    "Industrial Development Corporation",
+    "Textile Committee",
+    "Industrial Finance Corporation of India",
+    "Khadi and Village Industries Commission"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-08-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Mega cluster: help for weavers via self-finance groups and NGOs.",
+   "prompt": "Which scheme am I?",
+   "clues": [
+    "I give help in the form of design banks and development of technology.",
+    "I work through self-finance groups and non-governmental organisations.",
+    "I am a scheme that helps weavers."
+   ],
+   "options": [
+    "Dilli Haat",
+    "Textile Committee",
+    "Tourism Development Corporation",
+    "Mega cluster"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-08-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Dilli Haat: a market for craftsmen's wares.",
+   "prompt": "What am I?",
+   "clues": [
+    "Hand sculptors and other craftsmen find a market through me.",
+    "Craftsmen from rural and urban areas sell their wares through me.",
+    "I am a market mechanism found in several cities."
+   ],
+   "options": [
+    "Dilli Haat",
+    "Mega cluster",
+    "Seribiotic Research Laboratory",
+    "Khadi and Village Industries Commission"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-08-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f30"
+   ],
+   "hook": "Tourist places thrive on curios and hotels; locals guide tourists for a fee.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "Facilities for tourists are provided through the Tourism Development Corporation."
+    ],
+    [
+     "Om",
+     "In remote places local people help tourists in return for a fee."
+    ],
+    [
+     "Tanvi",
+     "Sale of curios and the steel industry thrive in tourist places."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "mining",
+    "cement",
+    "hotel"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-08-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f31",
+    "f32",
+    "f33"
+   ],
+   "hook": "Key ports: Mumbai, Kolkata, Cochi, Chennai.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "When planning started in 1951 the import of industrial goods and raw material increased."
+    ],
+    [
+     "Dev",
+     "India gave impetus to exports to gain valuable foreign exchange."
+    ],
+    [
+     "Anaya",
+     "Mumbai, Kolkata, Nagpur and Chennai are important ports."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "Cochi",
+    "Bhopal",
+    "Jaipur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-08-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Forests are saved by three: central government, State government, local people.",
+   "prompt": "Who does the task of conservation of the forests?",
+   "options": [
+    "Only foreign companies",
+    "Only the Panchayat Samitis",
+    "Only the Textile Committee",
+    "The central government, the State government and the local people"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-08-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Exports after independence = valuable foreign exchange.",
+   "prompt": "Why did India give impetus to exports after independence?",
+   "options": [
+    "To stop internal trade",
+    "To gain valuable foreign exchange",
+    "To close the ports",
+    "To reduce employment"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f01",
+    "f31",
+    "f02",
+    "f04",
+    "f24"
+   ],
+   "hook": "1948 IFCI, 1951 planning, 1954 IDC, 1963 Textile Act, 1972 small units.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Industrial Finance Corporation of India",
+     "y": "1948",
+     "k": 19480000
+    },
+    {
+     "t": "Planning starts in India",
+     "y": "1951",
+     "k": 19510000
+    },
+    {
+     "t": "Industrial Development Corporation",
+     "y": "1954",
+     "k": 19540000
+    },
+    {
+     "t": "Textile Committee Act",
+     "y": "1963",
+     "k": 19630000
+    },
+    {
+     "t": "3 lakh 18 thousand small industries registered",
+     "y": "end of 1972",
+     "k": 19721231
+    }
+   ]
+  },
+  {
+   "qid": "c9-08-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f24",
+    "f23"
+   ],
+   "hook": "Policy of 1970 -> 3 lakh 18 thousand small industries registered by the end of 1972.",
+   "prompt": "By the end of which year were 3 lakh 18 thousand small industries registered with the government registration office?",
+   "year": 1972,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-08-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Jute: cloth, sack cloth, ropes - and exported abroad.",
+   "prompt": "Which raw material am I?",
+   "clues": [
+    "India is a major exporter of my products.",
+    "Ropes are made from me.",
+    "Cloth and sack cloth are made from me."
+   ],
+   "options": [
+    "Salt",
+    "Cement",
+    "Jute",
+    "Iron"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-08-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Cement: housing and infrastructure. Leather: export oriented.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sara",
+     "Cement is important for the development of housing and infrastructure."
+    ],
+    [
+     "Yash",
+     "The cement industry is one of the most technologically advanced."
+    ],
+    [
+     "Sara",
+     "The leather industry is primarily import oriented."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "tourist",
+    "export",
+    "village"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f20"
+   ],
+   "hook": "Cotton -> cloth, sugarcane -> sugar.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Jowar, wheat, rice, pulses and oilseeds are mainly produced."
+    ],
+    [
+     "Kunal",
+     "Cotton is processed to make paper and sugarcane to make sugar."
+    ],
+    [
+     "Aditi",
+     "Farmers are trained in soil testing, pisciculture, poultry and dairy farming."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "cloth",
+    "glass",
+    "steel"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-08-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Hand sculpting: many craftsmen, small investment, exports.",
+   "prompt": "Why did hand sculpting give employment to many sculptors?",
+   "options": [
+    "It can absorb more craftsmen with small investment.",
+    "It needs huge machines and big investment.",
+    "It is sold only inside villages, never exported.",
+    "It is run only by foreign companies."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-08-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f30"
+   ],
+   "hook": "Tourism jobs: guides, hotels, curios, locals helping in remote places.",
+   "prompt": "Which statement about tourism in India is correct?",
+   "options": [
+    "Tourists travel in India only in winter.",
+    "Local people help tourists reach remote places in return for a fee.",
+    "Facilities for tourists are provided through the Textile Committee.",
+    "Only foreign tourists travel in India."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-08-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Fisheries growth: harbours, fish seed incubation centres, training centres.",
+   "prompt": "Which statement about fisheries is correct?",
+   "options": [
+    "Fisheries include only sea water fish.",
+    "All old harbours have been closed down.",
+    "Fish seed incubation centres have been provided for the growth of this industry.",
+    "Fresh water fish are found only in the sea."
+   ],
+   "answer": 2
+  }
+ ]
+}

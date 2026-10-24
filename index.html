@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>ZetaQ Time Quest</title>
+<style>
+:root{--paper:#f4f7f6;--ink:#1f2433;--teal:#13877f;--muted:#5b6275}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  padding:32px max(16px,env(safe-area-inset-right,0px)) 40px max(16px,env(safe-area-inset-left,0px))}
+main{max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+header{display:flex;align-items:center;gap:14px}
+header img{width:52px;height:auto}
+h1{margin:0;font-size:1.9rem;line-height:1.1}
+h1 span{color:var(--teal)}
+p{margin:0;color:var(--muted);line-height:1.5}
+ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+a{display:flex;flex-direction:column;gap:2px;padding:16px;border:2px solid var(--ink);border-radius:14px;background:#fff;
+  color:var(--ink);text-decoration:none;box-shadow:0 4px 0 var(--ink)}
+a:active{transform:translateY(3px);box-shadow:0 1px 0 var(--ink)}
+a:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
+a b{font-size:1.3rem}
+a small{color:var(--muted);font-variant-numeric:tabular-nums}
+</style>
+</head>
+<body>
+<main>
+  <header><img src="logo.png" alt="ZetaQ"><h1>Time <span>Quest</span></h1></header>
+  <p>Memory games for every chapter of the Maharashtra State Board History &amp; Civics books. Pick your class.</p>
+  <ul>
+    <li><a href="class6/"><b>Class 6</b><small>16 chapters · 640 questions</small></a></li>
+    <li><a href="class7/"><b>Class 7</b><small>19 chapters · 760 questions</small></a></li>
+    <li><a href="class8/"><b>Class 8</b><small>20 chapters · 800 questions</small></a></li>
+    <li><a href="class9/"><b>Class 9</b><small>16 chapters · 640 questions</small></a></li>
+  </ul>
+</main>
+</body>
+</html>

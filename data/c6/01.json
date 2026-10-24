@@ -1,0 +1,1518 @@
+{
+ "class": 6,
+ "id": "01",
+ "title": "Sources of History",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "Reconstructing history is similar to assembling a jigsaw puzzle; coins, inscriptions, paintings and pottery are the pieces.",
+   "year": null,
+   "era": "CE",
+   "quote": "Reconstructing history is similar to assembling a jigsaw puzzle. Objects from the past such as coins, inscriptions, paintings and pottery act as the small, individual pieces of that puzzle.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Sources of history are broadly classified into primary sources, secondary sources and oral sources.",
+   "year": null,
+   "era": "CE",
+   "quote": "These sources are broadly classified into primary sources, secondary sources and oral sources.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Primary sources belong directly to the specific historical time period, e.g. inscriptions, copper plates, coins, original documents (birch-bark manuscripts, deeds, letters), weapons, temples.",
+   "year": null,
+   "era": "CE",
+   "quote": "These sources belong directly to the specific historical time period. Examples: Inscriptions, copper plates, coins, original documents (birch-bark manuscripts, deeds, letters, etc.), antique objects, weapons, ancient structures, temples, etc.",
+   "page": 2
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "Primary sources provide authentic information regarding the specific era.",
+   "year": null,
+   "era": "CE",
+   "quote": "When writing history, these sources provide authentic information regarding the specific era.",
+   "page": 2
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Secondary sources offer information derived from the study and analysis of primary sources, e.g. history books and articles, documentaries, research papers, lectures by experts, encyclopedias.",
+   "year": null,
+   "era": "CE",
+   "quote": "These sources offer information derived from the study and analysis of primary sources. Examples : History related articles and books, documentaries, research papers, lectures by experts, encyclopedias, etc.",
+   "page": 2
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "Secondary sources provide a coherent and cohesive account of history and are created by researchers through careful analysis and interpretation.",
+   "year": null,
+   "era": "CE",
+   "quote": "These sources provide a coherent and cohesive account of history. These are created by researchers through careful analysis and interpretation.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "Oral sources preserve the past in oral form across generations, e.g. folktales, folk songs, tales of valor, memories of villagers and elders.",
+   "year": null,
+   "era": "CE",
+   "quote": "These sources preserve events, traditions, culture, or experiences from the past in an oral form, handed down and preserved across generations. Examples: Folktales, folk songs, Traditional compositions, Tales of valor and heroism, memories and experiences recounted by villagers and elders",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "Oral sources are invaluable for understanding periods for which no written evidence exists.",
+   "year": null,
+   "era": "CE",
+   "quote": "Oral sources are invaluable for understanding the daily life, traditions and culture of periods for which no written evidence exists.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Material sources are those that we can perceive with our eyes; in historical research they are regarded as primary sources.",
+   "year": null,
+   "era": "CE",
+   "quote": "Material sources are those that we can perceive with our eyes. ... In historical research, these objects are regarded as Primary Sources.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "Material sources include inscriptions, copper plates, old coins, weapons, pottery, sculptures, ancient buildings, forts, temples and water bodies.",
+   "year": null,
+   "era": "CE",
+   "quote": "These include inscriptions, copper plates, old coins, weapons, pottery, stone or metal sculptures, ancient buildings, forts, temples, water bodies and so forth.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The clay, surface finish and motifs of potsherds found in excavations help to determine the specific period.",
+   "year": null,
+   "era": "CE",
+   "quote": "Potsherds discovered during excavations, the clay used to make them, their surface finish and colourful or artistic motifs help to determine the specific period.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Excavated food grains, fruit seeds and animal bones help reconstruct the dietary habits of a period.",
+   "year": null,
+   "era": "CE",
+   "quote": "the study of excavated remains such as food grains, fruit seeds, and animal bones enables us to reconstruct the dietary habits of that specific period.",
+   "page": 3
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Inscriptions give insights into the administration and the religious and social life of ancient times.",
+   "year": null,
+   "era": "CE",
+   "quote": "Inscribed inscriptions provide valuable insights into the administration, as well as the religious and social life of ancient times.",
+   "page": 3
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "Weapons, fortifications, palaces and ancient structures reveal defence systems, war strategies and architectural styles.",
+   "year": null,
+   "era": "CE",
+   "quote": "The study of weapons, fortifications, palaces and ancient structures reveals information regarding the defense systems, war strategies and architectural styles of the respective period.",
+   "page": 3
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "Old coins or seals shed light on the economy, names of rulers, religious traditions and artistic trends.",
+   "year": null,
+   "era": "CE",
+   "quote": "old coins or seals shed light on the economy, the names of rulers, religious traditions and the artistic trends.",
+   "page": 3
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Sources that are available in a written form are called written sources.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sources that are available in a written form are referred to as 'Written Sources'.",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "During the Stone Age, the prehistoric period, humans had not learnt writing, so our knowledge of that era comes mainly from material sources.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the Stone Age that is, the prehistoric period humans had not yet learnt the art of writing. Consequently, our knowledge of that era is derived primarily from material sources.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "People began expressing experiences through pictures and symbols; this marked the beginning of the art of writing.",
+   "year": null,
+   "era": "CE",
+   "quote": "people began to express their experiences and information through pictures and symbols. This marked the beginning of the art of writing.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "The period with written evidence is the Historical Period; the times before scripts developed are the Prehistoric Period.",
+   "year": null,
+   "era": "CE",
+   "quote": "The period for which written evidence is available to write history is known as the 'Historical Period.' The times during which scripts had not yet developed is referred to as the 'Prehistoric Period.'",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Written sources from ancient times are preserved at various museums, libraries and temples.",
+   "year": null,
+   "era": "CE",
+   "quote": "Written sources from ancient times are preserved at various museums, libraries and temples.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "Oral sources are passed on by word of mouth and include folktales, myths, Ovi, Povada, proverbs and folk songs.",
+   "year": null,
+   "era": "CE",
+   "quote": "Oral sources refer to information that is transmitted by word of mouth rather than writing it down. ... These sources include folktales, myths, traditional compositions like Ovi, Povada, proverbs and folk songs etc.",
+   "page": 4
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Historians verify oral sources by comparative analysis and with the help of other sources.",
+   "year": null,
+   "era": "CE",
+   "quote": "when utilizing oral sources for historical research, historians verify the information, by conducting comparative analysis and with the help of other sources reconstruct history.",
+   "page": 4
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "The ancient period covers the time from the Stone Age to approximately the 8th century CE.",
+   "year": null,
+   "era": "CE",
+   "quote": "The ancient period covers the time period from the Stone Age to approximately 8th century CE.",
+   "page": 4
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The history of the Stone Age relies entirely on material evidence from archaeological excavations.",
+   "year": null,
+   "era": "CE",
+   "quote": "The history of the Stone Age relies entirely on material evidence obtained through archaeological excavations.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "The Vedas are the most ancient sources of Indian history; at first they were not written but memorised and passed on orally.",
+   "year": null,
+   "era": "CE",
+   "quote": "The most ancient sources of Indian history are the Vedas. Initially, the Vedas were not in written form. Ancient Indians had developed a technique for memorizing and orally transmitting them.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The four Vedas are Rigveda, Yajurveda, Samaveda and Atharvaveda; they contain hymns in praise of the deities and sacrificial rituals.",
+   "year": null,
+   "era": "CE",
+   "quote": "The four Vedas-Rigveda, Yajurveda, Samaveda, and Atharvaveda contain hymns (songs) in praise of the deities and sacrificial rituals.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Brahmana texts, Aranyakas and Upanishads were composed later and help us understand ancient Indian philosophy.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Brahmana texts, Aranyakas and Upanishads were composed later. These texts help us to understand ancient Indian philosophy.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "The great Indian epics Ramayana and Mahabharata are valuable sources of ancient Indian history.",
+   "year": null,
+   "era": "CE",
+   "quote": "Furthermore, Ramyana and Mahabharata, the great Indian epics are valuable sources of ancient Indian history.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Sangham literature is the most ancient literature in the Tamil language.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sangham literature is the most ancient literature in the Tamil language.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "The Buddhist texts are collectively known as Tipitaka; they contain Gautama Buddha's teachings, rules for monks and philosophical discussions, written in Pali, a Prakrit language.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Buddhist texts are collectively known as 'Tipitaka'. Tipitaka contains the teachings of Gautama Buddha, rules for monks and philosophical discussions. These texts are written in Pali, a Prakrit language.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "The Jaina texts known as Agamas discuss the teachings of Vardhamana Mahavira and Ahimsa; they are written in Ardhamagadhi, a Prakrit language.",
+   "year": null,
+   "era": "CE",
+   "quote": "The teachings of Vardhamana Mahavira and the importance of Ahimsa (non-violence) are discussed in Jaina texts known as 'Agamas'. These texts are written in Ardhamagadhi, a Prakrit language.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "Emperor Ashoka conveyed his thoughts through rock and pillar inscriptions, mainly in the Brahmi script, some in Kharoshti and Aramaic.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Emperor Ashoka conveyed his thoughts on religious teachings and social values to his subjects through rock inscriptions and pillar inscriptions. These inscriptions are primarily carved in the Brahmi script. However, some of them also appear in Kharoshti and Aramaic scripts.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Royal decrees on land grants and tax exemptions were inscribed on copper plates, which tell us about administrative systems.",
+   "year": null,
+   "era": "CE",
+   "quote": "royal decrees regarding land grants and tax exemptions were inscribed on copper plates. These records provide valuable insights into the administrative systems.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Travelogues of foreign travellers describe the educational systems, religious life and social customs of ancient India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Travelogues of foreign travellers are also significant sources of information regarding ancient India. They provide detailed descriptions of the educational systems, religious life, social customs, and other aspects of daily life",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "place",
+   "text": "The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya in Mumbai houses a vast collection of artefacts related to the history of India.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya in Mumbai, Maharashtra is well-known. It houses a vast collection of artefacts related to the history of India.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "The museum at the Deccan College Post-Graduate and Research Institute in Pune offers a glimpse of archaeological artifacts.",
+   "year": null,
+   "era": "CE",
+   "quote": "The museum at the Deccan College Post-Graduate and Research Institute in Pune offers a glimpse of archaeological artifacts.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "place",
+   "text": "The Raja Dinkar Kelkar Museum has galleries of household objects, jewellery, weaponry, musical instruments, textiles and artworks.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Raja Dinkar Kelkar Museum features galleries dedicated to a diverse range of household objects jewellery, weaponry, musical instruments, textiles and artworks.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "place",
+   "text": "Other museums: Central Museum in Nagpur, Chhatrapati Shivaji Maharaj Museum in Chhatrapati Sambhajinagar, Shri Chhatrapati Shahu Museum in Kolhapur, Shri Chhatrapati Shivaji Maharaj Museum in Satara.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Central Museum in Nagpur, Chhatrapati Shivaji Maharaj Museum in Chhatrapati Sambhajinagar, Shri Chhatrapati Shahu Museum in Kolhapur, Shri Chhatrapati Shivaji Maharaj Museum in Satara",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "place",
+   "text": "The Shanti-Krishna Museum of Money and History is at Anjaneri (near Tryambakeshwar), Nashik district.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shanti-Krishna Museum of Money and History located at Anjaneri (near Tryambakeshwar), Nashik district",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "The Ajanta and Verul Caves were included in UNESCO's World Heritage List in 1983.",
+   "year": 1983,
+   "era": "CE",
+   "quote": "The most renowned of these heritage sites are the Ajanta and Verul Caves. They were included in the UNESCO's World Heritage List in 1983.",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "date",
+   "text": "The Gharapuri Caves (Elephanta Caves) near Mumbai were declared World Heritage in 1987.",
+   "year": 1987,
+   "era": "CE",
+   "quote": "The Gharapuri Caves (Elephanta Caves) and Kanheri Caves, located near Mumbai, are also famous. The Gharapuri caves were declared as World Heritage in 1987.",
+   "page": 5
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "In 2018, seventy six art deco buildings were added to the World Heritage List.",
+   "year": 2018,
+   "era": "CE",
+   "quote": "In 2018, seventy six art deco buildings were added to this list.",
+   "page": 5
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "The Chhatrapati Shivaji Maharaj Terminus in Mumbai, an example of Gothic architecture of the British era, was declared a World Heritage Site in 1997.",
+   "year": 1997,
+   "era": "CE",
+   "quote": "The Chhatrapati Shivaji Maharaj Terminus in Mumbai stands as an outstanding example of Gothic architecture of the British era. It was declared a World Heritage Site in 1997.",
+   "page": 5
+  },
+  {
+   "fid": "f44",
+   "kind": "date",
+   "text": "The Sahyadri ranges, known as the Western Ghats, are rich in biodiversity; UNESCO recognised them as a Natural Heritage Site in 2012.",
+   "year": 2012,
+   "era": "CE",
+   "quote": "The Sahyadri mountain ranges of Maharashtra are known as the 'Western Ghats'. They are rich in biodiversity. In 2012, UNESCO recognised it as a Natural Heritage Site.",
+   "page": 5
+  },
+  {
+   "fid": "f45",
+   "kind": "place",
+   "text": "UNESCO has recently recognised 12 forts as World Heritage Sites under the title Maratha Military Landscapes; 11 are in Maharashtra and Jinji is in Tamil Nadu.",
+   "year": null,
+   "era": "CE",
+   "quote": "UNESCO has recently recognized 12 forts as World Heritage Sites under the collective title 'Maratha Military Landscapes'. Out of these 11 forts are located in Maharashtra, while the fort of Jinji is situated in the state of Tamil Nadu.",
+   "page": 6
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "Material sources give insights into the lives, culture, traditions, games, arts and sciences of the people of that era.",
+   "year": null,
+   "era": "CE",
+   "quote": "Material sources provide insights into the lives, culture, traditions, games, arts and sciences of the people of that era.",
+   "page": 2
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-01-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Three kinds: <b>P-S-O</b> = Primary, Secondary, Oral.",
+   "prompt": "Into which three types are sources of history broadly classified?",
+   "options": [
+    "Ancient, medieval and modern sources",
+    "Coins, forts and temples",
+    "Painted, carved and sung sources",
+    "Primary, secondary and oral sources"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-01-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f10",
+    "f17"
+   ],
+   "hook": "Things you can <b>see</b>: coins, pots, forts. Seen with your eyes = material.",
+   "prompt": "What am I?",
+   "clues": [
+    "Copper plates, weapons and pottery belong to me.",
+    "Historians regard me as a primary source.",
+    "Our knowledge of the Stone Age comes mainly from me.",
+    "You can perceive me with your eyes."
+   ],
+   "options": [
+    "Oral sources",
+    "Material sources",
+    "Secondary sources",
+    "Written sources"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "<b>Four</b> Vedas: Rig, Yajur, Sama, Atharva.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The most ancient sources of Indian history are the Vedas."
+    ],
+    [
+     "Meera",
+     "At first the Vedas were not in written form."
+    ],
+    [
+     "Kabir",
+     "There are six Vedas, starting with the Rigveda."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "four",
+    "eight",
+    "two"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-04",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Ajanta-Verul <b>1983</b>, Gharapuri <b>1987</b>: just 4 years apart.",
+   "prompt": "In which year were the Ajanta and Verul Caves included in UNESCO's World Heritage List?",
+   "year": 1983,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-01-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22",
+    "f07"
+   ],
+   "hook": "Oral = by <b>mouth</b>: Ovi, Povada, proverbs, folk songs.",
+   "prompt": "What am I?",
+   "clues": [
+    "Historians verify me by comparing me with other sources.",
+    "Ovi, Povada, proverbs and folk songs belong to me.",
+    "I am passed on by word of mouth, from generation to generation."
+   ],
+   "options": [
+    "Written sources",
+    "Primary sources",
+    "Oral sources",
+    "Material sources"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-01-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Written sources = sources in <b>written</b> form: the name says it all.",
+   "prompt": "What are written sources?",
+   "options": [
+    "Sources that are available in a written form",
+    "Sources passed on by word of mouth",
+    "Sources found only in caves",
+    "Sources made only by foreign travellers"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19",
+    "f17"
+   ],
+   "hook": "No script = <b>Prehistoric</b>; we know it from <b>material</b> things.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The period for which written evidence is available is called the Historical Period."
+    ],
+    [
+     "Arjun",
+     "The times before scripts developed are called the Prehistoric Period."
+    ],
+    [
+     "Sana",
+     "For the Stone Age our knowledge comes mainly from written sources."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "oral",
+    "material",
+    "secondary"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Two great <b>epics</b>: Ramayana and Mahabharata.",
+   "prompt": "Which great Indian epics are valuable sources of ancient Indian history?",
+   "options": [
+    "Tipitaka and Agamas",
+    "Rigveda and Samaveda",
+    "Ramayana and Mahabharata",
+    "Aranyakas and Upanishads"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-01-09",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, <b>Mumbai</b>: a vast collection of India's history.",
+   "prompt": "Where is the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya?",
+   "options": [
+    "Mumbai",
+    "Pune",
+    "Nagpur",
+    "Kolhapur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Gharapuri (Elephanta) <b>1987</b>: 4 years after Ajanta-Verul (1983).",
+   "prompt": "In which year were the Gharapuri Caves declared a World Heritage Site?",
+   "year": 1987,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-01-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31"
+   ],
+   "hook": "<b>Pali</b> for the Buddhist Tipitaka, <b>Ardhamagadhi</b> for the Jaina Agamas.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Buddhist texts are collectively known as Tipitaka."
+    ],
+    [
+     "Diya",
+     "The Agamas are Jaina texts written in Ardhamagadhi."
+    ],
+    [
+     "Rohan",
+     "The Tipitaka texts are written in Aramaic and contain rules for monks."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Tamil",
+    "Pali",
+    "Ardhamagadhi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Agamas = Jaina texts: Mahavira's teachings + <b>Ahimsa</b> (non-violence).",
+   "prompt": "What do the Jaina texts known as Agamas discuss?",
+   "options": [
+    "The teachings of Vardhamana Mahavira and the importance of Ahimsa",
+    "Rules for monks given by Gautama Buddha",
+    "Hymns in praise of deities and sacrificial rituals",
+    "Royal decrees on land grants"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f33"
+   ],
+   "hook": "Land grants and tax exemptions were written on <b>copper</b> plates.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am listed with inscriptions and coins as a primary source.",
+    "I help historians understand administrative systems.",
+    "Royal decrees about land grants and tax exemptions were inscribed on me."
+   ],
+   "options": [
+    "Potsherds",
+    "Copper plates",
+    "Seals",
+    "Birch-bark manuscripts"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-14",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f41",
+    "f43",
+    "f44"
+   ],
+   "hook": "Caves first (<b>1983</b>, <b>1987</b>), then the Terminus (<b>1997</b>), then nature (<b>2012</b>).",
+   "prompt": "Put these World Heritage moments in order, earliest first.",
+   "items": [
+    {
+     "t": "Ajanta and Verul Caves listed",
+     "y": "1983",
+     "k": 1983
+    },
+    {
+     "t": "Gharapuri Caves declared",
+     "y": "1987",
+     "k": 1987
+    },
+    {
+     "t": "Chhatrapati Shivaji Maharaj Terminus",
+     "y": "1997",
+     "k": 1997
+    },
+    {
+     "t": "Western Ghats recognised",
+     "y": "2012",
+     "k": 2012
+    }
+   ]
+  },
+  {
+   "qid": "c6-01-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Ashoka wrote mostly in <b>Brahmi</b>; some in Kharoshti and Aramaic.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Emperor Ashoka used rock and pillar inscriptions."
+    ],
+    [
+     "Kabir",
+     "His inscriptions are mostly carved in the Devanagari script."
+    ],
+    [
+     "Tara",
+     "Some of them also appear in Kharoshti and Aramaic scripts."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Pali",
+    "Brahmi",
+    "Tamil"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Ancient period: Stone Age up to about the <b>8th</b> century CE.",
+   "prompt": "Which time span does the ancient period cover?",
+   "options": [
+    "From the Stone Age to approximately the 18th century CE",
+    "From the 8th century CE to the 18th century CE",
+    "From the 1st century CE to the 8th century CE",
+    "From the Stone Age to approximately the 8th century CE"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-01-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31"
+   ],
+   "hook": "<b>T</b>ipitaka - <b>P</b>ali; <b>A</b>gamas - <b>A</b>rdhamagadhi (A with A).",
+   "prompt": "Which pair of a text and its language is correct?",
+   "options": [
+    "Agamas - Pali",
+    "Tipitaka - Pali",
+    "Tipitaka - Ardhamagadhi",
+    "Agamas - Tamil"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "Secondary = made <b>from</b> primary sources by researchers: books, documentaries, encyclopedias.",
+   "prompt": "What am I?",
+   "clues": [
+    "Lectures by experts and encyclopedias are examples of me.",
+    "I give a coherent and cohesive account of history.",
+    "Researchers create me through careful analysis and interpretation.",
+    "I offer information from the study of primary sources."
+   ],
+   "options": [
+    "Primary sources",
+    "Oral sources",
+    "Material sources",
+    "Secondary sources"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-01-19",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f38",
+    "f36"
+   ],
+   "hook": "<b>Central</b> Museum - <b>Nagpur</b>; Shahu Museum - Kolhapur; Deccan College museum - Pune.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The Central Museum in Pune is important from a historical perspective."
+    ],
+    [
+     "Yash",
+     "The Shri Chhatrapati Shahu Museum is in Kolhapur."
+    ],
+    [
+     "Pooja",
+     "The Deccan College museum in Pune shows archaeological artifacts."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 4
+   },
+   "options": [
+    "Kolhapur",
+    "Mumbai",
+    "Nagpur"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-01-20",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "The Terminus, <b>1997</b>: exactly 10 years after Gharapuri (1987).",
+   "prompt": "In which year was the Chhatrapati Shivaji Maharaj Terminus in Mumbai declared a World Heritage Site?",
+   "year": 1997,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-01-21",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "place"
+   ],
+   "fids": [
+    "f41",
+    "f43",
+    "f44",
+    "f42"
+   ],
+   "hook": "1987, 1997: ten years apart. Then 2012 and <b>2018</b>: six years apart.",
+   "prompt": "Put these World Heritage moments in order, earliest first.",
+   "items": [
+    {
+     "t": "Gharapuri Caves declared",
+     "y": "1987",
+     "k": 1987
+    },
+    {
+     "t": "Chhatrapati Shivaji Maharaj Terminus",
+     "y": "1997",
+     "k": 1997
+    },
+    {
+     "t": "Western Ghats recognised",
+     "y": "2012",
+     "k": 2012
+    },
+    {
+     "t": "76 art deco buildings added",
+     "y": "2018",
+     "k": 2018
+    }
+   ]
+  },
+  {
+   "qid": "c6-01-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "Sahyadri = <b>Western Ghats</b>, a Natural Heritage Site since 2012.",
+   "prompt": "Which heritage site am I?",
+   "clues": [
+    "Many rare animals, birds and plant species are found in me.",
+    "UNESCO recognised me as a Natural Heritage Site in 2012.",
+    "I am rich in biodiversity.",
+    "I am another name for the Sahyadri mountain ranges of Maharashtra."
+   ],
+   "options": [
+    "Kanheri Caves",
+    "Gharapuri Caves",
+    "Maratha Military Landscapes",
+    "Western Ghats"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-01-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f39",
+    "f38",
+    "f35"
+   ],
+   "hook": "Money museum at <b>Anjaneri</b>, near Tryambakeshwar in Nashik district.",
+   "prompt": "Which pair of a museum and its place is correct?",
+   "options": [
+    "Central Museum - Mumbai",
+    "Shri Chhatrapati Shahu Museum - Satara",
+    "Shanti-Krishna Museum of Money and History - Anjaneri",
+    "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya - Nagpur"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-01-24",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f15",
+    "f13"
+   ],
+   "hook": "Seeds and bones - diet; coins and seals - economy and <b>rulers</b>' names; inscriptions - administration.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Vihaan",
+     "Food grains, fruit seeds and animal bones tell us about dietary habits."
+    ],
+    [
+     "Anaya",
+     "Old coins or seals shed light on the names of rivers and the economy."
+    ],
+    [
+     "Dev",
+     "Inscriptions give insights into the administration of ancient times."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "oceans",
+    "mountains",
+    "rulers"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-01-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "A potsherd's clay, finish and motifs tell the <b>period</b>.",
+   "prompt": "How do potsherds found in excavations help historians?",
+   "options": [
+    "They are the most ancient sources of Indian history",
+    "They were used to write royal decrees about land grants",
+    "Their clay, surface finish and motifs help to determine the specific period",
+    "They hold the hymns of the Vedas"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-01-26",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "12 Maratha forts: <b>11</b> in Maharashtra + <b>1</b> (Jinji) in Tamil Nadu.",
+   "prompt": "Which fort am I?",
+   "clues": [
+    "UNESCO recently recognised me as a World Heritage Site.",
+    "I am one of the 12 forts called the Maratha Military Landscapes.",
+    "Unlike the other 11, I am not in Maharashtra.",
+    "I am situated in the state of Tamil Nadu."
+   ],
+   "options": [
+    "Raigad",
+    "Jinji",
+    "Shivneri",
+    "Sindhudurg"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "<b>2018</b>: 76 art deco buildings joined the list, 6 years after the Western Ghats (2012).",
+   "prompt": "In which year were seventy six art deco buildings added to the World Heritage List?",
+   "year": 2018,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-01-28",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "12 forts - 1 in Tamil Nadu (Jinji) = <b>11</b> in Maharashtra.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "UNESCO has recognised 12 forts as World Heritage Sites."
+    ],
+    [
+     "Kavya",
+     "They are called the Maratha Military Landscapes."
+    ],
+    [
+     "Arnav",
+     "In Maharashtra there are 10 of these forts."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "11",
+    "9",
+    "12"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-29",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f43",
+    "f44",
+    "f42"
+   ],
+   "hook": "1983, 1997, 2012, 2018: caves, station, mountains, buildings.",
+   "prompt": "Put these World Heritage moments in order, earliest first.",
+   "items": [
+    {
+     "t": "Ajanta and Verul Caves listed",
+     "y": "1983",
+     "k": 1983
+    },
+    {
+     "t": "Chhatrapati Shivaji Maharaj Terminus",
+     "y": "1997",
+     "k": 1997
+    },
+    {
+     "t": "Western Ghats recognised",
+     "y": "2012",
+     "k": 2012
+    },
+    {
+     "t": "76 art deco buildings added",
+     "y": "2018",
+     "k": 2018
+    }
+   ]
+  },
+  {
+   "qid": "c6-01-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07",
+    "f05",
+    "f03"
+   ],
+   "hook": "Folk songs live in <b>voices</b>, so they are oral; encyclopedias are secondary.",
+   "prompt": "Which of these is an example of an oral source?",
+   "options": [
+    "Folk songs",
+    "Encyclopedias",
+    "Documentaries",
+    "Copper plates"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19",
+    "f17"
+   ],
+   "hook": "No script yet = <b>Prehistoric</b>. Written evidence = Historical.",
+   "prompt": "What am I?",
+   "clues": [
+    "Our knowledge of me comes mainly from material sources.",
+    "Humans had not yet learnt the art of writing during my times.",
+    "I am the times during which scripts had not yet developed."
+   ],
+   "options": [
+    "Prehistoric Period",
+    "Historical Period",
+    "Ancient Period",
+    "Modern Period"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-32",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "Western Ghats <b>2012</b>: 15 years after the Terminus (1997).",
+   "prompt": "In which year did UNESCO recognise the Western Ghats as a Natural Heritage Site?",
+   "year": 2012,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-01-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f41",
+    "f43",
+    "f44",
+    "f42"
+   ],
+   "hook": "83, 87, 97, 2012, 2018: gaps of 4, 10, 15, 6 years.",
+   "prompt": "Put all five World Heritage moments in order, earliest first.",
+   "items": [
+    {
+     "t": "Ajanta and Verul Caves listed",
+     "y": "1983",
+     "k": 1983
+    },
+    {
+     "t": "Gharapuri Caves declared",
+     "y": "1987",
+     "k": 1987
+    },
+    {
+     "t": "Chhatrapati Shivaji Maharaj Terminus",
+     "y": "1997",
+     "k": 1997
+    },
+    {
+     "t": "Western Ghats recognised",
+     "y": "2012",
+     "k": 2012
+    },
+    {
+     "t": "76 art deco buildings added",
+     "y": "2018",
+     "k": 2018
+    }
+   ]
+  },
+  {
+   "qid": "c6-01-34",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f40",
+    "f41",
+    "f43",
+    "f44"
+   ],
+   "hook": "Ajanta and Verul <b>1983</b> comes before Gharapuri 1987, the Terminus 1997 and the Western Ghats 2012.",
+   "prompt": "Of these four sites, which was recognised by UNESCO the earliest?",
+   "options": [
+    "Gharapuri Caves",
+    "Ajanta and Verul Caves",
+    "Chhatrapati Shivaji Maharaj Terminus",
+    "Western Ghats"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Anjaneri, near Tryambakeshwar, Nashik: home of the museum of <b>money</b>.",
+   "prompt": "Which museum am I?",
+   "clues": [
+    "I am important from a historical perspective.",
+    "I am located in Nashik district.",
+    "You will find me at Anjaneri, near Tryambakeshwar."
+   ],
+   "options": [
+    "Central Museum",
+    "Shanti-Krishna Museum of Money and History",
+    "Raja Dinkar Kelkar Museum",
+    "Shri Chhatrapati Shivaji Maharaj Museum"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "Vedas: hymns. Later Brahmanas, Aranyakas, Upanishads: <b>philosophy</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Mira",
+     "The four Vedas contain hymns in praise of the deities."
+    ],
+    [
+     "Rohan",
+     "The Brahmana texts, Aranyakas and Upanishads were composed later."
+    ],
+    [
+     "Zoya",
+     "Ancient Indian music can be understood from these later texts."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "philosophy",
+    "coins",
+    "forts"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-01-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f32",
+    "f25"
+   ],
+   "hook": "Tipitaka = teachings of Buddha + <b>rules for monks</b> + discussions.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Ashoka's inscriptions are mainly in the Kharoshti script",
+    "The Agamas are written in Pali",
+    "Tipitaka contains rules for monks",
+    "The Vedas were in written form from the very beginning"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-01-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "Memorised and passed on by mouth first, written later: the <b>Vedas</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Ancient Indians developed a technique for memorizing and orally transmitting me.",
+    "At first I was not in written form.",
+    "I contain hymns in praise of the deities and sacrificial rituals.",
+    "I am the most ancient source of Indian history."
+   ],
+   "options": [
+    "Agamas",
+    "Upanishads",
+    "Tipitaka",
+    "Vedas"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-01-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f41",
+    "f43"
+   ],
+   "hook": "Gharapuri <b>1987</b> + 10 = <b>1997</b>, the year of the Terminus.",
+   "prompt": "Which site was declared a World Heritage Site exactly ten years after the Gharapuri Caves?",
+   "options": [
+    "Ajanta and Verul Caves",
+    "Chhatrapati Shivaji Maharaj Terminus",
+    "Western Ghats",
+    "Kanheri Caves"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-01-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f41",
+    "f42"
+   ],
+   "hook": "Ajanta-Verul 1983, Gharapuri <b>1987</b>, art deco 2018.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiara",
+     "Ajanta and Verul Caves were listed by UNESCO in 1983."
+    ],
+    [
+     "Aarush",
+     "The Gharapuri caves were declared World Heritage in 1997 by UNESCO."
+    ],
+    [
+     "Pari",
+     "In 2018 seventy six art deco buildings were added to the list."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "1983",
+    "2012",
+    "1987"
+   ],
+   "answer": 2
+  }
+ ]
+}

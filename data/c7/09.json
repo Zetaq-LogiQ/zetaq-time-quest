@@ -1,0 +1,1538 @@
+{
+ "class": 7,
+ "id": "09",
+ "title": "The Maratha War of Independence",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "After Shivaji Maharaj's death, the Marathas fought the Mughals under Sambhaji Maharaj, Rajaram Maharaj and Maharani Tarabai; this war of twenty seven years is called the 'Maratha War of Independence'.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Marathas fought with great valour with the Mughals under the leadership of Chhatrapati Sambhaji Maharaj, Chhatrapati Rajaram Maharaj and Maharani Tarabai ... This long war that lasted for twenty seven years is called the 'Maratha War of Independence'.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "date",
+   "text": "In 1682 CE Emperor Aurangzeb himself led the invasion of the South.",
+   "year": 1682,
+   "era": "CE",
+   "quote": "In 1682 CE Emperor Aurangzeb himself led the invasion of South.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The word 'Maratha' here means 'people who speak Marathi' or 'Maharashtrian people'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The word 'Maratha' used here means the 'people who speak Marathi' or 'Maharashtrian people'.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "date",
+   "text": "Sambhaji Maharaj, the eldest son of Shivaji Maharaj, was born on 14 May 1657 on the Purandar Fort.",
+   "year": 1657,
+   "era": "CE",
+   "quote": "Sambhaji Maharaj was the eldest son of Chhatrapti Shivaji Maharaj. He was born on 14 May 1657 on the Purandar Fort.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "person",
+   "text": "Aurangzeb's son Shahajada Akbar rebelled against his father and came to the Deccan to take shelter with Sambhaji Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Emperor Aurangzeb's son Shahajada Akbar rebelled against his father. The Emperor crushed his rebellion. Then Akbar came to the Deccan to take shelter with Sambhaji Maharaj.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "event",
+   "text": "Aurangzeb asked the Siddi of Janjira to undertake an expedition against the Marathas and won over the Portuguese to his side.",
+   "year": null,
+   "era": "CE",
+   "quote": "He asked the Siddi of Janjira to undertake an expedition against the Marathas. He also won over the Portuguese to his side.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "event",
+   "text": "Sambhaji Maharaj began to take interest in administration and the command of the army from the age of fourteen years.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sambhaji Maharaj had begun to take interst in the administration of the State and the command of the army from the age of fourteen years.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "French traveller Abbe Carrey said the young prince was courageous and brave like his father.",
+   "year": null,
+   "era": "CE",
+   "quote": "French traveller Abbe Carrey says about his battle skills, \"Even though the prince is young, he is courageous and brave like his father was famous for....\"",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "place",
+   "text": "Aurangzeb wanted to occupy regions from Kabul to Kannyakumari and create a grand unified Mughal empire.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurangzeb wanted to occupy regions from Kabul to Kannyakumari and create a grand unified Mughal empire.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "place",
+   "text": "The Emperor's generals could not win the Maratha fort of Ramsej near Nashik; the siege continued for the next five years.",
+   "year": null,
+   "era": "CE",
+   "quote": "they couldn't win the Maratha fort of Ramsej near Nashik. ... So he put a siege around Ramsej fort near Nashik. ... The siege continued for the next five years.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "event",
+   "text": "Aurangzeb once threw his turban on the floor and vowed not to wear it until he had vanquished Sambhaji.",
+   "year": null,
+   "era": "CE",
+   "quote": "Once he removed his turban in frustration and threw it on the floor. He made a vow that until he had vanquished Sambhaji, he would not wear his turban.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "Sabhasada described the Siddi of Janjira as a rat in the house.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sabhasada has described him as a rat in the house.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "date",
+   "text": "In 1682 CE Sambhaji Maharaj started a campaign against the Siddi; his army besieged Dandarajpuri fort and battered Janjira, but he turned back when the Mughal army invaded Swaraj.",
+   "year": 1682,
+   "era": "CE",
+   "quote": "Sambhaji Maharaj started a campaign against him in 1682 CE. His army laid a siege to Siddi's Dandarajpuri fort, and battered the fort of Janjira with the artillery. But at the same time, the Mughal army invaded Swaraj.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "Sambhaji Maharaj attacked the Revdanda fort of the Portuguese in 1683 CE.",
+   "year": 1683,
+   "era": "CE",
+   "quote": "He attacked the Revdanda fort of the Portuguese in 1683 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "person",
+   "text": "The Portuguese besieged the Maratha fort of Fonda; the Marathas broke through and attacked Goa, where Yesaji Kank showed great valour and the Portuguese Governor was wounded.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Portuguese laid a siege to the Fonda fort of the Marathas on the Goa border. The Marathas broke through the siege and attacked Goa. In this battle, Yesaji Kank showed great valour. The Portuguese Governor got wounded and retreated.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "event",
+   "text": "Sambhaji Maharaj abandoned the winning Goa campaign because the Mughals had attacked South Konkan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sambhaji Maharaj got the news that the Mughals had attacked South Konkan. Therefore, he had to abandon the winning campaign of Goa",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "event",
+   "text": "Aurangzeb suspended his campaign against the Marathas and conquered the kingdoms of Adilshah and Qutubshah.",
+   "year": null,
+   "era": "CE",
+   "quote": "Therefore, he suspended that campaign. Then he turned towards the kingdoms of Adilshah and Qutubshah and conquered them.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "Maratha General Hambirrao Mohite was killed in an encounter with the Mughal army.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Maratha army General Hambirrao Mohite got killed during an encounter with the Mughal army.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "Sambhaji Maharaj gave administrative powers and her own stamp to Maharani Yesubai.",
+   "year": null,
+   "era": "CE",
+   "quote": "He gave administrative powers to Maharani Yesubai. He gave her, her own stamp.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Sambhaji Maharaj composed 'Budhbhushanam' in Sanskrit; its second chapter discusses polity.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sambhaji Maharaj composed 'Budhbhushanam' in the Sanskrit language. The second chapter of this book discusses polity.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "Mukarrabkhan, in charge of the Kolhapur province, raided Sangameshwar in Konkan and captured Sambhaji Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "He had placed Mukarrabkhan in charge of the Kolhapur province. Mukarrabkhan learnt that Sambhaji Maharaj was at Sangameshwar in Konkan. He raided the place and captured Sambhaji Maharaj.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "date",
+   "text": "By the Emperor's orders, Sambhaji Maharaj was put to death on 11 March 1689.",
+   "year": 1689,
+   "era": "CE",
+   "quote": "By the Emperor's orders, he was brutally put to death on 11 March 1689.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "Rajaram Maharaj, the second son of Shivaji Maharaj, was born on 24 February 1670 on Raigad.",
+   "year": 1670,
+   "era": "CE",
+   "quote": "Rajaram Maharaj was the second son of Chhatrapati Shivaji Maharaj. He was born on 24 February 1670 on Raigad.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "person",
+   "text": "Aurangzeb sent Zulfikarkhan to put Raigad under siege.",
+   "year": null,
+   "era": "CE",
+   "quote": "He sent Zulfikarkhan to put Raigad under siege.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "person",
+   "text": "Maharani Yesubai chose to make Rajaram Maharaj, not her own son, the Chhatrapati; the defence of Raigad continued under her leadership.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was decided that the fight to defend Raigad would continue under the leadership of Maharani Yesubai. Maharani Yesubai chose to make Rajaram Maharaj and not her own son the Chhatrapati.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "date",
+   "text": "On 5 April 1689 Rajaram Maharaj escaped from the besieged Raigad and decided to go south to Jinji.",
+   "year": 1689,
+   "era": "CE",
+   "quote": "On 5 April 1689 Rajaram Maharaj escaped from the besieged Raigad with a few of his associates. He decided to go south to Jinji.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "Rajaram Maharaj reached Jinji with faithful Sardars like Pralhad Niraji, Khando Ballal and Rupaji Bhosale.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rajaram Maharaj took his faithful Sardars like Pralhad Niraji, Khando Ballal, Rupaji Bhosale and managed to reach Jinji.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "The Mughals captured Raigad in November 1689 and arrested Maharani Yesubai and Shahu.",
+   "year": 1689,
+   "era": "CE",
+   "quote": "The Mughals captured Raigad in November 1689 and arrested Maharani Yesubai and Shahu.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "Rajaram Maharaj gave the duty of fighting the Mughals to Ramchandrapant Amatya, Shankaraji Narayan Sachiv, Santaji Ghorpade and Dhanaji Jadhav.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rajaram Maharaj had assigned the duty to fight against the Mughals to Ramchandrapant Amatya, Shankaraji Narayan Sachiv, Santaji Ghorpade and Dhanaji Jadhav.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "It was promised that Mughal territory captured by a Maratha Sardar would be given to him as a jagir.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was promised that if a Maratha Sardar captured Mughal territory it would be given to him as a jagir.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "Santaji Ghorpade and Vithoji Chavan cut and carried away the golden pinnacle of the Emperor's own tent.",
+   "year": null,
+   "era": "CE",
+   "quote": "Santaji Ghorpade and Vithoji Chavan even cut and carried away the golden pinnacle of the Emperor's own tent in a surprise attack.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "place",
+   "text": "Zulfikarkhan besieged Jinji; the Marathas defended it for nearly eight years; Rajaram Maharaj escaped and later Zulfikarkhan captured Jinji.",
+   "year": null,
+   "era": "CE",
+   "quote": "He laid siege to the fort of Jinji. The Marathas defended the fort bravely for nearly eight years. ... Rajaram Maharaj escaped through the siege, and returned to Maharashtra. Later Zulfikarkhan captured the fort of Jinji.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "Mughal soldiers feared Dhanaji so much that when a horse baulked at water they asked, 'Why, do you see Dhanaji in the water?'",
+   "year": null,
+   "era": "CE",
+   "quote": "The Mughal soldiers were so scared of Dhanaji that when their horse baulked while drinking water, they would say: \"Why, do you see Dhanaji in the water?\"",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "place",
+   "text": "After Rajaram Maharaj returned, the Marathas attacked the Mughal territories of Khandesh, Varhad and Baglan.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Marathas attacked the Mughal territories of Khandesh, Varhad and Baglan.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "Rajaram Maharaj died on 2 March 1700 on Sinhgad after a short illness.",
+   "year": 1700,
+   "era": "CE",
+   "quote": "Rajaram Maharaj died on 2 March 1700 on Sinhgad after a short period of illness.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "Rajaram Maharaj fought Aurangzeb for 11 years; historian Riyasatkar G. S. Sardesai called him 'Sthirbuddhi' (Level Headed).",
+   "year": null,
+   "era": "CE",
+   "quote": "he fought against Aurangzeb for 11 years ... noted historian Riyasatkar G. S. Sardesai has used the adjective 'Sthirbuddhi' (Level Headed).",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "Mughal historian Khafikhan described Maharani Tarabai as an intelligent and knowledgeable woman.",
+   "year": null,
+   "era": "CE",
+   "quote": "Contemporary Mughal historian Khafikhan describes Maharani Tarabai as an intelligent and knowledgeable woman.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "place",
+   "text": "Aurangzeb captured Satara and Panhala, while the Marathas dashed up to Mughal areas of Madhya Pradesh and Gujarat.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurangzeb captured Satara and Panhala from the Maratha territory, but at the same time the Marathas dashed up to the Mughal areas of Madhya Pradesh and Gujarat.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Sardars Krishnaji Sawant, Khanderao Dabhade, Dhanaji Jadhav and Nemaji Shinde opened battles against the Mughals outside Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sardars like Krishnaji Sawant, Khanderao Dabhade, Dhanaji Jadhav and Nemaji Shinde opened battles against Mughals on various fronts outside Maharashtra.",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "Maharani Tarabai fought for seven years; Maratha Sardars fought the Mughals up to Sironje, Mandsaur and Malwa.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharani Tarabai fought for seven years. ... Maratha Sardars fought against the Mughals up to Sironje, Mandsaur and Malwa.",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "Tarabai's 'Safe deposit locker system': a Killedar handed a fort to Aurangzeb for a bribe, deposited it in the Maratha treasury, and Tarabai later recaptured the restocked fort.",
+   "year": null,
+   "era": "CE",
+   "quote": "A bribe was accepted from Aurangzeb and the fort was handed over to him. The Killedar used to deposit this bribe amount in the Maratha treasury. ... Tarabai used to capture that fort again. This strategy of Tarabai is described as 'Safe deposit locker system'.",
+   "page": 5
+  },
+  {
+   "fid": "f42",
+   "kind": "person",
+   "text": "Poet Devdatta, son of Paramanand (author of Shivbharat), described Tarabai's great achievements.",
+   "year": null,
+   "era": "CE",
+   "quote": "While describing Tarabai's great achievements, Poet Devdatta (who was the son of Paramanand, the author or Shivbharat) says,",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "After 25 years of Mughal-Maratha fighting, Emperor Aurangzeb died in 1707 CE at Ahmednagar; the Maratha War of Independence ended with his death.",
+   "year": 1707,
+   "era": "CE",
+   "quote": "The Mughal-Maratha fight had continued for 25 years. ... Emperor Aurangzeb died in 1707 CE at Ahmednagar. The Maratha War of Independence ended with his death.",
+   "page": 6
+  },
+  {
+   "fid": "f44",
+   "kind": "term",
+   "text": "The Marathas controlled the throne of Delhi and ran the affairs of almost all parts of Hindusthan, so the 18th century is known as the century of the Marathas.",
+   "year": null,
+   "era": "CE",
+   "quote": "They controlled the throne of Delhi, ran the affairs of almost all parts of Hindusthan and protected it. Therefore, the 18th century is known as the century of the Marathas.",
+   "page": 6
+  },
+  {
+   "fid": "f45",
+   "kind": "person",
+   "text": "In the family tree of the Bhonsales, Malojiraje is followed by Shahajiraje (1594 CE to 1664 CE), whose sons are Sambhaji, Chhatrapati Shivaji Maharaj and Vyankoji.",
+   "year": 1594,
+   "era": "CE",
+   "quote": "Malojiraje ... Shahajiraje (1594 CE to 1664 CE) ... Sambhaji | Chhatrapati Shivaji Maharaj (1630 CE to 1680 CE) | Vyankoji",
+   "page": 6
+  },
+  {
+   "fid": "f46",
+   "kind": "person",
+   "text": "In the family tree, Chhatrapati Shivaji Maharaj's dates are 1630 CE to 1680 CE.",
+   "year": 1630,
+   "era": "CE",
+   "quote": "Chhatrapati Shivaji Maharaj (1630 CE to 1680 CE)",
+   "page": 6
+  },
+  {
+   "fid": "f47",
+   "kind": "person",
+   "text": "In the family tree, Chhatrapati Shahu Maharaj (1682 CE to 1749 CE) follows Sambhaji Maharaj, and Chhatrapati Ramraja (Adopted, 1750 CE to 1777 CE) follows Shahu.",
+   "year": 1682,
+   "era": "CE",
+   "quote": "Chhatrapati Shahu Maharaj (1682 CE to 1749 CE) ... Chhatrapati Ramraja (Adopted 1750 CE to 1777 CE)",
+   "page": 6
+  },
+  {
+   "fid": "f48",
+   "kind": "person",
+   "text": "Rajaram Maharaj's sons in the family tree are Chhatrapati Shivaji (son of Tarabai) and Chhatrapati Sambhaji (son of Rajasbai).",
+   "year": null,
+   "era": "CE",
+   "quote": "Chhatrapati Shivaji (Son of Tarabai) | Chhatrapati Sambhaji (Son of Rajasbai)",
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-09-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f04",
+    "f23",
+    "f02",
+    "f43"
+   ],
+   "hook": "1657 Sambhaji, 1670 Rajaram, 1682 Aurangzeb comes South, 1707 he dies: 25 years of war.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Sambhaji Maharaj is born",
+     "y": "1657",
+     "k": 16570514
+    },
+    {
+     "t": "Rajaram Maharaj is born",
+     "y": "1670",
+     "k": 16700224
+    },
+    {
+     "t": "Aurangzeb leads the invasion of the South",
+     "y": "1682",
+     "k": 16820000
+    },
+    {
+     "t": "Aurangzeb dies at Ahmednagar",
+     "y": "1707",
+     "k": 17070000
+    }
+   ]
+  },
+  {
+   "qid": "c7-09-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Born on 14 May 1657 on the Purandar Fort; put to death on 11 March 1689.",
+   "prompt": "In which year was Sambhaji Maharaj born on the Purandar Fort?",
+   "year": 1657,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "1707: Aurangzeb dies at Ahmednagar and the war of independence ends.",
+   "prompt": "In which year did Emperor Aurangzeb die at Ahmednagar, ending the Maratha War of Independence?",
+   "year": 1707,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37",
+    "f40",
+    "f41"
+   ],
+   "hook": "Tarabai: seven years of war and the clever 'Safe deposit locker system'.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Khafikhan called me intelligent and knowledgeable.",
+    "I fought for seven years after my husband's death.",
+    "My strategy is called the 'Safe deposit locker system'."
+   ],
+   "options": [
+    "Maharani Yesubai",
+    "Rajasbai",
+    "Shahajada Akbar",
+    "Maharani Tarabai"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-09-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f11",
+    "f43"
+   ],
+   "hook": "The turban came off in anger - Aurangzeb vowed not to wear it until he vanquished Sambhaji.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I once threw my turban on the floor in frustration.",
+    "I vowed not to wear my turban until I had vanquished Sambhaji.",
+    "I died in 1707 CE at Ahmednagar."
+   ],
+   "options": [
+    "Shahajada Akbar",
+    "Aurangzeb",
+    "Zulfikarkhan",
+    "Mukarrabkhan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f01",
+    "f04",
+    "f23"
+   ],
+   "hook": "Sambhaji = eldest son, Rajaram = second son of Shivaji Maharaj.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Maratha War of Independence lasted for twenty seven years."
+    ],
+    [
+     "Isha",
+     "Sambhaji Maharaj was the youngest son of Shivaji Maharaj."
+    ],
+    [
+     "Rohan",
+     "Rajaram Maharaj was the second son of Shivaji Maharaj."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "adopted",
+    "only",
+    "eldest"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f25",
+    "f26",
+    "f32"
+   ],
+   "hook": "Jinji held out for nearly eight years against Zulfikarkhan.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Maharani Yesubai chose to make Rajaram Maharaj the Chhatrapati."
+    ],
+    [
+     "Kabir",
+     "Rajaram Maharaj escaped from Raigad and went south to Jinji."
+    ],
+    [
+     "Meera",
+     "The Marathas defended Jinji fort bravely for nearly three years."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "five",
+    "eleven",
+    "eight"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "27 years, three leaders - Sambhaji, Rajaram, Tarabai: the Maratha War of Independence.",
+   "prompt": "What is the twenty seven year war fought by the Marathas against the Mughals after Shivaji Maharaj called?",
+   "options": [
+    "The Dakshin Digvijay",
+    "The Maratha War of Independence",
+    "The Siege of Jinji",
+    "The War of Ramsej"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f14",
+    "f22",
+    "f35",
+    "f43"
+   ],
+   "hook": "1683 Revdanda, 1689 Sambhaji's death, 1700 Rajaram's death, 1707 Aurangzeb's death.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Sambhaji Maharaj attacks Revdanda",
+     "y": "1683",
+     "k": 16830000
+    },
+    {
+     "t": "Sambhaji Maharaj is put to death",
+     "y": "1689",
+     "k": 16890311
+    },
+    {
+     "t": "Rajaram Maharaj dies on Sinhgad",
+     "y": "1700",
+     "k": 17000302
+    },
+    {
+     "t": "Aurangzeb dies at Ahmednagar",
+     "y": "1707",
+     "k": 17070000
+    }
+   ]
+  },
+  {
+   "qid": "c7-09-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "11 March 1689: Sambhaji Maharaj faced death bravely; the Marathas fought even harder.",
+   "prompt": "In which year was Sambhaji Maharaj put to death by the Emperor's orders?",
+   "year": 1689,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-11",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Rajaram: born on Raigad in 1670, died on Sinhgad in 1700 (1700 - 1670 = 30).",
+   "prompt": "In which year was Rajaram Maharaj born on Raigad?",
+   "year": 1670,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f19",
+    "f25"
+   ],
+   "hook": "Yesubai had her own stamp, led Raigad's defence and put Rajaram before her own son.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Sambhaji Maharaj gave me administrative powers and my own stamp.",
+    "On Raigad, I resolved never to surrender to the Mughals.",
+    "I chose Rajaram Maharaj, not my own son, as Chhatrapati."
+   ],
+   "options": [
+    "Maharani Tarabai",
+    "Maharani Yesubai",
+    "Rajasbai"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f24",
+    "f32"
+   ],
+   "hook": "Zulfikarkhan besieged Raigad, then Jinji - and finally captured Jinji.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a commander sent by the Emperor.",
+    "The Emperor sent me to put Raigad under siege.",
+    "I later captured the fort of Jinji."
+   ],
+   "options": [
+    "Mukarrabkhan",
+    "Zulfikarkhan",
+    "Shahajada Akbar",
+    "Khafikhan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f04",
+    "f23",
+    "f35"
+   ],
+   "hook": "Sambhaji born on Purandar; Rajaram born on Raigad and died on Sinhgad.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Sambhaji Maharaj was born on the Purandar Fort."
+    ],
+    [
+     "Arjun",
+     "Rajaram Maharaj was born on Sinhgad in 1670."
+    ],
+    [
+     "Neha",
+     "He died on Sinhgad in 1700 after a short illness."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Purandar",
+    "Raigad",
+    "Jinji"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Mukarrabkhan of Kolhapur province raided Sangameshwar and captured Sambhaji Maharaj.",
+   "prompt": "Who captured Sambhaji Maharaj at Sangameshwar in Konkan?",
+   "options": [
+    "Zulfikarkhan",
+    "The Siddi of Janjira",
+    "The Portuguese Governor",
+    "Mukarrabkhan"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-09-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Ramsej near Nashik: a handful of Marathas held out for five years.",
+   "prompt": "Which Maratha fort near Nashik could the Emperor's generals not win for a long time?",
+   "options": [
+    "Jinji",
+    "Raigad",
+    "Ramsej",
+    "Revdanda"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f22",
+    "f26",
+    "f28",
+    "f35"
+   ],
+   "hook": "1689 in three steps: March Sambhaji dies, April Rajaram escapes, November Raigad falls. Then 1700.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Sambhaji Maharaj is put to death",
+     "y": "11 March 1689",
+     "k": 16890311
+    },
+    {
+     "t": "Rajaram Maharaj escapes from Raigad",
+     "y": "5 April 1689",
+     "k": 16890405
+    },
+    {
+     "t": "Mughals capture Raigad",
+     "y": "November 1689",
+     "k": 16891100
+    },
+    {
+     "t": "Rajaram Maharaj dies on Sinhgad",
+     "y": "2 March 1700",
+     "k": 17000302
+    }
+   ]
+  },
+  {
+   "qid": "c7-09-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "1682 against the Siddi, 1683 against the Portuguese at Revdanda.",
+   "prompt": "In which year did Sambhaji Maharaj attack the Revdanda fort of the Portuguese?",
+   "year": 1683,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35",
+    "f36"
+   ],
+   "hook": "1689 to 1700 = 11 years of Rajaram's fight against Aurangzeb.",
+   "prompt": "In which year did Rajaram Maharaj die on Sinhgad?",
+   "year": 1700,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f31",
+    "f32"
+   ],
+   "hook": "Santaji Ghorpade + Vithoji Chavan carried off the golden pinnacle of the Emperor's tent.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Rajaram Maharaj gave me the duty to fight the Mughals.",
+    "I attacked the Mughals besieging Jinji from outside.",
+    "With Vithoji Chavan, I carried away the golden pinnacle of the Emperor's tent."
+   ],
+   "options": [
+    "Dhanaji Jadhav",
+    "Khando Ballal",
+    "Nemaji Shinde",
+    "Santaji Ghorpade"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-09-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "Akbar rebelled, fled to Sambhaji - and that is why Aurangzeb came South in 1682.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I rebelled against my own father.",
+    "My rebellion was crushed by the Emperor.",
+    "I came to the Deccan to take shelter with Sambhaji Maharaj."
+   ],
+   "options": [
+    "Shahu",
+    "Mukarrabkhan",
+    "Shahajada Akbar",
+    "Zulfikarkhan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Fonda besieged, Goa attacked, Yesaji Kank the hero, the Portuguese Governor wounded.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The Portuguese laid a siege to the Fonda fort of the Marathas."
+    ],
+    [
+     "Dev",
+     "In the battle of Goa, Nemaji Shinde showed great valour."
+    ],
+    [
+     "Riya",
+     "The Portuguese Governor got wounded and retreated."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Yesaji",
+    "Pralhad",
+    "Rupaji"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-09-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Janjira campaign 1682: Dandarajpuri besieged, but a Mughal invasion forced a return.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anika",
+     "Sabhasada described the Siddi of Janjira as a rat in the house."
+    ],
+    [
+     "Om",
+     "Sambhaji Maharaj's army laid a siege to the Siddi's Dandarajpuri fort."
+    ],
+    [
+     "Anika",
+     "The Portuguese army invaded Swaraj, so the Janjira campaign was abandoned."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "British",
+    "Mughal",
+    "Adilshahi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Winning in Goa, but the Mughals hit South Konkan - so Sambhaji Maharaj turned back.",
+   "prompt": "Why did Sambhaji Maharaj abandon his winning campaign of Goa?",
+   "options": [
+    "The Siddi had attacked Raigad",
+    "The Mughals had attacked South Konkan",
+    "He had been badly wounded",
+    "The Portuguese Governor had captured Fonda"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f04",
+    "f23",
+    "f13",
+    "f14"
+   ],
+   "hook": "1657, 1670, then two campaigns: 1682 the Siddi, 1683 the Portuguese.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Sambhaji Maharaj is born",
+     "y": "1657",
+     "k": 16570514
+    },
+    {
+     "t": "Rajaram Maharaj is born",
+     "y": "1670",
+     "k": 16700224
+    },
+    {
+     "t": "Campaign against the Siddi begins",
+     "y": "1682",
+     "k": 16820000
+    },
+    {
+     "t": "Revdanda fort of the Portuguese attacked",
+     "y": "1683",
+     "k": 16830000
+    }
+   ]
+  },
+  {
+   "qid": "c7-09-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "1682: the same year Aurangzeb came South, Sambhaji Maharaj marched on the Siddi.",
+   "prompt": "In which year did Sambhaji Maharaj start his campaign against the Siddi of Janjira?",
+   "year": 1682,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "5 April 1689: Rajaram slips out of Raigad, less than a month after Sambhaji's death.",
+   "prompt": "In which year did Rajaram Maharaj escape from the besieged Raigad to go south to Jinji?",
+   "year": 1689,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-09-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "'Maratha' here = people who speak Marathi, the Maharashtrian people.",
+   "prompt": "In 'Maratha War of Independence', what does the word 'Maratha' mean?",
+   "options": [
+    "Only the soldiers of the army",
+    "Only the Bhonsale family",
+    "People who speak Marathi, or Maharashtrian people",
+    "Only the people of Raigad"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "G. S. Sardesai's one word for Rajaram: 'Sthirbuddhi' - Level Headed.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am a noted historian called Riyasatkar.",
+    "I described Rajaram Maharaj with one adjective.",
+    "That adjective was 'Sthirbuddhi', meaning Level Headed."
+   ],
+   "options": [
+    "Khafikhan",
+    "Abbe Carrey",
+    "Sabhasada",
+    "G. S. Sardesai"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-09-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Safe deposit locker: sell the fort, bank the bribe in the Maratha treasury, take the fort back.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "Tarabai used the Guerrilla technique very effectively."
+    ],
+    [
+     "Varun",
+     "As the rainy season approached, the Killedar pretended to side with Aurangzeb."
+    ],
+    [
+     "Tanvi",
+     "The bribe money was deposited in the Mughal treasury."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Portuguese",
+    "Siddi",
+    "Maratha"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f32"
+   ],
+   "hook": "Even the horses' fear had a name: 'Why, do you see Dhanaji in the water?'",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "Mughal soldiers were very scared of one Maratha warrior."
+    ],
+    [
+     "Pooja",
+     "They asked whether their horse saw Santaji in the water."
+    ],
+    [
+     "Kiran",
+     "Santaji and Dhanaji attacked the Mughals besieging Jinji from outside."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "Rajaram",
+    "Sambhaji",
+    "Dhanaji"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f42"
+   ],
+   "hook": "Sambhaji wrote Budhbhushanam in Sanskrit; Shivbharat was by Paramanand.",
+   "prompt": "Which book did Sambhaji Maharaj compose in the Sanskrit language?",
+   "options": [
+    "Shivbharat",
+    "Ajnyapatra",
+    "Budhbhushanam",
+    "Shivaji and His Times"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f14",
+    "f22",
+    "f28",
+    "f35",
+    "f43"
+   ],
+   "hook": "1683, March 1689, November 1689, 1700, 1707: from Revdanda to the end of the war.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Revdanda fort of the Portuguese attacked",
+     "y": "1683",
+     "k": 16830000
+    },
+    {
+     "t": "Sambhaji Maharaj is put to death",
+     "y": "11 March 1689",
+     "k": 16890311
+    },
+    {
+     "t": "Mughals capture Raigad",
+     "y": "November 1689",
+     "k": 16891100
+    },
+    {
+     "t": "Rajaram Maharaj dies on Sinhgad",
+     "y": "2 March 1700",
+     "k": 17000302
+    },
+    {
+     "t": "Aurangzeb dies at Ahmednagar",
+     "y": "1707",
+     "k": 17070000
+    }
+   ]
+  },
+  {
+   "qid": "c7-09-34",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f04",
+    "f23",
+    "f26",
+    "f28",
+    "f35"
+   ],
+   "hook": "Two brothers: born 1657 and 1670; Rajaram escapes April 1689, Raigad falls November 1689, he dies 1700.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Sambhaji Maharaj is born on Purandar",
+     "y": "14 May 1657",
+     "k": 16570514
+    },
+    {
+     "t": "Rajaram Maharaj is born on Raigad",
+     "y": "24 February 1670",
+     "k": 16700224
+    },
+    {
+     "t": "Rajaram Maharaj escapes from Raigad",
+     "y": "5 April 1689",
+     "k": 16890405
+    },
+    {
+     "t": "Mughals capture Raigad",
+     "y": "November 1689",
+     "k": 16891100
+    },
+    {
+     "t": "Rajaram Maharaj dies on Sinhgad",
+     "y": "2 March 1700",
+     "k": 17000302
+    }
+   ]
+  },
+  {
+   "qid": "c7-09-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "Paramanand wrote Shivbharat; his son Devdatta praised Tarabai.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I praised Tarabai's great achievements in verse.",
+    "My father was the author of Shivbharat.",
+    "I am the son of Paramanand."
+   ],
+   "options": [
+    "Sabhasada",
+    "Paramanand",
+    "Devdatta",
+    "Abbe Carrey"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f39",
+    "f40",
+    "f36"
+   ],
+   "hook": "Rajaram fought 11 years; Tarabai fought 7 years - up to Sironje, Mandsaur and Malwa.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "Tarabai's Sardars fought the Mughals up to Sironje, Mandsaur and Malwa."
+    ],
+    [
+     "Manav",
+     "Krishnaji Sawant and Nemaji Shinde fought the Mughals outside Maharashtra."
+    ],
+    [
+     "Ira",
+     "Maharani Tarabai fought for eleven years."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "seven",
+    "five",
+    "eight"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-09-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f27"
+   ],
+   "hook": "Went to Jinji with Pralhad Niraji, Khando Ballal, Rupaji; left Ramchandrapant, Shankaraji, Santaji, Dhanaji to fight.",
+   "prompt": "To whom did Rajaram Maharaj assign the duty of fighting the Mughals when he went to Jinji?",
+   "options": [
+    "Pralhad Niraji, Khando Ballal and Rupaji Bhosale",
+    "Ramchandrapant Amatya, Shankaraji Narayan Sachiv, Santaji Ghorpade and Dhanaji Jadhav",
+    "Krishnaji Sawant, Khanderao Dabhade and Nemaji Shinde",
+    "Yesaji Kank, Vithoji Chavan and Hambirrao Mohite"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "After Rajaram returned: Khandesh, Varhad and Baglan were attacked.",
+   "prompt": "Which Mughal territories did the Marathas attack after Rajaram Maharaj returned to Maharashtra?",
+   "options": [
+    "Kabul, Delhi and Agra",
+    "Khandesh, Varhad and Baglan",
+    "Goa, Revdanda and Fonda",
+    "Sironje, Satara and Janjira"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-09-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f07",
+    "f36",
+    "f43",
+    "f40"
+   ],
+   "hook": "Age 14: Sambhaji began. 11 years: Rajaram fought. 7 years: Tarabai fought. Aurangzeb died at Ahmednagar.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Rajaram Maharaj fought against Aurangzeb for 25 years",
+    "Aurangzeb died at Raigad",
+    "Sambhaji Maharaj began to take interest in administration and the army from the age of fourteen",
+    "Maharani Tarabai fought for eleven years"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-09-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "After 1707 the Marathas controlled Delhi's throne: the 18th century = century of the Marathas.",
+   "prompt": "Why is the 18th century known as the century of the Marathas?",
+   "options": [
+    "The Marathas handed Delhi back to the Mughals",
+    "The Portuguese ruled almost all of Hindusthan",
+    "Aurangzeb's sons ruled the Deccan",
+    "The Marathas controlled the throne of Delhi and ran the affairs of almost all parts of Hindusthan"
+   ],
+   "answer": 3
+  }
+ ]
+}

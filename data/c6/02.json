@@ -1,0 +1,1537 @@
+{
+ "class": 6,
+ "id": "02",
+ "title": "Prehistoric Period",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "The geographical conditions of a region play a very important role in the development of human history.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The geographical conditions of respective region play very important role in the development of human history.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Which crops to grow, which animals to domesticate, where to settle and how to travel depend on the geography of a region.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Factors such as which crops to cultivate, which animals to domesticate, where to establish settlements, and how to facilitate transportation and communication depend upon the geographical characteristics of that particular region.",
+   "page": 2
+  },
+  {
+   "fid": "f03",
+   "kind": "place",
+   "text": "The high Himalayas protect India from stormy winds, cyclones and freezing cold waves coming from the north.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The high mountain ranges of the Himalayas protect the country from natural calamities such as stormy winds, cyclones and freezing cold waves coming from the north.",
+   "page": 2
+  },
+  {
+   "fid": "f04",
+   "kind": "place",
+   "text": "The climate in North India is cool and dry, whereas in the South it is hot and humid.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The climate in North India is cool and dry, whereas in South, it is hot and humid.",
+   "page": 2
+  },
+  {
+   "fid": "f05",
+   "kind": "place",
+   "text": "The vast plateau of Central India and the Ganga-Yamuna delta were the most fertile regions for agriculture in India.",
+   "year": null,
+   "era": "BCE",
+   "quote": "In ancient times, agriculture flourished in the fertile sedimentary soils of India. The vast plateau of Central India and the Ganga-Yamuna delta were the most fertile regions for agriculture in India.",
+   "page": 3
+  },
+  {
+   "fid": "f06",
+   "kind": "place",
+   "text": "The black soil of the Deccan Plateau is very fertile; the Chalcolithic cultures developed here.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The black soil of Deccan Plateau is very fertile. The Chalcolithic cultures developed here.",
+   "page": 3
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "Rivers like the Godavari, Krishna and their tributaries boosted chalcolithic settlements and agriculture in ancient Maharashtra.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Rivers like Godavari, Krishna and their tributeries gave a boost to the establishment of chalcolithic settlements, agriculture and agrarian life style in ancient Maharashtra.",
+   "page": 3
+  },
+  {
+   "fid": "f08",
+   "kind": "place",
+   "text": "With the Arabian Sea to the west and the Bay of Bengal to the east, sea trade had prospered since ancient times.",
+   "year": null,
+   "era": "BCE",
+   "quote": "With the Arabian Sea to the west and the Bay of Bengal to the east, sea trade had prospered since ancient times. So the Indians could establish contact with distant regions and cultures.",
+   "page": 3
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "Major steps in human evolution: Homo Habilis, Homo Erectus, Neanderthal Man, Homo Sapiens, Homo Sapiens Sapiens.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Major steps in Human Evolution - Homo Habilis -> Homo Erectus -> Neanderthal Man -> Homo Sapiens -> Homo Sapiens Sapiens",
+   "page": 3
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "A myth says a large, hairy creature called the Yeti, or 'fearsome snowman', lives in the Himalayas; research suggests the footprints are of Himalayan bears or some other animal.",
+   "year": null,
+   "era": "BCE",
+   "quote": "There is a myth that a mysterious, large and hairy creature exists in the Himalayas. It is called a 'Yeti'. It is also called as the 'fearsome snowman'. ... research suggests that the footprints discovered are actually those of Himalayan bears or some other animal.",
+   "page": 3
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "Early humans wandered for food and water, gathered roots and fruits and hunted; their tools were made of wood, stone or bone.",
+   "year": null,
+   "era": "BCE",
+   "quote": "He had to continuously wander in search of food and water. They used to gather roots, fruits and used to hunt. The tools of early humans were crafted from wood, stone or bone.",
+   "page": 3
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Primitive humans perhaps communicated through gestures, various sounds or facial expressions.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Primitive humans perhaps communicated through gestures, various sounds or facial expressions.",
+   "page": 3
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "The period when scripts were not in use is the Prehistoric period; stone tools, bones, pottery and cave paintings are the major sources to study it.",
+   "year": null,
+   "era": "BCE",
+   "quote": "the period during which scripts were not in use, is termed as the 'Prehistoric period'. ... The evidence such as stone tools, bones, pottery and cave paintings constitutes the major source to study their life.",
+   "page": 3
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The period in which tools made by humans were primarily of stone is called the Stone Age.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The period in which tools made by humans were primarily of stone is termed as the 'Stone Age'.",
+   "page": 4
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "Stone tools made by chipping and shaping stone pebbles, used to break hard-shelled fruits or extract bone marrow, are called chopper-chopping tools.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Stone tools were made by chipping and shaping stone pebbles. The early humans might have used these stone tools for breaking the fruits with hard shells, or to extract the bone marrow. These stone tools are known as 'chopper-chopping tools'.",
+   "page": 4
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "The Stone Age is broadly divided into three periods: Palaeolithic Age, Mesolithic Age and Neolithic Age.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Stone Age is broadly divided into three periods: Palaeolithic Age, Mesolithic Age and Neolithic Age.",
+   "page": 4
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Palaeolithic people depended entirely on nature, stayed in caves or on branches of large trees, and used rough tools for hunting, scraping and digging.",
+   "year": null,
+   "era": "BCE",
+   "quote": "People in the Palaeolothic Age were entirely dependent on nature. In this period they stayed either in caves or on the branches of large trees. The early tools of the Palaeolothic period were rough. They were used for hunting, scraping and digging.",
+   "page": 4
+  },
+  {
+   "fid": "f18",
+   "kind": "event",
+   "text": "The most significant discovery in human history, the use of fire, was made in the Palaeolithic period.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The most significant discovery in human history is the discovery of using fire. It was discovered in this period.",
+   "page": 4
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "With fire it became possible to cook; cooked food was easy to digest.",
+   "year": null,
+   "era": "BCE",
+   "quote": "It became possible to cook. Cooked food was easy to digest.",
+   "page": 4
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "Palaeolithic tools are found along banks of rivers or streams; Gangapur (near Nashik) and Chirki - Nevasa are well-known Palaeolithic sites in Maharashtra.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Palaeolithic tools are found along the banks of rivers or streams. Among the Palaeolithic sites in Maharashtra, Gangapur (near Nashik) and Chirki - Nevasa are well-known.",
+   "page": 4
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "In the Mesolithic period Homo sapiens sheltered in natural caves and rock shelters; a rock shelter is an open space under a mountain cliff.",
+   "year": null,
+   "era": "BCE",
+   "quote": "During this period, Homo sapiens sought shelter in natural caves and rock shelters. A rock shelter is an open space under a mountain cliff. Humans began to stay at such places together in groups.",
+   "page": 4
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Mesolithic tools became smaller, were made of various stones and were used for hunting, fishing and harvesting; sharp tools were made by grinding and polishing horns and bones.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The tools became smaller in size. Humans now began to utilize various types of stone for tool-making. These tools proved useful for a wide range of activities, including hunting, fishing, harvesting. They also began to make sharp tools by grinding and polishing horns and bones.",
+   "page": 4
+  },
+  {
+   "fid": "f23",
+   "kind": "event",
+   "text": "Mesolithic humans domesticated dogs, goats and sheep; the dog was the first animal to be domesticated, and fishing also began.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Humans began to domesticate animals such as dogs, goats and sheep. Dog was the first animal to be domesticated. Fishing also began during this period.",
+   "page": 4
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The Mesolithic period marks a transitional phase from a nomadic way of life to a settled one.",
+   "year": null,
+   "era": "BCE",
+   "quote": "humans began to live either in caves or in temporary seasonal camps. This period marks a transitional phase in the journey from a nomadic way of life to a settled one.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "place",
+   "text": "Patne in Jalgaon district is an important Mesolithic site in Maharashtra.",
+   "year": null,
+   "era": "BCE",
+   "quote": "In Maharashtra, Patne located in Jalgaon district is an important Mesolithic site.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "event",
+   "text": "In the Neolithic Age a polished stone axe was made and hafted on a handle; this is the prototype of the modern axe.",
+   "year": null,
+   "era": "BCE",
+   "quote": "A new type of stone tool called 'axe' was made in this period. ... the new type of axe blade was a polished one. The technique of hafting that axe blade on a handle was developed. This is prototype of the modern axe.",
+   "page": 5
+  },
+  {
+   "fid": "f27",
+   "kind": "event",
+   "text": "Mesolithic humans harvested natural crops; Neolithic humans began sowing grains in the right seasons and settled, leading to village settlements.",
+   "year": null,
+   "era": "BCE",
+   "quote": "During the Mesolithic period, humans had learnt to harvest natural crops. In the Neolithic period, they began sowing grains during the appropriate seasons. ... This led to the emergence of village settlements.",
+   "page": 5
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "Women are credited with starting cultivation; they may have sown seeds with pointed sticks weighted with a perforated stone to dig deeper.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Women are credited to have started cultivation. They might have used pointed sticks to sow seeds. In order to dig deeper into the soil, the stick was weighted using a perforated stone.",
+   "page": 5
+  },
+  {
+   "fid": "f29",
+   "kind": "event",
+   "text": "As a steady supply of food grains became available, humans stopped their constant wandering and could store grains and produce surplus.",
+   "year": null,
+   "era": "BCE",
+   "quote": "As a steady supply of food grains became available to meet their needs, humans stopped their constant wandering. The stability provided by agriculture made it possible to store harvested food grains for longer periods. They began to produce surplus quantity than was needed.",
+   "page": 5
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "In the Neolithic Age the art of making earthen pots emerged, weaving was mastered and people learnt to navigate wooden boats.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Along with the development of agriculture, the art of making earthen pots emerged. ... During this same period the art of weaving was mastered. In the Neolithic Age, they learnt the skill of navigating wooden boats.",
+   "page": 5
+  },
+  {
+   "fid": "f31",
+   "kind": "event",
+   "text": "In the Neolithic Age people settled along riverbanks, their nomadic life ended and the institution of family began to take shape.",
+   "year": null,
+   "era": "BCE",
+   "quote": "In the Neolithic Age, along with the advancement of agriculture, people began to settle down in fertile regions along the riverbanks. Their nomadic way of life came to an end. The institution of family began to take shape during this period.",
+   "page": 5
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "In the Chalcolithic period humans discovered copper but still used stone tools, so it is called the Copper-Stone Age.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Humans discovered the use of copper in the chalcolithic period. However, the stone tools still remained in use. For this reason, this period is designated as the 'Chalcolithic Age' (Copper-Stone Age).",
+   "page": 6
+  },
+  {
+   "fid": "f33",
+   "kind": "event",
+   "text": "The wheel was invented during the Chalcolithic Age, making transportation faster and convenient.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Wheel was invented during the Chalcolithic Age. As a result of this, transportation became faster and convenient.",
+   "page": 6
+  },
+  {
+   "fid": "f34",
+   "kind": "event",
+   "text": "In the Chalcolithic Age distant trade increased, carpentry and metalworking developed and trade centres emerged: the beginning of urbanisation.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Distant trade increased during the Chalcolithic Age. Similarly, skill-based occupations such as carpentry and metalworking were developed. As a result of this, trade centers emerged and expanded. This was the beginning of urbanisation.",
+   "page": 6
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "Chalcolithic people cultivated crops such as wheat, sorghum (jowar), rice, pulses and cotton; animal husbandry was an additional activity.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Chalcolithic people cultivated crops such as wheat, sorghum (jowar), rice, pulses and cotton. ... animal husbandry was an additional activity",
+   "page": 6
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "In the Chalcolithic period the dead were buried inside the home or in the courtyard, with objects of daily use and pots.",
+   "year": null,
+   "era": "BCE",
+   "quote": "During this period, the dead were buried either inside the home or within the courtyard. At burial sites, objects of daily use and some pots are sometimes found near the body.",
+   "page": 6
+  },
+  {
+   "fid": "f37",
+   "kind": "place",
+   "text": "Chalcolithic sites in Maharashtra are on the banks of the Tapi, Godavari, Krishna, Bhima and Pravara; finds include stone tools, pottery, copper objects and large hand-made storage jars.",
+   "year": null,
+   "era": "BCE",
+   "quote": "In Maharashtra, sites associated with the Chalcolithic culture have been found on the river banks such as the Tapi, Godavari, Krishna, Bhima and Pravara. Excavations at these sites have provided various objects, including stone tools, pottery, copper objects and large, hand-made storage jars.",
+   "page": 6
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "Daimabad (District: Ahilyanagar) was discovered by B. P. Bopardikar of the Archaeological Survey of India.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Daimabad (District: Ahilyanagar) Daimabad is an important site in Maharashtra. This site was discovered by B. P. Bopardikar of the Archaeological Survey of India.",
+   "page": 6
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "Four bronze objects from Daimabad (an ox harnessed to a cart, a water buffalo, a rhinoceros and an elephant) are known as the Daimabad Bronzes.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Four bronze objects were recovered from the site. These four objects include an ox harnessed to a cart, a water buffalo, a rhinoceros and an elephant. They are now known as the 'Daimabad Bronzes.'",
+   "page": 6
+  },
+  {
+   "fid": "f40",
+   "kind": "person",
+   "text": "Inamgaon (District: Pune), an excellent example of a well-developed Chalcolithic village, was excavated by Dr. H. D. Sankalia, Dr. Z. D. Ansari and Dr. M. K. Dhavalikar.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Inamgaon (District: Pune) Inamgaon stands as an excellent example of a well-developed Chalcolithic village settlement. The excavation of this site was conducted by archaeologists Dr. H. D. Sankalia, Dr. Z. D. Ansari and Dr. M. K. Dhavalikar.",
+   "page": 6
+  },
+  {
+   "fid": "f41",
+   "kind": "place",
+   "text": "At Inamgaon: wheat, barley, rice, pulses, millet and sesame; bones of cattle, sheep and goats; hunting of deer, nilgai and wild boar; fishing.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Evidence regarding the cultivation of wheat, barley, rice, pulses, millet and sesame has been identified. Bones of domesticated animals such as cattle, sheep and goats were discovered. Evidence of hunting wild animals (e.g., deer, nilgai, wild boar) and of fishing was also found.",
+   "page": 6
+  },
+  {
+   "fid": "f42",
+   "kind": "term",
+   "text": "Inamgaon had wheel made pots with geometric patterns in black on red, and twin urn burials: a child buried using two earthen pots joined mouth to mouth.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Wheel made pots having geometric patterns painted in black colour on red surface. A distintive feature of this period was a tradition of twin urn burials. In this type of burial, a child was buried using two earthen pots joined mouth to mouth.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "person",
+   "text": "The first evidence of the Jorwe culture (District Ahilyanagar) was found at Jorwe; excavations were guided by Dr. H. D. Sankalia and Dr. S. B. Deo.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Jorwe (District Ahilyanagar) The Jorwe culture is a well-known Chalcolithic culture in Maharashtra. The first evidence of this culture was discovered at Jorwe. Excavations at this site were conducted under the guidance of archaeologists Dr. H. D. Sankalia and Dr. S. B. Deo.",
+   "page": 7
+  },
+  {
+   "fid": "f44",
+   "kind": "place",
+   "text": "At Jorwe: black painted designs on red pottery, copper bangles and beads, circular or rectangular houses, earthen storage bins and sorghum cultivation.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Black painted designs on red surface pottery, copper bangles and beads. Circular or rectangular house structures, as well as earthen storage bins for grain, were discovered. Evidence of sorghum cultivation was also found.",
+   "page": 7
+  },
+  {
+   "fid": "f45",
+   "kind": "place",
+   "text": "Savalda (District Nandurbar) culture belongs to the early farmers in Maharashtra; Dr. H. D. Sankalia excavated it; pottery designs painted in black or red surface.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Savalda (District Nandurbar) Savalda culture belongs to the early farmers in Maharashtra. Dr. H. D. Sankalia excavated this site. Pottery designs painted in black or red surface.",
+   "page": 7
+  },
+  {
+   "fid": "f46",
+   "kind": "person",
+   "text": "Nevasa (District Ahilyanagar), a significant chalcolithic site, was discovered by Dr. M. N. Deshpande, former Director General of the Archaeological Survey of India; finds include painted pottery, stone axes, copper ornaments and animal bones.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Nevasa is a significant chalcolithic excavation site in Maharashtra. Dr. M. N. Deshpande, Former Director General of the Archaeological Survey of India, discovered this site. Remains of painted pottery, stone axes, copper ornaments and the bones of animals such as cows, goats, sheep and oxen were discovered here.",
+   "page": 7
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-02-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term",
+    "chrono"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Stone Age in 3: <b>Palaeo</b> (old), <b>Meso</b> (middle), <b>Neo</b> (new).",
+   "prompt": "Into which three periods is the Stone Age broadly divided?",
+   "options": [
+    "Palaeolithic, Mesolithic and Neolithic Ages",
+    "Homo Habilis, Homo Erectus and Homo Sapiens",
+    "Prehistoric, Historical and Chalcolithic Ages",
+    "Daimabad, Inamgaon and Jorwe Ages"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "Palaeolithic gift: <b>fire</b>, so food could be cooked and digested easily.",
+   "prompt": "Which discovery am I?",
+   "clues": [
+    "I was discovered in the Palaeolithic period.",
+    "I am called the most significant discovery in human history.",
+    "With me, it became possible to cook food."
+   ],
+   "options": [
+    "Wheel",
+    "Copper",
+    "Axe",
+    "Fire"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f16",
+    "f23"
+   ],
+   "hook": "Man's first animal friend: the <b>dog</b>, in the Mesolithic period.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Stone Age is divided into three periods."
+    ],
+    [
+     "Meera",
+     "The cow was the first animal to be domesticated."
+    ],
+    [
+     "Kabir",
+     "Fishing began in the Mesolithic period."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "dog",
+    "goat",
+    "ox"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term",
+    "event"
+   ],
+   "fids": [
+    "f32",
+    "f33",
+    "f34"
+   ],
+   "hook": "<b>Chalco</b> = copper, <b>lithic</b> = stone: copper plus stone, and the wheel.",
+   "prompt": "Which age am I?",
+   "clues": [
+    "Distant trade increased during my time.",
+    "The wheel was invented during my time.",
+    "Humans discovered the use of copper in me, but still used stone tools.",
+    "My other name is the Copper-Stone Age."
+   ],
+   "options": [
+    "Chalcolithic Age",
+    "Palaeolithic Age",
+    "Mesolithic Age",
+    "Neolithic Age"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "<b>Women</b> started farming, sowing seeds with weighted pointed sticks.",
+   "prompt": "Who are credited with starting cultivation?",
+   "options": [
+    "Women",
+    "Hunters",
+    "Traders",
+    "Carpenters"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f33"
+   ],
+   "hook": "Wheel rolled in with copper: the <b>Chalcolithic</b> Age.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The period when scripts were not in use is called the Prehistoric period."
+    ],
+    [
+     "Arjun",
+     "Stone tools, bones, pottery and cave paintings help us study that life."
+    ],
+    [
+     "Sana",
+     "Transportation became faster when the wheel was invented in the Neolithic Age."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "Mesolithic",
+    "Chalcolithic",
+    "Palaeolithic"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "The <b>Himalayas</b> are India's northern wall against storms and cold waves.",
+   "prompt": "Which mountains protect India from stormy winds, cyclones and freezing cold waves from the north?",
+   "options": [
+    "Sahyadri",
+    "Hindukush",
+    "Eastern Ghats",
+    "Himalayas"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f38",
+    "f39"
+   ],
+   "hook": "Daimabad's four bronzes: <b>ox-cart, buffalo, rhino, elephant</b>.",
+   "prompt": "What are we?",
+   "clues": [
+    "We were recovered from a site in Ahilyanagar district.",
+    "We are four objects made of bronze.",
+    "We include an ox harnessed to a cart, a water buffalo, a rhinoceros and an elephant."
+   ],
+   "options": [
+    "Twin urns",
+    "Chopper-chopping tools",
+    "Jorwe bangles",
+    "Daimabad Bronzes"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-09",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "<b>P</b>atne - Jalgaon: a Mesolithic site.",
+   "prompt": "Which important Mesolithic site in Maharashtra is located in Jalgaon district?",
+   "options": [
+    "Inamgaon",
+    "Savalda",
+    "Patne",
+    "Daimabad"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f18",
+    "f20"
+   ],
+   "hook": "Palaeolithic: rough tools, homes in caves or <b>trees</b>, and the gift of fire.",
+   "prompt": "Which age am I?",
+   "clues": [
+    "My tools are found along the banks of rivers or streams.",
+    "My people stayed in caves or on the branches of large trees.",
+    "My early tools were rough, used for hunting, scraping and digging.",
+    "Fire was discovered in my period."
+   ],
+   "options": [
+    "Neolithic Age",
+    "Mesolithic Age",
+    "Palaeolithic Age",
+    "Chalcolithic Age"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f06",
+    "f04"
+   ],
+   "hook": "<b>Black</b> soil of the Deccan: rich soil where Chalcolithic cultures grew.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The red soil of the Deccan Plateau is very fertile."
+    ],
+    [
+     "Diya",
+     "Chalcolithic cultures developed on the Deccan Plateau."
+    ],
+    [
+     "Rohan",
+     "The climate in North India is cool and dry."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 1
+   },
+   "options": [
+    "sandy",
+    "white",
+    "black"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "Most fertile: Central India's plateau and the <b>Ganga-Yamuna</b> delta.",
+   "prompt": "Which were the most fertile regions for agriculture in ancient India?",
+   "options": [
+    "The Thar Desert and the Himalayas",
+    "The Western Coast and Lakshadweep",
+    "The vast plateau of Central India and the Ganga-Yamuna delta",
+    "The Hindukush Mountains and the Bolan Pass"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f38",
+    "f39"
+   ],
+   "hook": "<b>B</b>opardikar found the <b>B</b>ronzes at Daimabad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I worked with the Archaeological Survey of India.",
+    "I discovered an important site in Ahilyanagar district.",
+    "The four Daimabad Bronzes come from the site I discovered."
+   ],
+   "options": [
+    "Dr. H. D. Sankalia",
+    "B. P. Bopardikar",
+    "Dr. M. N. Deshpande",
+    "Dr. S. B. Deo"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f26",
+    "f30"
+   ],
+   "hook": "Neolithic: polished <b>axe</b> on a handle, the grandfather of the modern axe.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "A polished stone sickle was made in the Neolithic Age."
+    ],
+    [
+     "Kabir",
+     "Hafting the blade on a handle was developed then."
+    ],
+    [
+     "Tara",
+     "In the Neolithic Age people learnt to navigate wooden boats."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 3
+   },
+   "options": [
+    "spear",
+    "axe",
+    "wheel"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Copper arrived but stone stayed: <b>Copper-Stone</b> Age.",
+   "prompt": "Why is the Chalcolithic Age called the Copper-Stone Age?",
+   "options": [
+    "Humans stopped using stone and used only copper",
+    "Copper was found only inside stone caves",
+    "Stone tools were painted in copper colour",
+    "Humans discovered copper but stone tools still remained in use"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f41",
+    "f42"
+   ],
+   "hook": "<b>Inamgaon</b>, Pune: model Chalcolithic village with twin urn burials.",
+   "prompt": "Which site am I?",
+   "clues": [
+    "Dr. H. D. Sankalia, Dr. Z. D. Ansari and Dr. M. K. Dhavalikar excavated me.",
+    "I am an excellent example of a well-developed Chalcolithic village settlement.",
+    "I am in Pune district."
+   ],
+   "options": [
+    "Jorwe",
+    "Nevasa",
+    "Savalda",
+    "Inamgaon"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-17",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f40",
+    "f42"
+   ],
+   "hook": "Twin urn = <b>two</b> pots joined mouth to mouth, at Inamgaon in Pune.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Inamgaon is in Pune district."
+    ],
+    [
+     "Yash",
+     "A tradition of twin urn burials was found there."
+    ],
+    [
+     "Pooja",
+     "In it a child was buried using three earthen pots."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "two",
+    "four",
+    "five"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f22",
+    "f23",
+    "f24",
+    "f25"
+   ],
+   "hook": "Meso = middle: smaller tools, the first dog, a step towards settling.",
+   "prompt": "Which age am I?",
+   "clues": [
+    "Patne in Jalgaon district is an important site of my time.",
+    "I mark a transitional phase from a nomadic to a settled life.",
+    "Fishing began and the dog was domesticated in my time.",
+    "My stone tools became smaller in size."
+   ],
+   "options": [
+    "Mesolithic Age",
+    "Neolithic Age",
+    "Palaeolithic Age",
+    "Chalcolithic Age"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-19",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f45",
+    "f40",
+    "f43",
+    "f38"
+   ],
+   "hook": "<b>S</b>avalda in <b>N</b>andurbar; Inamgaon in Pune; Jorwe and Daimabad in Ahilyanagar.",
+   "prompt": "Which pair of an excavation site and its district is correct?",
+   "options": [
+    "Inamgaon - Ahilyanagar",
+    "Jorwe - Pune",
+    "Savalda - Nandurbar",
+    "Daimabad - Jalgaon"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f43",
+    "f44"
+   ],
+   "hook": "Jorwe culture was first found at <b>Jorwe</b> itself; Sankalia and Deo dug there and found sorghum.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Vihaan",
+     "The first evidence of the Jorwe culture was found at Nevasa in Ahilyanagar district."
+    ],
+    [
+     "Anaya",
+     "Dr. H. D. Sankalia and Dr. S. B. Deo guided the excavations at Jorwe."
+    ],
+    [
+     "Dev",
+     "At Jorwe evidence of sorghum cultivation was also found."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 10
+   },
+   "options": [
+    "Inamgaon",
+    "Daimabad",
+    "Jorwe"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f33",
+    "f34"
+   ],
+   "hook": "Wheel -> faster transport -> more distant trade -> trade centres -> <b>urbanisation</b>.",
+   "prompt": "What did the invention of the wheel lead to in the Chalcolithic Age?",
+   "options": [
+    "The discovery of fire",
+    "Faster transport, more distant trade and the beginning of urbanisation",
+    "People living on the branches of trees",
+    "The end of all farming"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f45",
+    "f43",
+    "f40"
+   ],
+   "hook": "Sankalia dug at three: <b>Savalda, Jorwe, Inamgaon</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I excavated Savalda in Nandurbar district.",
+    "I guided the excavations at Jorwe with Dr. S. B. Deo.",
+    "I excavated Inamgaon with Dr. Z. D. Ansari and Dr. M. K. Dhavalikar."
+   ],
+   "options": [
+    "B. P. Bopardikar",
+    "Dr. H. D. Sankalia",
+    "Dr. M. N. Deshpande",
+    "Dr. M. K. Dhavalikar"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Arabian Sea <b>west</b>, Bay of Bengal <b>east</b>: sea trade since ancient times.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "The Arabian Sea lies to the west of India."
+    ],
+    [
+     "Kavya",
+     "The Bay of Bengal lies to the north of India."
+    ],
+    [
+     "Arnav",
+     "So Indians could contact distant regions through sea trade."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "south",
+    "west",
+    "east"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f31",
+    "f17",
+    "f18",
+    "f33"
+   ],
+   "hook": "Neolithic: settle by rivers, end of wandering, <b>family</b> begins.",
+   "prompt": "Which statement about the Neolithic Age is correct?",
+   "options": [
+    "Humans lived only on the branches of large trees",
+    "Fire was discovered for the first time",
+    "The nomadic way of life came to an end and the institution of family began to take shape",
+    "The wheel was invented"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Rock shelter = an open space <b>under a cliff</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Homo sapiens of the Mesolithic period sought shelter in me.",
+    "Humans began to stay in me together in groups.",
+    "I am an open space under a mountain cliff."
+   ],
+   "options": [
+    "Natural cave",
+    "Rock shelter",
+    "Seasonal camp",
+    "Village settlement"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "Nevasa: painted pots, stone axes, <b>copper</b> ornaments.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiara",
+     "Nevasa is in Ahilyanagar district."
+    ],
+    [
+     "Aarush",
+     "Dr. M. N. Deshpande discovered the chalcolithic site of Nevasa."
+    ],
+    [
+     "Pari",
+     "At Nevasa iron ornaments and stone axes were found."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "copper",
+    "silver",
+    "bronze"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Chip and shape a pebble: a <b>chopper-chopping</b> tool for nuts and marrow.",
+   "prompt": "What are chopper-chopping tools?",
+   "options": [
+    "Polished axes hafted on handles",
+    "Copper tools used for carpentry",
+    "Pointed sticks weighted with perforated stones",
+    "Stone tools made by chipping and shaping stone pebbles"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "The 'fearsome snowman' footprints? Most likely <b>Himalayan bears</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Research suggests my footprints are really those of Himalayan bears or some other animal.",
+    "I am also called the fearsome snowman.",
+    "A myth says I am a mysterious, large and hairy creature in the Himalayas."
+   ],
+   "options": [
+    "Neanderthal Man",
+    "Yeti",
+    "Homo Erectus",
+    "Nilgai"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "A <b>perforated stone</b> made the sowing stick heavy, to dig deeper.",
+   "prompt": "Why was the pointed stick for sowing seeds weighted with a perforated stone?",
+   "options": [
+    "To make fire",
+    "To hunt wild boar",
+    "To dig deeper into the soil",
+    "To grind horns and bones"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Mesolithic tools got <b>smaller</b>; sharp tools came from horns and bones.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sneha",
+     "In the Mesolithic period stone tools became larger in size."
+    ],
+    [
+     "Aryan",
+     "Sharp tools were made by grinding and polishing horns and bones."
+    ],
+    [
+     "Ira",
+     "These tools were useful for hunting, fishing and harvesting."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 7
+   },
+   "options": [
+    "bigger",
+    "smaller",
+    "wider"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "<b>S</b>avalda = early farmers, in Nandurbar.",
+   "prompt": "Which site am I?",
+   "clues": [
+    "Dr. H. D. Sankalia excavated me.",
+    "My pottery designs are painted in black or red surface.",
+    "My culture belongs to the early farmers in Maharashtra.",
+    "I am in Nandurbar district."
+   ],
+   "options": [
+    "Savalda",
+    "Jorwe",
+    "Patne",
+    "Daimabad"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Palaeolithic sites: <b>Gangapur</b> (near Nashik) and Chirki - Nevasa.",
+   "prompt": "Which of these is a well-known Palaeolithic site in Maharashtra?",
+   "options": [
+    "Patne",
+    "Inamgaon",
+    "Gangapur (near Nashik)",
+    "Daimabad"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "<b>H-E-N-S-SS</b>: Habilis, Erectus, Neanderthal, Sapiens, Sapiens Sapiens.",
+   "prompt": "Which shows the correct order of the major steps in human evolution?",
+   "options": [
+    "Homo Erectus, Homo Habilis, Neanderthal Man, Homo Sapiens, Homo Sapiens Sapiens",
+    "Homo Habilis, Neanderthal Man, Homo Erectus, Homo Sapiens, Homo Sapiens Sapiens",
+    "Neanderthal Man, Homo Habilis, Homo Erectus, Homo Sapiens Sapiens, Homo Sapiens",
+    "Homo Habilis, Homo Erectus, Neanderthal Man, Homo Sapiens, Homo Sapiens Sapiens"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-34",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f16",
+    "f24"
+   ],
+   "hook": "Old, middle, new: <b>Palaeo - Meso - Neo</b>. Meso is the bridge to settled life.",
+   "prompt": "Which shows the three periods of the Stone Age in the correct order, earliest first?",
+   "options": [
+    "Palaeolithic, Mesolithic, Neolithic",
+    "Mesolithic, Palaeolithic, Neolithic",
+    "Palaeolithic, Neolithic, Mesolithic",
+    "Neolithic, Mesolithic, Palaeolithic"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "<b>D</b>eshpande, former <b>D</b>irector General, discovered Nevasa.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was once the Director General of the Archaeological Survey of India.",
+    "Painted pottery, stone axes and copper ornaments were found at the site I discovered.",
+    "I discovered the chalcolithic site of Nevasa in Ahilyanagar district."
+   ],
+   "options": [
+    "Dr. M. N. Deshpande",
+    "B. P. Bopardikar",
+    "Dr. S. B. Deo",
+    "Dr. Z. D. Ansari"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-02-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f41",
+    "f42"
+   ],
+   "hook": "Inamgaon pots: geometric patterns, <b>black on red</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Mira",
+     "Bones of cattle, sheep and goats were found at Inamgaon."
+    ],
+    [
+     "Rohan",
+     "There was evidence of hunting deer, nilgai and wild boar."
+    ],
+    [
+     "Zoya",
+     "Inamgaon pots had geometric patterns painted in white on red surface."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "yellow",
+    "black",
+    "blue"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-02-37",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term",
+    "event"
+   ],
+   "fids": [
+    "f27",
+    "f30"
+   ],
+   "hook": "Neo = new: sowing in seasons, villages, pots, weaving and <b>boats</b>.",
+   "prompt": "Which age am I?",
+   "clues": [
+    "The art of weaving was mastered in my period.",
+    "People learnt to navigate wooden boats in my time.",
+    "Humans began sowing grains in the right seasons and village settlements emerged in my time."
+   ],
+   "options": [
+    "Mesolithic Age",
+    "Chalcolithic Age",
+    "Neolithic Age",
+    "Palaeolithic Age"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f36",
+    "f37"
+   ],
+   "hook": "Chalcolithic burials: inside the <b>home</b> or the courtyard; sites on rivers such as the Tapi, Godavari, Krishna, Bhima, Pravara.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "In the Chalcolithic period the dead were buried inside the temple or within the courtyard."
+    ],
+    [
+     "Tanvi",
+     "Chalcolithic sites in Maharashtra were found on the banks of the Bhima and Pravara."
+    ],
+    [
+     "Rahul",
+     "At these sites copper objects and large hand-made storage jars were found."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 10
+   },
+   "options": [
+    "river",
+    "forest",
+    "home"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-02-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Steady <b>food grains</b> = no more wandering, stored grain and surplus.",
+   "prompt": "Why did humans stop their constant wandering in the Neolithic Age?",
+   "options": [
+    "The wheel made travel impossible",
+    "Fire was discovered",
+    "Copper tools were invented",
+    "A steady supply of food grains became available"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-02-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Chalcolithic: distant trade <b>increased</b>; carpentry and metalworking grew; trade centres began urbanisation.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditya",
+     "With easier transport distant trade decreased in the Chalcolithic Age."
+    ],
+    [
+     "Nisha",
+     "Skill-based occupations such as carpentry and metalworking were developed."
+    ],
+    [
+     "Varun",
+     "The growth of trade centres was the beginning of urbanisation."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "stopped",
+    "vanished",
+    "increased"
+   ],
+   "answer": 2
+  }
+ ]
+}

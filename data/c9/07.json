@@ -1,0 +1,1566 @@
+{
+ "class": 9,
+ "id": "07",
+ "title": "Science and Technology",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "date",
+   "text": "India's first Prime Minister Pandit Jawaharlal Nehru set up the Indian Atomic Energy Commission on 10th August 1948 to nurture a scientific temper.",
+   "year": 1948,
+   "era": "CE",
+   "quote": "India's first Prime Minister Pandit Jawaharlal Nehru wanted to nurture a scientific temper and bring about the nation's progress. From this perspective, he set up the Indian Atomic Energy Commission on 10th August 1948.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "person",
+   "text": "Dr Homi Bhabha was appointed as the first Chairman of the Indian Atomic Energy Commission.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr Homi Bhabha was appointed as the first Chairman of the Commission.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The Commission's objectives were to produce electricity from atomic energy, increase the yield of food grains and make them last longer, and develop nanotechnology.",
+   "year": null,
+   "era": "CE",
+   "quote": "The objectives of the commission were to produce electricity from atomic energy, increase the yield of food grains and make them last longer, set up the technology for achieving this and develop nanotechnology.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "date",
+   "text": "In 1956 the Department of Atomic Energy set up 'Apsara', a nuclear reactor functioning on atomic energy.",
+   "year": 1956,
+   "era": "CE",
+   "quote": "In 1956, the Department of Atomic Energy set up 'Apsara', a nuclear reactor functioning on atomic energy.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "place",
+   "text": "In 1969 an atomic power station was set up at Tarapur.",
+   "year": 1969,
+   "era": "CE",
+   "quote": "In 1969, an atomic power station was set up at Tarapur.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "place",
+   "text": "A Reactor Research Centre was set up at Kalpakkam in Tamil Nadu to use Thorium for generating atomic power.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Reactor Research Centre was set up at Kalpakkam in Tamil Nadu to successfully use Thorium for generating atomic power.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "Heavy water factories were set up at Vadodara, Talcher, Tutikorin, Kota, etc.; the institution Heavy Water Projects was later renamed 'Heavy Water Board'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Factories manufacturing the heavy water needed for the generation of atomic power were set up at Vadodara, Talcher, Tutikorin, Kota, etc. An institution called Heavy Water Projects was set up ... It was later renamed 'Heavy Water Board'.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "date",
+   "text": "28th February is celebrated all over the country as 'Science Day'.",
+   "year": null,
+   "era": "CE",
+   "quote": "28th February is celebrated all over the country as 'Science Day'.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "place",
+   "text": "In 1985 the completely Indian made nuclear reactor Dhruva was started at Trombay near Mumbai; it uses uranium as fuel.",
+   "year": 1985,
+   "era": "CE",
+   "quote": "In 1985, a completely Indian made nuclear reactor called Dhruva was started at Trombay near Mumbai. The Dhruva nuclear reactor uses uranium as fuel.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "date",
+   "text": "The Nuclear Power Corporation of India Ltd. (NPCIL) was set up in 1987 to generate electricity from atomic energy.",
+   "year": 1987,
+   "era": "CE",
+   "quote": "This Company was set up in 1987 to generate electricity from atomic energy.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "date",
+   "text": "India performed her first nuclear test at Pokharan in Rajasthan on 18th May 1974, in consonance with the policy of using nuclear energy for peaceful purposes and for self-sufficiency.",
+   "year": 1974,
+   "era": "CE",
+   "quote": "India successfully performed her first nuclear test at Pokharan in Rajasthan on 18th May 1974 in consonance with the policy of using nuclear energy for peaceful purposes and for self-sufficiency.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "India took this decision because of China's nuclear capability and Pakistan's efforts to acquire nuclear weapons with China's help.",
+   "year": null,
+   "era": "CE",
+   "quote": "The reason why India took this decision was China's nuclear capability and Pakistan's desperate efforts to acquire nuclear weapons with China's help.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "Dr Homi Sethna, chairman of the Indian Atomic Energy Commission, and Dr Raja Ramanna, Director of the Bhabha Atomic Research Centre, played a major role in the test; Prime Minister Indira Gandhi took the decision.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr Homi Sethna, the chairman of the Indian Atomic Energy Commission and Dr Raja Ramanna, Director of the Bhabha Atomic Research Centre played a major role in conducting this nuclear test. Prime Minister Indira Gandhi took the decision of carrying out a 'nuclear explosion'.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "place",
+   "text": "Pokharan was chosen because it was far away from human settlement and had no ground water reserves.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pokharan was chosen on the basis of the required criteria for the location of the nuclear tests : far away from human settlement and no ground water reserves.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "event",
+   "text": "After the 1974 test the U.S.A. refused India technology for defence related fields, so India developed its own missile programme.",
+   "year": 1974,
+   "era": "CE",
+   "quote": "In 1974 when India carried out her first nuclear tests at Pokharan, the U.S.A. refused to give India the technology for defence related fields ... As a result, India adopted a policy of developing its own missile development programme",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "date",
+   "text": "On 11th May 1998 India carried out its second nuclear test: three tests, one of them of the Hydrogen Bomb; Vajpayee assured no first use, but the USA imposed economic sanctions.",
+   "year": 1998,
+   "era": "CE",
+   "quote": "On 11th May 1998, India carried out its second nuclear test to prove its nuclear preparedness. Three tests were done on this day. One of them was of the Hydrogen Bomb; Prime Minister Atal Bihari Vajpayee assured that there would be no first use of nuclear weapons by India. But the USA imposed economic sanctions on India immediately.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "In 1988 India successfully tested the missile Prithvi and in 1989 the missile Agni.",
+   "year": 1988,
+   "era": "CE",
+   "quote": "In 1988, India successfully tested the missile Prithvi and in 1989, the missile Agni.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "India tested the missile Agni in 1989.",
+   "year": 1989,
+   "era": "CE",
+   "quote": "and in 1989, the missile Agni.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "The Integrated Guided Missile Development Programme (IGMDP) was carried out under Dr A.P.J. Abdul Kalam; DRDO built the missiles.",
+   "year": null,
+   "era": "CE",
+   "quote": "Integrated Guided Missile Development Programme (IGMDP) was conceived by and carried out under the leadership of Dr A.P.J. Abdul Kalam. Defence Research and Development organisation (DRDO) undertook the task of building the missiles.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "DRDO was established in 1958 under the Department of Defence to make India self-sufficient in defence.",
+   "year": 1958,
+   "era": "CE",
+   "quote": "In 1958, Defence Research and Developement Organisation (DRDO) was established under the Department of Defence of the government of India. The objective of this organisation was to make India self-sufficient with respect to means, equipment and weapons required for defence.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "After 1983 DRDO developed several missiles under Dr A.P.J. Abdul Kalam, the father of India's missile programme, also called the 'Missile Man' of India.",
+   "year": null,
+   "era": "CE",
+   "quote": "After 1983, this organisation developed several missiles under the leadership of Dr A.P.J. Abdul Kalam. ... Dr Kalam is known as the father of India's missile programme. He is also refered to as the 'Missile Man' of India.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Prithvi-1, a surface to surface ballistic missile, was given to the Army, Prithvi-2 to the Air Force and Prithvi-3 to the Navy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Prithvi-1, a surface to surface ballistic missile was given to the Army, Prithvi-2 was given to the Air Force while Prithvi-3 was given to the Navy.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "Agni-1 was tested so that China and Pakistan get an idea of India's missile strength; it had a range of 700 km; later Agni-2 and Agni-3 were produced.",
+   "year": null,
+   "era": "CE",
+   "quote": "In order that China and Pakistan get an idea of India's missile strength and India's borders remain secure, Agni-1 was tested. This military missile had a range of 700 km. Later Agni-2 and Agni-3 were also produced.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "In 1990 the missile Akash was developed to fire from land into air, carrying 720 kilogram explosives at supersonic speed with a range of 30 kilometres.",
+   "year": 1990,
+   "era": "CE",
+   "quote": "In 1990, the missile Akash was developed to fire from land into air. This missile has a capacity to carry 720 kilogram explosives at supersonic speed and a range of 30 kilometres.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "The missile Nag was made to destroy the tanks of the enemy; it is of the 'fire and forget' type.",
+   "year": null,
+   "era": "CE",
+   "quote": "The missile Nag was made in order to destroy the tanks of the enemy. It is of the 'fire and forget' type.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "place",
+   "text": "In 1961 the Indian National Committee for Space Research launched India's first research rocket from Thumba Equatorial Launch Center in Thumba, Kerala.",
+   "year": 1961,
+   "era": "CE",
+   "quote": "In 1961, Indian National Committee for Space Research (NCSR) launched India's first research rocket from Thumba Equatorial Launch Center in Thumba in the State of Kerala.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "date",
+   "text": "In 1967 the indigenously built rocket Rohini-75 was successfully launched.",
+   "year": 1967,
+   "era": "CE",
+   "quote": "In 1967, our indigenously built rocket Rohini-75 was successfully launched.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "The first Indian satellite Aryabhatta was launched in 1975 with help from the Soviet Russia.",
+   "year": 1975,
+   "era": "CE",
+   "quote": "The next stage was the successful launch of the first Indian satellite Aryabhatta in 1975 with help from the Soviet Russia.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "date",
+   "text": "The Indian Space Research Organisation (ISRO) was established on 15th August 1969; its headquarters are at Bengaluru, and it activated the space station at Sriharikota in Andhra Pradesh.",
+   "year": 1969,
+   "era": "CE",
+   "quote": "Indian Space Research Organisation was established on 15th August 1969 in order to carry out further space research. The headquarters of ISRO are at Bengaluru. ISRO activated the space station at Sriharikota in Andhra Pradesh for launching our satellites in space.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "date",
+   "text": "In 1979 India launched the remote sensing experimental satellite Bhaskar-1 from the Soviet Russia; its information helped with water bodies, mineral deposits, weather forecasting and oceanography.",
+   "year": 1979,
+   "era": "CE",
+   "quote": "India launched remote sensing experimental satellite Bhaskar-1 from the Soviet Russia in 1979 ... useful for India's development by regarding water bodies, mineral deposits and forecasting weather. ... Another area in which the information from this satellite was useful was oceanography.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "date",
+   "text": "In 1981 'Bhaskar-2' was launched from Soviet Russia.",
+   "year": 1981,
+   "era": "CE",
+   "quote": "In 1981, 'Bhaskar-2' was launched from Soviet Russia.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "date",
+   "text": "APPLE (Ariane Passenger Payload Experiment), the first completely indigenously built satellite by ISRO, was launched on 19th June 1981 from the French Guiana; it helped education and emergency telecommunication.",
+   "year": 1981,
+   "era": "CE",
+   "quote": "The first completely indigenously built satellite by ISRO in India, APPLE was launched on 19th June 1981 from the French Guiana. 'APPLE' was beneficial in the field of education. The objective of providing emergency telecommunication services was successful.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "In August 1983 the satellite INSAT 1-B was launched, bringing a revolution in telecommunication, television, radio, weather forecasting and space research.",
+   "year": 1983,
+   "era": "CE",
+   "quote": "In August 1983, the satellite INSAT 1-B was launched in space. Because of this satellite, a major revolution came about in the areas of telecommunication, television, radio, weather forecasting and space research in India.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Through INSAT, telemedicine connected Public Primary Health Centers in villages with superspecialty hospitals.",
+   "year": null,
+   "era": "CE",
+   "quote": "The telemedicine service enabled the population from remote areas to get advice and treatment from expert doctors. Public Primary Health Centers in villages have been connected with superspecialty hospitals through INSAT.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "place",
+   "text": "Chittaranjan Locomotive Works at Chittaranjan in Bardwan District, West Bengal, made steam, electric and diesel engines.",
+   "year": null,
+   "era": "CE",
+   "quote": "Chittaranjan Locomotive Works was set up at Chittaranjan in Bardwan District in West Bengal. Steam engines, electric engines and engines running on diesel were manufactured here.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "The first diesel engine was manufactured at the Diesel Locomotive Works at Varanasi; India exported railway engines to Sri Lanka, Bangladesh, Tanzania and Vietnam.",
+   "year": null,
+   "era": "CE",
+   "quote": "The first diesel engine was manufactured at the Diesel Locomotive Works at Varanasi. India started exporting railway engines to Sri Lanka, Bangladesh, Tanzania and Vietnam.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "date",
+   "text": "The Department of telecommunications started the telex service in 1963 to transmit typed messages rapidly.",
+   "year": 1963,
+   "era": "CE",
+   "quote": "The Department of telecommunications under the ministry of Communications started the telex service in 1963 to transmit typed messages from one part of the country to another rapidly.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "In 1969 the telex service started in Devanagari script in Delhi.",
+   "year": 1969,
+   "era": "CE",
+   "quote": "In 1969, the telex service started in Devanagari script in Delhi.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "place",
+   "text": "A domestic satellite communication earth station was established in 1967 at Jodhpur Tekra near Ahmedabad; in 1970 a centre was established at Aarvi near Pune for international telecommunication.",
+   "year": 1967,
+   "era": "CE",
+   "quote": "a domestic satellite communication earth station was established in 1967 at Jodhpur Tekra near Ahmedabad. ... In 1970, a centre was established at Aarvi near Pune, equipped for international telecommunication service.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "From 15 August 1972 the Post and Telegraph Department started the six digit Pincode system; the country was divided into nine regions.",
+   "year": 1972,
+   "era": "CE",
+   "quote": "From 15 August 1972, the Post and Telegraph Department started the six digit Pincode system in the country. ... In this system the country was divided into nine regions.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "In a Pincode the first digit indicates the region, the second the Sub-region, the third the main disbursement district, and the remaining three the local post office.",
+   "year": null,
+   "era": "CE",
+   "quote": "The first digit of the Pincode indicates the region, the second digit indicates the Sub-region, the third digit shows the main disbursement district while the remaining three digits show the location of the local post office.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "In 1986 the speed post service was started.",
+   "year": 1986,
+   "era": "CE",
+   "quote": "In 1986, the speed post service was started to send postage rapidly.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "place",
+   "text": "In 1972 Overseas Communication Service was established in Mumbai; in 1976 the International Subscriber Dialled Telephone Service connected Mumbai and London directly.",
+   "year": 1976,
+   "era": "CE",
+   "quote": "In 1972, Overseas Communication Service was established in Mumbai ... In 1976, the International Subscriber Dialled Telephone Service was started to connect Mumbai and London directly on phone.",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "person",
+   "text": "In the 1990s Videsh Sanchar Nigam Limited (VSNL) was the main internet service provider; MTNL gave telephone service in big cities; Sam Pitroda's contribution was significant.",
+   "year": null,
+   "era": "CE",
+   "quote": "Before that, Mahanagar Telephone Nigam Limited (MTNL) was a public sector company for giving telephone service in big cities. In the 1990s, Videsh Sanchar Nigam Limited held the distinction of being the main internet service provider in India. The contribution of Sam Pitroda in this field is significant.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "date",
+   "text": "On 22nd August 1994 mobile phone service started in India; a handset cost Rs.45,000 and calling was Rs 17 per minute; private companies made the service cheaper.",
+   "year": 1994,
+   "era": "CE",
+   "quote": "On 22nd August 1994, the mobile phone service started in India. At this time a mobile handset cost Rs.45,000 and calling was at Rs 17 per minute. ... many private companies came in this field. This made the service cheaper.",
+   "page": 4
+  },
+  {
+   "fid": "f46",
+   "kind": "date",
+   "text": "In 2000 the telecommunication department was restructured and Bharat Sanchar Nigam Limited (BSNL) was established to provide the services.",
+   "year": 2000,
+   "era": "CE",
+   "quote": "In 2000, the telecommunication department was restructured. ... Bharat Sanchar Nigam Limited was established to actually provide the services to consumers.",
+   "page": 5
+  },
+  {
+   "fid": "f47",
+   "kind": "place",
+   "text": "ONGC was established in 1956; after Digboi in Assam, mineral oil was found at Ankleshwar in Gujarat and later in the gulf of Khambhat.",
+   "year": 1956,
+   "era": "CE",
+   "quote": "In 1956, the Oil and Natural Gas Corporation was established to search for the deposits of mineral oil and natural gas ... After Digboi in Assam, mineral oil deposits were found in Ankleshwar area in Gujarat. Later, mineral oil and natural gas deposits were found in the gulf of Khambhat in Gujarat.",
+   "page": 5
+  },
+  {
+   "fid": "f48",
+   "kind": "place",
+   "text": "In 1974 ONGC started digging an oil well in 'Bombay High' with Russian scientists using the drillship 'Sagar Samrat'; extraction began from 1975.",
+   "year": 1974,
+   "era": "CE",
+   "quote": "In 1974, the Oil and Natural Gas Corporation started digging an oil well in 'Bombay High' area with the help of Russian scientists by a drillship called 'Sagar Samrat'. From 1975, mineral oil and natural gas began to be extracted from there.",
+   "page": 5
+  },
+  {
+   "fid": "f49",
+   "kind": "place",
+   "text": "Konkan Railway started in 1998 across Maharashtra, Goa, Karnataka and Kerala; its longest tunnel is at Karbude and its biggest bridge is on River Sharavati near Honnawar.",
+   "year": 1998,
+   "era": "CE",
+   "quote": "Konkan Railway started in 1998. ... which stretches over the four States of Maharashtra, Goa, Karnataka and Kerala over a distance of 760 kilometres. ... The 6.5 km tunnel at Karbude is the longest tunnel. ... the 2065.8m long bridge on River Sharavati near Honnawar is the biggest.",
+   "page": 5
+  },
+  {
+   "fid": "f50",
+   "kind": "person",
+   "text": "E. Sreedharan is famous by the nickname 'Metroman'; his work on the 'Delhi Metro' and 'Konkan Railway' is noteworthy.",
+   "year": null,
+   "era": "CE",
+   "quote": "E. Sreedharan is famous by the nickname as 'Metroman'. His work regarding 'Delhi Metro' and 'Konkan Railway' is noteworthy.",
+   "page": 5
+  },
+  {
+   "fid": "f51",
+   "kind": "date",
+   "text": "Computerised rail reservation was started for the first time in Delhi in 1984; in the same year the Metro was started in Kolkata.",
+   "year": 1984,
+   "era": "CE",
+   "quote": "computerised reservation system was started for the first time in Delhi in 1984. In the same year, the Metro was started in Kolkata.",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-07-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f01",
+    "f26",
+    "f11",
+    "f16"
+   ],
+   "hook": "Commission 1948, rocket 1961, Pokharan I 1974, Pokharan II 1998.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Indian Atomic Energy Commission set up",
+     "y": "10 August 1948",
+     "k": 19480810
+    },
+    {
+     "t": "First research rocket from Thumba",
+     "y": "1961",
+     "k": 19610000
+    },
+    {
+     "t": "First nuclear test at Pokharan",
+     "y": "18 May 1974",
+     "k": 19740518
+    },
+    {
+     "t": "Second nuclear test",
+     "y": "11 May 1998",
+     "k": 19980511
+    }
+   ]
+  },
+  {
+   "qid": "c9-07-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "10 August 1948: Nehru's Atomic Energy Commission, Dr Homi Bhabha its first Chairman.",
+   "prompt": "In which year did Pandit Nehru set up the Indian Atomic Energy Commission?",
+   "year": 1948,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "18 May 1974: Pokharan, Rajasthan - India's first nuclear test.",
+   "prompt": "In which year did India perform her first nuclear test at Pokharan?",
+   "year": 1974,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f02",
+    "f01"
+   ],
+   "hook": "Bhabha was first: first Chairman of the 1948 Atomic Energy Commission.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My commission aimed to produce electricity from atomic energy.",
+    "Pandit Nehru's commission of 10th August 1948 needed a leader.",
+    "I was appointed as the first Chairman of the Indian Atomic Energy Commission."
+   ],
+   "options": [
+    "Dr Homi Sethna",
+    "Dr Raja Ramanna",
+    "Dr A.P.J. Abdul Kalam",
+    "Dr Homi Bhabha"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-07-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f19",
+    "f21"
+   ],
+   "hook": "IGMDP leader, father of the missile programme = Dr Kalam, the 'Missile Man'.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I conceived and led the Integrated Guided Missile Development Programme.",
+    "After 1983 DRDO developed several missiles under my leadership.",
+    "I am known as the father of India's missile programme and the 'Missile Man' of India."
+   ],
+   "options": [
+    "Dr Raja Ramanna",
+    "Dr A.P.J. Abdul Kalam",
+    "Dr Homi Sethna",
+    "Sam Pitroda"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-07-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f02",
+    "f01",
+    "f11"
+   ],
+   "hook": "Pokharan is in Rajasthan: first test on 18th May 1974.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Dr Homi Bhabha was the first Chairman of the Indian Atomic Energy Commission."
+    ],
+    [
+     "Kabir",
+     "Pandit Jawaharlal Nehru set up the commission on 10th August 1948."
+    ],
+    [
+     "Riya",
+     "India performed her first nuclear test at Pokharan in Gujarat on 18th May 1974."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "Punjab",
+    "Maharashtra",
+    "Rajasthan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f29",
+    "f26"
+   ],
+   "hook": "ISRO: born 15 August 1969, headquarters Bengaluru, launch station Sriharikota.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "ISRO was established on 15th August 1969."
+    ],
+    [
+     "Sneha",
+     "ISRO has its headquarters in Chennai and a space station at Sriharikota in Andhra Pradesh."
+    ],
+    [
+     "Aarav",
+     "India's first research rocket was launched from Thumba in Kerala in 1961."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Bengaluru",
+    "Mumbai",
+    "Delhi"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "1974 'nuclear explosion': the decision of Prime Minister Indira Gandhi.",
+   "prompt": "Which Prime Minister took the decision of carrying out a 'nuclear explosion' at Pokharan in 1974?",
+   "options": [
+    "Jawaharlal Nehru",
+    "Indira Gandhi",
+    "Atal Bihari Vajpayee"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-07-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f27",
+    "f29",
+    "f28",
+    "f30"
+   ],
+   "hook": "Rohini-75 1967, ISRO 1969, Aryabhatta 1975, Bhaskar-1 1979.",
+   "prompt": "Put these space milestones in order, earliest first.",
+   "items": [
+    {
+     "t": "Rohini-75 rocket launched",
+     "y": "1967",
+     "k": 19670000
+    },
+    {
+     "t": "ISRO established",
+     "y": "15 August 1969",
+     "k": 19690815
+    },
+    {
+     "t": "Aryabhatta satellite launched",
+     "y": "1975",
+     "k": 19750000
+    },
+    {
+     "t": "Bhaskar-1 launched",
+     "y": "1979",
+     "k": 19790000
+    }
+   ]
+  },
+  {
+   "qid": "c9-07-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "11 May 1998: three tests, one a Hydrogen Bomb - 24 years after 1974.",
+   "prompt": "In which year did India carry out its second nuclear test, on 11th May?",
+   "year": 1998,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-11",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "1961: first research rocket rises from Thumba, Kerala.",
+   "prompt": "In which year was India's first research rocket launched from Thumba?",
+   "year": 1961,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "APPLE: 19 June 1981, French Guiana, ISRO's first fully indigenous satellite.",
+   "prompt": "Which satellite am I?",
+   "clues": [
+    "I was useful in education and emergency telecommunication.",
+    "I was launched from the French Guiana on 19th June 1981.",
+    "I was the first completely indigenously built satellite by ISRO."
+   ],
+   "options": [
+    "Aryabhatta",
+    "Bhaskar-1",
+    "INSAT 1-B",
+    "APPLE"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-07-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f17",
+    "f18"
+   ],
+   "hook": "Prithvi 1988, Agni 1989: two missiles in two years.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Prithvi-1, a surface to surface ballistic missile, was given to the Army."
+    ],
+    [
+     "Rohan",
+     "Prithvi-2 went to the Air Force and Prithvi-3 to the Navy."
+    ],
+    [
+     "Meera",
+     "India successfully tested Agni in 1999 and Prithvi in 1988."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "1983",
+    "1989",
+    "1990"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-07-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "22 August 1994: mobiles arrive at Rs.45,000 a handset; private companies made calls cheaper.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Mobile phone service started in India on 22nd August 1994."
+    ],
+    [
+     "Diya",
+     "At that time a handset cost Rs.45,000 and calling was 17 rupees per minute."
+    ],
+    [
+     "Ishaan",
+     "The service became costlier when many private companies came into this field."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "cheaper",
+    "free",
+    "illegal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Pokharan: far from people, no ground water.",
+   "prompt": "Why was Pokharan chosen for the nuclear tests?",
+   "options": [
+    "It was close to Mumbai and the Trombay reactor.",
+    "It was near the sea for cooling water.",
+    "It was far away from human settlement and had no ground water reserves.",
+    "It was inside a thick forest."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Kalpakkam in Tamil Nadu: the Thorium reactor research centre.",
+   "prompt": "Where was a Reactor Research Centre set up to use Thorium for generating atomic power?",
+   "options": [
+    "Kalpakkam",
+    "Tarapur",
+    "Jodhpur Tekra",
+    "Thumba"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f20",
+    "f17",
+    "f18",
+    "f24"
+   ],
+   "hook": "DRDO 1958; then Prithvi 1988, Agni 1989, Akash 1990 - one a year.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "DRDO established",
+     "y": "1958",
+     "k": 19580000
+    },
+    {
+     "t": "Prithvi tested",
+     "y": "1988",
+     "k": 19880000
+    },
+    {
+     "t": "Agni tested",
+     "y": "1989",
+     "k": 19890000
+    },
+    {
+     "t": "Akash developed",
+     "y": "1990",
+     "k": 19900000
+    }
+   ]
+  },
+  {
+   "qid": "c9-07-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Independence Day 1969: ISRO is born, headquarters Bengaluru.",
+   "prompt": "In which year was the Indian Space Research Organisation (ISRO) established on 15th August?",
+   "year": 1969,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Nag: tank destroyer, 'fire and forget'.",
+   "prompt": "Which missile am I?",
+   "clues": [
+    "I am of the 'fire and forget' type.",
+    "I was made in order to destroy the tanks of the enemy.",
+    "India has militarily become secure due to the production of missiles like me."
+   ],
+   "options": [
+    "Akash",
+    "Nag",
+    "Prithvi",
+    "Agni"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-07-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Akash 1990: land to air, 720 kg, supersonic, 30 km.",
+   "prompt": "Which missile am I?",
+   "clues": [
+    "I can carry 720 kilogram explosives at supersonic speed.",
+    "My range is 30 kilometres.",
+    "I was developed in 1990 to fire from land into air."
+   ],
+   "options": [
+    "Akash",
+    "Nag",
+    "Prithvi",
+    "Agni"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "11 May 1998: three tests, one a Hydrogen Bomb; USA imposed sanctions.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "On 11th May 1998 India carried out its second nuclear test."
+    ],
+    [
+     "Arjun",
+     "Five tests were done on that day and one of them was of the Hydrogen Bomb."
+    ],
+    [
+     "Kavya",
+     "Prime Minister Atal Bihari Vajpayee assured there would be no first use of nuclear weapons by India."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 0
+   },
+   "options": [
+    "Two",
+    "Three",
+    "Seven"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-07-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f47",
+    "f48"
+   ],
+   "hook": "Oil trail: Digboi (Assam) -> Ankleshwar and Khambhat (Gujarat) -> Bombay High 1974.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "The Oil and Natural Gas Corporation was established in 1956."
+    ],
+    [
+     "Vivaan",
+     "After Digboi in Assam, mineral oil was found at Ankleshwar in Rajasthan and later in the gulf of Khambhat."
+    ],
+    [
+     "Neha",
+     "In 1974 digging began at Bombay High with the drillship Sagar Samrat."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 11
+   },
+   "options": [
+    "Gujarat",
+    "Assam",
+    "Maharashtra"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Dhruva 1985: Indian made, Trombay near Mumbai, uranium fuel.",
+   "prompt": "Which statement about the Dhruva nuclear reactor is correct?",
+   "options": [
+    "It was set up at Tarapur in 1956.",
+    "It uses thorium as its fuel.",
+    "It is a completely Indian made reactor at Trombay that uses uranium as fuel.",
+    "It was launched into space from Sriharikota."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34",
+    "f33"
+   ],
+   "hook": "INSAT linked village health centres to superspecialty hospitals: telemedicine.",
+   "prompt": "Through which satellite system were Public Primary Health Centers in villages connected with superspecialty hospitals?",
+   "options": [
+    "Bhaskar-1",
+    "APPLE",
+    "INSAT",
+    "Aryabhatta"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f09",
+    "f10"
+   ],
+   "hook": "Apsara 1956, Tarapur 1969, Dhruva 1985, NPCIL 1987.",
+   "prompt": "Put these atomic energy milestones in order, earliest first.",
+   "items": [
+    {
+     "t": "Apsara reactor set up",
+     "y": "1956",
+     "k": 19560000
+    },
+    {
+     "t": "Tarapur atomic power station",
+     "y": "1969",
+     "k": 19690000
+    },
+    {
+     "t": "Dhruva reactor started at Trombay",
+     "y": "1985",
+     "k": 19850000
+    },
+    {
+     "t": "NPCIL set up",
+     "y": "1987",
+     "k": 19870000
+    }
+   ]
+  },
+  {
+   "qid": "c9-07-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "22 August 1994: mobile phones arrive; Rs 17 a minute.",
+   "prompt": "In which year did the mobile phone service start in India, on 22nd August?",
+   "year": 1994,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Dhruva at Trombay, 1985: uranium fuel, 350 radioactive substances.",
+   "prompt": "In which year was the Indian made nuclear reactor Dhruva started at Trombay?",
+   "year": 1985,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "1974 test team: Sethna (Commission chairman) + Ramanna (BARC Director).",
+   "prompt": "Who am I?",
+   "clues": [
+    "I worked alongside Dr Homi Sethna, then chairman of the Atomic Energy Commission.",
+    "In 1974 I was Director of the Bhabha Atomic Research Centre.",
+    "I played a major role in India's first nuclear test at Pokharan."
+   ],
+   "options": [
+    "Dr Homi Bhabha",
+    "Dr A.P.J. Abdul Kalam",
+    "Dr Raja Ramanna",
+    "E. Sreedharan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f50",
+    "f49"
+   ],
+   "hook": "E. Sreedharan, 'Metroman': Delhi Metro and Konkan Railway.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My work on the Konkan Railway is noteworthy.",
+    "My work on the Delhi Metro is noteworthy too.",
+    "I am famous by the nickname 'Metroman'."
+   ],
+   "options": [
+    "E. Sreedharan",
+    "Sam Pitroda",
+    "Dr Raja Ramanna",
+    "Dr Homi Sethna"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f40",
+    "f41"
+   ],
+   "hook": "Pincode digits: 1st region, 2nd sub-region, 3rd district, last 3 post office.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "The Post and Telegraph Department started the six digit Pincode system from 15 August 1972."
+    ],
+    [
+     "Om",
+     "In this system the country was divided into nine regions."
+    ],
+    [
+     "Tanvi",
+     "The second digit of a Pincode shows the main disbursement district."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "third",
+    "first",
+    "fourth"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f49"
+   ],
+   "hook": "Konkan Railway 1998: Karbude tunnel longest, Sharavati bridge near Honnawar biggest.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "Konkan Railway started in 1998."
+    ],
+    [
+     "Dev",
+     "It stretches over Maharashtra, Goa, Karnataka and Kerala."
+    ],
+    [
+     "Anaya",
+     "The bridge on River Sharavati near Ratnagiri is its biggest bridge."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Mangaluru",
+    "Panaji",
+    "Honnawar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Heavy water factories: Vadodara, Talcher, Tutikorin, Kota.",
+   "prompt": "At which of these places was a factory manufacturing heavy water set up?",
+   "options": [
+    "Thumba",
+    "Sriharikota",
+    "Tutikorin",
+    "Varanasi"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f40",
+    "f43",
+    "f45"
+   ],
+   "hook": "Telex 1963, Devanagari telex 1969, Pincode 1972, ISD 1976, mobiles 1994.",
+   "prompt": "Put these communication milestones in order, earliest first.",
+   "items": [
+    {
+     "t": "Telex service started",
+     "y": "1963",
+     "k": 19630000
+    },
+    {
+     "t": "Telex in Devanagari script in Delhi",
+     "y": "1969",
+     "k": 19690000
+    },
+    {
+     "t": "Six digit Pincode system",
+     "y": "15 August 1972",
+     "k": 19720815
+    },
+    {
+     "t": "ISD links Mumbai and London",
+     "y": "1976",
+     "k": 19760000
+    },
+    {
+     "t": "Mobile phone service starts",
+     "y": "22 August 1994",
+     "k": 19940822
+    }
+   ]
+  },
+  {
+   "qid": "c9-07-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "DRDO 1958; after 1983 its missiles came under Dr Kalam.",
+   "prompt": "In which year was the Defence Research and Development Organisation (DRDO) established?",
+   "year": 1958,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-07-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Bhaskar-1, 1979: remote sensing for water, minerals, weather, oceans.",
+   "prompt": "Which satellite am I?",
+   "clues": [
+    "My information was useful in oceanography.",
+    "I was a remote sensing experimental satellite.",
+    "I was launched from the Soviet Russia in 1979."
+   ],
+   "options": [
+    "APPLE",
+    "Bhaskar-1",
+    "INSAT 1-B",
+    "Rohini-75"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-07-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f49"
+   ],
+   "hook": "Konkan Railway, 1998: four States, Karbude tunnel.",
+   "prompt": "Which railway am I?",
+   "clues": [
+    "My longest tunnel is at Karbude.",
+    "I run through Maharashtra, Goa, Karnataka and Kerala.",
+    "I started in 1998."
+   ],
+   "options": [
+    "Delhi Metro",
+    "Kolkata Metro",
+    "Chittaranjan Locomotive Works",
+    "Konkan Railway"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-07-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f43",
+    "f44"
+   ],
+   "hook": "Mumbai: Overseas Communication Service 1972; ISD to London 1976.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sara",
+     "In 1972 Overseas Communication Service was established in Mumbai."
+    ],
+    [
+     "Yash",
+     "In 1976 the International Subscriber Dialled Telephone Service connected Mumbai and Paris directly on phone."
+    ],
+    [
+     "Sara",
+     "In the 1990s Videsh Sanchar Nigam Limited was the main internet service provider in India."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 11
+   },
+   "options": [
+    "London",
+    "Tokyo",
+    "Moscow"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f35",
+    "f36"
+   ],
+   "hook": "Engines: Chittaranjan (West Bengal) for all types; first diesel engine at Varanasi.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Chittaranjan Locomotive Works is in Bardwan District in West Bengal."
+    ],
+    [
+     "Kunal",
+     "At the Diesel Locomotive Works in Kanpur the first diesel engine was made."
+    ],
+    [
+     "Aditi",
+     "India started exporting railway engines to Sri Lanka, Bangladesh, Tanzania and Vietnam."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "Mumbai",
+    "Lucknow",
+    "Varanasi"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-07-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Heavy Water Projects -> renamed Heavy Water Board.",
+   "prompt": "What was the institution 'Heavy Water Projects' later renamed?",
+   "options": [
+    "Heavy Water Board",
+    "Atomic Energy Commission",
+    "Department of Atomic Energy",
+    "Nuclear Power Corporation of India"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-07-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f51"
+   ],
+   "hook": "1984: computer reservations in Delhi; same year, Metro in Kolkata.",
+   "prompt": "Which statement about the computerised rail reservation system is correct?",
+   "options": [
+    "It was started for the first time in Kolkata in 1984.",
+    "It was started for the first time in Mumbai in 1998.",
+    "It was started for the first time in Delhi in 1976.",
+    "It was started for the first time in Delhi in 1984."
+   ],
+   "answer": 3
+  }
+ ]
+}

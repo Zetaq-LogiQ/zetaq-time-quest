@@ -1,0 +1,1402 @@
+{
+ "class": 8,
+ "id": "15",
+ "title": "Introduction to the Parliamentary System",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "The function of the Legislature is to make laws.",
+   "year": null,
+   "era": "CE",
+   "quote": "The function of the Legislature is to make laws.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "The Executive implements the law.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Executive implements the law",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The Judiciary provides justice.",
+   "year": null,
+   "era": "CE",
+   "quote": "and the Judiciary provides justice.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The functions of the organs, their jurisdiction, limitations on their power and their interrelationship are decided by the Constitution; the nature of their interrelationship determines the system of government of a country.",
+   "year": null,
+   "era": "CE",
+   "quote": "The functions of these organs, their jurisdiction and limitations on their power and the interrelationship between these organs are decided by the Constitution. It is the nature of their interrelationship that determines the system of government adopted in a particular country.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "There are two main types of government systems: the Parliamentary System and the Presidential System.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are two main types of government systems that are followed. (1) Parliamentary System (2) Presidential System.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "place",
+   "text": "The Parliamentary System of government developed primarily in England.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Parliamentary System of government developed primarily in England.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "In England, the Constitution is an unwritten Constitution; governance is carried out according to traditions, customs and conventions.",
+   "year": null,
+   "era": "CE",
+   "quote": "In England, the Constitution is an unwritten Constitution. The governance is carried out in accordance with traditions and customs and conventions.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "place",
+   "text": "The British Parliament evolved over a period of time; the Parliamentary system having its roots in 'Parliament' is considered a contribution of England.",
+   "year": null,
+   "era": "CE",
+   "quote": "The 'British Parliament' is an institution that has evolved over a period of time. The Parliamentary system of Government having its roots in 'Parliament' is considered as a contribution of England.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "India has adopted the Parliamentary System; it has broad similarities with England's, but at an institutional level it is different in its content.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has adopted this Parliamentary System. We can see some broad similarities in the Parliamentary system of England and the Parliamentary system of India. But when looked at an institutional level, the Indian Parliamentary system is different in its content.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The legislature of the Central government is known as the Parliament.",
+   "year": null,
+   "era": "CE",
+   "quote": "The legislature of the Central government is known as the Parliament.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The Indian Parliament is composed of the President, Lok Sabha and Rajya Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Indian Parliament is composed of the President, Lok Sabha and Rajya Sabha.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Members of the Lok Sabha are directly elected by the people; the number of members in the House is fixed.",
+   "year": null,
+   "era": "CE",
+   "quote": "Members of the Lok Sabha are directly elected by the people. The number of members in the House is fixed.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "Elections to the Lok Sabha are held at regular intervals and all political parties contest them.",
+   "year": null,
+   "era": "CE",
+   "quote": "Elections to the Lok Sabha are held at regular intervals. All political parties contest these elections.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The party which gets more than half of the seats is the majority party, and the majority party forms the government.",
+   "year": null,
+   "era": "CE",
+   "quote": "The party which gets more than half of the seats is considered as the majority party. The majority party forms the government.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "When no party gets a clear majority, some parties come together to form a majority and establish a coalition government.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sometimes, when no party gets a clear majority, some parties come together to form a majority and they can establish the government. This kind of a government is known as a coalition government.",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "The leader of the majority party becomes the Prime Minister and selects candidates for ministerial positions from among his/her colleagues.",
+   "year": null,
+   "era": "CE",
+   "quote": "The leader of the majority party becomes the Prime Minister. He/She selects candidates for ministerial positions from among his/her colleagues.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "The Prime Minister and the Council of Ministers chosen by the Prime Minister together form the 'Executive' in the Parliamentary system.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Prime Minister and the Council of Ministers chosen by the Prime Minister together forms the 'Executive' in the Parliamentary system of government.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "In the Parliamentary system the Executive has a dual responsibility: to implement laws, and, as members of the legislature, to fulfil the responsibilities of the Legislature.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Executive has a dual responsibility : (1) As an Executive they have to implement laws. (2) As they are the members of the legislature, they also have to fulfill responsibilities of the Legislature.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "The Prime Minister and the Council of Ministers are responsible to the legislature for all their actions and policies, so the parliamentary system is known as the 'responsible system of government'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Prime Minister and the Council of Ministers is responsible to the legislature for all their actions and policies. ... It is for this reason that the parliamentary system is known as 'responsible system of government'.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Collective responsibility: a decision taken by any ministry/department is considered the decision of the government, and the entire council of ministers is responsible for it.",
+   "year": null,
+   "era": "CE",
+   "quote": "Another distinct characteristic of parliamentary system of government is collective responsibility. Decision taken by any ministry/department is considered as decision of the government. The entire council of ministers is responsible for the decision.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "In the Parliamentary System the Executive depends on the confidence of the legislature and remains in power while it enjoys that support.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the Parliamentary System, the Executive is dependent upon the confidence of the legislature in them. This means that the Council of Minister remains in power till it enjoys the support or confidence of the legislature.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "If the legislature feels the Executive does not work according to its wishes, it removes the executive by passing a no-confidence motion, an effective tool of keeping a check over the executive.",
+   "year": null,
+   "era": "CE",
+   "quote": "If the legislature feels that the Executive does not work in accordance to its wishes, it removes the executive from power by passing a no-confidence motion against the executive. No-confidence motion is an effective tool of keeping a check over the executive.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "In the Parliamentary form, the legislature is a supreme institution; elected representatives express the demands and aspirations of common people in the Parliament.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the Parliamentary form of government, the legislature is a supreme institution. Elected representatives of people express demands and aspirations of common people in the Parliament.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The Parliament decides issues of public welfare; as the house of representatives of people expressing their sovereign authority, it is considered the supreme body.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Parliament decides upon issues of public welfare. Since it is the house of representatives of people and expresses sovereign authority of the people, it is considered as the supreme body.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "The development of parliamentary institutions in India started during the British rule; the British rulers governed according to this system.",
+   "year": null,
+   "era": "CE",
+   "quote": "The development of parliamentary institutions started during the British rule. The British rulers governed in accordance with this system.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "event",
+   "text": "The parliamentary system in India is also in a way a product of the freedom movement, and Indians were familiar with it.",
+   "year": null,
+   "era": "CE",
+   "quote": "The parliamentary system of government in India is also in a way a product of the freedom movement. Indians were familiar to this system of government.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "event",
+   "text": "Many discussions took place in the Constituent Assembly over the system of government; the framers made few changes in the parliamentary system to suit the Indian situation.",
+   "year": null,
+   "era": "CE",
+   "quote": "Many discussions took place in the Constituent Assembly over the system of government. The framers of the Constitution made few changes in the parliamentary system to suit the Indian situation.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Discussions and deliberations are an integral part of the parliamentary form of government; questions of public welfare are discussed in the legislature.",
+   "year": null,
+   "era": "CE",
+   "quote": "Discussions and deliberations are an integral part of the parliamentary form of government. Questions related to public welfare are discussed in the legislature.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Opposition parties may support the government wherever appropriate, point out shortcomings in policies and laws, and put up studied arguments and questions; this helps the legislature make proper laws.",
+   "year": null,
+   "era": "CE",
+   "quote": "Opposition parties may support the government wherever appropriate, point out shortcomings in policies and laws, put up studied arguments and questions etc. This helps the legislature to make proper laws.",
+   "page": 2
+  },
+  {
+   "fid": "f30",
+   "kind": "place",
+   "text": "The Presidential system exists in countries such as the United States of America, which has adopted it.",
+   "year": null,
+   "era": "CE",
+   "quote": "This type of system exists in countries such as United States of America. ... The United States of America has adopted the presidential system of government.",
+   "page": 2
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "In the Presidential system the Executive is independent of the legislature and the Head of the State (the President) is directly elected by the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "The system, in which the Executive is independent of the legislature and as the Head of the State (the President) is directly elected by people, is known as the Presidential system of government.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "In the Presidential system the three organs are independent of each other, but there are enough connections between them to work in harmony/coordination.",
+   "year": null,
+   "era": "CE",
+   "quote": "Though the three organs are independent from each other, there are enough connections between them to work in harmony/coordination.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "In the Presidential form, the legislature and executive are not directly dependent on each other; the Houses of the Legislature and the President are directly elected by the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a Presidential form of government, the legislature and the executive are not directly dependent on each other. The Houses of the Legislature and the President are directly elected by the people.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "person",
+   "text": "In the Presidential system the President is the executive head and has a lot of powers, including the power to implement laws.",
+   "year": null,
+   "era": "CE",
+   "quote": "The President is the executive head and has lot of powers including power to implement laws.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "In the Presidential system the legislature and the executive keep a check on each other; this mutual control can lead to a responsible government.",
+   "year": null,
+   "era": "CE",
+   "quote": "In spite of such a structure, the legislature and the executive keep a check on each other. This mutual control over each other can lead to a responsible government.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "Other forms of government systems are followed in France, Switzerland, Germany, etc.; several countries have evolved different systems owing to their unique circumstances.",
+   "year": null,
+   "era": "CE",
+   "quote": "Apart from the Parliamentary and the Presidential systems of government there are other forms of government systems that are followed in France, Switzerland, Germany, etc. Several countries owing to their unique circumstances have evolved different systems of government.",
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-15-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01",
+    "f02",
+    "f03"
+   ],
+   "hook": "Legislature <b>makes</b> laws, Executive <b>implements</b> them, Judiciary gives <b>justice</b>.",
+   "prompt": "What is the function of the Legislature?",
+   "options": [
+    "To provide justice",
+    "To implement the law",
+    "To command the army",
+    "To make laws"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-02",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Parliament was born in <b>England</b>; India adopted the system.",
+   "prompt": "In which country did the Parliamentary System of government develop primarily?",
+   "options": [
+    "France",
+    "United States of America",
+    "England",
+    "Switzerland"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f11",
+    "f23",
+    "f24"
+   ],
+   "hook": "Parliament = <b>President + Lok Sabha + Rajya Sabha</b>, the legislature of the Centre.",
+   "prompt": "What am I?",
+   "clues": [
+    "Elected representatives express the demands and aspirations of common people in me.",
+    "I am considered the supreme body because I express the sovereign authority of the people.",
+    "I am the legislature of the Central government.",
+    "I am composed of the President, Lok Sabha and Rajya Sabha."
+   ],
+   "options": [
+    "Judiciary",
+    "Council of Ministers",
+    "Constituent Assembly",
+    "Parliament"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f14",
+    "f16"
+   ],
+   "hook": "More than <b>half</b> the seats = majority party; its leader becomes Prime Minister.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Members of the Lok Sabha are directly elected by the people."
+    ],
+    [
+     "Meera",
+     "The party which gets more than a third of the seats is the majority party."
+    ],
+    [
+     "Kabir",
+     "The leader of the majority party becomes the Prime Minister."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "quarter",
+    "fifth",
+    "half"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "Two main types: <b>Parliamentary</b> (India, England) and <b>Presidential</b> (USA).",
+   "prompt": "What are the two main types of government systems?",
+   "options": [
+    "Coalition and Presidential",
+    "Parliamentary and Presidential",
+    "Written and Unwritten",
+    "Legislature and Judiciary"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "No clear majority? Parties join hands: a <b>coalition</b> government.",
+   "prompt": "What am I?",
+   "clues": [
+    "I can establish the government after an election.",
+    "I am needed when no party gets a clear majority.",
+    "I am formed when some parties come together to form a majority."
+   ],
+   "options": [
+    "Opposition party",
+    "Coalition government",
+    "Presidential system",
+    "Majority party"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f03",
+    "f11"
+   ],
+   "hook": "Parliament = President + <b>Lok Sabha</b> + <b>Rajya Sabha</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The Executive implements the law."
+    ],
+    [
+     "Arjun",
+     "The Judiciary provides justice."
+    ],
+    [
+     "Sana",
+     "The Indian Parliament is composed of the President, Lok Sabha and Vidhan Sabha."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 11
+   },
+   "options": [
+    "Rajya",
+    "Gram",
+    "Zilla"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Executive in a parliamentary system = <b>Prime Minister + Council of Ministers</b>.",
+   "prompt": "Who together form the Executive in the Parliamentary system of government?",
+   "options": [
+    "The Lok Sabha and the Rajya Sabha",
+    "The Judiciary and the opposition parties",
+    "The Prime Minister and the Council of Ministers",
+    "The voters and the political parties"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Executive answers to the legislature for everything: a <b>responsible</b> system of government.",
+   "prompt": "What am I?",
+   "clues": [
+    "My Council of Ministers has to work with the legislature.",
+    "My Prime Minister and ministers must answer to the legislature for all their actions and policies.",
+    "The parliamentary system is given my name for this reason."
+   ],
+   "options": [
+    "Collective responsibility",
+    "Presidential system",
+    "Responsible system of government",
+    "Coalition government"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-10",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "One ministry decides, the <b>whole</b> council answers: collective responsibility.",
+   "prompt": "A decision taken by any one ministry is considered the decision of the government, and the entire council of ministers is responsible for it. What is this called?",
+   "options": [
+    "Dual responsibility",
+    "Collective responsibility",
+    "Coalition government",
+    "No-confidence motion"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22"
+   ],
+   "hook": "No confidence of the legislature = no power. The motion is an <b>effective</b> check.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Dev",
+     "In the Parliamentary System, the Executive depends on the confidence of the legislature."
+    ],
+    [
+     "Anaya",
+     "The legislature can remove the Executive by passing a no-confidence motion."
+    ],
+    [
+     "Kabir",
+     "No-confidence motion is a very weak tool for keeping a check over the executive."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "useless",
+    "effective",
+    "poor"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "England: <b>unwritten</b> Constitution, run on traditions, customs and conventions.",
+   "prompt": "Which statement about England is correct?",
+   "options": [
+    "Its Constitution was written by the Constituent Assembly of India.",
+    "It follows the Presidential system of government.",
+    "Its Constitution is unwritten and governance follows traditions, customs and conventions.",
+    "It has no legislature at all."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f32"
+   ],
+   "hook": "Presidential system: President <b>directly elected</b>, Executive independent. Example: USA.",
+   "prompt": "Which system am I?",
+   "clues": [
+    "My three organs are independent but connected enough to work in harmony.",
+    "My Executive is independent of the legislature.",
+    "My Head of the State is directly elected by the people.",
+    "The United States of America has adopted me."
+   ],
+   "options": [
+    "Presidential system",
+    "Parliamentary system",
+    "Coalition government",
+    "Responsible system of government"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13",
+    "f16"
+   ],
+   "hook": "Lok Sabha: members <b>directly elected</b>, number of members <b>fixed</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Elections to the Lok Sabha are held at regular intervals."
+    ],
+    [
+     "Tanvi",
+     "The Prime Minister selects ministers from among his or her colleagues."
+    ],
+    [
+     "Rohan",
+     "The Lok Sabha has a changing number of members."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "random",
+    "growing",
+    "fixed"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Dual responsibility: <b>implement</b> laws + work as <b>members of the legislature</b>.",
+   "prompt": "What is the dual responsibility of the Executive in the Parliamentary system?",
+   "options": [
+    "To provide justice and to elect the President",
+    "To appoint judges and to run elections",
+    "To implement laws and, as members of the legislature, to fulfil its responsibilities",
+    "To make the Constitution and to change it every year"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f24"
+   ],
+   "hook": "House of the people's representatives = <b>sovereign authority</b> of the people = supreme body.",
+   "prompt": "Why is the Parliament considered the supreme body in the Parliamentary form of government?",
+   "options": [
+    "It is appointed by the Judiciary.",
+    "It is the house of representatives of people and expresses their sovereign authority.",
+    "It is chosen by the President alone.",
+    "It has no elected members."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-17",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f26",
+    "f27"
+   ],
+   "hook": "Roots in <b>British rule</b> + product of the <b>freedom movement</b> = India knew the system.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Development of parliamentary institutions in India started during the Mughal rule."
+    ],
+    [
+     "Aditya",
+     "The parliamentary system in India is also in a way a product of the freedom movement."
+    ],
+    [
+     "Zoya",
+     "The framers of the Constitution made few changes to suit the Indian situation."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 9
+   },
+   "options": [
+    "British",
+    "Maratha",
+    "French"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "The <b>opposition</b> supports where right, points out flaws: better laws.",
+   "prompt": "Who are we?",
+   "clues": [
+    "We take part in discussions on public welfare in the legislature.",
+    "We may support the government wherever appropriate.",
+    "We point out shortcomings in policies and laws and put up studied arguments."
+   ],
+   "options": [
+    "Judiciary",
+    "Council of Ministers",
+    "Majority party",
+    "Opposition parties"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-19",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f17"
+   ],
+   "hook": "Majority leader = <b>Prime Minister</b>, who picks ministers; together they are the Executive.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The leader of the majority party becomes the Prime Minister and selects the ministers.",
+    "The Judiciary selects the ministers from among its judges.",
+    "The leader of the smallest party becomes the Prime Minister.",
+    "The opposition parties choose the Prime Minister."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f34"
+   ],
+   "hook": "Presidential system: the <b>President</b> is directly elected and is the executive head.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "In the Presidential system the President is directly elected by the people."
+    ],
+    [
+     "Farhan",
+     "The Houses of the Legislature are also directly elected by the people."
+    ],
+    [
+     "Pooja",
+     "In this system the Speaker is the executive head."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Governor",
+    "President",
+    "Judiciary"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f35"
+   ],
+   "hook": "Independent organs, but connected; <b>mutual control</b> can give a responsible government.",
+   "prompt": "In the Presidential system, what can lead to a responsible government?",
+   "options": [
+    "Having no connection at all between the three organs",
+    "The President being chosen by the Judiciary",
+    "The executive ignoring the legislature",
+    "The legislature and the executive keeping a check on each other"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22"
+   ],
+   "hook": "Legislature unhappy with the Executive? Pass a <b>no-confidence motion</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am an effective tool for keeping a check over the executive.",
+    "The legislature uses me when it feels the Executive is not working according to its wishes.",
+    "When I am passed, the executive is removed from power."
+   ],
+   "options": [
+    "Collective responsibility",
+    "Coalition government",
+    "Dual responsibility",
+    "No-confidence motion"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f09"
+   ],
+   "hook": "Born in <b>England</b> (unwritten Constitution), adopted by <b>India</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sneha",
+     "The Parliamentary System of government developed primarily in England."
+    ],
+    [
+     "Om",
+     "In England, the Constitution is an unwritten Constitution."
+    ],
+    [
+     "Leela",
+     "India has adopted the Presidential system of government."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Coalition",
+    "Parliamentary",
+    "Unwritten"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "The <b>Constitution</b> sets each organ's work, limits and links.",
+   "prompt": "What decides the functions of the Legislature, Executive and Judiciary, their jurisdiction and the limits on their power?",
+   "options": [
+    "The Constitution",
+    "The majority party",
+    "The opposition parties",
+    "The Prime Minister"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "The British Parliament evolved over time: the system is <b>England's</b> contribution.",
+   "prompt": "The Parliamentary system, with its roots in 'Parliament', is considered a contribution of which country?",
+   "options": [
+    "India",
+    "United States of America",
+    "Germany",
+    "England"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f30",
+    "f36"
+   ],
+   "hook": "Other forms: <b>France, Switzerland, Germany</b>; Presidential: USA; Parliamentary: England.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "The Presidential system exists in countries such as the United States of America."
+    ],
+    [
+     "Ira",
+     "Other forms of government are followed in France, England and Germany."
+    ],
+    [
+     "Yash",
+     "Several countries have evolved different systems owing to their unique circumstances."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "India",
+    "America",
+    "Switzerland"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "Executive = PM + ministers, with a <b>dual</b> responsibility.",
+   "prompt": "What am I?",
+   "clues": [
+    "I have a dual responsibility in the Parliamentary system.",
+    "My members also belong to the legislature and fulfil its responsibilities.",
+    "I have to implement laws.",
+    "In the Parliamentary system I am formed by the Prime Minister and the Council of Ministers."
+   ],
+   "options": [
+    "Executive",
+    "Judiciary",
+    "Opposition",
+    "Electoral College"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Debate is the heart of a parliament: <b>discussions and deliberations</b>.",
+   "prompt": "What is an integral part of the parliamentary form of government?",
+   "options": [
+    "Banning the opposition parties",
+    "Discussions and deliberations",
+    "Rule by one person without any debate",
+    "Closing the legislature to the opposition"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "Why India chose it: <b>British rule</b> roots, <b>freedom movement</b>, Indians knew it.",
+   "prompt": "Which of these is NOT a reason why India adopted the parliamentary system?",
+   "options": [
+    "It was copied from the United States of America.",
+    "Parliamentary institutions began to develop during the British rule.",
+    "It was in a way a product of the freedom movement.",
+    "Indians were familiar with this system."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f19",
+    "f20"
+   ],
+   "hook": "Executive's <b>dual</b> responsibility: implement laws + work in the legislature.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The Prime Minister and the Council of Ministers are responsible to the legislature for all their actions."
+    ],
+    [
+     "Rahul",
+     "Under collective responsibility, the entire council of ministers is responsible for a decision."
+    ],
+    [
+     "Tara",
+     "In the parliamentary system the Executive has a triple responsibility of implementing laws and working in the legislature."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "dual",
+    "single",
+    "fourfold"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f14"
+   ],
+   "hook": "More than half the seats wins the right to <b>form the government</b>.",
+   "prompt": "Which party am I?",
+   "clues": [
+    "I contest the Lok Sabha elections like all political parties.",
+    "I win more than half of the seats.",
+    "I form the government."
+   ],
+   "options": [
+    "Opposition party",
+    "Coalition partner",
+    "Majority party"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Lok Sabha members are chosen <b>directly</b> by the people.",
+   "prompt": "How do members of the Lok Sabha get their seats?",
+   "options": [
+    "They are directly elected by the people.",
+    "They are appointed by the Prime Minister.",
+    "They are selected by the Judiciary.",
+    "They are nominated by the opposition parties."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f31",
+    "f33",
+    "f34"
+   ],
+   "hook": "Parliamentary: Executive needs the legislature's <b>confidence</b>. Presidential: Executive <b>independent</b>.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "In the Presidential system the President is chosen by the majority party in the legislature.",
+    "In the Parliamentary system the legislature and the executive are not directly dependent on each other.",
+    "In the Parliamentary system the Executive depends on the confidence of the legislature, but in the Presidential system it is independent of the legislature.",
+    "In the Presidential system the Prime Minister is the executive head."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-34",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "India and England: <b>broad similarities</b>, but different content at the institutional level.",
+   "prompt": "Which statement about India's parliamentary system is correct?",
+   "options": [
+    "It is exactly the same as England's system in every institution.",
+    "It was adopted from the United States of America.",
+    "It has broad similarities with England's system but is different in its content at the institutional level.",
+    "It has no similarity at all with England's system."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-15-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "The <b>Constitution</b> decides the organs' functions, jurisdiction, limits and links.",
+   "prompt": "What am I?",
+   "clues": [
+    "I decide the interrelationship between the three organs of government.",
+    "I set the jurisdiction of each organ and the limitations on its power.",
+    "I decide the functions of the Legislature, the Executive and the Judiciary."
+   ],
+   "options": [
+    "Parliament",
+    "Constitution",
+    "Judiciary",
+    "Constituent Assembly"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "No party past the halfway mark: parties <b>combine</b> into a coalition government.",
+   "prompt": "After a Lok Sabha election, no party gets a clear majority. What can happen?",
+   "options": [
+    "The Judiciary forms the government.",
+    "Some parties come together to form a majority and set up a coalition government.",
+    "The party with the fewest seats becomes the majority party.",
+    "The legislature is closed until the next election."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-15-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f09",
+    "f27"
+   ],
+   "hook": "Long debates in the Constituent Assembly, then only <b>few</b> changes for India.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "Many discussions took place in the Constituent Assembly over the system of government."
+    ],
+    [
+     "Shreya",
+     "India's system has broad similarities with England's, but differs in content at the institutional level."
+    ],
+    [
+     "Manav",
+     "The framers of the Constitution made many changes to the parliamentary system to suit the Indian situation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "few",
+    "no",
+    "huge"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-15-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f30",
+    "f32",
+    "f34",
+    "f35"
+   ],
+   "hook": "USA: Presidential system, President is the <b>executive head</b>, directly elected.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "My three organs are independent but connected enough to work in harmony.",
+    "My legislature and executive keep a check on each other.",
+    "My President is the executive head with the power to implement laws.",
+    "I follow the Presidential system of government."
+   ],
+   "options": [
+    "England",
+    "India",
+    "France",
+    "United States of America"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22"
+   ],
+   "hook": "Unhappy legislature = <b>no-confidence motion</b> = executive out of power.",
+   "prompt": "What can the legislature do if it feels the Executive is not working according to its wishes?",
+   "options": [
+    "Nothing until the next election",
+    "Ask the Judiciary to run the government",
+    "Make the President the executive head",
+    "Remove the Executive from power by passing a no-confidence motion"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-15-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05"
+   ],
+   "hook": "How the organs <b>relate</b> to each other decides the system of government.",
+   "prompt": "What determines the system of government adopted in a particular country?",
+   "options": [
+    "The size of its population",
+    "The age of its Constitution",
+    "The nature of the interrelationship between the Legislature, Executive and Judiciary",
+    "The number of its states"
+   ],
+   "answer": 2
+  }
+ ]
+}

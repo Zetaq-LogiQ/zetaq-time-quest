@@ -1,0 +1,1481 @@
+{
+ "class": 8,
+ "id": "16",
+ "title": "The Indian Parliament",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "The Constitution of India has created the Parliament of India.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Constitution of India has created the Parliament of India.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "The Legislature at the national level is called the Parliament; it consists of the President and two Houses, the Lok Sabha and the Rajya Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Legislature at the national level, that is the level of the central government, is called the Parliament. It consists of the President and the two Houses of Parliament - Lok Sabha and Rajya Sabha.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "person",
+   "text": "The President is an inseparable part of the Parliament but cannot participate in the discussions in either House.",
+   "year": null,
+   "era": "CE",
+   "quote": "Though President is an inseparable part of the Parliament, he/she cannot participate in the discussions in either of the houses of the Parliament.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The Lok Sabha is the lower and first house; as the House of Representatives directly elected by the people, it is called the 'First' house.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Lok Sabha is the lower and the first house of the Parliament of India. Lok Sabha is the House of Representatives directly elected by the people. Hence, the Lok Sabha is called the 'First' house.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Members of the Lok Sabha are elected directly by the people from 'territorial constituencies'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The members of Lok Sabha are elected directly by people from the 'territorial constituencies'.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "The tenure of the Lok Sabha is five years; the elections held every five years are known as General Elections.",
+   "year": null,
+   "era": "CE",
+   "quote": "The tenure of Lok Sabha is five years. The elections take place after every five years. These elections are known as General Elections.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "event",
+   "text": "When the Lok Sabha is dissolved before completing five years, the elections held are called mid-term elections.",
+   "year": null,
+   "era": "CE",
+   "quote": "However, there are examples when the Lok Sabha was dissolved before the completion of five years. Elections held in such a case are called mid-term elections.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "As per the constitution there can be a maximum of 552 members in the Lok Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "As per the constitution there can be a maximum of 552 members in the Lok Sabha.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Some Lok Sabha seats are reserved for members belonging to Scheduled Castes and Scheduled Tribes.",
+   "year": null,
+   "era": "CE",
+   "quote": "To ensure representation to all sections of the society, some seats are reserved for members belonging to Scheduled Caste and Scheduled Tribes.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "If there are no representatives from the Anglo-Indian community, the President can appoint two members from this community to the Lok Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "In case there are no representatives from the Anglo- Indian community, the President can appoint two members from this community to the Lok Sabha.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The Rajya Sabha is the upper and second house of Parliament; its members are indirectly elected.",
+   "year": null,
+   "era": "CE",
+   "quote": "The upper and the second house of Parliament is the Rajya Sabha. The members of Rajya Sabha are indirectly elected.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "place",
+   "text": "The Rajya Sabha gives representation to 28 states and 9 Union territories; its members represent the constituent states.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Rajya Sabha gives representation to 28 states and 9 Union territories in India. Thus, members of Rajya Sabha work as representatives of the constituent states.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "place",
+   "text": "States get Lok Sabha seats on the basis of population; each State is divided into territorial constituencies of approximately equal population; Maharashtra has 48 seats.",
+   "year": null,
+   "era": "CE",
+   "quote": "The constituent States in India get seats on basis of their population. For the purpose of elections, the State is divided into territorial constituencies. The population of these territorial constituencies is approximately equal. ... Maharashtra : 48 seats",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The total membership of the Rajya Sabha is 250; 238 members are elected from the constituent states and Union Territories.",
+   "year": null,
+   "era": "CE",
+   "quote": "The total membership of Rajya Sabha is 250 members. Amongst them, 238 members are elected from the constituent states and Union Territories.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "States do not get equal representation in the Rajya Sabha; it is proportionate to the total population of each state.",
+   "year": null,
+   "era": "CE",
+   "quote": "All the constituent states do not get equal representation in the Rajya Sabha. It is proportionate to the total population of each of the state.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "The remaining 12 Rajya Sabha members are appointed by the President, usually distinguished personalities from literature, arts, science, sports and social work.",
+   "year": null,
+   "era": "CE",
+   "quote": "Remaining 12 members are appointed by the President. These members are usually experienced and distinguished personalities from the fields of literature, arts, science, sports and social work.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Members of the Rajya Sabha are elected through the system of proportional representation.",
+   "year": null,
+   "era": "CE",
+   "quote": "The members of Rajya Sabha are elected through the system of proportional representation.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "The Rajya Sabha is never dissolved completely, hence it is called a permanent house.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rajya Sabha is never dissolved completely hence it is called a permanent house.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "One-third of Rajya Sabha members, having completed their six-year tenure, retire every two years and an equal number are elected, so it functions continuously.",
+   "year": null,
+   "era": "CE",
+   "quote": "1/3rd members of total members of Rajya Sabha who have completed their tenure of six years retire after every two years and equal number of new members get elected. Because the limited members of Rajya Sabha retire step by step, Rajya Sabha can function continuously.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "A person contesting Rajya Sabha elections must be an Indian citizen and must have completed 30 years of age.",
+   "year": null,
+   "era": "CE",
+   "quote": "Any person contesting for the elections of Rajya Sabha must be an Indian citizen and he must have completed 30 years of age.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "One can vote after attaining 18 years of age, but contesting Lok Sabha elections needs 25 completed years of age.",
+   "year": null,
+   "era": "CE",
+   "quote": "You can vote after you attain 18 years of age, but you cannot contest elections! ... for contesting Lok Sabha elections one needs to complete 25 years of age",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "place",
+   "text": "The Lok Sabha election can be contested from any constituency of any state.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Lok Sabha election can be contested from any constituency of any state.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "person",
+   "text": "Members of the Lok Sabha and Rajya Sabha are known as Members of Parliament (MPs); they raise questions in Parliament for their constituencies and the Government allocates them development funds.",
+   "year": null,
+   "era": "CE",
+   "quote": "Members of Lok Sabha and Rajya Sabha are known as Member of Parliament (MPs). MPs try to resolve the queries and complaints of their constituencies by raising questions in the Parliament. Government allocates them funds to carry out development work in their respective constituencies.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "Formulation of laws (new laws, repealing outdated laws, changing laws) is the primary and important responsibility of the Parliament.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Parliament has to formulate new laws. Also, outdated laws are repealed, necessary changes are made in some laws. ... the Parliament fulfills this primary and important responsibility.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "Certain out-of-date (obsolete) laws are abolished, for example the abolition of Privy purses.",
+   "year": null,
+   "era": "CE",
+   "quote": "Certain laws which become out-of-date (obsolete) are abolished. ... For example, abolition of Privy purses.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The Prime Minister and the Council of Ministers are drawn from the Parliament, which sees that the Council of Ministers does not disregard it and functions under its supervision.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Prime Minister and the Council of Ministers are drawn from the Parliament and Parliament exercises control over them. ... It is the responsibility of the Parliament to see that the Council of Ministers does not disregard the Parliament and functions under its supervision.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Parliament decides whether to make any amendment to the Constitution; the constitution amendment bill is considered an important bill.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Parliament decides whether to make any amendment to the Indian Constitution. The constitution amendment bill is considered to be an important bill.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Ways of amending: some provisions by simple majority, some by special majority (2/3rd), and a few by special majority plus consent from more than half of the constituent states.",
+   "year": null,
+   "era": "CE",
+   "quote": "(i) Few provisions in the Indian Constitution are amended by simple majority of the Parliament (ii) Some provisions require special majority (2/3rd) of the Parliament. (iii) Few other provisions are amended by special majority of the Parliament plus consent from more than half of the constituent states.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "In the very first meeting after Lok Sabha elections, members elect a 'Speaker' and 'Deputy Speaker' from amongst themselves.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the very first meeting after the elections of Lok Sabha, the members of Lok Sabha elect a 'Speaker' and 'Deputy Speaker' from amongst themselves.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "The Lok Sabha functions under the guidance and control of the Speaker; the Lok Sabha represents the citizens and the Speaker represents the Lok Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "Lok Sabha functions under the guidance and control of the speaker. Lok Sabha represents the citizen and the Speaker represents the Lok Sabha.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "The Speaker conducts the business of the House unbiasedly, takes care of members' rights and privileges, maintains decorum and dignity and interprets the rules of the house.",
+   "year": null,
+   "era": "CE",
+   "quote": "he/she has to conduct the business of the House in an unbiased manner. Lok Sabha members have some rights and privileges ... These are taken care of by the Speaker. Apart from this, the Speaker has to maintain the decorum and dignity of the house as well as interpret the rules of daily functioning of the house",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Vice President of India is the ex-officio Chairman of Rajya Sabha.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "The Rajya Sabha Chairman maintains discipline in the house, facilitates discussions and gives members a chance to speak.",
+   "year": null,
+   "era": "CE",
+   "quote": "The functions of Rajya Sabha Chairman also include maintaining the discipline in the house, facilitating discussions, giving members a chance to speak etc.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "A rough draft of the law prepared at the start of the law-making process is known as the draft proposal of the law or Bill.",
+   "year": null,
+   "era": "CE",
+   "quote": "A rough draft of the law is prepared initially. This draft or outline is known as draft proposal of the law or Bill of law.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "Two types of bills are primarily introduced in Parliament: Money Bill and Ordinary Bill.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are two types of bills that are primarily introduced in House of the Parliament. (1) Money Bill (2) Ordinary Bill.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "event",
+   "text": "First reading: the minister of the concerned department or a member presents the bill and briefly explains its nature.",
+   "year": null,
+   "era": "CE",
+   "quote": "The minister of the concerned department/ministry or member of the parliament presents the bill and briefly explains its nature while presenting it. This is called as 'first reading'.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "Bills related to finance (such as taxes) are 'Money Bills', introduced and passed in the Lok Sabha; the Rajya Sabha has limited powers over them.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bills related to taxes are related to finance. Bills related to finance are considered as 'Money Bills' and such bills are introduced and passed in the Lok Sabha. Rajya Sabha has limited powers with respect to money bills.",
+   "page": 3
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "If the Rajya Sabha feels that, in the national interest, Parliament should make a law on a State List subject, it can pass a resolution to that effect.",
+   "year": null,
+   "era": "CE",
+   "quote": "If Rajya Sabha feels that as a matter of national interest, the Parliament should make a law on the subject in the State List it can pass a resolution to that effect.",
+   "page": 3
+  },
+  {
+   "fid": "f39",
+   "kind": "event",
+   "text": "Second reading has two stages; in the first, the bill's objectives are discussed and it may be sent to a committee of the House, whose report has instructions and recommendations.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are two stages of second reading. In the first stage, the objectives of the proposed Bill are discussed ... the bill is sent to a committee of the House. The committee report consisting of instructions and recommendations is sent to the House",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "In the second phase of the second reading, the bill is discussed clause by clause, members suggest changes and voting is taken.",
+   "year": null,
+   "era": "CE",
+   "quote": "In this phase, the bill is discussed clause by clause. Members can suggest changes. After this, voting is taken in the house.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "Third reading: the bill is discussed briefly again and voted on; with the required majority it is passed by the House.",
+   "year": null,
+   "era": "CE",
+   "quote": "The bill is discussed briefly again during the third reading. Voting is taken for approving the Bill. If the bill gets an assent by the required majority, then the bill is considered as passed by the House.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "event",
+   "text": "The bill goes through the same procedure in the other house; after approval by both houses it is sent for the President's assent.",
+   "year": null,
+   "era": "CE",
+   "quote": "The bill undergoes the same procedure even in the other house. After getting an approval by both the houses, the bill is further sent for assent by the President.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "event",
+   "text": "If the Lok Sabha and Rajya Sabha differ over a bill, its future is decided in a joint meeting of both houses.",
+   "year": null,
+   "era": "CE",
+   "quote": "If there occurs a difference of opinion between Lok Sabha and Rajya Sabha over a specific bill, the future of this bill is decided in a joint meeting of both the houses.",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "event",
+   "text": "After the final assent and signature of the President, the bill is converted into law.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the final assent and signature of the President, the bill is converted into the law and the law is made.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "event",
+   "text": "Every year in February, the Finance Minister presents the national Budget to the Lok Sabha.",
+   "year": null,
+   "era": "CE",
+   "quote": "Every year in the month of February, the Finance Minister presents the national Budget to the Lok Sabha.",
+   "page": 4
+  },
+  {
+   "fid": "f46",
+   "kind": "person",
+   "text": "State Legislatures follow the same law-making procedure; a Bill passed by a State Legislature becomes a Law only after the assent of the Governor.",
+   "year": null,
+   "era": "CE",
+   "quote": "The State Legislatures also follow the same procedure of law making as in the Parliament. The Bill passed by the State Legislature can become a Law only after it receives the assent of the Governor.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-16-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Lok Sabha: <b>5</b> years; Rajya Sabha members: 6 years.",
+   "prompt": "What is the tenure of the Lok Sabha?",
+   "options": [
+    "Six years",
+    "Two years",
+    "Four years",
+    "Five years"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-16-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f32",
+    "f33"
+   ],
+   "hook": "Rajya Sabha Chairman = the <b>Vice President</b> of India (ex-officio).",
+   "prompt": "Who am I?",
+   "clues": [
+    "I facilitate discussions and maintain discipline in my House.",
+    "I give the members of my House a chance to speak.",
+    "I am the ex-officio Chairman of the Rajya Sabha."
+   ],
+   "options": [
+    "President of India",
+    "Prime Minister",
+    "Vice President of India",
+    "Speaker of Lok Sabha"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f16"
+   ],
+   "hook": "Rajya Sabha: <b>238</b> elected + <b>12</b> appointed = <b>250</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The total membership of the Rajya Sabha is 250 members."
+    ],
+    [
+     "Meera",
+     "Out of these, 248 members are elected from the states and Union Territories."
+    ],
+    [
+     "Kabir",
+     "The remaining 12 members are appointed by the President."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "12",
+    "238",
+    "200"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11",
+    "f04"
+   ],
+   "hook": "Lok Sabha = lower, first house. Rajya Sabha = <b>upper, second</b> house.",
+   "prompt": "Which House of Parliament is the upper and second house?",
+   "options": [
+    "Lok Sabha",
+    "Rajya Sabha",
+    "Council of Ministers"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f06"
+   ],
+   "hook": "Directly elected, 5-year tenure: the Lok Sabha is the <b>First</b> house.",
+   "prompt": "Which House am I?",
+   "clues": [
+    "My members are elected from territorial constituencies.",
+    "My tenure is five years.",
+    "I am directly elected by the people, so I am called the 'First' house."
+   ],
+   "options": [
+    "Rajya Sabha",
+    "State Legislature",
+    "Council of Ministers",
+    "Lok Sabha"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-16-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "Ages: vote at <b>18</b>, Lok Sabha at <b>25</b>, Rajya Sabha at <b>30</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "You can vote after you attain 18 years of age."
+    ],
+    [
+     "Arjun",
+     "To contest Lok Sabha elections one needs to complete 25 years of age."
+    ],
+    [
+     "Sana",
+     "A person contesting Rajya Sabha elections must have completed 35 years of age."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "25",
+    "21",
+    "30"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Lok Sabha + Rajya Sabha members = <b>MPs</b>, Members of Parliament.",
+   "prompt": "What are members of the Lok Sabha and Rajya Sabha known as?",
+   "options": [
+    "Ministers",
+    "Members of Parliament (MPs)",
+    "Governors",
+    "Speakers"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Two main bills: <b>Money Bill</b> and <b>Ordinary Bill</b>.",
+   "prompt": "What are the two types of bills primarily introduced in the Houses of Parliament?",
+   "options": [
+    "Money Bill and Ordinary Bill",
+    "State Bill and Union Bill",
+    "Short Bill and Long Bill",
+    "Court Bill and Army Bill"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "Never fully dissolved: one-third retire every <b>2</b> years, so the Rajya Sabha is <b>permanent</b>.",
+   "prompt": "Which House am I?",
+   "clues": [
+    "One-third of my members retire every two years.",
+    "My members have a tenure of six years.",
+    "I am never dissolved completely, so I am called a permanent house."
+   ],
+   "options": [
+    "Rajya Sabha",
+    "Lok Sabha",
+    "State Legislature",
+    "Council of Ministers"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-10",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f06",
+    "f07"
+   ],
+   "hook": "Every 5 years: <b>General</b> Elections. Dissolved early: <b>mid-term</b> elections.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Dev",
+     "The elections held after every five years are known as Local Elections."
+    ],
+    [
+     "Anaya",
+     "If the Lok Sabha is dissolved before five years, the elections are called mid-term elections."
+    ],
+    [
+     "Kabir",
+     "The tenure of the Lok Sabha is five years."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 10
+   },
+   "options": [
+    "Mid-term",
+    "General",
+    "Special"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-11",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "The <b>Constitution of India</b> created the Parliament: President + Lok Sabha + Rajya Sabha.",
+   "prompt": "What has created the Parliament of India?",
+   "options": [
+    "The British Parliament",
+    "The Supreme Court",
+    "The President",
+    "The Constitution of India"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-16-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f30",
+    "f31"
+   ],
+   "hook": "Lok Sabha represents the citizens; the <b>Speaker</b> represents the Lok Sabha.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I take care of the rights and privileges of members.",
+    "I must conduct the business of the House in an unbiased manner.",
+    "I am elected in the very first meeting after the Lok Sabha elections.",
+    "I represent the Lok Sabha, which functions under my guidance and control."
+   ],
+   "options": [
+    "Speaker of Lok Sabha",
+    "Chairman of Rajya Sabha",
+    "President",
+    "Prime Minister"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11",
+    "f17"
+   ],
+   "hook": "Rajya Sabha: upper, second house, indirectly elected by <b>proportional representation</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The members of the Rajya Sabha are indirectly elected."
+    ],
+    [
+     "Tanvi",
+     "The Rajya Sabha is the upper and second house of Parliament."
+    ],
+    [
+     "Rohan",
+     "Its members are elected through the system of territorial representation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "proportional",
+    "direct",
+    "equal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "<b>February</b> every year: the Finance Minister presents the Budget to the Lok Sabha.",
+   "prompt": "In which month does the Finance Minister present the national Budget to the Lok Sabha every year?",
+   "options": [
+    "March",
+    "January",
+    "February",
+    "April"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Money Bills (taxes, finance) start and pass in the <b>Lok Sabha</b>.",
+   "prompt": "In which House are Money Bills introduced and passed?",
+   "options": [
+    "Lok Sabha",
+    "Rajya Sabha",
+    "State Legislature",
+    "Supreme Court"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f03",
+    "f44"
+   ],
+   "hook": "Part of Parliament, no part in debates, but the <b>President's signature</b> makes the law.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am an inseparable part of the Parliament.",
+    "I cannot take part in the discussions in either House.",
+    "My final assent and signature turn a bill into a law."
+   ],
+   "options": [
+    "Vice President",
+    "Speaker",
+    "Finance Minister",
+    "President"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-16-17",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f31"
+   ],
+   "hook": "The <b>Speaker</b> keeps the decorum and dignity of the Lok Sabha.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Some seats in the Lok Sabha are reserved for Scheduled Castes and Scheduled Tribes."
+    ],
+    [
+     "Aditya",
+     "In the Lok Sabha the Governor maintains the decorum and dignity of the house."
+    ],
+    [
+     "Zoya",
+     "The Lok Sabha is the representative body of the citizens of the country."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Speaker",
+    "Chairman",
+    "Judiciary"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-18",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "First reading = the bill is <b>presented</b> and its nature briefly explained.",
+   "prompt": "What happens in the 'first reading' of a bill?",
+   "options": [
+    "The bill is discussed clause by clause.",
+    "The President signs the bill.",
+    "The bill is sent to a joint meeting of both Houses.",
+    "The minister or a member presents the bill and briefly explains its nature."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-16-19",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "State Bill becomes law only after the <b>Governor's</b> assent.",
+   "prompt": "Whose assent does a Bill passed by a State Legislature need before it can become a Law?",
+   "options": [
+    "The Speaker of Lok Sabha",
+    "The Finance Minister",
+    "The Governor",
+    "The Chairman of Rajya Sabha"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f28"
+   ],
+   "hook": "Amending: simple majority, special majority (<b>2/3rd</b>), or special majority + over half the states.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "The Parliament decides whether to make any amendment to the Constitution."
+    ],
+    [
+     "Farhan",
+     "Some provisions need a special majority of three-fourths of the Parliament."
+    ],
+    [
+     "Pooja",
+     "A few other provisions also need the consent of more than half of the constituent states."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "one-third",
+    "one-half",
+    "two-thirds"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "Members leave <b>step by step</b> (one-third every 2 years), so the Rajya Sabha never stops.",
+   "prompt": "Why can the Rajya Sabha function continuously?",
+   "options": [
+    "All its members retire together every six years.",
+    "It is dissolved every five years.",
+    "One-third of its members retire every two years, step by step.",
+    "Its members never retire."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34",
+    "f42",
+    "f44"
+   ],
+   "hook": "Rough draft of a law = a <b>Bill</b>; after both Houses and the President, it becomes law.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am prepared at the very start of the law-making process.",
+    "I am a rough draft or outline of a law.",
+    "I am also called the draft proposal of the law."
+   ],
+   "options": [
+    "Budget",
+    "Bill",
+    "Constitution",
+    "Resolution"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f39",
+    "f40",
+    "f41"
+   ],
+   "hook": "1st: present. 2nd: discuss, committee, clause by clause. <b>3rd</b>: brief talk and final vote.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sneha",
+     "In the first stage of the second reading, the objectives of the Bill are discussed."
+    ],
+    [
+     "Om",
+     "In the second phase, the bill is discussed clause by clause."
+    ],
+    [
+     "Leela",
+     "During the first reading, the bill is discussed briefly again and voting is taken for approving it."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "second",
+    "third",
+    "fourth"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f32",
+    "f29"
+   ],
+   "hook": "Lok Sabha elects its <b>Speaker</b>; the Vice President chairs the Rajya Sabha.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Prime Minister is the Chairman of the Rajya Sabha.",
+    "The Vice President of India is the ex-officio Chairman of the Rajya Sabha.",
+    "The Speaker of Lok Sabha is appointed by the President.",
+    "The Rajya Sabha has no Chairman."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f24"
+   ],
+   "hook": "Out-of-date laws go: e.g. abolition of <b>Privy purses</b>.",
+   "prompt": "Which of these is given as an example of abolishing an obsolete (out-of-date) law?",
+   "options": [
+    "Abolition of Privy purses",
+    "Abolition of the Rajya Sabha",
+    "Abolition of General Elections",
+    "Abolition of the Speaker"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Seats by population; <b>Maharashtra: 48</b> Lok Sabha seats.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "Constituent States in India get Lok Sabha seats on the basis of their population."
+    ],
+    [
+     "Ira",
+     "Maharashtra has 28 seats in the Lok Sabha."
+    ],
+    [
+     "Yash",
+     "Each State is divided into territorial constituencies with approximately equal population."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "38",
+    "58",
+    "48"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f12"
+   ],
+   "hook": "Rajya Sabha: weak on money bills, but can push a law on a <b>State List</b> subject.",
+   "prompt": "Which House am I?",
+   "clues": [
+    "I have limited powers with respect to money bills.",
+    "In the national interest, I can pass a resolution that the Parliament should make a law on a State List subject.",
+    "My members work as representatives of the constituent states."
+   ],
+   "options": [
+    "Lok Sabha",
+    "State Legislature",
+    "Rajya Sabha"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "Houses disagree on a bill? A <b>joint meeting</b> of both Houses decides.",
+   "prompt": "What happens if the Lok Sabha and the Rajya Sabha disagree over a specific bill?",
+   "options": [
+    "The Supreme Court decides.",
+    "Its future is decided in a joint meeting of both the Houses.",
+    "The bill is passed automatically.",
+    "The Speaker alone decides."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Parliament's <b>primary</b> job: make new laws, repeal outdated ones, change some.",
+   "prompt": "What is the primary and important responsibility of the Parliament?",
+   "options": [
+    "Commanding the defence forces",
+    "Appointing the Governors",
+    "Presenting the bill to the courts",
+    "Formulation of laws"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-16-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "<b>12</b> distinguished people (literature, arts, science, sports, social work) are appointed.",
+   "prompt": "How many members of the Rajya Sabha are appointed by the President?",
+   "options": [
+    "12",
+    "2",
+    "238",
+    "48"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "PM and ministers come <b>from</b> Parliament and work under its <b>supervision</b>.",
+   "prompt": "What is the responsibility of the Parliament towards the Council of Ministers?",
+   "options": [
+    "To take orders from it on every matter",
+    "To see that it does not disregard the Parliament and works under its supervision",
+    "To dissolve it every year",
+    "To elect its members directly from the people"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-32",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f37"
+   ],
+   "hook": "Tax and finance bills are <b>Money Bills</b>: Lok Sabha first.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am one of the two types of bills primarily introduced in Parliament.",
+    "Bills related to taxes and finance are of my kind.",
+    "I am introduced and passed in the Lok Sabha; the Rajya Sabha has limited powers over me."
+   ],
+   "options": [
+    "Ordinary Bill",
+    "Constitution amendment bill",
+    "Money Bill",
+    "Resolution"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f05",
+    "f06",
+    "f18",
+    "f19"
+   ],
+   "hook": "Lok Sabha: 5 years, dissolvable. Rajya Sabha: <b>6-year</b> members, one-third out every <b>2</b> years.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Rajya Sabha members serve six years and one-third of them retire every two years.",
+    "Lok Sabha members serve six years and one-third retire every two years.",
+    "The Rajya Sabha is dissolved every five years for General Elections.",
+    "Rajya Sabha members are directly elected from territorial constituencies."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f14",
+    "f15",
+    "f16",
+    "f20"
+   ],
+   "hook": "Rajya Sabha seats follow each state's <b>population</b>, so states are not equal.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meher",
+     "The Rajya Sabha has 238 elected members and 12 members appointed by the President."
+    ],
+    [
+     "Siddharth",
+     "A state's representation in the Rajya Sabha is proportionate to the area of each state."
+    ],
+    [
+     "Lata",
+     "A person contesting Rajya Sabha elections must have completed 30 years of age."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 11
+   },
+   "options": [
+    "wealth",
+    "population",
+    "history"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Hardest amendments: <b>special majority + more than half</b> of the constituent states.",
+   "prompt": "A few provisions of the Constitution need a special majority of the Parliament plus what else to be amended?",
+   "options": [
+    "Consent of the Supreme Court",
+    "Consent from more than half of the constituent states",
+    "Consent of one-third of the states",
+    "Consent of all political parties"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-16-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Third reading: brief discussion, then the <b>vote</b> that passes the bill in that House.",
+   "prompt": "Which stage am I?",
+   "clues": [
+    "The bill is discussed briefly again during me.",
+    "Voting is taken during me for approving the bill.",
+    "If the bill gets the required majority in me, it is passed by the House."
+   ],
+   "options": [
+    "First reading",
+    "Second reading",
+    "Joint meeting",
+    "Third reading"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-16-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f42",
+    "f44",
+    "f46"
+   ],
+   "hook": "Union law: <b>President</b> signs. State law: <b>Governor</b> assents.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "After approval by both Houses, the bill is sent for assent by the President."
+    ],
+    [
+     "Shreya",
+     "After the final assent and signature of the President, the bill becomes law."
+    ],
+    [
+     "Manav",
+     "A Bill passed by a State Legislature becomes a Law only after the Speaker gives assent."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 13
+   },
+   "options": [
+    "Governor",
+    "Chairman",
+    "Judiciary"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f02",
+    "f03"
+   ],
+   "hook": "Parliament = President + Lok Sabha + Rajya Sabha, but the President <b>never debates</b>.",
+   "prompt": "Which statement about the President and the Parliament is correct?",
+   "options": [
+    "The President is not a part of the Parliament.",
+    "The President leads the discussions in the Lok Sabha.",
+    "The President is an inseparable part of the Parliament but cannot take part in discussions in either House.",
+    "The President is the Chairman of the Rajya Sabha."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-16-39",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f39",
+    "f40"
+   ],
+   "hook": "Second reading: <b>two</b> stages, committee report, then clause by clause.",
+   "prompt": "Which stage am I?",
+   "clues": [
+    "I have two stages.",
+    "In my first stage, the bill's objectives are discussed and it may be sent to a committee of the House.",
+    "In my second phase, the bill is discussed clause by clause and members suggest changes."
+   ],
+   "options": [
+    "Second reading",
+    "First reading",
+    "Third reading",
+    "Joint meeting"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-16-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "<b>18</b> to vote, <b>25</b> for Lok Sabha, <b>30</b> for Rajya Sabha.",
+   "prompt": "Which set of ages is correct?",
+   "options": [
+    "Vote at 21, Lok Sabha at 25, Rajya Sabha at 30",
+    "Vote at 18, Lok Sabha at 25, Rajya Sabha at 30",
+    "Vote at 18, Lok Sabha at 30, Rajya Sabha at 25",
+    "Vote at 18, Lok Sabha at 25, Rajya Sabha at 35"
+   ],
+   "answer": 1
+  }
+ ]
+}

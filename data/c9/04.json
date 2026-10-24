@@ -1,0 +1,1649 @@
+{
+ "class": 9,
+ "id": "04",
+ "title": "Economic Development",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "person",
+   "text": "Prime Minister Pandit Nehru adopted the middle path rather than any extremes, and India gave preference to a model of 'mixed economy'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Our Prime Minister Pandit Nehru adopted the middle path rather than taking recourse to any extremes. ... we gave preference to a model of 'mixed economy'.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "In a capitalist system the means of production are privately owned; in a socialist economy they are owned by the State in the name of the society. A mixed economy works both in the private and the public sector.",
+   "year": null,
+   "era": "CE",
+   "quote": "In a capitalist system, the means of production are privately owned. In a socialist economy, the means of production are owned by the State in the name of the society. A mixed economy works both in the private and the public sector.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Public Sector: industries completely under the control and management of the government, for example production of defence equipment.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) Public Sector : The industries in this sector are completely under the control and management of the government. For example, production of defence equipment.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "Private Sector: industries owned by private industrialists, supervised and controlled by the government too, for example consumer goods.",
+   "year": null,
+   "era": "CE",
+   "quote": "(2) Private Sector : The industries in this sector are owned by private industrialists. Of course, the government supervises and controls them too. For example, consumer goods.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Joint Sector: some industries are owned by private industrialists, while some are run under government management.",
+   "year": null,
+   "era": "CE",
+   "quote": "(3) Joint Sector : In this sector, some industries are owned by private industrialists, while some are run under government management.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "Defence, scientific research, education, roads, railways, waterways, sea port and airport development need huge capital and give delayed returns; few private industrialists invest, so the government has to take the initiative.",
+   "year": null,
+   "era": "CE",
+   "quote": "The industries like defence, scientific research, education, roads, railways, waterways, sea port and airport development require huge capital investment but the returns in these areas are delayed. Not many private industrialists are keen to invest in these areas. In such a situation, the government has to take the initiative.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "date",
+   "text": "The industrial policy of 1973 increased the speed of development; the government focused on small scale and cottage industries and paid more attention to the cooperative sector.",
+   "year": 1973,
+   "era": "CE",
+   "quote": "The industrial policy of 1973 increased the speed of development. ... The government focused on the development of small scale industries and cottage industries. Government also started paying more attention to the cooperative sector.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "date",
+   "text": "India established the Planning Commission in 1950 with Prime Minister Pandit Jawaharlal Nehru as its Chairman.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "India established the Planning Commission in 1950 with Prime Minister Pandit Jawaharlal Nehru as its Chairman.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Fundamental principle of planning: proportionate distribution of the resources of a country and appropriate use of the human resources to fulfil the needs of the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "A general principle of planning is the proportionate distribution of the resources of a country and the appropriate use of the human resources to fulfil the needs of the people.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "Goals of planning included increasing national income, rapid industrialisation focusing on basic industries, self-sufficiency in food grain, controlling population growth by family planning and making the economy self-sufficient.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) Increase in the national income. (2) Bring about rapid industrialisation by focusing on the basic industries. ... (7) Bring the growth in population under control by family planning. ... (10) Make the economy self-sufficient.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "date",
+   "text": "First Five Year Plan (1951-1956): expenditure mainly on agriculture, social development, irrigation and flood control and more; it laid the foundations of planned economic development.",
+   "year": 1951,
+   "era": "CE",
+   "quote": "First Five Year Plan (1951-1956): The expenditure in this plan was primarily on agriculture, social development, irrigation and flood control ... This plan consisted of measures to lay the foundations of planned economic development.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "date",
+   "text": "Second Five Year Plan (1956-1961) had ambitious goals of industrialisation; iron and steel industries were set up at Durgapur, Bhilai and Rourkela.",
+   "year": 1956,
+   "era": "CE",
+   "quote": "Second Five Year Plan (1956-1961): This plan had ambitious goals of industrialisation. Iron and steel industries at Durgapur, Bhilai and Rourkela",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "place",
+   "text": "In the Second Plan: chemical fertilisers plant at Sindri, rail engine factory at Chittaranjan, factory of railway bogies at Perambur, ship building factory at Vishakhapattanam.",
+   "year": null,
+   "era": "CE",
+   "quote": "Chemical fertilisers plant at Sindri; rail engine factory at Chittaranjan; factory of railway bogies at Perambur; Ship building factory at Vishakhapattanam and other heavy industries were set up in the Public Sector.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "place",
+   "text": "Huge dams like Bhakra-Nangal and Damodar were built in the Second Plan to make water available for agriculture.",
+   "year": null,
+   "era": "CE",
+   "quote": "Huge dams like Bhakra- Nangal, Damodar, etc. were built to make water available for agriculture. It led to increase in the national income.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "Third Five Year Plan (1961-1966) aimed at a balance in industries and agriculture.",
+   "year": 1961,
+   "era": "CE",
+   "quote": "Third Five Year Plan (1961-1966) : This plan was aimed at bringing about a balance in industries and agriculture.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "date",
+   "text": "After the third plan, three one year plans were implemented (1966 to 1969), a period of intense famine; due to the invasion by China and war with Pakistan the government had to focus on defence.",
+   "year": 1966,
+   "era": "CE",
+   "quote": "After the third five year plan, three one year plans were implemented (1966 to 1969). This was a period of intense famine. Due to the invasion by China and war with Pakistan, the government had to focus on defence rather than development related tasks.",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "Fourth Five Year Plan (1969-1974): aimed at self-reliance and a socialistic pattern of society; 14 major banks were nationalised; the economy bore the burden of the Bangladesh War and its refugees.",
+   "year": 1969,
+   "era": "CE",
+   "quote": "Fourth Five Year Plan (1969-1974): ... pay attention to establishing a socialistic pattern of society. 14 major banks in the country were nationalised. This plan did not succeed as expected. The economy had to bear the burden of the Bangladesh War.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "Fifth Five Year Plan (1974-1979) aimed at making India economically self-sufficient by alleviating poverty, including a public distribution system; the goals of removing poverty and increasing employment were not achieved.",
+   "year": 1974,
+   "era": "CE",
+   "quote": "Fifth Five Year Plan (1974-1979) : This plan was designed with the goal of making India economically self-sufficient by alleviating poverty. ... During the fifth plan, it was not possible to achieve the goals of removal of poverty and increase in employment.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "date",
+   "text": "In the 1977 general elections the Congress Party was defeated and the Janata Party came to power.",
+   "year": 1977,
+   "era": "CE",
+   "quote": "In the 1977 general elections, the Congress Party was defeated. The Janata Party came to power.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "The new government ended the fifth plan towards the end of March 1978 and started the Rolling Plan from April 1978, but it failed.",
+   "year": 1978,
+   "era": "CE",
+   "quote": "The new government ended the fifth plan towards the end of March 1978 and started the Rolling Plan from April 1978, but it failed.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "In 1980 the Congress party came to power in the Lok Sabha elections and closed the Rolling Plan.",
+   "year": 1980,
+   "era": "CE",
+   "quote": "In 1980, general elections were held for Lok Sabha. The Congress party came to power. The Congress government closed the system of the Rolling Plan and again started planning like before.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "date",
+   "text": "Sixth Five Year Plan (1980-1985) stressed alleviation of poverty and employment generation, and a population policy so that people adopted the small family norm voluntarily.",
+   "year": 1980,
+   "era": "CE",
+   "quote": "Sixth Five Year Plan (1980-1985) : This plan also stressed upon alleviation of poverty and employment generation. ... shape and implement a population policy so that people adopted the small family norm voluntarily",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "event",
+   "text": "Programmes of the sixth plan: Integrated Rural Development Programme (IRDP), Rural Landless Employment Guarantee Programme (RLEGP), National Rural Employment Programme (NREP), Salem Steel Plant.",
+   "year": null,
+   "era": "CE",
+   "quote": "The following programmes were implemented in the sixth five year plan: Integrated Rural Development Programme (IRDP). Rural Landless Employment Guarantee Programme (RLEGP). National Rural Employment Programme (NREP). Salem Steel Plant.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "date",
+   "text": "Seventh Five Year Plan (1985-1990) laid stress on food, employment and productivity, aiming at a yearly increase in national income of 5%.",
+   "year": 1985,
+   "era": "CE",
+   "quote": "Seventh Five Year Plan (1985-1990): This plan laid stress on food, employment and productivity. ... to achieve an yearly increase in national income of 5% and increase food grain production.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "The seventh plan started Jawahar Rojgar Yojana, India Awaas Yojana and the Scheme of 10 lakh wells; it proved important for employment generation.",
+   "year": null,
+   "era": "CE",
+   "quote": "Jawahar Rojgar Yojana * India Awaas Yojana * Scheme of 10 lakh wells. The Seventh plan proved to be important from the point of view of employment generation.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "date",
+   "text": "Eighth Five Year Plan (1992-1997) gave a lot of scope to the private sector; it aimed to maintain growth in national income at 6.5% and remove illiteracy by expansion of primary education.",
+   "year": 1992,
+   "era": "CE",
+   "quote": "Eight Five Year Plan (1992-1997): This plan gave a lot of scope to the private sector. The plan had the following features: to maintain the rate of growth in national income at 6.5% ... to remove illiteracy by expansion of primary education.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "event",
+   "text": "Programmes of the eighth plan: Pradhanmantri Rozgar Yojana, Mahila Samriddhi Yojana, Rashtriya Samajik Arthik Sahayya Yojana, Midday Meal Scheme, Indira Mahila Scheme, Ganga Kalyan Scheme.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pradhanmantri Rozgar Yojana * Mahila Samriddhi Yojana * Rashtriya Samajik, Arthik Sahayya Yojana * Midday Meal Scheme * Indira Mahila Scheme * Ganga Kalyan Scheme",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "event",
+   "text": "During the eighth plan the private sector grew in importance; the plan reflected the liberalisation and free market policy adopted in 1991.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "During the eighth plan, the importance of the private sector grew. This plan is a reflection of the liberalisation and free market policy adopted in 1991.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "date",
+   "text": "Ninth Five Year Plan (1997-2002) focused on agriculture and rural development; communication and the service sector progressed as expected.",
+   "year": 1997,
+   "era": "CE",
+   "quote": "Ninth Five Year Plan (1997-2002) : This plan focused on agriculture and rural development. ... In this plan, the progress of communication system and service sector was achieved as per the expectations.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "Schemes started in the ninth plan included Swarna Jayanti Shahari Rozgar Yojana, Antyodaya Anna Yojana and Pradhanmantri Gram Sadak Yojana.",
+   "year": null,
+   "era": "CE",
+   "quote": "The following schemes were started during this plan : Swarna Jayanti Shahari Rozgar Yojana, ... Antyodaya Anna Yojana, Pradhanmantri Gram Sadak Yojana, etc.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "event",
+   "text": "During the tenure of Pandit Nehru and Lal Bahadur Shastri, banking was a monopoly of the private sector.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the tenure of Prime Ministers Pandit Nehru and Lal Bahadur Shastri, banking was a monopoly of the private sector.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "date",
+   "text": "The government nationalised the 'Imperial Bank' in 1955 and it was converted into State Bank of India.",
+   "year": 1955,
+   "era": "CE",
+   "quote": "the government nationalised the 'Imperial Bank' in 1955 and it got converted into State Bank of India.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "Prime Minister Indira Gandhi nationalised 14 banks on 19th July 1969, including Allahabad Bank, Bank of Baroda, Bank of Maharashtra and Punjab National Bank.",
+   "year": 1969,
+   "era": "CE",
+   "quote": "Prime Minister Indira Gandhi nationalised 14 banks on 19th July 1969. These include : Allahabad Bank, Bank of Baroda, Bank of India, Bank of Maharashtra, ... Punjab National Bank",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "In 1980, six more banks were nationalised.",
+   "year": 1980,
+   "era": "CE",
+   "quote": "In 1980, six more banks were nationalised.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "event",
+   "text": "Banks were nationalised to cover deficits while implementing schemes, and so that their profits would come into the government treasury.",
+   "year": null,
+   "era": "CE",
+   "quote": "Nationalisation of banks was essential to cover the deficits if they occurred while implementing different schemes. Also the profits of these banks would come into the government treasury once they were nationalised.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "Lal Bahadur Shastri undertook the experiment of the Green Revolution to overcome food shortages and drought.",
+   "year": null,
+   "era": "CE",
+   "quote": "Lal Bahadur Shastri undertook the experiment of the Green Revolution in order to overcome food shortages and drought.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "event",
+   "text": "The 'Congress Forum for Socialist Action' demanded nationalisation of commercial banks; even the Communist Party supported this demand.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Congress Forum for Socialist Action', a group in the Congress party inspired by socialist ideas made a demand for nationalisation of commercial banks. Even the Communist Party supported this demand.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "Prime Minister Indira Gandhi announced the 20-point programme on 1st July 1975 to make efforts towards rapidly becoming a developed nation.",
+   "year": 1975,
+   "era": "CE",
+   "quote": "Prime Minister Indira Gandhi announced the 20-point programme on 1st July 1975 and resolved to make efforts towards rapidly becoming a developed nation.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "20-point programme provisions included land ceiling, minimum wages for workers, freeing bonded labour, prevention of tax evasion and smuggling, and improving the textile industry by developing the handloom sector.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) Land ceiling ... minimum wages for workers ... (2) ... freeing bonded labour. (3) Prevention of tax evasion, economic crimes and smuggling. ... (5) Improvement in the textile industry by developing handloom sector",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "The first textile mill was started in Mumbai in 1854 by Kawasjee Dawar.",
+   "year": 1854,
+   "era": "CE",
+   "quote": "The first textile mill was started in Mumbai in 1854 by Kawasjee Dawar.",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "place",
+   "text": "Mills started in Dadar, Paral, Bhaykhala, Shivdi, Prabhadevi and Worli; this part came to be known as Girangaon or 'town of mills'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Eventually, mills started in Dadar, Paral, Bhaykhala, Shivdi, Prabhadevi and Worli. This part came to be known as Girangaon or 'town of mills'.",
+   "page": 5
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "Mahatma Jotirao Phule's associate Narayan Meghaji Lokhande's efforts resulted in the weekly Sunday holiday for mill workers from 1st January 1882.",
+   "year": 1882,
+   "era": "CE",
+   "quote": "Mahatma Jotirao Phule's associate Narayan Meghaji Lokhande's efforts resulted in the weekly Sunday holiday for mill workers from 1st January 1882.",
+   "page": 5
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "In the Diwali of 1981 workers expected a 20% bonus; the Rashtriya Mill Mazdoor Sangh agreed upon 8 to 17% without taking the workers into confidence, causing unrest.",
+   "year": 1981,
+   "era": "CE",
+   "quote": "In the Diwali of 1981, the workers expected to get a bonus of 20%. The Rashtriya Mill Mazdoor Sangh ... agreed upon 8 to 17% bonus without taking the workers into confidence. The cut in the bonus proved to be the cause of unrest.",
+   "page": 5
+  },
+  {
+   "fid": "f44",
+   "kind": "date",
+   "text": "Workers of 65 mills came together and Dr Datta Samant led the strike; on 18th January 1982 two and a half lakh workers went on strike and Girangaon mills stopped running.",
+   "year": 1982,
+   "era": "CE",
+   "quote": "Workers of 65 mills came together and Dr Datta Samant led the strike. On 18th January 1982, two and a half lakh workers went on a strike. Girangaon mills stopped running making it seem like Mumbai's heart stopped throbbing.",
+   "page": 5
+  },
+  {
+   "fid": "f45",
+   "kind": "person",
+   "text": "Chief Minister Barrister A. R. Antulay set up a committee; later Chief Minister Babasaheb Bhosale insisted he would talk only with the Rashtriya Mill Mazdoor Sangha; Dr Datta Samant demanded that the law be revoked.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Chief Minister of Maharashtra, Barrister A. R. Antulay set up a committee to solve this issue. Later Babasaheb Bhosale became the Chief Minister ... he would talk only with the Rashtriya Mill Mazdoor Sangha. Dr Datta Samant demanded that the law be revoked.",
+   "page": 6
+  },
+  {
+   "fid": "f46",
+   "kind": "date",
+   "text": "The workers started a 'Jail Bharo Agitation'; in September 1982 one and a half lakh workers marched on the Legislative Assembly of Maharashtra.",
+   "year": 1982,
+   "era": "CE",
+   "quote": "The workers started a 'Jail Bharo Agitation'. In September 1982, one and a half lakh workers took a march on the Legislative Assembly of Maharashtra State. It didn't help at all.",
+   "page": 6
+  },
+  {
+   "fid": "f47",
+   "kind": "event",
+   "text": "The strike completed a year - the first strike to have gone on for a year; about one and a half lakh workers became unemployed.",
+   "year": null,
+   "era": "CE",
+   "quote": "The strike completed a year. This was the first strike to have gone on for a year. In this period, about one and a half lakh workers became unemployed.",
+   "page": 6
+  },
+  {
+   "fid": "f48",
+   "kind": "place",
+   "text": "As polyester came into greater demand, mills moved from Mumbai to Surat in Gujarat; the Central government nationalised 13 textile mills.",
+   "year": null,
+   "era": "CE",
+   "quote": "As polyester had come into greater demand than cotton cloth ... The mills moved from Mumbai to Surat in Gujarat. The Central government nationalised 13 textile mills.",
+   "page": 6
+  },
+  {
+   "fid": "f49",
+   "kind": "person",
+   "text": "Anna Bhau Sathe, Shahir Amar Sheikh and Shahir Sable were popular for programmes aimed at public education; poets like Narayan Surve and Namdev Dhasal portrayed workers' real life in poems.",
+   "year": null,
+   "era": "CE",
+   "quote": "Anna Bhau Sathe, Shahir Amar Sheikh, Shahir Sable were popular for their programmes aimed at public education. Poets like Narayan Surve, Namdev Dhasal, etc. portrayed the real life of the workers through their poems.",
+   "page": 6
+  },
+  {
+   "fid": "f50",
+   "kind": "date",
+   "text": "1991: after the 10th General Elections P. V. Narasimha Rao became Prime Minister and, with Dr Manmohan Singh as Finance Minister, adopted the new economic policy linking India's economy with the global economy.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "The year 1991 is very important in the history of modern India. After the 10th General Elections, P. V. Narasimha Rao became the Prime Minister of India. With Dr Manmohan Singh as Finance Minister, he adopted the new economic policy of linking India's economy with the global economy.",
+   "page": 6
+  },
+  {
+   "fid": "f51",
+   "kind": "person",
+   "text": "Before the Rao government, Chandra Shekhar was Prime Minister and inflation was 17%; growth had gone down by 1.1% and foreign exchange reserves could last for imports only for a week.",
+   "year": null,
+   "era": "CE",
+   "quote": "Before the P. V. Narasimha Rao government took charge, Chandra Shekhar was the Prime Minister. During his tenure the rate of inflation was 17%. Economic growth rate had gone down by 1.1%. India had foreign exchange reserves only enough to last for imports for a week.",
+   "page": 6
+  },
+  {
+   "fid": "f52",
+   "kind": "date",
+   "text": "In May 1991 the government tried to control the situation by selling some of its gold reserves and mortgaging some.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "In May 1991, the government had tried to control the situation by selling some of its gold reserves and by mortgaging some.",
+   "page": 6
+  },
+  {
+   "fid": "f53",
+   "kind": "event",
+   "text": "The V. P. Singh government had incurred a liability of over 10 thousand crore rupees by waiving off the loans of all farmers.",
+   "year": null,
+   "era": "CE",
+   "quote": "Before the Chandra Shekhar government, the V. P. Singh government had incurred a liability of over 10 thousand crore rupees on the economy by waiving off the loans of all farmers.",
+   "page": 6
+  },
+  {
+   "fid": "f54",
+   "kind": "event",
+   "text": "Foreign loan rose from 2350 crore dollars in 1980-81 to 8380 crore dollars in 1990-91; foreign exchange reserves were only 100 crore dollars, with oil prices up due to the invasion of Kuwait by Iraq.",
+   "year": null,
+   "era": "CE",
+   "quote": "In 1980-81 foreign loan was 2350 crore dollars. It increased to 8380 crore dollars in 1990-91. At this time, India had foreign exchange reserves of only 100 crore dollars. This also had the background of the increased oil prices due to the invasion of Kuwait by Iraq.",
+   "page": 7
+  },
+  {
+   "fid": "f55",
+   "kind": "event",
+   "text": "Dr Manmohan Singh removed restrictions on foreign investments, restricted the licence system to 18 industries and opened the public sector to investment by private industries.",
+   "year": null,
+   "era": "CE",
+   "quote": "He removed the restrictions on foreign investments. He restricted the licence system to 18 industries. ... he opened up the public sector for investment by private industries.",
+   "page": 7
+  },
+  {
+   "fid": "f56",
+   "kind": "date",
+   "text": "To bring the share market under control, the Securities and Exchange Board of India (SEBI) was established in 1988; the National Stock Exchange was computerised.",
+   "year": 1988,
+   "era": "CE",
+   "quote": "In order to bring the share market under control, he established the Securities and Exchange Board of India (SEBI) in 1988. National Stock Exchange was computerised.",
+   "page": 7
+  },
+  {
+   "fid": "f57",
+   "kind": "event",
+   "text": "India recovered the gold mortgaged with the Bank of England; opening the telecom sector spread mobile phone services; Dr Manmohan Singh signed the WTO agreement and launched privatisation, liberalisation and globalisation.",
+   "year": null,
+   "era": "CE",
+   "quote": "India could recover the gold mortgaged with the Bank of England. ... As the government opened up the telecom sector, mobile phone services started all over the country. Dr Manmohan Singh signed the agreement with the World Trade Organisation and launched the policy of privatisation, liberalisation and globalisation.",
+   "page": 7
+  },
+  {
+   "fid": "f58",
+   "kind": "date",
+   "text": "In 1995 India became a member of the World Trade Organisation (WTO), whose objectives include free trade between countries.",
+   "year": 1995,
+   "era": "CE",
+   "quote": "In 1995, India became a member of the World Trade Organisation (WTO). The organisation had the following objectives: to free trade between countries",
+   "page": 7
+  },
+  {
+   "fid": "f59",
+   "kind": "term",
+   "text": "The General Agreement on Tariffs and Trade (GATT) existed at the international level before the WTO and regulated commerce.",
+   "year": null,
+   "era": "CE",
+   "quote": "General Agreement on Tariffs and Trade (GATT) existed at the international level before the World Trade Organisation came into being. It regulated commerce.",
+   "page": 7
+  },
+  {
+   "fid": "f60",
+   "kind": "event",
+   "text": "India signed SAPTA, removed import restrictions on several commodities for SAARC countries and opened up the insurance sector to private and foreign investment.",
+   "year": null,
+   "era": "CE",
+   "quote": "India signed the South Asian Preferential Trade Arrangement (SAPTA) ... India removed the import restrictions on several commodities for SAARC countries. ... India opened up the insurance sector to private and foreign investment.",
+   "page": 7
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-04-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f08",
+    "f12",
+    "f15",
+    "f16",
+    "f17"
+   ],
+   "hook": "Commission 1950, then plans start 1956, 1961 and - after three one year plans - 1969.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Planning Commission set up",
+     "y": "1950",
+     "k": 19500000
+    },
+    {
+     "t": "Second Five Year Plan begins",
+     "y": "1956",
+     "k": 19560000
+    },
+    {
+     "t": "Third Five Year Plan begins",
+     "y": "1961",
+     "k": 19610000
+    },
+    {
+     "t": "Fourth Five Year Plan begins",
+     "y": "1969",
+     "k": 19690000
+    }
+   ]
+  },
+  {
+   "qid": "c9-04-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "1950: Planning Commission with Nehru as Chairman; one year later the First Plan began.",
+   "prompt": "In which year did India establish the Planning Commission?",
+   "year": 1950,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f33",
+    "f17"
+   ],
+   "hook": "19th July 1969: Indira Gandhi nationalised 14 banks, in the very first year of the Fourth Plan.",
+   "prompt": "In which year did Indira Gandhi nationalise 14 banks on 19th July?",
+   "year": 1969,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-04",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f50"
+   ],
+   "hook": "1991: Rao as Prime Minister, Manmohan Singh as Finance Minister - India linked to the global economy.",
+   "prompt": "In which year did India adopt the New Economic Policy under P. V. Narasimha Rao?",
+   "year": 1991,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f01",
+    "f08",
+    "f31"
+   ],
+   "hook": "Middle path + Planning Commission Chairman in 1950 = Pandit Jawaharlal Nehru.",
+   "prompt": "Who am I?",
+   "clues": [
+    "During my time as Prime Minister, banking was a monopoly of the private sector.",
+    "I was the Chairman of the Planning Commission set up in 1950.",
+    "As Prime Minister, I adopted the middle path rather than any extremes for the economy."
+   ],
+   "options": [
+    "Pandit Jawaharlal Nehru",
+    "Lal Bahadur Shastri",
+    "Indira Gandhi",
+    "P. V. Narasimha Rao"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f37",
+    "f38"
+   ],
+   "hook": "Banks in 1969, 20 points in 1975: both by Prime Minister Indira Gandhi.",
+   "prompt": "Who am I?",
+   "clues": [
+    "During my tenure, the 'Congress Forum for Socialist Action' demanded nationalisation of commercial banks.",
+    "I announced the 20-point programme on 1st July 1975.",
+    "As Prime Minister, I nationalised 14 banks on 19th July 1969."
+   ],
+   "options": [
+    "Indira Gandhi",
+    "P. V. Narasimha Rao",
+    "Lal Bahadur Shastri",
+    "Pandit Jawaharlal Nehru"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01",
+    "f02",
+    "f03"
+   ],
+   "hook": "Public sector = fully government, like defence equipment; private sector = consumer goods.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Pandit Nehru adopted the middle path rather than any extremes."
+    ],
+    [
+     "Diya",
+     "A mixed economy works both in the private and the public sector."
+    ],
+    [
+     "Aarav",
+     "The production of defence equipment is an example of the private sector."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "cottage",
+    "public",
+    "foreign"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f32",
+    "f33",
+    "f34"
+   ],
+   "hook": "Imperial Bank 1955, 14 banks in 1969, six more in 1980.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Imperial Bank was nationalised and converted into the State Bank of India."
+    ],
+    [
+     "Meera",
+     "Prime Minister Indira Gandhi nationalised 18 banks on 19th July 1969."
+    ],
+    [
+     "Ishaan",
+     "In 1980, six more banks were nationalised."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "12",
+    "14",
+    "16"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f32",
+    "f33",
+    "f38",
+    "f34"
+   ],
+   "hook": "Banks 1955, banks 1969, 20 points 1975, banks again 1980.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Imperial Bank nationalised",
+     "y": "1955",
+     "k": 19550000
+    },
+    {
+     "t": "14 banks nationalised",
+     "y": "19 July 1969",
+     "k": 19690719
+    },
+    {
+     "t": "20-point programme announced",
+     "y": "1 July 1975",
+     "k": 19750701
+    },
+    {
+     "t": "Six more banks nationalised",
+     "y": "1980",
+     "k": 19800000
+    }
+   ]
+  },
+  {
+   "qid": "c9-04-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "1st July 1975: Indira Gandhi's 20-point programme, six years after the 1969 bank nationalisation.",
+   "prompt": "In which year did Indira Gandhi announce the 20-point programme on 1st July?",
+   "year": 1975,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-11",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "1854: Kawasjee Dawar starts Mumbai's first textile mill.",
+   "prompt": "In which year was the first textile mill started in Mumbai by Kawasjee Dawar?",
+   "year": 1854,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-12",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f58"
+   ],
+   "hook": "1991 new policy, 1995 India joins the WTO: four years later.",
+   "prompt": "In which year did India become a member of the World Trade Organisation?",
+   "year": 1995,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f45"
+   ],
+   "hook": "65 mills, 18th January 1982, two and a half lakh workers: Dr Datta Samant's strike.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I demanded that the law be revoked.",
+    "Unhappy mill workers came to me and asked me to accept their leadership.",
+    "Workers of 65 mills came together and I led their strike in 1982."
+   ],
+   "options": [
+    "A. R. Antulay",
+    "Narayan Meghaji Lokhande",
+    "Dr Datta Samant",
+    "Babasaheb Bhosale"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-04-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f55",
+    "f57",
+    "f50"
+   ],
+   "hook": "Finance Minister of 1991: licences cut to 18 industries, gold recovered, WTO signed.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I restricted the licence system to 18 industries.",
+    "I signed the agreement with the World Trade Organisation.",
+    "P. V. Narasimha Rao appointed me as Finance Minister in 1991."
+   ],
+   "options": [
+    "P. V. Narasimha Rao",
+    "Dr Manmohan Singh",
+    "Chandra Shekhar",
+    "V. P. Singh"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Second Plan map: steel at Durgapur, Bhilai, Rourkela; engines at Chittaranjan; bogies at Perambur.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kabir",
+     "The Second Five Year Plan had ambitious goals of industrialisation."
+    ],
+    [
+     "Ananya",
+     "A rail engine factory was set up at Chittaranjan during this plan."
+    ],
+    [
+     "Kabir",
+     "Durgapur, Bhilai and Sindri were sites of iron and steel industries in this plan."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Perambur",
+    "Vishakhapattanam",
+    "Rourkela"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-04-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f44",
+    "f48"
+   ],
+   "hook": "Strike of 1982 in Girangaon; later polyester won and mills moved to Surat in Gujarat.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Workers of 65 mills came together and Dr Datta Samant led the strike."
+    ],
+    [
+     "Arjun",
+     "On 18th January 1982, two and a half lakh workers went on a strike."
+    ],
+    [
+     "Riya",
+     "Many mills later moved from Mumbai to Pune as polyester came into greater demand."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Nashik",
+    "Nagpur",
+    "Surat"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-04-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f40",
+    "f42",
+    "f43",
+    "f44"
+   ],
+   "hook": "Mill 1854, Sunday holiday 1882, bonus cut Diwali 1981, strike 18 January 1982.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "First textile mill in Mumbai",
+     "y": "1854",
+     "k": 18540000
+    },
+    {
+     "t": "Weekly Sunday holiday for mill workers",
+     "y": "1 January 1882",
+     "k": 18820101
+    },
+    {
+     "t": "Workers expect a 20% Diwali bonus",
+     "y": "1981",
+     "k": 19810000
+    },
+    {
+     "t": "Great mill strike begins",
+     "y": "18 January 1982",
+     "k": 19820118
+    }
+   ]
+  },
+  {
+   "qid": "c9-04-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "1955: Imperial Bank becomes State Bank of India - 14 years before the 1969 nationalisation.",
+   "prompt": "In which year was the 'Imperial Bank' nationalised and converted into State Bank of India?",
+   "year": 1955,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "Phule's associate Lokhande won mill workers their Sunday holiday from 1882.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was an associate of Mahatma Jotirao Phule.",
+    "My efforts for mill workers bore fruit in the 1880s.",
+    "Because of my efforts, mill workers got a weekly Sunday holiday from 1st January 1882."
+   ],
+   "options": [
+    "Kawasjee Dawar",
+    "Narayan Surve",
+    "Narayan Meghaji Lokhande",
+    "Dr Datta Samant"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-04-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f41",
+    "f44"
+   ],
+   "hook": "Dadar to Worli = Girangaon, the 'town of mills' that fell silent in 1982.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "My mills stood in Dadar, Paral, Bhaykhala, Shivdi, Prabhadevi and Worli.",
+    "When my mills stopped in 1982, it seemed like Mumbai's heart stopped throbbing.",
+    "My name means 'town of mills'."
+   ],
+   "options": [
+    "Girangaon",
+    "Surat",
+    "Perambur",
+    "Chittaranjan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f51",
+    "f52"
+   ],
+   "hook": "1991 crisis: growth down 1.1%, reserves for just a week, gold sold in May 1991.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sneha",
+     "During the crisis, the economic growth rate had gone down by 1.1%."
+    ],
+    [
+     "Rohan",
+     "India had foreign exchange reserves only enough for a month of imports."
+    ],
+    [
+     "Sneha",
+     "In May 1991, the government sold some of its gold reserves and mortgaged some."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "day",
+    "week",
+    "year"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38",
+    "f39"
+   ],
+   "hook": "20 points of 1975: bonded labour freed, handloom sector developed.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Vihaan",
+     "Indira Gandhi announced the 20-point programme on 1st July 1975."
+    ],
+    [
+     "Tara",
+     "One of its provisions was freeing bonded labour."
+    ],
+    [
+     "Vihaan",
+     "Another was improving the textile industry by developing the powerloom sector."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "handloom",
+    "polyester",
+    "steel"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f05"
+   ],
+   "hook": "Mixed economy = private + public sector together, plus a joint sector in between.",
+   "prompt": "Which statement about a mixed economy is correct?",
+   "options": [
+    "It works both in the private and the public sector.",
+    "All means of production are privately owned.",
+    "All means of production are owned by the State.",
+    "It can ignore the profit motive."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Imperial Bank, nationalised in 1955, became the State Bank of India.",
+   "prompt": "Which bank was nationalised in 1955 and converted into State Bank of India?",
+   "options": [
+    "Bank of Baroda",
+    "Canara Bank",
+    "Bank of England",
+    "Imperial Bank"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-04-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f19",
+    "f20",
+    "f21",
+    "f24"
+   ],
+   "hook": "Janata 1977, Rolling Plan April 1978, Congress back 1980, Seventh Plan 1985.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Janata Party comes to power",
+     "y": "1977",
+     "k": 19770000
+    },
+    {
+     "t": "Rolling Plan starts",
+     "y": "April 1978",
+     "k": 19780400
+    },
+    {
+     "t": "Congress returns, Rolling Plan closed",
+     "y": "1980",
+     "k": 19800000
+    },
+    {
+     "t": "Seventh Five Year Plan begins",
+     "y": "1985",
+     "k": 19850000
+    }
+   ]
+  },
+  {
+   "qid": "c9-04-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "1st January 1882: Sunday off for mill workers, 28 years after the first mill of 1854.",
+   "prompt": "From 1st January of which year did mill workers get a weekly Sunday holiday?",
+   "year": 1882,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-04-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "Sixth Plan (1980-1985): IRDP, RLEGP, NREP and the Salem Steel Plant.",
+   "prompt": "What am I?",
+   "clues": [
+    "I wanted people to adopt the small family norm voluntarily.",
+    "I ran from 1980 to 1985.",
+    "IRDP, RLEGP, NREP and the Salem Steel Plant belong to me."
+   ],
+   "options": [
+    "Fifth Five Year Plan",
+    "Sixth Five Year Plan",
+    "Seventh Five Year Plan",
+    "Eighth Five Year Plan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-28",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "Seventh Plan: food, employment, productivity - and 5% yearly growth in national income.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The Seventh Five Year Plan laid stress on food, employment and productivity."
+    ],
+    [
+     "Dev",
+     "It aimed at a yearly increase of 8 percent in national income."
+    ],
+    [
+     "Aditi",
+     "Jawahar Rojgar Yojana was started during this plan."
+    ],
+    [
+     "Dev",
+     "This plan proved important for employment generation."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "2",
+    "5",
+    "10"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f45",
+    "f46",
+    "f48"
+   ],
+   "hook": "Antulay's committee, Bhosale's talks, September 1982 march, 13 mills nationalised.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Chief Minister A. R. Antulay set up a committee to solve the mill issue."
+    ],
+    [
+     "Yash",
+     "Babasaheb Bhosale would talk only with the Rashtriya Mill Mazdoor Sangha."
+    ],
+    [
+     "Neha",
+     "In September 1982, one and a half lakh workers marched on the Legislative Assembly."
+    ],
+    [
+     "Yash",
+     "Finally the central government nationalised 31 textile mills."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 5
+   },
+   "options": [
+    "65",
+    "18",
+    "13"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-04-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Steel trio of the Second Plan: Durgapur, Bhilai, Rourkela.",
+   "prompt": "Where were iron and steel industries set up during the Second Five Year Plan?",
+   "options": [
+    "Sindri, Chittaranjan and Perambur",
+    "Surat, Worli and Dadar",
+    "Durgapur, Bhilai and Rourkela",
+    "Bhakra-Nangal, Damodar and Salem"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-04-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Shastri's answer to food shortages and drought: the Green Revolution.",
+   "prompt": "Who undertook the experiment of the Green Revolution to overcome food shortages and drought?",
+   "options": [
+    "Lal Bahadur Shastri",
+    "Indira Gandhi",
+    "Dr Manmohan Singh",
+    "Chandra Shekhar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f49"
+   ],
+   "hook": "Surve and Dhasal wrote poems; Sathe, Sheikh and Sable gave folk programmes.",
+   "prompt": "Which poets portrayed the real life of the workers through their poems?",
+   "options": [
+    "Narayan Surve and Namdev Dhasal",
+    "Kawasjee Dawar and Narayan Meghaji Lokhande",
+    "Babasaheb Bhosale and A. R. Antulay",
+    "Chandra Shekhar and V. P. Singh"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f07",
+    "f56",
+    "f50",
+    "f26",
+    "f58"
+   ],
+   "hook": "Policy 1973, SEBI 1988, new policy 1991, Eighth Plan 1992, WTO 1995.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Industrial policy",
+     "y": "1973",
+     "k": 19730000
+    },
+    {
+     "t": "SEBI established",
+     "y": "1988",
+     "k": 19880000
+    },
+    {
+     "t": "New Economic Policy",
+     "y": "1991",
+     "k": 19910000
+    },
+    {
+     "t": "Eighth Five Year Plan begins",
+     "y": "1992",
+     "k": 19920000
+    },
+    {
+     "t": "India joins the WTO",
+     "y": "1995",
+     "k": 19950000
+    }
+   ]
+  },
+  {
+   "qid": "c9-04-34",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f58",
+    "f59",
+    "f57"
+   ],
+   "hook": "GATT came first; India joined its successor, the WTO, in 1995.",
+   "prompt": "What am I?",
+   "clues": [
+    "Electricity, water transportation, education and health were rapidly commercialised in India after it joined me.",
+    "The General Agreement on Tariffs and Trade existed before I came into being.",
+    "My objectives include free trade between countries, and India became my member in 1995."
+   ],
+   "options": [
+    "SAPTA",
+    "World Trade Organisation",
+    "GATT",
+    "Planning Commission"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f55",
+    "f57",
+    "f60"
+   ],
+   "hook": "Remedies: licences for only 18 industries, gold back from the Bank of England, insurance opened.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "Dr Manmohan Singh restricted the licence system to 81 industries."
+    ],
+    [
+     "Aryan",
+     "India recovered the gold mortgaged with the Bank of England."
+    ],
+    [
+     "Kavya",
+     "Mobile phone services spread after the government opened up the telecom sector."
+    ],
+    [
+     "Aryan",
+     "India also opened up the insurance sector to private and foreign investment."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 8
+   },
+   "options": [
+    "18",
+    "13",
+    "65"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Eighth Plan schemes include the Midday Meal Scheme and Ganga Kalyan Scheme.",
+   "prompt": "Which scheme was started during the Eighth Five Year Plan?",
+   "options": [
+    "Midday Meal Scheme",
+    "Integrated Rural Development Programme",
+    "India Awaas Yojana",
+    "Pradhanmantri Gram Sadak Yojana"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-04-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f17",
+    "f18",
+    "f20",
+    "f23"
+   ],
+   "hook": "Fourth: 14 banks; Fifth: ended March 1978 for the Rolling Plan; Sixth: Salem Steel Plant.",
+   "prompt": "Which statement about the Fifth Five Year Plan is correct?",
+   "options": [
+    "It nationalised 14 major banks.",
+    "It started the Salem Steel Plant.",
+    "It reflected the liberalisation policy of 1991.",
+    "The Janata government ended it towards the end of March 1978."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-04-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f54"
+   ],
+   "hook": "Foreign loan: 2350 crore dollars (1980-81) grew to 8380 crore dollars (1990-91).",
+   "prompt": "India's foreign loan was 2350 crore dollars in 1980-81. What had it grown to in 1990-91?",
+   "options": [
+    "3820 crore dollars",
+    "100 crore dollars",
+    "8380 crore dollars",
+    "1100 crore dollars"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-04-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f51",
+    "f53"
+   ],
+   "hook": "V. P. Singh, then Chandra Shekhar (17% inflation), then Rao in 1991.",
+   "prompt": "During whose tenure as Prime Minister was the rate of inflation 17%?",
+   "options": [
+    "V. P. Singh",
+    "Chandra Shekhar",
+    "Pandit Jawaharlal Nehru",
+    "Lal Bahadur Shastri"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-04-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f16",
+    "f17"
+   ],
+   "hook": "Fourth Plan troubles: Bangladesh War, refugees, pay raises, petrol prices.",
+   "prompt": "What burden did the economy have to bear during the Fourth Five Year Plan?",
+   "options": [
+    "The burden of the 1982 mill strike",
+    "The burden of joining the WTO",
+    "The burden of the Rolling Plan",
+    "The burden of the Bangladesh War"
+   ],
+   "answer": 3
+  }
+ ]
+}

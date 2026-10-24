@@ -1,0 +1,1487 @@
+{
+ "class": 7,
+ "id": "11",
+ "title": "Marathas – The Protectors of the Nation",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "person",
+   "text": "After Bajirao I, Shahu Maharaj appointed his son Balaji Bajirao alias Nanasaheb the Peshwa.",
+   "year": null,
+   "era": "CE",
+   "quote": "After Bajirao I, Shahu Maharaj appointed his son Balaji Bajirao alias Nanasaheb the Peshwa.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "place",
+   "text": "The region to the north-west of Ayodhya province at the foothills of the Himalayas was called Rohilkhand in the 18th century.",
+   "year": null,
+   "era": "CE",
+   "quote": "The region to the north-west of Ayodhya province at the foothills of the Himalayas was called Rohilkhand in the 18th century.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The Pathans who had migrated from Afghanistan and settled in Rohilkhand were known as Rohillas.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Pathans who had migrated from Afghanistan had settled in this region. They were known as Rohillas.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "The Rohillas wrought havoc in the Doab of the Ganga and Yamuna; the Nawab of Ayodhya invited the Marathas, who chastised the Rohillas.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Rohillas had wrought havoc in the Doab region of the Ganga and Yamuna rivers. The Nawab of Ayodhya invited the Marathas to subdue the Rohillas. The Marathas chastised the Rohillas.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "Ahmadshah Abdali, the ruler of Afghanistan, marched on the Punjab in 1751 CE.",
+   "year": 1751,
+   "era": "CE",
+   "quote": "Ahmadshah Abdali, the ruler of Afghanistan, was attracted by the riches of India. He marched on the Punjab in 1751 CE.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "The Emperor entered into a treaty with the Marathas in April 1752.",
+   "year": 1752,
+   "era": "CE",
+   "quote": "Therefore, the Emperor entered into a treaty with the Marathas in April 1752.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "event",
+   "text": "By the treaty the Marathas agreed to protect the Mughal power from the Rohillas, the Jats, the Rajputs and the Afghans.",
+   "year": null,
+   "era": "CE",
+   "quote": "According to this treaty, the Marathas agreed to protect the Mughal power from enemies like the Rohillas, the Jats, the Rajputs and the Afghans.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "event",
+   "text": "In return the Marathas were to get cash, the right to collect chauthai in the Punjab, Multan, Rajputana, Sindh and Rohilkhand, and the Subhedari of Ajmer and Agra provinces.",
+   "year": null,
+   "era": "CE",
+   "quote": "In return, the Marathas were to get cash money, the right to collect chauthai in the territories of the Punjab, Multan, Rajputana, Sindh and Rohilkhand and the Subhedari of Ajmer and Agra provinces.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "The Peshwa sent the Shinde-Holkar armies to protect Delhi; learning this, Abdali went back to his country.",
+   "year": null,
+   "era": "CE",
+   "quote": "As per the treaty, the Peshwa sent the Shinde-Holkar armies for the protection of Delhi on behalf of the Chhatrapati. When Abdali learnt that the Marathas were marching to Delhi, he went back to his country.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "place",
+   "text": "The Emperor gave the Marathas Chauthai rights to Mughal subhas including Kabul, Kandahar and Peshawar, which were then part of Abdali's Afghanistan.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Emperor gave them Chauthai rights to the Mughal subhas. These subhas included Kabul, Kandahar and Peshawar. ... now they were part of Abdali's Afghanistan.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Raghunathrao, brother of Peshwa Nanasaheb, with Jayappa Shinde and Malharrao Holkar, undertook the campaign of North India to combat Abdali.",
+   "year": null,
+   "era": "CE",
+   "quote": "Raghunathrao, brother of the Peshwa Nanasaheb, accompanied by Jayappa Shinde and Malharrao Holkar, undertook the campaign of North India to combat Abdali.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "Surajmal Jat and Rani Kishori were the only ones who helped the Marathas wounded in the battle of Panipat.",
+   "year": null,
+   "era": "CE",
+   "quote": "Surajmal Jat and Rani Kishori were the only ones who helped the Marathas wounded in the battle of Panipat.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "Some orthodox sects in the North persuaded Abdali to invade, expecting him to drive the Marathas back to the South, beyond the river Narmada.",
+   "year": null,
+   "era": "CE",
+   "quote": "They persuaded Abdali to invade India with a view to reducing the Maratha might. They expected that Abdali would defeat the Marathas and drive them away back to the South, beyond the river Narmada.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "person",
+   "text": "Najibkhan, a Rohilla chief, could not tolerate Maratha supremacy; at his behest Abdali invaded India for the fifth time and captured Delhi.",
+   "year": null,
+   "era": "CE",
+   "quote": "Najibkhan was a Rohilla chief. He found it hard to tolerate the Maratha supremacy in the North. At the behest of Najibkhan, Abdali invaded India again. This was the fifth time he had invaded India. He captured Delhi.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "Raghunathrao and Malharrao Holkar recaptured Delhi and the Punjab, and the Marathas pursued Abdali's soldiers up to Attock in 1758 CE, where the Maratha standard was raised.",
+   "year": 1758,
+   "era": "CE",
+   "quote": "The Marathas pursued Abdali's soldiers right up to Attock in 1758 CE. The Maratha standard was raised at Attock.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "place",
+   "text": "Attock is in present day Pakistan; from Attock the Marathas pushed the campaign up to Peshawar.",
+   "year": null,
+   "era": "CE",
+   "quote": "Attock is in present day Pakistan. From Attock, the Marathas pushed the campaign up to Peshawar.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "To crush Najibkhan the Peshwa sent Dattaji Shinde and Janakoji Shinde to the North; Najibkhan kept Dattaji engaged in negotiations and called Abdali.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Peshwa sent Dattaji Shinde and Janakoji Shinde to the North. ... Keeping Dattaji engaged in negotiations, Najibkhan established contacts with Abdali.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "place",
+   "text": "Dattaji and Abdali confronted each other at Buradi Ghat on the banks of the Yamuna, where Dattaji met with a heroic death.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dattaji and Abdali confronted each other at Buradi Ghat on the banks of the Yamuna. A fierce fight ensued. Dattaji showed tremendous valour. He met with a heroic death in this battle.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "Qutub Shah, adviser of Najib Khan Rohilla, asked the wounded Dattaji if he would fight more, and Dattaji replied with pride.",
+   "year": null,
+   "era": "CE",
+   "quote": "Najib Khan Rohilla's adviser Qutub Shah stepped down from his elephant and came towards Dattaji. ... he replied with pride",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "Nanasaheb sent his cousin Sadashivraobhau and his eldest son Vishwasrao to the North to crush Abdali; Sadashivraobhau was Chimajiappa's son.",
+   "year": null,
+   "era": "CE",
+   "quote": "Nanasaheb sent his cousin Sadashivraobhau and eldest son Vishwasrao to the North to crush Abdali. Sadashivraobhau was Chimajiappa's son.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "Ibrahimkhan Gardi, chief of the artillery, had defeated the Nizam in the battle of Udgir in 1760 CE.",
+   "year": 1760,
+   "era": "CE",
+   "quote": "Ibrahimkhan Gardi was the chief of the artillery. He had defeated the Nizam in the battle of Udgir in 1760 CE, on the strength of this artillery.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "date",
+   "text": "On 14 January 1761 the Marathas opened the Third Battle of Panipat by attacking Abdali's army.",
+   "year": 1761,
+   "era": "CE",
+   "quote": "On 14 January 1761, the Marathas opened the battle by attacking Abdali's army. This was the Third Battle of Panipat.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "event",
+   "text": "At Panipat Vishwasrao fell to an enemy bullet, Sadashivraobhau disappeared in the battle fray, and the Marathas were defeated.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vishwasrao fell a victim to an enemy bullet in the battle. ... He disappeared in the battle fray. ... The Marathas were defeated.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "Approximately 1,50,000 people were killed in the battle of Panipat.",
+   "year": null,
+   "era": "CE",
+   "quote": "Approximately 1,50,000 people were killed in the battle of Panipat.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "The Marathas fought at Panipat with the broad perspective that India is for Indians.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Marathas fought at Panipat with the broad perspective that India is for Indians.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "event",
+   "text": "The Marathas were the first in history to realise that India was one country.",
+   "year": null,
+   "era": "CE",
+   "quote": "We can say that the Marathas were the first in our history to realise that India was one country",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "After the death of Peshwa Nanasaheb, his son Madhavrao succeeded him as Peshwa.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the death of Peshwa Nanasaheb, his son Madhavrao succeeded him to the office of the Peshwa.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "place",
+   "text": "Madhavrao defeated the Nizam at Rakshasbhuvan near Paithan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Madhavrao defeated the Nizam at Rakshasbhuvan near Paithan.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "place",
+   "text": "The Marathas defeated Hyder Ali, the Sultan of Mysore, at Moti Talav near Srirangapattan; he ceded the region north of the river Tungabhadra.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hyder Ali was the Sultan of Mysore. ... The Marathas defeated Hyder in a battle at Moti Talav near Srirangapattan. He then agreed to cede the region north of the river Tungabhadra to the Marathas.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "date",
+   "text": "Peshwa Madhavrao died in 1772 CE; his death was an irreparable loss to the Maratha State.",
+   "year": 1772,
+   "era": "CE",
+   "quote": "Peshwa Madhavrao died in 1772 CE. ... The death of this capable Peshwa was an irreparable loss to the Maratha State.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "event",
+   "text": "Madhavrao dug many wells in Pune, reformed the judiciary, started artillery and ammunition factories and established a mint; Nana Phadnavis and Ramshastri Prabhune emerged under his rule.",
+   "year": null,
+   "era": "CE",
+   "quote": "He dug many wells in Pune and increased the water supply to the city. Administrators like Nana Phadnavis and judges like Ramshastri Prabhune emerged under his rule. ... He also established a mint to make coins.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "Narayanrao and Sawai Madhavrao, the Peshwas after Madhavrao, did not live long; Raghunathrao sought shelter with the British, leading to war.",
+   "year": null,
+   "era": "CE",
+   "quote": "The two Peshwas who succeeded Peshwa Madhavrao, namely Narayanrao and Sawai Madhavrao, did not live long. ... Raghunathrao, who had once raised the Maratha standard at Attock, sought shelter with the British to satisfy his greed for power.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "Hyder Ali died in 1782 CE and his son Tipu became the Sultan of Mysore.",
+   "year": 1782,
+   "era": "CE",
+   "quote": "Hyder Ali died in 1782 CE. After him his son Tipu became the Sultan of Mysore.",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "person",
+   "text": "Tipu was a skilled warrior, a scholar and a poet who established contact with the French.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was a skilled warrior, a scholar and a poet. ... He established contact with French and shook the foundation of British supremacy.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "Tipu died in 1799 CE in a battle against the British.",
+   "year": 1799,
+   "era": "CE",
+   "quote": "He died in 1799 CE in a battle against the British.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "Madhavrao sent Mahadji Shinde, Tukoji Holkar, Ramchandra Kanade and Visajipant Biniwale to re-establish Maratha rule in the North.",
+   "year": null,
+   "era": "CE",
+   "quote": "Madhavrao dispatched Mahadji Shinde, Tukoji Holkar, Ramchandra Kanade and Visajipant Biniwale to re-establish the Maratha rule in the North.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "event",
+   "text": "The Maratha army defeated the Jats, Rohillas and Rajputs and restored Emperor Shah Alam to the throne of Delhi under Maratha protection.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Maratha army defeated the Jats, the Rohillas and the Rajputs. The Marathas restored the Emperor Shah Alam to the throne of Delhi under their own protection.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "Abdali or his descendants never invaded India again; they sent a messenger to Pune to establish cordial relations.",
+   "year": null,
+   "era": "CE",
+   "quote": "Abdali or his descendants did not muster enough courage to invade India again. ... They sent a messenger to Pune to establish cordial relations.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Malharrao Holkar, Ahilyabai Holkar and Mahadji Shinde had a lion's share in reviving Maratha supremacy in the North.",
+   "year": null,
+   "era": "CE",
+   "quote": "Malharrao Holkar, Ahilyabai Holkar and Mahadji Shinde had a lion's share in all this.",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "person",
+   "text": "In the Peshwa family tree, Nanasaheb's sons were Vishwasrao, Madhavrao (Peshwa), Yeshwantrao and Narayanrao (Peshwa); Sawai Madhavrao was Narayanrao's son.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vishwasrao  Madhavrao (Peshwa)  Yeshwantrao  Narayanrao (Peshwa) ... Sawai Madhavrao (Peshwa)",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-11-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f05",
+    "f15",
+    "f22",
+    "f30"
+   ],
+   "hook": "Attock <b>1758</b>, Panipat <b>1761</b>: just 3 years from triumph to defeat.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Abdali marches on the Punjab",
+     "y": "1751",
+     "k": 1751
+    },
+    {
+     "t": "Maratha standard raised at Attock",
+     "y": "1758",
+     "k": 1758
+    },
+    {
+     "t": "Third Battle of Panipat",
+     "y": "1761",
+     "k": 1761
+    },
+    {
+     "t": "Peshwa Madhavrao dies",
+     "y": "1772",
+     "k": 1772
+    }
+   ]
+  },
+  {
+   "qid": "c7-11-02",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f06",
+    "f21",
+    "f22",
+    "f33"
+   ],
+   "hook": "Udgir in <b>1760</b>, Panipat the very next year, <b>1761</b>.",
+   "prompt": "Arrange these events from earliest to latest.",
+   "items": [
+    {
+     "t": "Treaty with the Emperor",
+     "y": "1752",
+     "k": 1752
+    },
+    {
+     "t": "Battle of Udgir",
+     "y": "1760",
+     "k": 1760
+    },
+    {
+     "t": "Battle of Panipat begins",
+     "y": "1761",
+     "k": 1761
+    },
+    {
+     "t": "Hyder Ali dies",
+     "y": "1782",
+     "k": 1782
+    }
+   ]
+  },
+  {
+   "qid": "c7-11-03",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f15",
+    "f30",
+    "f33",
+    "f35"
+   ],
+   "hook": "Hyder Ali died <b>1782</b>, his son Tipu died <b>1799</b>: 17 years later.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Marathas reach Attock",
+     "y": "1758",
+     "k": 1758
+    },
+    {
+     "t": "Death of Madhavrao Peshwa",
+     "y": "1772",
+     "k": 1772
+    },
+    {
+     "t": "Hyder Ali dies",
+     "y": "1782",
+     "k": 1782
+    },
+    {
+     "t": "Death of Tipu Sultan",
+     "y": "1799",
+     "k": 1799
+    }
+   ]
+  },
+  {
+   "qid": "c7-11-04",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f05",
+    "f06",
+    "f15",
+    "f21",
+    "f22"
+   ],
+   "hook": "1751 march, 1752 treaty, 1758 Attock, 1760 Udgir, 1761 Panipat.",
+   "prompt": "Five events, one line: put them in order.",
+   "items": [
+    {
+     "t": "Abdali marches on the Punjab",
+     "y": "1751",
+     "k": 1751
+    },
+    {
+     "t": "Emperor's treaty with the Marathas",
+     "y": "1752",
+     "k": 1752
+    },
+    {
+     "t": "Maratha standard at Attock",
+     "y": "1758",
+     "k": 1758
+    },
+    {
+     "t": "Nizam defeated at Udgir",
+     "y": "1760",
+     "k": 1760
+    },
+    {
+     "t": "Third Battle of Panipat",
+     "y": "1761",
+     "k": 1761
+    }
+   ]
+  },
+  {
+   "qid": "c7-11-05",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f22",
+    "f30",
+    "f33",
+    "f35"
+   ],
+   "hook": "1760, 1761, then 1772, 1782, 1799.",
+   "prompt": "Order these five events from earliest to latest.",
+   "items": [
+    {
+     "t": "Ibrahimkhan Gardi wins at Udgir",
+     "y": "1760",
+     "k": 1760
+    },
+    {
+     "t": "Vishwasrao falls at Panipat",
+     "y": "1761",
+     "k": 1761
+    },
+    {
+     "t": "Madhavrao Peshwa dies",
+     "y": "1772",
+     "k": 1772
+    },
+    {
+     "t": "Hyder Ali dies",
+     "y": "1782",
+     "k": 1782
+    },
+    {
+     "t": "Tipu dies fighting the British",
+     "y": "1799",
+     "k": 1799
+    }
+   ]
+  },
+  {
+   "qid": "c7-11-06",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "14 January <b>1761</b>: the Third Battle of Panipat.",
+   "prompt": "In which year was the Third Battle of Panipat fought?",
+   "year": 1761,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-07",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "<b>1758</b>: the Maratha standard flies at Attock.",
+   "prompt": "In which year did the Marathas pursue Abdali's soldiers up to Attock?",
+   "year": 1758,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-08",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "<b>1772</b>: the capable Peshwa Madhavrao dies.",
+   "prompt": "In which year did Peshwa Madhavrao die?",
+   "year": 1772,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f09"
+   ],
+   "hook": "April <b>1752</b>: the Marathas promise to protect Delhi.",
+   "prompt": "In which year did the Emperor enter into a treaty with the Marathas to protect the Mughal power?",
+   "year": 1752,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-10",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "<b>1751</b>: Abdali marches on the Punjab; the treaty follows in 1752.",
+   "prompt": "In which year did Ahmadshah Abdali march on the Punjab?",
+   "year": 1751,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-11",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "<b>1760</b>: Udgir, one year before Panipat.",
+   "prompt": "In which year did Ibrahimkhan Gardi defeat the Nizam in the battle of Udgir?",
+   "year": 1760,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-12",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "<b>1799</b>: Tipu falls fighting the British.",
+   "prompt": "In which year did Tipu die in a battle against the British?",
+   "year": 1799,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-13",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "<b>1782</b>: Hyder Ali dies and Tipu becomes Sultan.",
+   "prompt": "In which year did Hyder Ali, the Sultan of Mysore, die?",
+   "year": 1782,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-11-14",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f05",
+    "f13",
+    "f14"
+   ],
+   "hook": "Abdali: ruler of Afghanistan, five invasions, Panipat.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Some orthodox sects persuaded me to invade India.",
+    "At Najibkhan's behest I invaded India for the fifth time.",
+    "I marched on the Punjab in 1751.",
+    "I was the ruler of Afghanistan."
+   ],
+   "options": [
+    "Nadirshah",
+    "Najibkhan",
+    "Hyder Ali",
+    "Ahmadshah Abdali"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-11-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f23"
+   ],
+   "hook": "Chimajiappa's son led the army to Panipat and vanished in the fray.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Ibrahimkhan Gardi was the chief of my artillery.",
+    "I captured Delhi during my campaign of the North.",
+    "I disappeared in the battle fray at Panipat.",
+    "My father was Chimajiappa."
+   ],
+   "options": [
+    "Vishwasrao",
+    "Sadashivraobhau",
+    "Raghunathrao",
+    "Dattaji Shinde"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-11-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f17",
+    "f18",
+    "f19"
+   ],
+   "hook": "Dattaji: brave to the end at Buradi Ghat on the Yamuna.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Najibkhan kept me engaged in negotiations.",
+    "Qutub Shah asked me if I would fight on, and I replied with pride.",
+    "I met with a heroic death at Buradi Ghat."
+   ],
+   "options": [
+    "Janakoji Shinde",
+    "Jayappa Shinde",
+    "Mahadji Shinde",
+    "Dattaji Shinde"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-11-17",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f11",
+    "f15",
+    "f32"
+   ],
+   "hook": "Raised the standard at Attock in 1758, later sought the British.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I went north with Jayappa Shinde and Malharrao Holkar to combat Abdali.",
+    "I was the brother of Peshwa Nanasaheb.",
+    "I once raised the Maratha standard at Attock.",
+    "Later, greedy for power, I sought shelter with the British."
+   ],
+   "options": [
+    "Madhavrao",
+    "Narayanrao",
+    "Raghunathrao",
+    "Sadashivraobhau"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f14",
+    "f17",
+    "f19"
+   ],
+   "hook": "Rohilla chief Najibkhan called Abdali in again and again.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Qutub Shah was my adviser.",
+    "I could not tolerate Maratha supremacy in the North.",
+    "I kept Dattaji busy in talks and asked Abdali for help.",
+    "I was a Rohilla chief."
+   ],
+   "options": [
+    "Najibkhan",
+    "Surajmal Jat",
+    "Ibrahimkhan Gardi",
+    "Hyder Ali"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-11-19",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Gardi's guns beat the Nizam at Udgir in 1760.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I served in the army of Sadashivraobhau.",
+    "I defeated the Nizam at Udgir in 1760.",
+    "I was the chief of the artillery."
+   ],
+   "options": [
+    "Ibrahimkhan Gardi",
+    "Hyder Ali",
+    "Malharrao Holkar",
+    "Jayappa Shinde"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-11-20",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f27",
+    "f28",
+    "f31"
+   ],
+   "hook": "Wells in Pune, a mint for coins, victory at Rakshasbhuvan.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Nana Phadnavis and Ramshastri Prabhune emerged under my rule.",
+    "I established a mint to make coins.",
+    "I defeated the Nizam at Rakshasbhuvan near Paithan.",
+    "I succeeded my father Nanasaheb as Peshwa."
+   ],
+   "options": [
+    "Narayanrao",
+    "Vishwasrao",
+    "Sawai Madhavrao",
+    "Madhavrao"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-11-21",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f35"
+   ],
+   "hook": "Hyder Ali's son: warrior, scholar, poet; died 1799.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I established contact with the French.",
+    "I was a skilled warrior, a scholar and a poet.",
+    "I became Sultan of Mysore after my father died in 1782.",
+    "I died in 1799 in a battle against the British."
+   ],
+   "options": [
+    "Hyder Ali",
+    "Shah Alam",
+    "Najibkhan",
+    "Tipu"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-11-22",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f02",
+    "f03",
+    "f04"
+   ],
+   "hook": "Rohillas of Rohilkhand: Pathans from Afghanistan.",
+   "prompt": "Who are we?",
+   "clues": [
+    "The Nawab of Ayodhya invited the Marathas to subdue us.",
+    "We wrought havoc in the Doab of the Ganga and Yamuna.",
+    "We were Pathans who migrated from Afghanistan and settled at the foothills of the Himalayas."
+   ],
+   "options": [
+    "Jats",
+    "Rohillas",
+    "Rajputs",
+    "Bundellas"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-11-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f08"
+   ],
+   "hook": "Treaty of 1752: Subhedari of Ajmer and Agra.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Emperor made a treaty with the Marathas in April 1752."
+    ],
+    [
+     "Isha",
+     "The Marathas agreed to protect the Mughal power from the Rohillas, Jats, Rajputs and Afghans."
+    ],
+    [
+     "Kabir",
+     "In return they got the Subhedari of Ajmer and Delhi provinces."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "Malwa",
+    "Agra",
+    "Multan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-11-24",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "Attock 1758, in present day Pakistan, then on to Peshawar.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Raghunathrao and Malharrao Holkar captured Delhi and then the Punjab."
+    ],
+    [
+     "Dev",
+     "The Marathas pursued Abdali's soldiers up to Attock in 1758."
+    ],
+    [
+     "Meera",
+     "Attock is in present day Afghanistan and the campaign went up to Peshawar."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Iran",
+    "Pakistan",
+    "India"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-11-25",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "Buradi Ghat is on the Yamuna.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "The Peshwa sent Dattaji Shinde and Janakoji Shinde to the North."
+    ],
+    [
+     "Sana",
+     "Najibkhan kept Dattaji busy in negotiations and called Abdali."
+    ],
+    [
+     "Vihaan",
+     "Dattaji fought Abdali at Buradi Ghat on the Ganga banks and met a heroic death."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "Narmada",
+    "Tungabhadra",
+    "Yamuna"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-26",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "Panipat 1761 was the <b>Third</b> Battle of Panipat.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "On 14 January 1761 the Marathas opened the battle at Panipat."
+    ],
+    [
+     "Rohan",
+     "This was the Second Battle of Panipat."
+    ],
+    [
+     "Tara",
+     "Vishwasrao fell to an enemy bullet in the battle."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "First",
+    "Fourth",
+    "Third"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-27",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f24",
+    "f12",
+    "f38"
+   ],
+   "hook": "After Panipat, Abdali's side sent a messenger to Pune.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Approximately 1,50,000 people were killed in the battle of Panipat."
+    ],
+    [
+     "Anaya",
+     "Surajmal Jat and Rani Kishori helped the wounded Marathas."
+    ],
+    [
+     "Kavya",
+     "Later, Abdali's side sent a messenger to Delhi to establish cordial relations."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Pune",
+    "Kabul",
+    "Satara"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-11-28",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Moti Talav win: Hyder Ali gives up the land north of the Tungabhadra.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditya",
+     "Madhavrao defeated the Nizam at Rakshasbhuvan near Paithan."
+    ],
+    [
+     "Pooja",
+     "The Marathas defeated Hyder Ali at Moti Talav near Srirangapattan."
+    ],
+    [
+     "Yash",
+     "Hyder Ali then gave up the region north of the river Krishna to the Marathas."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 11
+   },
+   "options": [
+    "Narmada",
+    "Yamuna",
+    "Tungabhadra"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f30",
+    "f31"
+   ],
+   "hook": "Madhavrao died in <b>1772</b>; Hyder Ali in 1782. Don't swap them!",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rahul",
+     "Peshwa Madhavrao dug many wells in Pune."
+    ],
+    [
+     "Simran",
+     "Judges like Ramshastri Prabhune emerged under his rule."
+    ],
+    [
+     "Om",
+     "He also established a mint to make coins."
+    ],
+    [
+     "Zoya",
+     "Madhavrao died in 1782 and it was an irreparable loss to the Maratha State."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 3
+   },
+   "options": [
+    "1761",
+    "1799",
+    "1772"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f34"
+   ],
+   "hook": "Tipu reached out to the French.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "Hyder Ali was the Sultan of Mysore."
+    ],
+    [
+     "Aisha",
+     "After Hyder Ali, his son Tipu became the Sultan."
+    ],
+    [
+     "Harsh",
+     "Tipu established contact with the Portuguese and shook the foundation of British supremacy."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Afghans",
+    "French",
+    "Rohillas"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-11-31",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f36",
+    "f37",
+    "f39"
+   ],
+   "hook": "Madhavrao sent four Sardars North; Shah Alam back on the throne.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kunal",
+     "Madhavrao sent Mahadji Shinde and Tukoji Holkar to the South to re-establish Maratha rule."
+    ],
+    [
+     "Riddhi",
+     "The Maratha army defeated the Jats, the Rohillas and the Rajputs."
+    ],
+    [
+     "Pranav",
+     "Emperor Shah Alam was restored to the throne of Delhi under Maratha protection."
+    ],
+    [
+     "Diya",
+     "Malharrao Holkar, Ahilyabai Holkar and Mahadji Shinde had a lion's share in this revival."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 9
+   },
+   "options": [
+    "North",
+    "Konkan",
+    "Deccan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-11-32",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Bajirao I's son Balaji Bajirao = Nanasaheb.",
+   "prompt": "Whom did Shahu Maharaj appoint as Peshwa after Bajirao I?",
+   "options": [
+    "Raghunathrao",
+    "Chimajiappa",
+    "Balaji Bajirao alias Nanasaheb",
+    "Madhavrao"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-33",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Only Surajmal Jat and Rani Kishori helped the wounded after Panipat.",
+   "prompt": "Who were the only ones who helped the Marathas wounded in the battle of Panipat?",
+   "options": [
+    "Najibkhan and Qutub Shah",
+    "Hyder Ali and Tipu",
+    "Surajmal Jat and Rani Kishori",
+    "Shah Alam and the Nawab of Ayodhya"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-34",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Kabul, Kandahar, Peshawar: Mughal subhas now in Abdali's hands.",
+   "prompt": "The Emperor gave the Marathas Chauthai rights to some Mughal subhas that were now part of Abdali's Afghanistan. Which were they?",
+   "options": [
+    "Kabul, Kandahar and Peshawar",
+    "Ajmer, Agra and Delhi",
+    "Udgir, Paithan and Pune",
+    "Mysore, Arcot and Srirangapattan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-11-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "The orthodox sects hoped to push the Marathas back beyond the Narmada.",
+   "prompt": "What did some orthodox sects in the North expect Abdali to do?",
+   "options": [
+    "Defeat the Marathas and drive them back to the South, beyond the Narmada",
+    "Make the Marathas the rulers of Delhi",
+    "Help Madhavrao against the Nizam",
+    "Protect Kolkata from the British"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-11-36",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Sadashivraobhau = Chimajiappa's son = Nanasaheb's cousin.",
+   "prompt": "How was Sadashivraobhau related to Peshwa Nanasaheb?",
+   "options": [
+    "He was his son.",
+    "He was his cousin.",
+    "He was his brother.",
+    "He was his father."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-11-37",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Rakshasbhuvan near Paithan: Madhavrao beats the Nizam.",
+   "prompt": "Where did Peshwa Madhavrao defeat the Nizam?",
+   "options": [
+    "Moti Talav",
+    "Buradi Ghat",
+    "Attock",
+    "Rakshasbhuvan"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-11-38",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "Panipat's big idea: India is for Indians.",
+   "prompt": "With what broad perspective did the Marathas fight at Panipat?",
+   "options": [
+    "That only the South mattered",
+    "That Abdali should rule Delhi",
+    "That the Punjab belonged to Afghanistan",
+    "That India is for Indians"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-11-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f23",
+    "f40"
+   ],
+   "hook": "Vishwasrao was Nanasaheb's eldest son; he fell at Panipat.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Sadashivraobhau was the son of Bajirao I.",
+    "Narayanrao ruled as Peshwa for a very long time.",
+    "Vishwasrao was the eldest son of Nanasaheb.",
+    "Rani Kishori fought on Abdali's side."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-11-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f32",
+    "f40"
+   ],
+   "hook": "After Madhavrao: Narayanrao, then Sawai Madhavrao. Neither lived long.",
+   "prompt": "Which two Peshwas succeeded Peshwa Madhavrao?",
+   "options": [
+    "Narayanrao and Sawai Madhavrao",
+    "Vishwasrao and Yeshwantrao",
+    "Raghunathrao and Janardan",
+    "Nanasaheb and Bajirao I"
+   ],
+   "answer": 0
+  }
+ ]
+}

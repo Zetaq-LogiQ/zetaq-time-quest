@@ -1,0 +1,1332 @@
+{
+ "class": 8,
+ "id": "20",
+ "title": "Bureaucracy",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "person",
+   "text": "District Collector, Municipal Commissioner, Finance Secretary and Divisional Commissioner are civil servants in the government's administrative system.",
+   "year": null,
+   "era": "CE",
+   "quote": "a few posts like District Collector, Municipal Commissioner, Finance Secretary, and Divisional Commissioner are mentioned. These are civil servants in the government's administrative system.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "person",
+   "text": "The Prime Minister and his Council of Ministers make proposals for new laws and decide upon policies.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Prime Minister and his Council of Ministers make proposals for new laws and also decide upon policies.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Bureaucracy is the administrative system which works under the Union Executive and has the responsibility of actual implementation of government's policies.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Bureaucracy' is the administrative system which works under the Union Executive and has the responsibility of actual implementation of government's policies.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The government carries out two fundamental functions: defending the country and ensuring safety of citizens, and providing services to citizens to ease their daily lives.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) To defend the country from external aggression and internal threats and to ensure safety of citizen. (2) To provide various services to citizens and ease their daily lives",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "The first function, security of the country, is carried out by the defence forces; their role in internal security is as aid to civil services.",
+   "year": null,
+   "era": "CE",
+   "quote": "The first function is to ensure security of the country. This is carried out by the service called the defence forces. The role of internal security is carried out as aid to civil services.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "For the second function an administrative system called the 'civil services' is developed; the system of civil servants is also known as bureaucracy.",
+   "year": null,
+   "era": "CE",
+   "quote": "For the second function, an administrative system is developed. We call it the 'civil services'. The system of civil servants is also known as bureaucracy.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "In the Parliamentary democracy, representatives elected by the people and the ministers have the responsibility of administration; government functions are discharged by departments.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the Parliamentary democracy, representatives elected by the people and the ministers have the responsibility of administration. The functions of government are discharged by various departments.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "Every department has a minister who is its political head; the minister gives priority to public welfare and, though maybe not an expert, is conscious of broad public interest.",
+   "year": null,
+   "era": "CE",
+   "quote": "Every department has a minister who is the political head of that department. ... The minister may not be expert in a particular subject but he/she is conscious of broad public interest.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "The Secretary of the department gives expert advice to the ministers; secretaries are appointed from the civil service.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Secretary of the department gives expert advice to the ministers. The secretaries are appointed from the civil service.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The aspirations of the people and administrative expertise are put in harmony in the parliamentary system.",
+   "year": null,
+   "era": "CE",
+   "quote": "The aspirations of the people and administrative expertise are thus put in harmony in the parliamentary system.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "Bureaucracy is a permanent mechanism: tax collection, environment protection, law and order and social security are done consistently; ministers change after every election but the bureaucracy remains constant.",
+   "year": null,
+   "era": "CE",
+   "quote": "Tax collection, environment protection, maintenance of law and order, provisions regarding social security are certain important tasks that have to be consistently undertaken by the bureaucracy. This is possible because bureaucracy is a permanent mechanism. The Prime Minister and their Council of Ministers change after every election but the bureaucracy under their control remains constant.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Political neutrality: whatever party is in power, the bureaucracy implements its policy decisions with the same efficiency and commitment, and civil servants should not take a political stand.",
+   "year": null,
+   "era": "CE",
+   "quote": "The bureaucracy is politically neutral. This means that regardless of the political party in power, the bureaucracy is supposed to carry out the implementation of their policy decisions with the same efficiency and commitment. In this regard, the civil servants should abstain from taking a political stand",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "If a party loses elections, another party comes to power and may change some policies; even then the bureaucracy must remain neutral.",
+   "year": null,
+   "era": "CE",
+   "quote": "If a political party fails to win elections, it has to leave government and another party that wins elections comes to power. The new government may change some policies of the earlier government. Even in such case, the bureaucracy is expected to remain neutral while discharging its duties.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "Anonymity: a civil service is not held directly responsible for any success or failure of policy; the Minister, as head of the department, is accountable, and civil servants are never publicly criticised.",
+   "year": null,
+   "era": "CE",
+   "quote": "Anonymity means that a civil service should not be held directly responsible for any success or failure of policy. It is the Minister who is responsible ... Civil servants are never publicly criticised.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "person",
+   "text": "The Parliament holds the Minister responsible for malpractices; the Minister bears the responsibility and protects the bureaucracy.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Parliament holds the Minister responsible for malpractices. In such case the Minister bears the responsibility and protects the bureaucracy.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "The structure of the Indian bureaucracy is extensive and complex; post-independence reforms were implemented by the bureaucratic structure.",
+   "year": null,
+   "era": "CE",
+   "quote": "The structure of the Indian bureaucracy is extensive and complex. Several important reforms that were introduced during the post-independence period have been effectively implemented by the bureaucratic structure.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Bureaucracy gives stability to the political system by consistently providing everyday services like water supply, transport, electricity and public cleanliness.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bureaucracy gives stability to the political system. Water supply, transport, electricity, public cleanliness, health, agricultural reforms, prevention of pollution and such other services are every day needs of the people and need to be consistently provided to them.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "Bureaucracy is an important instrument of social transformation: laws for empowerment of women, child security and plans for the marginalised are implemented by it.",
+   "year": null,
+   "era": "CE",
+   "quote": "bureaucracy is an important instrument of social transformation. The laws enacted by the government for empowerment of women, child security, plans for the marginalised sections are implemented by the bureaucracy.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "In the democratisation of society, marginalised sections were brought into the mainstream by implementing the reservation policy, increasing their participation in decision making. Democratisation needs progressive laws and policies and also the effective participation of bureaucracy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Marginalised sections of society have been brought into mainstream by implementing the reservation policy. Their participation has been increased in the process of decision making. ... Democratisation of society not only requires progressive laws and policies it also needs the effective participation of bureaucracy.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "In India there are three main types of civil services.",
+   "year": null,
+   "era": "CE",
+   "quote": "In India, there are three main types of civil services",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "All-India Services include the Indian Administrative Service (IAS), Indian Police Service (IPS) and Indian Forest Service.",
+   "year": null,
+   "era": "CE",
+   "quote": "They include the Indian Administrative Service (IAS), Indian Police Service (IPS) and Indian Forest Service (IFS).",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Union or Central Services come under the Union Government and include Indian Foreign Service and Indian Revenue Service (IRS).",
+   "year": null,
+   "era": "CE",
+   "quote": "They come under the Union Government. They include Indian Foreign Service (IFS), Indian Revenue Service (IRS) etc.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "State Civil Services come under the State Government and include Deputy District Collector, Block Development Officer and Tehsildar (Executive Magistrate); they are recruited through State-level competitive examinations.",
+   "year": null,
+   "era": "CE",
+   "quote": "They come under the State Government. They include Deputy District Collector, Block Development Officer, Tehsildar (Executive Magistrate) etc. They are recruited through competitive examinations held at the State-level.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The Constitution established autonomous institutions like the Public Service Commissions so that civil servants are selected on merit and efficiency.",
+   "year": null,
+   "era": "CE",
+   "quote": "Indian constitution has established autonomous institutions like the Public Service Commissions to ensure that the civil servants are selected on the basis of criteria of merit and efficiency.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "The Union Public Service Commission (UPSC) conducts examinations for recruitment and appointment for All-India Services and Central Services.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Union Public Service Commission (UPSC) conducts examinations for recruitment and appointment of candidates for All-India Services and Central Services.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The Maharashtra Public Service Commission (MPSC) selects candidates through competitive examinations and recommends them for recruitment in the state administration.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Maharashtra Public Service Commission (MPSC) selects candidates through competitive examinations and recommends them to the government to be recruited in the state administration.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "There are reservations in civil services for Scheduled Castes, Scheduled Tribes, Women, Other Backward Castes and specially-abled, so weaker sections are not left out due to social inequality.",
+   "year": null,
+   "era": "CE",
+   "quote": "there is a provision for reservations for the Scheduled Castes, Scheduled Tribes, Women, Other Backward Castes and specially-abled. This provision ensures that weaker sections of the society are not left out of civil services due to social inequality.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "The efficiency of a department depends on the inter-relationship between the Minister and the Department Secretaries and Deputy Secretaries.",
+   "year": null,
+   "era": "CE",
+   "quote": "The efficiency of a particular government department depends upon the inter-relationship between the Minister and Department Secretaries and Deputy Secretaries.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "Decisions are made by the minister, but civil servants give the information, control it, know the financial provisions and the history of policies; so ministers depend on civil servants.",
+   "year": null,
+   "era": "CE",
+   "quote": "The decisions relating to the department are made by concerned minister but necessary information to make such decisions is given by the civil servants. ... Hence, ministers are dependent upon the civil servants.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "If ministers keep a dialogue with civil servants and build mutual trust and transparency, it helps the departments.",
+   "year": null,
+   "era": "CE",
+   "quote": "If ministers maintain a dialogue with civil servants and develop mutual trust and transparency, it will help the departments.",
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-20-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f03"
+   ],
+   "hook": "Civil servants as a system = <b>bureaucracy</b>, the people who actually implement policies.",
+   "prompt": "What is the system of civil servants also known as?",
+   "options": [
+    "Judiciary",
+    "Legislature",
+    "Defence forces",
+    "Bureaucracy"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-20-02",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "<b>Three</b> types: All-India, Union or Central, and State Civil Services.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "In India there are five main types of civil services."
+    ],
+    [
+     "Meera",
+     "The Indian Administrative Service is an All-India Service."
+    ],
+    [
+     "Kabir",
+     "The Indian Police Service is also an All-India Service."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 4
+   },
+   "options": [
+    "two",
+    "four",
+    "three"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "<b>UPSC</b> runs the exams for All-India and Central Services.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am an autonomous institution.",
+    "I recruit candidates for the Central Services.",
+    "I conduct examinations for the All-India Services."
+   ],
+   "options": [
+    "Maharashtra Public Service Commission",
+    "Election Commission",
+    "Council of Ministers",
+    "Union Public Service Commission"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-20-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05"
+   ],
+   "hook": "Function 1, defend the country: the <b>defence forces</b>. Function 2, services: the civil services.",
+   "prompt": "Who carries out the first fundamental function of government, ensuring the security of the country?",
+   "options": [
+    "The Public Service Commissions",
+    "The Tehsildar",
+    "The defence forces",
+    "The Municipal Commissioner"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Ministers change after every election; the bureaucracy is <b>permanent</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Tax collection and law and order are done consistently by the bureaucracy."
+    ],
+    [
+     "Ishaan",
+     "Bureaucracy is a temporary mechanism in nature."
+    ],
+    [
+     "Tara",
+     "The Prime Minister and the Council of Ministers change after every election."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "political",
+    "permanent",
+    "foreign"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f22",
+    "f23"
+   ],
+   "hook": "Three types: <b>All-India</b>, <b>Union or Central</b>, <b>State Civil</b> Services.",
+   "prompt": "Which are the three main types of civil services in India?",
+   "options": [
+    "All-India Services, Union or Central Services and State Civil Services",
+    "Army, Navy and Air Force",
+    "Village, Town and City Services",
+    "Lok Sabha, Rajya Sabha and Vidhan Sabha"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-07",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Any party in power, same effort: <b>political neutrality</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Even when a new government changes some policies, I must be kept.",
+    "Because of me, civil servants should not take a political stand.",
+    "I mean the bureaucracy works with the same efficiency whichever party is in power."
+   ],
+   "options": [
+    "Political neutrality",
+    "Anonymity",
+    "Permanent mechanism",
+    "Reservation"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Bureaucracy: the system that <b>actually implements</b> government policies.",
+   "prompt": "What is the main responsibility of the bureaucracy?",
+   "options": [
+    "Giving justice in courts",
+    "Actual implementation of government's policies",
+    "Winning elections",
+    "Making the Constitution"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-09",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f08"
+   ],
+   "hook": "Minister = <b>political head</b>; Secretary = <b>expert adviser</b> from the civil service.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "Every department has a minister who is its political head."
+    ],
+    [
+     "Rohan",
+     "The Secretary of the department gives expert advice to the ministers."
+    ],
+    [
+     "Aditi",
+     "The secretaries are appointed from the defence service and give expert advice."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "judicial",
+    "civil",
+    "election"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "Civil servants stay unnamed; the <b>Minister</b> takes the blame: that is <b>anonymity</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Because of me, civil servants are never publicly criticised.",
+    "Because of me, the Minister bears the responsibility and protects the bureaucracy.",
+    "I mean a civil service is not held directly responsible for any success or failure of policy."
+   ],
+   "options": [
+    "Political neutrality",
+    "Permanent mechanism",
+    "Judicial Review",
+    "Anonymity"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-20-11",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "State Civil Services: <b>Deputy District Collector, BDO, Tehsildar</b>.",
+   "prompt": "Which of these comes under the State Civil Services?",
+   "options": [
+    "Indian Administrative Service",
+    "Indian Revenue Service",
+    "Tehsildar",
+    "Indian Police Service"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f25"
+   ],
+   "hook": "<b>MPSC</b> for Maharashtra's state administration; <b>UPSC</b> for All-India and Central Services.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "The UPSC conducts examinations for All-India Services and Central Services."
+    ],
+    [
+     "Arjun",
+     "The UPSC selects candidates for the state administration of Maharashtra."
+    ],
+    [
+     "Neha",
+     "Public Service Commissions help select civil servants on merit and efficiency."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "Collector",
+    "Tehsildar",
+    "MPSC"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Two jobs of every government: <b>defend</b> the country, <b>serve</b> the citizens.",
+   "prompt": "How many fundamental types of functions does the government carry out in any country?",
+   "options": [
+    "Two",
+    "Three",
+    "Five",
+    "Seven"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f08",
+    "f14",
+    "f15"
+   ],
+   "hook": "Political head of a department, answers to Parliament: the <b>Minister</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "The Parliament holds me responsible for malpractices in my department.",
+    "I may not be an expert, but I am conscious of broad public interest.",
+    "I am the political head of a department."
+   ],
+   "options": [
+    "Secretary",
+    "Minister",
+    "Tehsildar",
+    "Deputy Secretary"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "<b>Public Service Commissions</b>: autonomous, so selection is on merit and efficiency.",
+   "prompt": "Why did the Constitution establish the Public Service Commissions?",
+   "options": [
+    "To run elections",
+    "To give justice",
+    "To select civil servants on the basis of merit and efficiency",
+    "To collect taxes"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Collector and Commissioners are civil servants in the <b>administrative</b> system.",
+   "prompt": "District Collector and Municipal Commissioner are civil servants. In which system do they work?",
+   "options": [
+    "The government's administrative system",
+    "The judicial system",
+    "The defence forces",
+    "The election system"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22"
+   ],
+   "hook": "IAS and IPS: <b>All-India</b>. Foreign and Revenue Services: <b>Central</b>.",
+   "prompt": "Which pair is matched correctly?",
+   "options": [
+    "Indian Revenue Service: All-India Service",
+    "Indian Foreign Service: Union or Central Service",
+    "Indian Police Service: State Civil Service",
+    "Tehsildar: All-India Service"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "Union Services under the <b>Union</b> Government; State Civil Services like Tehsildar under the <b>State</b> Government.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "Union or Central Services come under the Union Government."
+    ],
+    [
+     "Dev",
+     "Tehsildar posts come under the Union Government of India."
+    ],
+    [
+     "Pooja",
+     "State Civil Services are recruited through competitive examinations held at the State-level."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "District",
+    "Municipal",
+    "State"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11",
+    "f17"
+   ],
+   "hook": "Governments come and go; the bureaucracy stays: a <b>permanent mechanism</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Because of me, tax collection and law and order can be consistently undertaken.",
+    "The Council of Ministers changes after every election, but I let the bureaucracy remain constant.",
+    "I am one characteristic of the bureaucracy."
+   ],
+   "options": [
+    "Anonymity",
+    "Political neutrality",
+    "Permanent mechanism",
+    "Reservation policy"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Reservations in civil services: <b>SC, ST, Women, OBC, specially-abled</b>.",
+   "prompt": "Why are there reservations in civil services?",
+   "options": [
+    "To keep weaker sections out of civil services",
+    "So that weaker sections of society are not left out of civil services due to social inequality",
+    "To let ministers choose their friends",
+    "To reduce the number of civil servants"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "Anonymity: civil servants are <b>never</b> publicly criticised; the Minister is accountable.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "The Minister, as head of the department, is accountable for any inefficiency."
+    ],
+    [
+     "Yash",
+     "Civil servants are often publicly criticised for failed policies."
+    ],
+    [
+     "Zoya",
+     "The Parliament holds the Minister responsible for malpractices."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "never",
+    "always",
+    "daily"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "Defence forces guard; <b>civil services</b> serve citizens' daily lives.",
+   "prompt": "What is the administrative system developed for providing services to citizens called?",
+   "options": [
+    "Defence forces",
+    "Judiciary",
+    "Council of Ministers",
+    "Civil services"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-20-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f24"
+   ],
+   "hook": "Maharashtra's state recruits come through the <b>MPSC</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am a Public Service Commission at the state level.",
+    "I recommend selected candidates to the government.",
+    "I select candidates for the state administration of Maharashtra through competitive examinations."
+   ],
+   "options": [
+    "Union Public Service Commission",
+    "Maharashtra Public Service Commission",
+    "Vidhan Parishad",
+    "District Court"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f07",
+    "f10"
+   ],
+   "hook": "Elected ministers bring <b>people's aspirations</b>, civil servants bring <b>expertise</b>: harmony.",
+   "prompt": "In the parliamentary system, what are put in harmony?",
+   "options": [
+    "The aspirations of the people and administrative expertise",
+    "Courts and the police",
+    "The Army and the Navy",
+    "Taxes and salaries"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-25",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Water, transport, electricity, cleanliness every day: bureaucracy gives <b>stability</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "The structure of the Indian bureaucracy is extensive and complex."
+    ],
+    [
+     "Vihaan",
+     "Bureaucracy gives instability to the political system."
+    ],
+    [
+     "Riya",
+     "Water supply, transport and electricity must be provided consistently."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "confusion",
+    "stability",
+    "weakness"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-26",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Laws for women, child security and the marginalised come alive through the bureaucracy: <b>social transformation</b>.",
+   "prompt": "The bureaucracy is an important instrument of what?",
+   "options": [
+    "Foreign wars",
+    "Election campaigns",
+    "Judicial Review",
+    "Social transformation"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-20-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Tehsildar is also called the <b>Executive Magistrate</b>; a State Civil Service post.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am recruited through competitive examinations held at the State-level.",
+    "My post comes under the State Government.",
+    "I am also called the Executive Magistrate."
+   ],
+   "options": [
+    "Block Development Officer",
+    "Finance Secretary",
+    "Tehsildar",
+    "Deputy District Collector"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Department efficiency = <b>Minister + Secretaries + Deputy Secretaries</b> working well together.",
+   "prompt": "On what does the efficiency of a government department depend?",
+   "options": [
+    "The number of elections held",
+    "The inter-relationship between the Minister and the Department Secretaries and Deputy Secretaries",
+    "The Governor's speeches",
+    "The decisions of the High Court"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f19"
+   ],
+   "hook": "Reservations for <b>SC, ST, Women, OBC and specially-abled</b> bring the marginalised into the mainstream.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meher",
+     "Civil services have reservations for Scheduled Castes and Scheduled Tribes."
+    ],
+    [
+     "Sahil",
+     "There are also reservations for Women, Other Backward Castes and specially-abled."
+    ],
+    [
+     "Nisha",
+     "Reservations have reduced the participation of marginalised sections in decision making."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "stopped",
+    "increased",
+    "ended"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f12"
+   ],
+   "hook": "New party, new policies, same <b>neutral</b> bureaucracy.",
+   "prompt": "When a new party wins elections and changes some policies, what is the bureaucracy expected to do?",
+   "options": [
+    "Resign with the old government",
+    "Support only the old policies",
+    "Remain neutral while discharging its duties",
+    "Take a political stand"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Indian bureaucracy: <b>extensive and complex</b>, carried out post-independence reforms.",
+   "prompt": "Which statement about the Indian bureaucracy is correct?",
+   "options": [
+    "Its structure is extensive and complex, and it implemented post-independence reforms.",
+    "It is small and simple.",
+    "It was created only last year.",
+    "It ignored all post-independence reforms."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Collector, Municipal Commissioner, Finance Secretary, Divisional Commissioner: <b>civil servants</b>.",
+   "prompt": "Which of these posts is a civil servant's post?",
+   "options": [
+    "Divisional Commissioner",
+    "Chief Minister",
+    "Speaker",
+    "Governor"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-33",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f09"
+   ],
+   "hook": "Ministers decide, but <b>civil servants</b> hold the information, so ministers depend on them.",
+   "prompt": "Who are we?",
+   "clues": [
+    "We know the history of successes and failures of policies.",
+    "We know the financial provisions for a particular scheme or plan.",
+    "Ministers are dependent upon us because we control the information."
+   ],
+   "options": [
+    "Judges",
+    "Voters",
+    "Members of Parliament",
+    "Civil servants"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-20-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f30"
+   ],
+   "hook": "Minister <b>decides</b>; civil servants have <b>complete control</b> over information.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aryan",
+     "Decisions relating to the department are made by the concerned minister."
+    ],
+    [
+     "Diya",
+     "Civil servants have no control over information in a department."
+    ],
+    [
+     "Kunal",
+     "Dialogue, mutual trust and transparency between them help the departments."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "complete",
+    "little",
+    "zero"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-20-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f14",
+    "f11"
+   ],
+   "hook": "<b>Permanent</b> (stays), <b>neutral</b> (no politics), <b>anonymous</b> (Minister takes the blame).",
+   "prompt": "Which statement matches anonymity of the bureaucracy?",
+   "options": [
+    "The bureaucracy stays the same after every election.",
+    "A civil service is not held directly responsible for the success or failure of policy.",
+    "Civil servants should not take a political stand.",
+    "Civil servants are chosen on merit."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f25"
+   ],
+   "hook": "IAS, IPS, Indian Forest Service: <b>All-India Services</b>, recruited via UPSC.",
+   "prompt": "What are we?",
+   "clues": [
+    "The UPSC conducts examinations to recruit for us.",
+    "The Indian Forest Service is one of us.",
+    "We include the Indian Administrative Service and Indian Police Service."
+   ],
+   "options": [
+    "State Civil Services",
+    "All-India Services",
+    "Union or Central Services",
+    "Defence forces"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-20-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f06"
+   ],
+   "hook": "Security -> <b>defence forces</b>; services to citizens -> <b>civil services</b>.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The civil services defend the country from external aggression.",
+    "Defence forces were developed to provide daily services like water supply.",
+    "Internal security has nothing to do with civil services.",
+    "Security is carried out by the defence forces, while the civil services provide services to citizens."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-20-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13",
+    "f02"
+   ],
+   "hook": "Ministers propose laws and policies; a <b>neutral</b> bureaucracy carries them out.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Leela",
+     "The Prime Minister and the Council of Ministers make proposals for new laws."
+    ],
+    [
+     "Manav",
+     "Civil servants should always take a political stand at work."
+    ],
+    [
+     "Gauri",
+     "A party that fails to win elections has to leave government."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "often",
+    "openly",
+    "never"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22",
+    "f23",
+    "f25",
+    "f26"
+   ],
+   "hook": "UPSC: All-India + Central. MPSC: Maharashtra state. State Civil Services: State-level exams.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The MPSC recruits for the Indian Police Service.",
+    "The Indian Revenue Service is a State Civil Service.",
+    "The UPSC conducts examinations for All-India and Central Services, while State Civil Services are recruited through State-level examinations.",
+    "The Block Development Officer is an All-India Service post."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-20-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19",
+    "f18"
+   ],
+   "hook": "Democratisation needs progressive laws and policies <b>plus</b> effective participation of the bureaucracy.",
+   "prompt": "What does democratisation of society need, besides progressive laws and policies?",
+   "options": [
+    "The effective participation of the bureaucracy",
+    "Fewer elections",
+    "No reservation policy",
+    "Rule by the defence forces"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -1,0 +1,1572 @@
+{
+ "class": 8,
+ "id": "02",
+ "title": "Europe and India",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "During the modern period, happenings in Europe had an impact on India.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the modern period, the various happenings in Europe had its impact on India.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "In European history, the last phase of the mediaeval period, the 13th to 16th century, is known as the period of renaissance.",
+   "year": null,
+   "era": "CE",
+   "quote": "In history of Europe, the last phase of mediaeval period i.e. 13th to 16th century is known as the period of renaissance.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Reformation, the religious reform movement and geographical discoveries laid the foundation of the modern era, so the period is called the 'Age of Renaissance'.",
+   "year": null,
+   "era": "CE",
+   "quote": "During this period reformation, religious reform movement and geographical discoveries laid the foundation of the modern era. Hence this period is also known as the 'Age of Renaissance'.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "In art, architecture and philosophy there was a revival of Greek and Roman tradition.",
+   "year": null,
+   "era": "CE",
+   "quote": "in the field of art, architecture, philosophy etc. there was a revival of Greek and Roman tradition",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "During the Renaissance humanitarianism got great impetus; instead of religion, man became the centre point of all ideologies.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the Renaissance humanitarianism was given great impetus. ... Instead of religion, man became centre point of all ideologies.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "event",
+   "text": "Literature was produced in local language for better understanding of the common people.",
+   "year": null,
+   "era": "CE",
+   "quote": "Literature was produced in local language for better understanding to the common people.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "date",
+   "text": "During 1450 AD, Johannes Gutenberg from Germany discovered the printing press, and new ideas reached all sections of society.",
+   "year": 1450,
+   "era": "CE",
+   "quote": "During 1450 AD, Johannes Gutenberg, from Germany discovered the printing press. Due to this discovery new ideas, concepts and knowledge reached to all sections of society.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "Leonardo da Vinci was an all round personality of the Renaissance, master of sculpture, architecture, mathematics, engineering, music and astronomy, world renowned as a painter of 'Monalisa' and 'The Last Supper'.",
+   "year": null,
+   "era": "CE",
+   "quote": "He is recognised as an all round personality of the period of Renaissance. ... But he became world renowned as a painter. His paintings of 'Monalisa' and 'The Last Supper' became immortal.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "Independent intellectuals attacked the old religious ideologies of the Roman Catholic Church; the Religious Reform Movement gave more importance to human freedom and rationalism.",
+   "year": null,
+   "era": "CE",
+   "quote": "The independent intellectuals attacked the old religious ideologies of Roman Catholic Church. ... Due to this movement, human freedom and rationalism gained more importance.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "date",
+   "text": "In 1453 AD the Ottoman Turks conquered Constantinople (Istanbul), the capital of the Byzantine Empire.",
+   "year": 1453,
+   "era": "CE",
+   "quote": "In 1453 AD, the Ottoman Turks conquered Constantinople (Istanbul) which was the capital of Byzantine Empire.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "event",
+   "text": "The overland trade routes joining Asia and Europe went through Constantinople; the Turks blocked this route, so Europeans needed new routes, which led to geographical discoveries.",
+   "year": null,
+   "era": "CE",
+   "quote": "The overland trade routes joining Asia and Europe went through this city. Since the Turks blocked this route, there was a need of finding alternative trade routes ... This led to a new phase of geographical discoveries.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "During the 15th century, European sailors went on expeditions to discover a sea route to India.",
+   "year": null,
+   "era": "CE",
+   "quote": "During 15th century, European sailors went on expedition to discover sea route to India.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "date",
+   "text": "In 1487 AD Bartolomeu Dias, a Portuguese sailor, reached the tip of the African continent, now known as the 'Cape of Good Hope'.",
+   "year": 1487,
+   "era": "CE",
+   "quote": "In 1487 AD Bartolomeu Dias, a Portuguese sailor, began his expedition in search of India. But reached the tip of African continent, which we now know as the 'Cape of Good Hope'.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "In 1492 AD Christopher Columbus sailed west to reach India but reached the eastern coast of the continent of America.",
+   "year": 1492,
+   "era": "CE",
+   "quote": "In 1492 AD, Christopher Columbus set on his journey to India by sailing towards west but reached on the eastern coast of the continent of America.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "In 1498 AD the Portuguese sailor Vasco-da-Gama sailed past the Cape of Good Hope and reached the Indian coast in Calicut.",
+   "year": 1498,
+   "era": "CE",
+   "quote": "In 1498 AD, Portuguese sailor Vasco-da-Gama managed to sail past the Cape of Good Hope and reached the Indian coast in Calicut.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "The Intellectual Revolution: society stepped out of ignorance and blind faith, customs were seen critically, and scientific discoveries gained momentum.",
+   "year": null,
+   "era": "CE",
+   "quote": "The pre established customs and traditions came to be seen from a critical point of view. All these changes are addressed as 'Intellectual Revolution' which gave further momentum to scientific discoveries in Europe.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Because of revolutionary events during the 18th and 19th century, this period is known as the 'Age of Revolutions'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Due to the various revolutionary events during 18th as well as 19th century, this period is known as the 'Age of Revolutions'.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "event",
+   "text": "Parliamentary Democracy developed in England and the Cabinet System changed.",
+   "year": null,
+   "era": "CE",
+   "quote": "During this period, there was development of Parliamentary Democracy in England. There was a change in the form of Cabinet System.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "date",
+   "text": "The Bill of Rights 1689 laid limitations on the power of the King, and the sovereignty of Parliament was established.",
+   "year": 1689,
+   "era": "CE",
+   "quote": "The Bill of Rights 1689 laid limitations on the power of the King. The sovereignty of Parliament was established.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "England established thirteen colonies on the East coast of America.",
+   "year": null,
+   "era": "CE",
+   "quote": "England established thirteen colonies on the East coast of America.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "The English Parliament laid oppressive restrictions and taxes on the American colonies; the colonies organised an army under George Washington and won against England.",
+   "year": null,
+   "era": "CE",
+   "quote": "later English Parliament laid oppressive restrictions and taxes on these American colonies. ... American colonies organised the army under the leadership of George Washington and finally won against England.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "event",
+   "text": "A new nation, the United States of America, was born with a federal government, a written constitution and based on the principles of Democracy.",
+   "year": null,
+   "era": "CE",
+   "quote": "A new nation known as the United States of America, with a federal government, written constitution and based on the principles of Democracy, was born.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "In 1789 AD the people of France revolted against unjust monarchy and feudalism and established a Republic: the French Revolution.",
+   "year": 1789,
+   "era": "CE",
+   "quote": "In 1789 AD, the people of France revolted against the uncontrolled and unjust monarchy and feudalism and established a Republic. This event is known as 'French Revolution'.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The French Revolution gave the world the three values of Liberty, Equality and Fraternity.",
+   "year": null,
+   "era": "CE",
+   "quote": "The French Revolution gave to the world the three values of Liberty, Equality and Fraternity.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "Among political revolutions, the American war of Independence and the French Revolution have a very important place in world history.",
+   "year": null,
+   "era": "CE",
+   "quote": "In World history, among the political revolutions, the American war of Independence and French Revolution have a very important place.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "In the latter period of the 18th century, machines running on steam replaced cottage industries with big factories; railway and steamer became transport; this is the 'Industrial Revolution'.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the latter period of 18th century, there were many technological innovations in Europe. There was production with the help of machines running on steam. The cottage industries were replaced by big factories. ... Railway and steamer became the mode of transportation.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "place",
+   "text": "The Industrial Revolution began in England, which came to be described as the 'World Factory'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Industrial Revolution began in England and then spread in other parts of West. During this period England enjoyed industrial prosperity and came to be described as 'World Factory'.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Traders formed trading companies; European rulers gave them military protection and trade concessions; wealth accumulated and was used as capital, leading to the capitalist economic system.",
+   "year": null,
+   "era": "CE",
+   "quote": "European rulers started giving military protection and trade concessions to these trading companies. This led to accumulation of wealth in Europe. This property was used in the form of capital for trade and Commerce which led to rise of capitalist economic system in Europe.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Colonialism means one country exploiting another country by making it into a colony.",
+   "year": null,
+   "era": "CE",
+   "quote": "Colonialism means one country exploiting another country by making it into a colony.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Imperialism means a system in which a powerful country controls other countries by establishing its overall domination and many colonies.",
+   "year": null,
+   "era": "CE",
+   "quote": "Imperialism means a system in which a powerful country controls other countries by establishing its overall domination and establishing many colonies.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "date",
+   "text": "The British established the British East India Company in 1600 AD to carry out trade in India.",
+   "year": 1600,
+   "era": "CE",
+   "quote": "The British established British East India Company in 1600 AD to carry out trade in India.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "place",
+   "text": "The Company took permission from Emperor Jahangir and established its factory in Surat.",
+   "year": null,
+   "era": "CE",
+   "quote": "This company took permission from Emperor Jahangir and established its factory in Surat.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "event",
+   "text": "England and France fought three 'Carnatic Wars'; in the third Carnatic War England finally defeated France.",
+   "year": null,
+   "era": "CE",
+   "quote": "there were three Wars fought between them which are known as 'Carnatic Wars'. In the third Carnatic War England finally defeated France.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "In 1756 AD Siraj-ud-Daulah became the Nawab of Bengal, one of the most prosperous provinces in India.",
+   "year": 1756,
+   "era": "CE",
+   "quote": "The Bengal province was one of the most prosperous province in India. In 1756 AD Siraj-ud-Daulah became the Nawab of Bengal.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "event",
+   "text": "The English built fortification around their factory at Kolkata without the Nawab's permission, so Siraj-ud-Daulah captured the factory at Kolkata.",
+   "year": null,
+   "era": "CE",
+   "quote": "The English built fortification around the factory at Kolkata without the permission of the Nawab. Hence Siraj-ud-Daulah captured the factory at Kolkata.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "Robert Clive bribed Mir Jafar, the Commander in chief of the Nawab's army, and promised to make him the Nawab of Bengal.",
+   "year": null,
+   "era": "CE",
+   "quote": "Robert Clive diplomatically bribed Mir Jafar, the Commander in chief of the Nawab's army and also promised to make him the Nawab of Bengal.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "date",
+   "text": "Siraj-ud-Daulah and the British troops met at Plassey in 1757 AD; the Nawab's army under Mir Jafar made no move to fight, and Siraj-ud-Daulah was defeated.",
+   "year": 1757,
+   "era": "CE",
+   "quote": "Nawab Siraj-ud-Daulah and the British Troops met at Plassey in 1757 AD. But under the leadership of Mir Jafar the Nawab's army made no move to actually join the battle and hence Siraj-ud-Daulah was defeated.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "Mir Jafar became Nawab with British support; when he protested against the British, his son-in-law Mir Kasim was made Nawab; Mir Kasim tried to restrict the illegal trade of the British, so Mir Jafar was made Nawab again.",
+   "year": null,
+   "era": "CE",
+   "quote": "his son-in-law, Mir Kasim was made the Nawab. Mir Kasim tried to put restrictions on the illegal trade of British and hence once again Mir Jafar was made the Nawab of Bengal.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "date",
+   "text": "Mir Kasim, Shuja-ud-Daulah (the Nawab of Ayodhya) and Mughal Emperor Shah Alam formed an alliance; in 1764 AD the battle of Buxar was fought in Bihar.",
+   "year": 1764,
+   "era": "CE",
+   "quote": "Mir Kasim, Shuja-ud-Daulah, the Nawab of Ayodhya and Mughal Emperor Shah Alam formed an alliance and ran a campaign. In 1764 AD battle of Buxar was fought in Bihar.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "After Buxar, the British East India Company got the right to collect revenue from Bengal as per the Treaty of Allahabad; the foundation of British rule in India was laid in Bengal.",
+   "year": null,
+   "era": "CE",
+   "quote": "After this battle, British East India Company got the right to collect the revenue from Bengal province as per the Treaty of Allahabad. In this manner, the foundation of British rule in India was laid in Bengal.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "person",
+   "text": "Hyder Ali took control of Mysore; after his death his son Tipu Sultan became the ruler of Mysore.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hyder Ali from Mysore State rebelled and took control of Mysore. After the death of Haider Ali, his son Tipu Sultan became the ruler of Mysore.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "Tipu Sultan died in the battle at Srirangapatna in 1799 and the British took control of Mysore.",
+   "year": 1799,
+   "era": "CE",
+   "quote": "At the end, Tipu Sultan died in the battle at Srirangapatna in 1799. In this manner the British took control of the Mysore territory.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "Fearing a Russian attack through Afghanistan, and since the route to Afghanistan went through Sindh, the British captured Sindh in 1843.",
+   "year": 1843,
+   "era": "CE",
+   "quote": "They feared that Russia might attack India through Afghanistan ... The route towards Afghanistan went through Sindh. The British understood the importance of Sindh and hence captured it in 1843.",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "person",
+   "text": "Ranjit Singh held power in Punjab at the beginning of the 19th century; after his death his minor son Duleep Singh came to the throne and his mother Queen Jindan looked after state affairs.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the beginning of 19th century the power in Punjab was in the hands of Ranjit Singh. After the death of Ranjit Singh, his minor son, Duleep Singh came to the throne. On his behalf, his mother Queen Jindan looked after the state affairs",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "event",
+   "text": "In the first Anglo Sikh war the Sikhs were defeated, but Duleep Singh remained on the throne.",
+   "year": null,
+   "era": "CE",
+   "quote": "In this first Anglo Sikh war the Sikhs were defeated. But still Duleep Singh remained on the throne.",
+   "page": 4
+  },
+  {
+   "fid": "f46",
+   "kind": "person",
+   "text": "Mulraj, officer of Multan, revolted against the English; in the second war the Sikhs were defeated again.",
+   "year": null,
+   "era": "CE",
+   "quote": "Mulraj, officer of Multan, revolted against the English. ... In the second war the Sikhs had to face defeat again.",
+   "page": 4
+  },
+  {
+   "fid": "f47",
+   "kind": "date",
+   "text": "In 1849 the British finally captured the entire region of Punjab.",
+   "year": 1849,
+   "era": "CE",
+   "quote": "In 1849 the British finally captured the entire region of Punjab.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-02-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f31",
+    "f37",
+    "f39",
+    "f42"
+   ],
+   "hook": "1600 Company, 1757 Plassey, 1764 Buxar, 1799 Srirangapatna.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "British East India Company set up",
+     "y": "1600",
+     "k": 1600
+    },
+    {
+     "t": "Battle of Plassey",
+     "y": "1757",
+     "k": 1757
+    },
+    {
+     "t": "Battle of Buxar",
+     "y": "1764",
+     "k": 1764
+    },
+    {
+     "t": "Tipu Sultan dies at Srirangapatna",
+     "y": "1799",
+     "k": 1799
+    }
+   ]
+  },
+  {
+   "qid": "c8-02-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "<b>1757</b> Plassey: Mir Jafar's army did not move.",
+   "prompt": "In which year did Siraj-ud-Daulah and the British troops meet at Plassey?",
+   "year": 1757,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Dias 1487 reached the Cape; Vasco-da-Gama 1498 went past it to Calicut.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a Portuguese sailor.",
+    "I managed to sail past the Cape of Good Hope.",
+    "In 1498 I reached the Indian coast in Calicut."
+   ],
+   "options": [
+    "Bartolomeu Dias",
+    "Christopher Columbus",
+    "Robert Clive",
+    "Vasco-da-Gama"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-02-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f24",
+    "f25"
+   ],
+   "hook": "France 1789: Liberty, Equality, Fraternity.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "In 1789 the people of France revolted against monarchy and feudalism."
+    ],
+    [
+     "Isha",
+     "They established a Republic in France."
+    ],
+    [
+     "Aarav",
+     "The French Revolution gave Liberty, Equality and Justice as values to the world."
+    ],
+    [
+     "Isha",
+     "The French Revolution has a very important place among political revolutions in world history."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Democracy",
+    "Fraternity",
+    "Prosperity"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-05",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "<b>1453</b>: the Turks take Constantinople and block the old route.",
+   "prompt": "In which year did the Ottoman Turks conquer Constantinople?",
+   "year": 1453,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Leonardo da Vinci: 'Monalisa' and 'The Last Supper'.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I had mastery over sculpture, mathematics, engineering, music and astronomy.",
+    "I am recognised as an all round personality of the Renaissance.",
+    "My paintings 'Monalisa' and 'The Last Supper' became immortal."
+   ],
+   "options": [
+    "Johannes Gutenberg",
+    "Leonardo da Vinci",
+    "Christopher Columbus",
+    "George Washington"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f03"
+   ],
+   "hook": "Against the old ideas of the Roman Catholic Church: the Religious Reform Movement.",
+   "prompt": "Which movement in Europe attacked the old religious ideologies of the Roman Catholic Church?",
+   "options": [
+    "Religious Reform Movement",
+    "Industrial Revolution",
+    "American War of Independence"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-02-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f31",
+    "f32"
+   ],
+   "hook": "1600 Company; Jahangir's permission; factory at Surat.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "The British East India Company was established in 1600 to trade in India."
+    ],
+    [
+     "Sara",
+     "It took permission from Emperor Akbar to set up its factory."
+    ],
+    [
+     "Nikhil",
+     "The company established its factory in Surat."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Aurangzeb",
+    "Humayun",
+    "Jahangir"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f10",
+    "f13",
+    "f14",
+    "f15"
+   ],
+   "hook": "Route blocked 1453, then Dias 1487, Columbus 1492, Vasco-da-Gama 1498.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Ottoman Turks conquer Constantinople",
+     "y": "1453",
+     "k": 1453
+    },
+    {
+     "t": "Bartolomeu Dias reaches the Cape",
+     "y": "1487",
+     "k": 1487
+    },
+    {
+     "t": "Columbus sails west, reaches America",
+     "y": "1492",
+     "k": 1492
+    },
+    {
+     "t": "Vasco-da-Gama reaches Calicut",
+     "y": "1498",
+     "k": 1498
+    }
+   ]
+  },
+  {
+   "qid": "c8-02-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "<b>1498</b>: Calicut - the sea route to India found.",
+   "prompt": "In which year did Vasco-da-Gama reach the Indian coast in Calicut?",
+   "year": 1498,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f34",
+    "f35",
+    "f37"
+   ],
+   "hook": "Nawab in 1756, defeated at Plassey in 1757: just one year later.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I captured the English factory at Kolkata.",
+    "I became the Nawab of Bengal in 1756.",
+    "My army stood still at Plassey and I was defeated."
+   ],
+   "options": [
+    "Mir Jafar",
+    "Siraj-ud-Daulah",
+    "Mir Kasim",
+    "Shuja-ud-Daulah"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f36",
+    "f37"
+   ],
+   "hook": "Clive bribed Mir Jafar; Plassey 1757 was lost without a fight.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "Robert Clive bribed Mir Jafar, the commander in chief of the Nawab's army."
+    ],
+    [
+     "Yash",
+     "Siraj-ud-Daulah and the British troops met at Buxar in 1757."
+    ],
+    [
+     "Tara",
+     "The Nawab's army under Mir Jafar made no move to join the battle."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Surat",
+    "Plassey",
+    "Calicut"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-13",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "<b>1789</b>: France becomes a Republic.",
+   "prompt": "In which year did the French Revolution take place?",
+   "year": 1789,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f16"
+   ],
+   "hook": "Colony + exploit = Colonialism.",
+   "prompt": "What does 'Colonialism' mean?",
+   "options": [
+    "Production with the help of machines running on steam",
+    "The revival of Greek and Roman tradition",
+    "One country exploiting another country by making it into a colony",
+    "Seeing old customs from a critical point of view"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f41",
+    "f42"
+   ],
+   "hook": "Hyder Ali's son Tipu Sultan fell at Srirangapatna in 1799.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My father took control of Mysore.",
+    "I tried my best to fight against the British.",
+    "I died in the battle at Srirangapatna in 1799."
+   ],
+   "options": [
+    "Hyder Ali",
+    "Tipu Sultan",
+    "Ranjit Singh",
+    "Mulraj"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f04",
+    "f06",
+    "f05"
+   ],
+   "hook": "Renaissance (13th-16th century) = rebirth of Greek and Roman tradition.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Diya",
+     "In Europe the 13th to 16th century is known as the period of renaissance."
+    ],
+    [
+     "Kunal",
+     "There was a revival of Greek and Chinese tradition in art and architecture."
+    ],
+    [
+     "Diya",
+     "Literature was produced in local language for the common people."
+    ],
+    [
+     "Kunal",
+     "Instead of religion, man became the centre point of all ideologies."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Roman",
+    "Arab",
+    "Indian"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-02-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f19",
+    "f34",
+    "f23",
+    "f43"
+   ],
+   "hook": "1689 England, 1756 Bengal, 1789 France, 1843 Sindh.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Bill of Rights limits the King",
+     "y": "1689",
+     "k": 1689
+    },
+    {
+     "t": "Siraj-ud-Daulah becomes Nawab",
+     "y": "1756",
+     "k": 1756
+    },
+    {
+     "t": "French Revolution",
+     "y": "1789",
+     "k": 1789
+    },
+    {
+     "t": "British capture Sindh",
+     "y": "1843",
+     "k": 1843
+    }
+   ]
+  },
+  {
+   "qid": "c8-02-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "<b>1600</b>: the Company is born, 157 years before Plassey (1757).",
+   "prompt": "In which year did the British establish the British East India Company?",
+   "year": 1600,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f39",
+    "f37"
+   ],
+   "hook": "Plassey 1757 + 7 = Buxar <b>1764</b>.",
+   "prompt": "In which year was the battle of Buxar fought?",
+   "year": 1764,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f38",
+    "f39"
+   ],
+   "hook": "Mir Kasim: Mir Jafar's son-in-law who tried to stop illegal British trade.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I joined an alliance with Shuja-ud-Daulah and Shah Alam.",
+    "I was the son-in-law of Mir Jafar.",
+    "As Nawab, I tried to restrict the illegal trade of the British."
+   ],
+   "options": [
+    "Siraj-ud-Daulah",
+    "Shah Alam",
+    "Mir Kasim",
+    "Hyder Ali"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "Constantinople: Byzantine capital, taken in 1453, trade route blocked.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rhea",
+     "In 1453 the Ottoman Turks conquered Constantinople."
+    ],
+    [
+     "Manav",
+     "Constantinople was the capital of the Mughal Empire at that time."
+    ],
+    [
+     "Rhea",
+     "The Turks blocked the overland trade route between Asia and Europe."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "Persian",
+    "British",
+    "Byzantine"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Buxar alliance: Mir Kasim + Shuja-ud-Daulah + Shah Alam.",
+   "prompt": "Who formed an alliance to restrict the British, leading to the battle of Buxar?",
+   "options": [
+    "Mir Jafar, Robert Clive and Siraj-ud-Daulah",
+    "Hyder Ali, Tipu Sultan and Mulraj",
+    "Mir Kasim, Shuja-ud-Daulah and Shah Alam",
+    "Ranjit Singh, Duleep Singh and Queen Jindan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f22"
+   ],
+   "hook": "13 colonies on the East coast; George Washington led them to win.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neel",
+     "England established thirteen colonies on the West coast of America."
+    ],
+    [
+     "Avni",
+     "The American colonies organised an army under George Washington."
+    ],
+    [
+     "Neel",
+     "The new nation had a federal government and a written constitution."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 6
+   },
+   "options": [
+    "North",
+    "South",
+    "East"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Three Carnatic Wars; England won the third.",
+   "prompt": "Which statement about the Carnatic Wars is correct?",
+   "options": [
+    "England and France fought three Carnatic Wars, and England finally won in the third.",
+    "They were fought between England and Portugal.",
+    "France defeated England in the third Carnatic War.",
+    "Only two Carnatic Wars were fought."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-02-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f07",
+    "f31",
+    "f19",
+    "f23",
+    "f47"
+   ],
+   "hook": "1450 press, 1600 Company, 1689 Bill of Rights, 1789 France, 1849 Punjab.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Gutenberg's printing press",
+     "y": "1450",
+     "k": 1450
+    },
+    {
+     "t": "British East India Company set up",
+     "y": "1600",
+     "k": 1600
+    },
+    {
+     "t": "Bill of Rights in England",
+     "y": "1689",
+     "k": 1689
+    },
+    {
+     "t": "French Revolution",
+     "y": "1789",
+     "k": 1789
+    },
+    {
+     "t": "British capture all of Punjab",
+     "y": "1849",
+     "k": 1849
+    }
+   ]
+  },
+  {
+   "qid": "c8-02-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f47"
+   ],
+   "hook": "Sindh 1843, Punjab <b>1849</b>: 6 years apart.",
+   "prompt": "In which year did the British finally capture the entire region of Punjab?",
+   "year": 1849,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Press <b>1450</b>, Constantinople 1453: just 3 years apart.",
+   "prompt": "In which year did Johannes Gutenberg discover the printing press?",
+   "year": 1450,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Gutenberg of Germany: the press that spread ideas, 1450.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I came from Germany.",
+    "My discovery helped new ideas reach all sections of society.",
+    "I discovered the printing press during 1450."
+   ],
+   "options": [
+    "Johannes Gutenberg",
+    "Leonardo da Vinci",
+    "Bartolomeu Dias",
+    "George Washington"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-02-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f44",
+    "f46",
+    "f47"
+   ],
+   "hook": "Ranjit Singh, then Duleep Singh with Queen Jindan; Mulraj of Multan; Punjab lost in 1849.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Farhan",
+     "After Ranjit Singh's death his minor son Duleep Singh came to the throne."
+    ],
+    [
+     "Gauri",
+     "Queen Jindan looked after the state affairs on his behalf."
+    ],
+    [
+     "Farhan",
+     "Mulraj the officer of Lahore revolted against the English."
+    ],
+    [
+     "Gauri",
+     "In 1849 the British captured the entire region of Punjab."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Surat",
+    "Multan",
+    "Mysore"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "Fear of Russia via Afghanistan; the road to Afghanistan ran through Sindh.",
+   "prompt": "Why did the British capture Sindh in 1843?",
+   "options": [
+    "Sindh was the most prosperous province in India.",
+    "Mulraj had revolted against the English in Sindh.",
+    "The route towards Afghanistan went through Sindh, and they feared Russia might attack India through Afghanistan.",
+    "Tipu Sultan had taken shelter in Sindh."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "year",
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f19",
+    "f18"
+   ],
+   "hook": "Bill of Rights 1689: limits on the King, Parliament sovereign.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Hari",
+     "The 18th and 19th centuries are known as the Age of Revolutions."
+    ],
+    [
+     "Lata",
+     "The Bill of Rights 1698 laid limitations on the power of the King."
+    ],
+    [
+     "Hari",
+     "The sovereignty of Parliament was established in England."
+    ],
+    [
+     "Lata",
+     "Parliamentary Democracy developed in England during this period."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "1689",
+    "1789",
+    "1600"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-02-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f28"
+   ],
+   "hook": "Imperialism = overall domination + many colonies.",
+   "prompt": "Which term means a system in which a powerful country controls other countries by establishing overall domination and many colonies?",
+   "options": [
+    "Capitalism",
+    "Imperialism",
+    "Renaissance",
+    "Humanitarianism"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f34",
+    "f37",
+    "f39",
+    "f42",
+    "f43"
+   ],
+   "hook": "1756 Nawab, 1757 Plassey, 1764 Buxar, 1799 Mysore, 1843 Sindh.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Siraj-ud-Daulah becomes Nawab of Bengal",
+     "y": "1756",
+     "k": 1756
+    },
+    {
+     "t": "Battle of Plassey",
+     "y": "1757",
+     "k": 1757
+    },
+    {
+     "t": "Battle of Buxar in Bihar",
+     "y": "1764",
+     "k": 1764
+    },
+    {
+     "t": "Tipu Sultan dies at Srirangapatna",
+     "y": "1799",
+     "k": 1799
+    },
+    {
+     "t": "British capture Sindh",
+     "y": "1843",
+     "k": 1843
+    }
+   ]
+  },
+  {
+   "qid": "c8-02-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "Sindh <b>1843</b>, six years before Punjab (1849).",
+   "prompt": "In which year did the British capture Sindh?",
+   "year": 1843,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-02-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f45"
+   ],
+   "hook": "Duleep Singh: Ranjit Singh's minor son; Queen Jindan ruled for him.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My mother looked after the state affairs on my behalf.",
+    "I remained on the throne even after the first Anglo Sikh war.",
+    "I was the minor son of Ranjit Singh."
+   ],
+   "options": [
+    "Mulraj",
+    "Tipu Sultan",
+    "Shuja-ud-Daulah",
+    "Duleep Singh"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-02-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f13",
+    "f14",
+    "f12"
+   ],
+   "hook": "Columbus 1492 sailed west and found America, not India.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiara",
+     "In 1487 Bartolomeu Dias reached the tip of the African continent."
+    ],
+    [
+     "Rohit",
+     "In 1492 Christopher Columbus sailed towards the east to reach India."
+    ],
+    [
+     "Kiara",
+     "Columbus reached the eastern coast of the continent of America."
+    ],
+    [
+     "Rohit",
+     "European sailors went looking for a sea route to India during the 15th century."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "north",
+    "south",
+    "west"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f37",
+    "f39"
+   ],
+   "hook": "1764 - 1757 = 7 years.",
+   "prompt": "How many years after the battle of Plassey was the battle of Buxar fought?",
+   "options": [
+    "5 years",
+    "7 years",
+    "9 years",
+    "17 years"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-02-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "Constantinople, Byzantine capital, taken by the Turks in 1453.",
+   "prompt": "Which city am I?",
+   "clues": [
+    "Overland trade routes joining Asia and Europe went through me.",
+    "I was the capital of the Byzantine Empire.",
+    "The Ottoman Turks conquered me in 1453."
+   ],
+   "options": [
+    "Calicut",
+    "Surat",
+    "Constantinople",
+    "Srirangapatna"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-02-39",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "Steam, factories, railways: England became the 'World Factory'.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "In the latter period of the 18th century machines running on steam were used."
+    ],
+    [
+     "Vivek",
+     "Cottage industries were replaced by big factories."
+    ],
+    [
+     "Aditi",
+     "During this period France came to be described as the World Factory."
+    ],
+    [
+     "Vivek",
+     "Railway and steamer became the mode of transportation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "England",
+    "Germany",
+    "Portugal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-02-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f39",
+    "f40",
+    "f34"
+   ],
+   "hook": "Buxar (Bihar, 1764) - Treaty of Allahabad - revenue of Bengal.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The battle of Buxar was fought in Bengal.",
+    "After Buxar, the Company got the right to collect revenue from Bengal as per the Treaty of Allahabad.",
+    "Shuja-ud-Daulah was the Nawab of Bengal.",
+    "Siraj-ud-Daulah became the Nawab of Bengal in 1757."
+   ],
+   "answer": 1
+  }
+ ]
+}

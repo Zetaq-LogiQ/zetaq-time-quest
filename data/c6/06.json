@@ -1,0 +1,1601 @@
+{
+ "class": 6,
+ "id": "06",
+ "title": "Janapadas and Mahajanapadas",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "In ancient India, a group of village settlements together formed a 'Janapada'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "A group of such villages together formed a 'Janapada'.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "event",
+   "text": "Some Janapadas became powerful with armies, fertile lands, efficient governance and flourishing trade, evolving into 'Mahajanapadas'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "They possessed armies, fertile lands, efficient governance and flourishing trade. These Janapadas expanded in course of time evolving into 'Mahajanapadas'.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "date",
+   "text": "The Post-Vedic Period is dated approximately from 1000 BCE to 600 BCE; permanent settlements of this time were called Janapadas.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Generally, the Post-Vedic Period is dated approximately from 1000 BCE to 600 BCE. During this period, gradually people had permanent settlements. These settlements came to be known as 'Janapadas'.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "A Janapada is a community of people living in a specific geographical region, engaged in agriculture, animal husbandry and trade.",
+   "year": null,
+   "era": "BCE",
+   "quote": "A 'Janapada' is a community of people living in a specific geographical region. These people living together were engaged in agriculture, animal husbandry and trade.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Janapadas were named after the respective tribe.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Since these communities belonged to certain tribe, the Janapadas were named after the respective tribe.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "person",
+   "text": "Each Janapada had a chieftain, but most decisions were made with the elders; life was based on mutual cooperation.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Each Janapada had a chieftain. However, most of the decisions were made in consultation with the elders of the community. The way of life in a Janapada was based on mutual cooperation.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "The Janapada is considered the first of the ancient states in ancient India.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Janapada is considered the first of the ancient states in ancient India, wherein importance was given to public participation, collective decision-making and social organization.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "date",
+   "text": "Around the 6th century BCE, certain Janapadas became powerful kingdoms called Mahajanapadas, with villages, towns, trade routes and armed forces.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Around the 6th century BCE, certain Janapadas became powerful in terms of economic system, military organization and administration. These powerful kingdoms were called as 'Mahajanapadas'. The Mahajanapadas included many villages, towns, trade routes and had armed forces.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "A King or a Council of Advisors was at the head of the administration in Mahajanapadas.",
+   "year": null,
+   "era": "BCE",
+   "quote": "A King or a Council of Advisors were at the head of the administration in Mahajanapadas.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "event",
+   "text": "Some Janapadas expanded by conquering neighbours; by the 6th century BCE, sixteen Mahajanapadas had attained great importance.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Some Janapadas expanded by conquering the neighboring Janapadas and annexing their territories. By the 6th century BCE, sixteen Mahajanapadas had attained great importance.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "place",
+   "text": "Kashi - capital Varanasi.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Kashi - Varanasi",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "place",
+   "text": "Kosala - capital Shravasti.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Kosala - Shravasti",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "place",
+   "text": "Anga - capital Champa.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Anga - Champa",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "place",
+   "text": "Magadha - capital Girivraja / Rajgriha.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Magadha - Girivraja / Rajgriha",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "place",
+   "text": "Vrijji / Vajji - capital Vaishali.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Vrijji / Vajji - Vaishali",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "place",
+   "text": "Malla / Malava - capital Kushinara / Kushinagara.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Malla / Malava - Kushinara / Kushinagara",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "place",
+   "text": "Chedi - capital Shuktimati / Sotthivati.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Chedi - Shuktimati / Sotthivati",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "place",
+   "text": "Vamsha / Vatsa - capital Kaushambi.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Vamsha / Vatsa - Kaushambi",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "place",
+   "text": "Kuru - capital Indraprastha / Indrapattan.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Kuru - Indraprastha / Indrapattan",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "Uttar Panchala - capital Ahichchhatra; Dakshina Panchala - capital Kampilya.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Uttar Panchala - Ahichchhatra, Dakshina Panchala - Kampilya",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "place",
+   "text": "Matsya - capital Viratnagar.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Matsya - Viratnagar",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "place",
+   "text": "Shoorsena - capital Mathura.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Shoorsena - Mathura",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "place",
+   "text": "Ashmaka / Assaka - capital Potali / Potan / Podan.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Ashmaka / Assaka - Potali / Potan / Podan",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "place",
+   "text": "Avanti - capitals Ujjayini and Mahishmati.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Avanti - Ujjayini and Mahishmati",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "place",
+   "text": "Gandhara - capital Takshashila.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Gandhara - Takshashila",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "place",
+   "text": "Kamboja - capital Rajpur.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Kamboja - Rajpur",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "event",
+   "text": "The development of the Mahajanapadas was an important stage before the emergence of empires.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The development of the Mahajanapadas was an important stage before the emergence of empires.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "place",
+   "text": "Of the sixteen Mahajanapadas, Magadha, Kosala, Vatsa and Avanti gradually became the most powerful.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Out of the sixteen Mahajanapadas, four of them, namely Magadha, Kosala, Vatsa and Avanti gradually became the most powerful.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Mahajanapadas were larger in population, territory and resources than the Janapadas.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Mahajanapadas were larger in terms of population, territory and resources than the Janapadas.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Mahajanapadas where common people took part in administration were called 'Ganarajya' (Republic); the king was not the absolute authority and an advisory council of elders, warriors or elected representatives assisted him.",
+   "year": null,
+   "era": "BCE",
+   "quote": "These Mahajanapadas were known as 'Ganarajya' (Republic). In these republics, king was not the absolute authority. The King was assisted in decision-making by an advisory council. This council consisted of elders, warriors or elected representatives of the people.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Members of the 'Ganaparishad' (Council of the Republic) were seniors of the community and made decisions together.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The members of the 'Ganaparishad' (Council of the Republic) were seniors of the community. The members of the Ganaparishad together made decisions regarding state administration.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "place",
+   "text": "The assembly hall where these discussions took place was called the 'Santhagara'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The assembly hall where these discussions took place was known as the 'Santhagara'.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "event",
+   "text": "In the Republic of the Vrijjis common citizens took part in decisions; the Malla Republic had collective leadership; monarchy and oligarchy coexisted.",
+   "year": null,
+   "era": "BCE",
+   "quote": "For instance, in the Republic of the Vrijjis common citizens actively participated in the decision-making process. Similarly, the Malla Republic also followed a system of collective leadership. ... in ancient India, monarchy and oligarchy coexisted.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "In the Gana parishad decisions were made by majority, using open vote, voice vote or secret vote.",
+   "year": null,
+   "era": "BCE",
+   "quote": "In the Gana parishad, decisions were made by majority. Various methods were adopted to decide the majority, such as open vote, voice vote or secret vote.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "A member's vote was 'chhand'; coloured sticks called 'Shalaka' were the ballot; the 'Shalaka-grahaka' was in charge of voting; absent members could vote by proxy.",
+   "year": null,
+   "era": "BCE",
+   "quote": "A member's vote was called 'chhand'. Coloured sticks called as 'Shalaka' were used as ballot. The person in-charge of the voting process was called 'Shalaka-grahaka'. An absent member was permitted to vote by proxy.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "date",
+   "text": "Around the 6th century BCE, Magadha emerged as the most powerful and influential Mahajanapada.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Around 6th century BCE, Magadha emerged as the most powerful and influential Mahajanapada.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "place",
+   "text": "Magadha's geographical advantage: fertile land along the River Ganges and use of waterways for trade.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Fertile land along the banks of the River Ganges ... Use of waterways for trade",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "Magadha had large natural deposits of iron that helped advance agriculture and weaponry.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Large natural deposits of iron that helped to adopt advance techniques of agriculture and weaponry.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "place",
+   "text": "Pataliputra was an important military, political and economic centre; from it, control of the whole Magadha region became easier.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The capital was established at Pataliputra, since it was an important military, political and economic centre. From Pataliputra, the administration and control of the entire Magadha region became much easier.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "Magadha became an important trade centre exporting textiles, spices and metals.",
+   "year": null,
+   "era": "BCE",
+   "quote": "It became an important trade centre from where valuable commodities such as textiles, spices and metals were exported.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "Other Mahajanapadas were annexed to Magadha and matrimonial alliances were made for expansion.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Other Mahajanapadas were annexed to Magadha. Matrimonial alliances were established for expansion of the kingdom.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "event",
+   "text": "Magadha was the first empire to be established in India.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Magadha was the first empire to be established in India.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "person",
+   "text": "King Bimbisara laid the foundation of the Magadha Empire; trade flourished and he established the capital at Rajagriha.",
+   "year": null,
+   "era": "BCE",
+   "quote": "King Bimbisara laid the foundation of the Magadha Empire. During his rule, Magadha's trade flourished. ... He established Magadha's capital at Rajagriha",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "person",
+   "text": "Ajatshatru, Bimbisara's son, succeeded him and conquered the Mahajanapadas of Vrijji and Kosala.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Ajatshatru, Bimbisara's son, succeeded him. Ajatshatru also adopted a policy of expanding the Magadha kingdom. Ajatshatru conquered Mahajanpadas of Vrijji and Kosala.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "term",
+   "text": "Ajatshatru's 'Mahashilakantaka' was a massive machine that hurled stones to demolish the walls of enemy fortresses.",
+   "year": null,
+   "era": "BCE",
+   "quote": "He created a device called 'Mahashilakantaka' a massive machine which hurles stones. It helped to demolish the walls of enemy fortresses.",
+   "page": 5
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "The 'Rathamusala' was a specialised chariot with spiked iron rods that ran into enemy troops.",
+   "year": null,
+   "era": "BCE",
+   "quote": "He also designed a specialized chariot known as 'Rathamusala'. It was equipped with spiked iron rods. This chariot would run into troops of enemy, causing heavy casualties.",
+   "page": 5
+  },
+  {
+   "fid": "f47",
+   "kind": "place",
+   "text": "Ajatshatru established a new capital at Pataliputra (present-day Patna in Bihar).",
+   "year": null,
+   "era": "BCE",
+   "quote": "Ajatshatru established a new capital at Pataliputra (present-day Patna in Bihar).",
+   "page": 5
+  },
+  {
+   "fid": "f48",
+   "kind": "event",
+   "text": "Ajatshatru became a follower of Gautama Buddha; after the Buddha's Mahaparinirvana, the First Buddhist Council was held at Rajagriha during his reign.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Ajatshatru became a follower of Gautama Buddha. After Gautama Buddha's Mahaparinirvana, the First Buddhist Council was held at Rajagriha during Ajatshatru's reign.",
+   "page": 5
+  },
+  {
+   "fid": "f49",
+   "kind": "person",
+   "text": "Shishunaga, who came after Ajatshatru, conquered Avanti, Vatsa and Kosala.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Among the kings who succeeded Ajatshatru, Shishunaga was a significant figure. He conquered the kingdoms of Avanti, Vatsa and Kosala",
+   "page": 5
+  },
+  {
+   "fid": "f50",
+   "kind": "person",
+   "text": "The Nanda dynasty came after the Shishunagas; Mahapadmananda, its famous king, brought many small kingdoms of Northern India under his rule.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Nanda dynasty came to power after the Shishunagas. Mahapadmananda was the famous king of the Nanda dynasty. He expanded the Magadha Empire. He brought many small kingdoms of Northern India under his rule.",
+   "page": 5
+  },
+  {
+   "fid": "f51",
+   "kind": "term",
+   "text": "The Nanda kings were known for military might, immense wealth and taxation system; Magadha became the most powerful kingdom in the Nanda period.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Nanda kings were known for military might, immense wealth and taxation system. During Nanda period, Magadha emerged as the most powerful kingdom.",
+   "page": 5
+  },
+  {
+   "fid": "f52",
+   "kind": "person",
+   "text": "Dhanananda, the last Nanda king, was very arrogant; his taxation caused unrest and the administration became corrupt.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The last king of the dynasty, Dhanananda, was very arrogant. The taxation introduced by him created unrest among his subjects. Also, the administrative structure became corrupt.",
+   "page": 5
+  },
+  {
+   "fid": "f53",
+   "kind": "person",
+   "text": "Acharya Chanakya and Chandragupta Maurya ended the Nanda regime and laid the foundation of the Mauryan Empire.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Ultimately, Acharya Chanakya and Chandragupta Maurya ended the Nanda regime and laid foundation of the Mauryan Empire.",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-06-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "Villages join: <b>Janapada</b>. Powerful Janapadas grow into Mahajanapadas.",
+   "prompt": "What was a group of village settlements in ancient India called?",
+   "options": [
+    "Mahajanapada",
+    "Janapada",
+    "Ganarajya",
+    "Santhagara"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f43",
+    "f44"
+   ],
+   "hook": "Father Bimbisara built the base at <b>Rajagriha</b>; son Ajatshatru moved to Pataliputra.",
+   "prompt": "Who am I?",
+   "clues": [
+    "During my rule, Magadha's trade flourished.",
+    "I established Magadha's capital at Rajagriha.",
+    "My son Ajatshatru succeeded me.",
+    "I laid the foundation of the Magadha Empire."
+   ],
+   "options": [
+    "Bimbisara",
+    "Shishunaga",
+    "Ajatshatru",
+    "Dhanananda"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f10",
+    "f42",
+    "f47"
+   ],
+   "hook": "Bimbisara: Rajagriha. Ajatshatru: new capital <b>Pataliputra</b> (Patna).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "By the 6th century BCE sixteen Mahajanapadas had attained great importance."
+    ],
+    [
+     "Meera",
+     "Magadha was the first empire to be established in India."
+    ],
+    [
+     "Kabir",
+     "Ajatshatru established a new capital at Rajagriha in Bihar."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Vaishali",
+    "Pataliputra",
+    "Kaushambi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term",
+    "chrono"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "<b>16</b> great kingdoms by the 6th century BCE.",
+   "prompt": "By the 6th century BCE, how many Mahajanapadas had attained great importance?",
+   "options": [
+    "Four",
+    "Sixteen",
+    "Twelve",
+    "Twenty-four"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f47",
+    "f48"
+   ],
+   "hook": "Ajatshatru: son of Bimbisara, conqueror of Vrijji and Kosala, builder of <b>Pataliputra</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I became a follower of Gautama Buddha.",
+    "I conquered the Mahajanapadas of Vrijji and Kosala.",
+    "I was the son of Bimbisara.",
+    "I established a new capital at Pataliputra."
+   ],
+   "options": [
+    "Ajatshatru",
+    "Mahapadmananda",
+    "Shishunaga",
+    "Chandragupta Maurya"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f53"
+   ],
+   "hook": "Teacher + student: <b>Chanakya and Chandragupta Maurya</b> ended the Nandas.",
+   "prompt": "Who ended the Nanda regime and laid the foundation of the Mauryan Empire?",
+   "options": [
+    "Bimbisara and Ajatshatru",
+    "Shishunaga and Mahapadmananda",
+    "Dhanananda and Ajatshatru",
+    "Acharya Chanakya and Chandragupta Maurya"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-06-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f06"
+   ],
+   "hook": "Janapada names came from the <b>tribe</b>; a chieftain led, with the elders.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "A Janapada is a community of people living in a specific geographical region."
+    ],
+    [
+     "Dev",
+     "The Janapadas were named after the respective river of those communities."
+    ],
+    [
+     "Sana",
+     "Each Janapada had a chieftain."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "king",
+    "tribe",
+    "fort"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Magadha's capital: <b>Girivraja / Rajgriha</b>.",
+   "prompt": "What was the capital of the Magadha Mahajanapada?",
+   "options": [
+    "Girivraja / Rajgriha",
+    "Shravasti",
+    "Champa",
+    "Kaushambi"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f33"
+   ],
+   "hook": "In a <b>Ganarajya</b> (Republic) the common people took part and the king was not all-powerful.",
+   "prompt": "What am I?",
+   "clues": [
+    "In me, the King was not the absolute authority.",
+    "The Vrijjis and the Mallas followed my system.",
+    "In me, participation of the common people was an integral part of administration.",
+    "My English name is Republic."
+   ],
+   "options": [
+    "Janapada",
+    "Santhagara",
+    "Shalaka",
+    "Ganarajya"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-06-10",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f11",
+    "f12",
+    "f15",
+    "f13"
+   ],
+   "hook": "Kashi-Varanasi, <b>Kosala-Shravasti</b>, Vrijji-Vaishali, Anga-Champa.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Kashi had its capital at Varanasi."
+    ],
+    [
+     "Anaya",
+     "The capital of Kosala was Champa in those days."
+    ],
+    [
+     "Rohan",
+     "Vaishali was the capital of Vrijji."
+    ],
+    [
+     "Kiran",
+     "Anga had its capital at Champa."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Shravasti",
+    "Mathura",
+    "Takshashila"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-11",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Big four: <b>M-K-V-A</b> = Magadha, Kosala, Vatsa, Avanti.",
+   "prompt": "Which four Mahajanapadas gradually became the most powerful?",
+   "options": [
+    "Kashi, Anga, Malla and Chedi",
+    "Magadha, Kosala, Vatsa and Avanti",
+    "Kuru, Matsya, Gandhara and Kamboja",
+    "Ashmaka, Shoorsena, Panchala and Anga"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "<b>Mahashilakantaka</b>: the stone-hurling machine that broke fort walls.",
+   "prompt": "What am I?",
+   "clues": [
+    "Ajatshatru created me.",
+    "I helped to demolish the walls of enemy fortresses.",
+    "I am a massive machine which hurls stones."
+   ],
+   "options": [
+    "Rathamusala",
+    "Mahashilakantaka",
+    "Shalaka",
+    "Santhagara"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f31"
+   ],
+   "hook": "Ganaparishad met in the <b>Santhagara</b>, the assembly hall.",
+   "prompt": "What was the assembly hall of the Ganaparishad called?",
+   "options": [
+    "Shalaka",
+    "Samavasaran",
+    "Santhagara",
+    "Chhand"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f41"
+   ],
+   "hook": "Magadha's strengths: Ganges farmland, waterways, <b>iron</b>, and marriage alliances.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "Magadha had fertile land along the banks of the River Ganges."
+    ],
+    [
+     "Yash",
+     "Magadha had large natural deposits of gold that helped agriculture and weaponry."
+    ],
+    [
+     "Neha",
+     "Matrimonial alliances were established for expansion of the kingdom."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "silver",
+    "salt",
+    "iron"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f08",
+    "f36"
+   ],
+   "hook": "Mahajanapadas rose and Magadha led around the <b>6th century BCE</b>.",
+   "prompt": "Around which century did certain Janapadas become powerful Mahajanapadas?",
+   "options": [
+    "The 1st century BCE",
+    "The 10th century BCE",
+    "The 6th century BCE",
+    "The 3rd century CE"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f49",
+    "f50"
+   ],
+   "hook": "Shishunaga took <b>Avanti, Vatsa, Kosala</b>; the Nandas came next.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Among the kings who succeeded Ajatshatru, I was a significant figure.",
+    "The Nanda dynasty came to power after my line.",
+    "I conquered the kingdoms of Avanti, Vatsa and Kosala."
+   ],
+   "options": [
+    "Mahapadmananda",
+    "Bimbisara",
+    "Dhanananda",
+    "Shishunaga"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-06-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f19",
+    "f21"
+   ],
+   "hook": "Avanti had two capitals: <b>Ujjayini and Mahishmati</b>.",
+   "prompt": "Which pair of Mahajanapada and capital is correctly matched?",
+   "options": [
+    "Gandhara - Mathura",
+    "Kuru - Kaushambi",
+    "Avanti - Ujjayini and Mahishmati",
+    "Matsya - Takshashila"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f29",
+    "f27"
+   ],
+   "hook": "Mahajanapadas were <b>larger</b> in population, territory and resources.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Most decisions in a Janapada were made in consultation with the elders."
+    ],
+    [
+     "Kunal",
+     "Mahajanapadas were smaller in population, territory and resources than the Janapadas."
+    ],
+    [
+     "Zoya",
+     "The way of life in a Janapada was based on mutual cooperation."
+    ],
+    [
+     "Isha",
+     "The development of the Mahajanapadas was an important stage before the emergence of empires."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "larger",
+    "poorer",
+    "weaker"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "<b>Rathamusala</b>: Ajatshatru's chariot with spiked iron rods.",
+   "prompt": "What am I?",
+   "clues": [
+    "New armaments like me helped Ajatshatru conquer the Vrijjis.",
+    "I would run into enemy troops, causing heavy casualties.",
+    "I was equipped with spiked iron rods.",
+    "I am a specialised chariot designed by Ajatshatru."
+   ],
+   "options": [
+    "Rathamusala",
+    "Mahashilakantaka",
+    "Shalaka",
+    "Chhand"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f43",
+    "f47"
+   ],
+   "hook": "Father: <b>Rajagriha</b>. Son: <b>Pataliputra</b>.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Bimbisara established the capital at Pataliputra, and Ajatshatru moved it to Rajagriha.",
+    "Shishunaga established the first capital of Magadha at Vaishali.",
+    "Bimbisara established Magadha's capital at Rajagriha, and Ajatshatru set up a new capital at Pataliputra.",
+    "Dhanananda established the capital of Magadha at Kaushambi."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "Vote = <b>chhand</b>; ballot = coloured sticks (<b>Shalaka</b>); majority wins.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pranav",
+     "In the Gana parishad, decisions were made by majority."
+    ],
+    [
+     "Diya",
+     "A member's vote was called chhand."
+    ],
+    [
+     "Arjun",
+     "Coloured stones called Shalaka were used as ballot."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "sticks",
+    "coins",
+    "leaves"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f39",
+    "f47"
+   ],
+   "hook": "<b>Pataliputra</b> = today's Patna: a military, political and economic centre.",
+   "prompt": "Which city am I?",
+   "clues": [
+    "From me, control of the entire Magadha region became much easier.",
+    "I was an important military, political and economic centre.",
+    "Today I am called Patna, in Bihar.",
+    "Ajatshatru made me the new capital of Magadha."
+   ],
+   "options": [
+    "Rajagriha",
+    "Vaishali",
+    "Kaushambi",
+    "Pataliputra"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-06-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f48"
+   ],
+   "hook": "Ajatshatru followed the Buddha; the First Buddhist Council met at <b>Rajagriha</b>.",
+   "prompt": "Where was the First Buddhist Council held during Ajatshatru's reign?",
+   "options": [
+    "Pataliputra",
+    "Sarnath",
+    "Rajagriha",
+    "Vaishali"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f49"
+   ],
+   "hook": "Ajatshatru: <b>Vrijji + Kosala</b>. Shishunaga: Avanti, Vatsa, Kosala.",
+   "prompt": "Who conquered the Mahajanapadas of Vrijji and Kosala?",
+   "options": [
+    "Bimbisara",
+    "Ajatshatru",
+    "Shishunaga",
+    "Dhanananda"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Shalaka = ballot stick; <b>Shalaka-grahaka</b> = the one in charge of voting.",
+   "prompt": "Who was the Shalaka-grahaka?",
+   "options": [
+    "The chieftain of a Janapada",
+    "A member who voted by proxy",
+    "The person in charge of the voting process",
+    "The last king of the Nandas"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f25",
+    "f22",
+    "f18",
+    "f26"
+   ],
+   "hook": "Gandhara-Takshashila, Shoorsena-Mathura, <b>Vatsa-Kaushambi</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "Gandhara had its capital at Takshashila."
+    ],
+    [
+     "Om",
+     "Shoorsena had its capital at Mathura."
+    ],
+    [
+     "Sia",
+     "Vamsha or Vatsa had its capital at Ujjayini in those days."
+    ],
+    [
+     "Rahul",
+     "Kamboja had its capital at Rajpur."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Champa",
+    "Kaushambi",
+    "Rajpur"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f50",
+    "f51"
+   ],
+   "hook": "Maha-padma-<b>nanda</b>: the famous Nanda king who expanded Magadha.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My dynasty was known for military might, immense wealth and its taxation system.",
+    "I brought many small kingdoms of Northern India under my rule.",
+    "I expanded the Magadha Empire.",
+    "I was the famous king of the Nanda dynasty."
+   ],
+   "options": [
+    "Mahapadmananda",
+    "Dhanananda",
+    "Shishunaga",
+    "Bimbisara"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Magadha became an important <b>trade centre</b>, exporting textiles, spices and metals.",
+   "prompt": "Magadha exported valuable commodities such as textiles, spices and metals. What did Magadha become?",
+   "options": [
+    "An important trade centre",
+    "A Ganarajya (Republic)",
+    "A Janapada named after a tribe",
+    "The capital of Kosala"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f52",
+    "f53"
+   ],
+   "hook": "Arrogant Dhanananda fell to <b>Chanakya and Chandragupta</b> Maurya.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rudra",
+     "The last king of the Nanda dynasty, Dhanananda, was very arrogant."
+    ],
+    [
+     "Ira",
+     "His taxation created unrest among his subjects."
+    ],
+    [
+     "Veer",
+     "Acharya Chanakya and Bimbisara ended the Nanda regime."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Chandragupta",
+    "Shishunaga",
+    "Ajatshatru"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07",
+    "f03"
+   ],
+   "hook": "Janapada = the <b>first</b> of the ancient states, with collective decisions.",
+   "prompt": "How is the Janapada considered in the history of ancient India?",
+   "options": [
+    "As the first of the ancient states",
+    "As the last empire before the Mauryas",
+    "As a council of the Republic",
+    "As a voting hall"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31",
+    "f34",
+    "f35"
+   ],
+   "hook": "<b>Ganaparishad</b> = Council of the Republic: seniors, majority votes, proxy allowed.",
+   "prompt": "What am I?",
+   "clues": [
+    "An absent member could vote by proxy in me.",
+    "Decisions in me were made by majority.",
+    "My members were seniors of the community.",
+    "I am the Council of the Republic."
+   ],
+   "options": [
+    "Santhagara",
+    "Ganaparishad",
+    "Mahajanapada",
+    "Janapada"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f09"
+   ],
+   "hook": "Republic's advisers: <b>elders, warriors or elected representatives</b>.",
+   "prompt": "In a Ganarajya, who made up the advisory council that assisted the King?",
+   "options": [
+    "Only the king's sons",
+    "Foreign traders",
+    "Elders, warriors or elected representatives of the people",
+    "Priests from other kingdoms"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Chedi's capital: <b>Shuktimati / Sotthivati</b>.",
+   "prompt": "Which Mahajanapada had its capital at Shuktimati / Sotthivati?",
+   "options": [
+    "Matsya",
+    "Ashmaka",
+    "Chedi",
+    "Kamboja"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-06-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f19",
+    "f21",
+    "f16"
+   ],
+   "hook": "Kuru-Indraprastha, Matsya-Viratnagar, <b>Malla-Kushinara</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Harsh",
+     "Kuru had its capital at Indraprastha or Indrapattan."
+    ],
+    [
+     "Lina",
+     "Matsya had its capital at Viratnagar."
+    ],
+    [
+     "Nikhil",
+     "Malla or Malava had its capital at Kampilya or Kushinagara."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Ahichchhatra",
+    "Kushinara",
+    "Potali"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Ashmaka (Assaka): capital <b>Potali / Potan / Podan</b>.",
+   "prompt": "Which Mahajanapada am I?",
+   "clues": [
+    "I was one of the sixteen Mahajanapadas.",
+    "My capital was Potali, also called Potan or Podan.",
+    "I am also called Assaka."
+   ],
+   "options": [
+    "Ashmaka",
+    "Avanti",
+    "Anga",
+    "Kamboja"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-06-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f49",
+    "f44"
+   ],
+   "hook": "Shishunaga's three: <b>Avanti, Vatsa, Kosala</b>.",
+   "prompt": "Which kingdoms did Shishunaga conquer?",
+   "options": [
+    "Vrijji, Kosala and Anga",
+    "Magadha, Kashi and Malla",
+    "Gandhara, Kamboja and Kuru",
+    "Avanti, Vatsa and Kosala"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-06-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Vrijjis: citizens decided. Mallas: <b>collective</b> leadership.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gauri",
+     "In the Republic of the Vrijjis, common citizens actively took part in decisions."
+    ],
+    [
+     "Samar",
+     "The Malla Republic also followed a system of single leadership."
+    ],
+    [
+     "Pooja",
+     "In ancient India, monarchy and oligarchy coexisted."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "royal",
+    "collective",
+    "military"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Panchala in two: Uttar - Ahichchhatra; <b>Dakshina - Kampilya</b>.",
+   "prompt": "What was the capital of Dakshina Panchala?",
+   "options": [
+    "Ahichchhatra",
+    "Kampilya",
+    "Kaushambi",
+    "Viratnagar"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-06-39",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f42",
+    "f38",
+    "f41",
+    "f14"
+   ],
+   "hook": "Iron, Ganges land, alliances: <b>Magadha</b> became India's first empire.",
+   "prompt": "Which Mahajanapada am I?",
+   "clues": [
+    "Matrimonial alliances helped me expand.",
+    "Large natural deposits of iron helped me.",
+    "My capital was Girivraja or Rajgriha.",
+    "I was the first empire to be established in India."
+   ],
+   "options": [
+    "Kosala",
+    "Avanti",
+    "Vatsa",
+    "Magadha"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-06-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f50",
+    "f51"
+   ],
+   "hook": "Bimbisara, then son Ajatshatru, later Shishunaga, then the Nandas.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Mahi",
+     "The Nanda dynasty came to power after the Shishunagas."
+    ],
+    [
+     "Arnav",
+     "During the Nanda period Magadha emerged as the most powerful kingdom."
+    ],
+    [
+     "Tanya",
+     "Bimbisara's son Shishunaga succeeded him on the throne."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "Ajatshatru",
+    "Mahapadmananda",
+    "Dhanananda"
+   ],
+   "answer": 0
+  }
+ ]
+}

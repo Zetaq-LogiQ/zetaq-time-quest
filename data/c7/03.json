@@ -1,0 +1,1524 @@
+{
+ "class": 7,
+ "id": "03",
+ "title": "Religious Synthesis",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "Diversity of languages and religions is an important characteristic of Indian society; the Indian Constitution has adopted the principle of secularism.",
+   "year": null,
+   "era": "CE",
+   "quote": "Diversity of languages and religions is an important characteristic of the Indian society. Considering this feature, the Indian Constitution has adopted the principle of secularism.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Among medieval efforts at religious synthesis, the Bhakti movement, Sikhism and the Sufi sect have a significant place.",
+   "year": null,
+   "era": "CE",
+   "quote": "Among these efforts, the Bhakti movement, Sikhism and the Sufi sect have a significant place.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Rituals and brahmadnyan gave way to Bhakti Marg, the path of devotion, which did not give undue importance to hierarchies.",
+   "year": null,
+   "era": "CE",
+   "quote": "Initially, rituals and brahmadnyan were greatly emphasized in the Indian religious life. In the medieval period, they gave way to Bhakti Marg - the path of devotion. Bhakti Marg did not give undue importance to hierarchies, which further facilitated religious synthesis.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The Bhakti movement used the common people's language instead of Sanskrit, which helped the development of regional languages.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Bhakti movement used the common people's language instead of Sanskrit. This helped the development of regional languages.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "place",
+   "text": "It is believed that the Bhakti movement originated in South India.",
+   "year": null,
+   "era": "CE",
+   "quote": "It is believed that the Bhakti movement originated in South India.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "The Naynars were devotees of Shiva, while the Alawars were devotees of Vishnu.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Naynars were devotees of Shiva, while the Alawars were devotees of Vishnu.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "'Harihar' idols depicting half Vishnu and half Shiva were produced on a large scale.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Harihar' idols which depict half Vishnu and half Shiva were produced in this period on a large scale.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "Ramanuja and other Acharyas strengthened the Bhakti movement in South India, teaching that God is for all; Ramanuja's teachings had a great impact in North India also.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ramanuja and other Acharyas strengthened the base of the Bhakti movement in South India. They told people that God is for all. God does not discriminate. The teachings of Ramanuja had a great impact in North India also.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "Sant Ramanand strengthened the Bhakti movement in North India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sant Ramanand strengthened the Bhakti movement in North India.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "Sant Kabir did not attach importance to places of pilgrimage, vratas or idol worship; for him Truth was God; he taught that all human beings are equal.",
+   "year": null,
+   "era": "CE",
+   "quote": "He did not attach any importance to places of pilgrimage, vratas or idol worship. For him, Truth was God. He taught that all human beings are equal.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Sant Kabir wanted Hindu and Muslim unity and criticised the extremely orthodox people in both religions.",
+   "year": null,
+   "era": "CE",
+   "quote": "He wanted to bring about Hindu and Muslim unity. He criticized the extremely orthodox people in both Hindu and Muslim religions in strong terms.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "In Bengal, Chaitany Mahaprabhu underlined the importance of Krishnabhakti.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Bengal, Chaitany Mahaprabhu underlined the importance of Krishnabhakti.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "Under Chaitany Mahaprabhu's influence, Shankaradeva spread the Bhakti movement in Assam.",
+   "year": null,
+   "era": "CE",
+   "quote": "Under his influence, Shankaradeva spread the Bhakti movement in Assam.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "person",
+   "text": "Narsi Mehta, a renowned Vaishnawa Sant in Gujarat and ardent devotee of Krishna, gave the message of equality and is known as the first poet of the Gujarati language.",
+   "year": null,
+   "era": "CE",
+   "quote": "Narsi Mehta was a renowned Vaishnawa Sant in Gujarat. He was an ardent devotee of Krishna. He gave the message of equality. He is known as the first poet of the Gujarati language.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "person",
+   "text": "Sant Mirabai belonged to the royal family of Mewad, renounced its pleasures for devotion to Krishna and composed verses in Rajasthani and Gujarati.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sant Mirabai stressed the importance of devotion to Krishna. She belonged to the royal family of Mewad. She renounced all pleasures of the royal family and immersed herself in devotion to Krishna. She composed devotional verses in Rajasthani and Gujarati.",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "Mirabai's devotional verses give the message of devotion, tolerance and humanity.",
+   "year": null,
+   "era": "CE",
+   "quote": "Her devotional verses give the message of devotion, tolerance and humanity.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "Sant Sena was an influential Sant; Sant Rohidas gave the message of equality and humanity.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sant Sena was an influential Sant. Sant Rohidas was a great Sant. He gave the message of equality and humanity.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "Surdasa, a great poet of Hindi literature, composed 'Sursagar', whose subject is devotion to Krishna.",
+   "year": null,
+   "era": "CE",
+   "quote": "Surdasa, a great poet of Hindi literature, composed the poetical work 'Sursagar'. Devotion to Krishna (Krishnabhakti) is the subject of his work.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "The verses on Krishnabhakti composed by the Muslim Sant Raskhan are melodious.",
+   "year": null,
+   "era": "CE",
+   "quote": "The verses on Krishnabhakti composed by the Muslim Sant Raskhan are melodious.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "'RamcharitaManasa' of Sant Tulshidas expresses devotion to Rama.",
+   "year": null,
+   "era": "CE",
+   "quote": "'RamcharitaManasa' of Sant Tulshidas is a beautiful composition expressing devotion to Rama.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "In Karnataka, Mahatma Basaveshwar spread the lingayat stream of thought, opposed the caste system and stressed the dignity of labour.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Karnataka, Mahatma Basaveshwar spread the lingayat stream of thought. He opposed the caste system and stressed the dignity of labour.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Basaveshwar's saying 'Kayakave Kailas' means 'Work is Kailas' (Work is worship).",
+   "year": null,
+   "era": "CE",
+   "quote": "'Kayakave Kailas' is his well-known saying which means 'Work is Kailas' (Work is worship).",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "place",
+   "text": "Basaveshwar encouraged women's participation; men and women of all castes joined religious discussions in the hall 'Anubhava Mantapa'.",
+   "year": null,
+   "era": "CE",
+   "quote": "He encouraged women's participation in his movement. Men and women belonging to all castes began to participate in the religious discussions conducted in the hall 'Anubhava Mantapa'.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "Basaveshwar conveyed his teachings in Kannada through 'Vachana' literature.",
+   "year": null,
+   "era": "CE",
+   "quote": "Mahatma Basaveshwar conveyed his teachings in the language of the people, i.e., Kannada, through the medium of 'Vachana' literature.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "person",
+   "text": "Basaveshwar's followers also composed in Marathi; 'Paramarahasya' by Manmath Swami is very well-known.",
+   "year": null,
+   "era": "CE",
+   "quote": "His followers have composed their work in Marathi also. Of these compositions, 'Paramarahasya' composed by Manmath Swami is very well-known.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "Great sants of Karnataka include Pamp and Purandardasa, who composed devotional verses in Kannada.",
+   "year": null,
+   "era": "CE",
+   "quote": "Great sants in Karnataka include Pamp, Purandardasa and others. They composed many devotional verses in Kannada.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "In the thirteenth century, Chakradhar Swami founded the 'Mahanubhav Panth' in Maharashtra; it preaches devotion to Krishna.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the thirteenth century, Chakradhar Swami founded the 'Mahanubhav Panth' in Maharashtra. This sect preaches devotion to Krishna.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "Shri Govind Prabhu was the Guru of Chakradhar Swami.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shri Govind Prabhu was the Guru of Chakradhar Swami.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "Chakradhar Swami supported equality and preached in Marathi instead of Sanskrit, which led to the development of the Marathi language.",
+   "year": null,
+   "era": "CE",
+   "quote": "He supported equality. He travelled to all parts of Maharashtra preaching in Marathi. He preferred Marathi instead of Sanskrit. This led to the development of the Marathi language.",
+   "page": 2
+  },
+  {
+   "fid": "f30",
+   "kind": "place",
+   "text": "The Mahanubhav Panth mainly spread in Vidarbha and Marathwada; Riddhipur in Vidarbha is important to it; it reached up to the Punjab and Afghanistan.",
+   "year": null,
+   "era": "CE",
+   "quote": "This sect mainly spread in the Vidarbha and Marathwada regions of Maharashtra. Riddhipur in Vidarbha is an important place for people of this sect. This sect had reached up to faraway regions like the Punjab and Afghanistan.",
+   "page": 2
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "The treatise 'Leelacharitra', compiled by Mhaimbhat, describes the deeds of Chakradhar Swami.",
+   "year": null,
+   "era": "CE",
+   "quote": "The treatise 'Leelacharitra' compiled by Mhaimbhat describing the deeds of Chakradhar Swami",
+   "page": 2
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "'Dhavale' was written by Mahadamba, the first Marathi poetess.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Dhavale' of the first Marathi poetess Mahadamba",
+   "page": 2
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "'Sutrapath and Drishtantapath' were compiled by Keshobas.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Sutrapath and Drishtantapath' compiled by Keshobas",
+   "page": 2
+  },
+  {
+   "fid": "f34",
+   "kind": "person",
+   "text": "'Vacchaharan' is by Damodar Pandit, 'Shishupalvadha' by Bhaskarbhat Borikar and 'Rukmini Swayamvara' by Narendra.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Vacchaharan' of Damodar Pandit, 'Shishupalvadha' of Bhaskarbhat Borikar and 'Rukmini Swayamvara' of Narendra.",
+   "page": 2
+  },
+  {
+   "fid": "f35",
+   "kind": "person",
+   "text": "A conversation between a Hindu and a Muslim written by Sant Eknath is important for religious harmony.",
+   "year": null,
+   "era": "CE",
+   "quote": "A conversation between a Hindu and a Muslim written by Sant Eknath is important from the viewpoint of religious harmony.",
+   "page": 2
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "The famous quote of Sant Shaikh Mohammad is an example of religious harmony.",
+   "year": null,
+   "era": "CE",
+   "quote": "The famous quote of Sant Shaikh Mohammad ... is an example of this religious harmony.",
+   "page": 2
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "Guru Nanak was the founder of Sikhism and the first guru of the Sikhs.",
+   "year": null,
+   "era": "CE",
+   "quote": "Guru Nanak was the founder of Sikhism and the first guru of Sikhs.",
+   "page": 2
+  },
+  {
+   "fid": "f38",
+   "kind": "place",
+   "text": "Guru Nanak visited the holy places of both Hindus and Muslims and also visited Mecca; he realised the feeling of devotion is common everywhere.",
+   "year": null,
+   "era": "CE",
+   "quote": "He visited the holy places of both Hindus and Muslims. He had also visited Mecca. He realised that the feeling of devotion is common everywhere.",
+   "page": 3
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Guru Nanak taught that all persons should be treated equally, aimed at Hindu-Muslim unity and emphasized chaste behaviour.",
+   "year": null,
+   "era": "CE",
+   "quote": "He taught that all persons should be treated equally. His teachings aimed at achieving Hindu-Muslim unity. He emphasized chaste behaviour.",
+   "page": 3
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "The followers of Guru Nanak are known as 'Sikhs' (Shishyas), meaning 'disciples'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The followers of Guru Nanak are known as 'Sikhs' (Shishyas) meaning 'disciples'.",
+   "page": 3
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "The 'Aadigrantha', also known as the 'Guru Granth Sahib', is the Holy Book of the Sikhs; it includes compositions by Guru Nanak, Sant Namdeo, Sant Kabir and other Sants.",
+   "year": null,
+   "era": "CE",
+   "quote": "The 'Aadigrantha', also known as the 'Guru Granth Sahib' is the Holy Book of the Sikhs. The Aadigrantha includes compositions by Guru Nanak, Sant Namdeo, Sant Kabir and other Sants.",
+   "page": 3
+  },
+  {
+   "fid": "f42",
+   "kind": "person",
+   "text": "Guru Nanak was succeeded by nine Gurus; Guru Gobindsingh was the tenth Guru, and after him, as per his orders, Sikhs regard the Guru Granth Sahib as their Guru.",
+   "year": null,
+   "era": "CE",
+   "quote": "Guru Nanak was succeeded by nine Gurus of the Sikhs. Guru Gobindsingh was the tenth Guru of the Sikhs. After Guru Gobindsingh, Sikhs regard the 'Guru Granth Sahib' as their Guru, as per the orders of Guru Gobindsingh.",
+   "page": 3
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "The Sufi sect is a sect in Islam; Sufi saints believed God is full of love and the only way to reach him is through love and devotion.",
+   "year": null,
+   "era": "CE",
+   "quote": "This is a sect in Islam. The Sufi saints believed that God is full of love and the only way to reach him is through love and devotion.",
+   "page": 3
+  },
+  {
+   "fid": "f44",
+   "kind": "term",
+   "text": "The main Sufi teachings are love for all living beings, meditation and simple living.",
+   "year": null,
+   "era": "CE",
+   "quote": "Their main teachings are love for all living beings, meditation and simple living.",
+   "page": 3
+  },
+  {
+   "fid": "f45",
+   "kind": "person",
+   "text": "Khwaja Moinuddin Chisti and Shaikh Nijamuddin Avaliya were great Sufi Saints.",
+   "year": null,
+   "era": "CE",
+   "quote": "Khwaja Moinuddin Chisti, Shaikh Nijamuddin Avaliya were great Sufi Saints.",
+   "page": 3
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "Sufi teachings led to unity in the Hindu and Muslim communities; Sufi music made a valuable contribution to Indian music.",
+   "year": null,
+   "era": "CE",
+   "quote": "The teachings of Sufi Saints led to unity in the Hindu and Muslim communities. Sufi music has made valuable contribution to Indian music.",
+   "page": 3
+  },
+  {
+   "fid": "f47",
+   "kind": "term",
+   "text": "The Bhakti movement was open to all men and women, the Sants spoke in the people's language, and it contributed greatly to the making of Indian Culture.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Bhakti movement was open to all men and women. The Sants expressed their thoughts in the language of the people. ... The Bhakti movement has contributed greatly to the making of the Indian Culture.",
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-03-01",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "Kabir: <b>Truth</b> was God; no pilgrimage, no vratas, no idols; all humans equal.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I did not attach importance to places of pilgrimage, vratas or idol worship.",
+    "For me, Truth was God.",
+    "I criticized the extremely orthodox people in both Hindu and Muslim religions.",
+    "I taught that all human beings are equal and wanted to bring about Hindu and Muslim unity."
+   ],
+   "options": [
+    "Sant Tulshidas",
+    "Sant Kabir",
+    "Guru Nanak",
+    "Sant Ramanand"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-02",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "Bhakti began in the <b>South</b>, with the Naynars and Alawars.",
+   "prompt": "Where is the Bhakti movement believed to have originated?",
+   "options": [
+    "North India",
+    "Bengal",
+    "Gujarat",
+    "South India"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-03-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f39"
+   ],
+   "hook": "Guru Nanak: first Guru, founder of Sikhism, visited holy places of Hindus and Muslims and Mecca.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I also visited Mecca.",
+    "I realised that the feeling of devotion is common everywhere.",
+    "I taught that all persons should be treated equally.",
+    "I was the founder of Sikhism and the first guru."
+   ],
+   "options": [
+    "Guru Nanak",
+    "Guru Gobindsingh",
+    "Sant Namdeo",
+    "Sant Kabir"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f08"
+   ],
+   "hook": "<b>N</b>aynars: Shiva. <b>A</b>lawars: Vishnu. Both from South India.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Naynars were devotees of Shiva."
+    ],
+    [
+     "Meera",
+     "The Alawars were devotees of Krishna in South India."
+    ],
+    [
+     "Kabir",
+     "Ramanuja and other Acharyas strengthened the Bhakti movement in South India."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Indra",
+    "Rama",
+    "Vishnu"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f28"
+   ],
+   "hook": "<b>Chakradhar</b> Swami founded the Mahanubhav Panth; Govind Prabhu was his Guru.",
+   "prompt": "Who founded the Mahanubhav Panth in Maharashtra?",
+   "options": [
+    "Chakradhar Swami",
+    "Shri Govind Prabhu",
+    "Sant Eknath",
+    "Mahatma Basaveshwar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "Sufi = a sect in <b>Islam</b>: reach God through love and devotion.",
+   "prompt": "The Sufi sect is a sect in which religion?",
+   "options": [
+    "Islam",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22"
+   ],
+   "hook": "Basaveshwar <b>opposed</b> caste and honoured work: Kayakave Kailas.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Mahatma Basaveshwar spread the lingayat stream of thought in Karnataka."
+    ],
+    [
+     "Dev",
+     "He supported the caste system and stressed the dignity of labour."
+    ],
+    [
+     "Sana",
+     "His well-known saying Kayakave Kailas means Work is Kailas."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "opposed",
+    "praised",
+    "created"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Aadigrantha = <b>Guru Granth Sahib</b>, the Holy Book of the Sikhs.",
+   "prompt": "What is the Holy Book of the Sikhs?",
+   "options": [
+    "Sursagar",
+    "The Aadigrantha, also known as the Guru Granth Sahib",
+    "Leelacharitra",
+    "RamcharitaManasa"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-09",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "Mirabai: a Mewad royal who gave it all up for Krishna; verses in <b>Rajasthani and Gujarati</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I composed devotional verses in Rajasthani and Gujarati.",
+    "My verses give the message of devotion, tolerance and humanity.",
+    "I renounced all pleasures of the royal family.",
+    "I belonged to the royal family of Mewad and was devoted to Krishna."
+   ],
+   "options": [
+    "Mahadamba",
+    "Sant Mirabai",
+    "Narsi Mehta",
+    "Chaitany Mahaprabhu"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-10",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Narsi Mehta of Gujarat: <b>first poet</b> of the Gujarati language.",
+   "prompt": "Who is known as the first poet of the Gujarati language?",
+   "options": [
+    "Surdasa",
+    "Narsi Mehta",
+    "Raskhan",
+    "Pamp"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f12",
+    "f13",
+    "f09"
+   ],
+   "hook": "Ramanand: <b>North</b>. Chaitany: Bengal. Shankaradeva: Assam.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Chaitany Mahaprabhu underlined the importance of Krishnabhakti in Bengal."
+    ],
+    [
+     "Anaya",
+     "Under his influence, Shankaradeva spread the Bhakti movement in Assam."
+    ],
+    [
+     "Rohan",
+     "Sant Ramanand strengthened the Bhakti movement in South India."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "North",
+    "East",
+    "West"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Kayakave Kailas: <b>Work</b> is Kailas, so work is worship.",
+   "prompt": "What does Mahatma Basaveshwar's saying 'Kayakave Kailas' mean?",
+   "options": [
+    "Truth is God",
+    "God is for all",
+    "Love is the only way to God",
+    "Work is Kailas (Work is worship)"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-03-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f27",
+    "f28",
+    "f29"
+   ],
+   "hook": "Chakradhar Swami: 13th century, Mahanubhav Panth, preached in <b>Marathi</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Shri Govind Prabhu was my Guru.",
+    "I preferred Marathi instead of Sanskrit.",
+    "I founded the Mahanubhav Panth in the thirteenth century."
+   ],
+   "options": [
+    "Sant Eknath",
+    "Mhaimbhat",
+    "Chakradhar Swami",
+    "Manmath Swami"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Sikh = Shishya = <b>disciple</b>.",
+   "prompt": "What does the word 'Sikhs' (Shishyas) mean?",
+   "options": [
+    "Warriors",
+    "Teachers",
+    "Pilgrims",
+    "Disciples"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-03-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f43",
+    "f44",
+    "f46"
+   ],
+   "hook": "Sufi: love, meditation, simple living; Sufi music enriched <b>Indian</b> music.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "The Sufi saints believed that God is full of love."
+    ],
+    [
+     "Yash",
+     "Their main teachings are love for all living beings, meditation and simple living."
+    ],
+    [
+     "Neha",
+     "Sufi music has made a valuable contribution to Persian music."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "Arabic",
+    "Indian",
+    "Western"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "<b>S</b>urdasa wrote <b>S</b>ursagar, on Krishnabhakti.",
+   "prompt": "Which poetical work did Surdasa compose?",
+   "options": [
+    "RamcharitaManasa",
+    "Sursagar",
+    "Dhavale",
+    "Paramarahasya"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f18",
+    "f25",
+    "f31",
+    "f32"
+   ],
+   "hook": "Tulshidas: Rama. Surdasa: Sursagar. Manmath Swami: Paramarahasya. Mahadamba: Dhavale.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Sant Tulshidas - RamcharitaManasa",
+    "Surdasa - Paramarahasya",
+    "Manmath Swami - Sursagar",
+    "Mhaimbhat - Dhavale"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f30"
+   ],
+   "hook": "Mahanubhav: Vidarbha and Marathwada; holy <b>Riddhipur</b> is in Vidarbha.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pranav",
+     "Chakradhar Swami founded the Mahanubhav Panth in the thirteenth century."
+    ],
+    [
+     "Diya",
+     "This sect preaches devotion to Krishna."
+    ],
+    [
+     "Arjun",
+     "Riddhipur in Marathwada is an important place for this sect."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "Konkan",
+    "Vidarbha",
+    "Punjab"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f21",
+    "f23",
+    "f24"
+   ],
+   "hook": "Basaveshwar: Karnataka, lingayat, <b>Vachana</b> in Kannada, Anubhava Mantapa for all.",
+   "prompt": "Who am I?",
+   "clues": [
+    "In my movement, men and women of all castes joined the religious discussions in the hall 'Anubhava Mantapa'.",
+    "I conveyed my teachings in Kannada through Vachana literature.",
+    "My well-known saying means 'Work is worship'.",
+    "I spread the lingayat stream of thought in Karnataka."
+   ],
+   "options": [
+    "Purandardasa",
+    "Pamp",
+    "Ramanuja",
+    "Mahatma Basaveshwar"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-03-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Mirabai of Mewad wrote in <b>Rajasthani and Gujarati</b>.",
+   "prompt": "In which languages did Sant Mirabai compose her devotional verses?",
+   "options": [
+    "Kannada and Telugu",
+    "Marathi and Sanskrit",
+    "Rajasthani and Gujarati",
+    "Hindi and Persian"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "Nanak 1st + <b>nine</b> successors = 10 Gurus; Guru Gobindsingh was the tenth.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gauri",
+     "Guru Nanak was succeeded by nine Gurus of the Sikhs."
+    ],
+    [
+     "Samar",
+     "Guru Gobindsingh was the ninth Guru of the Sikhs."
+    ],
+    [
+     "Pooja",
+     "After Guru Gobindsingh, Sikhs regard the Guru Granth Sahib as their Guru."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "eighth",
+    "first",
+    "tenth"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f41",
+    "f31",
+    "f32",
+    "f25",
+    "f34"
+   ],
+   "hook": "The Aadigrantha holds voices of <b>Nanak, Namdeo and Kabir</b>.",
+   "prompt": "Whose compositions does the Aadigrantha include?",
+   "options": [
+    "Mhaimbhat and Mahadamba",
+    "Manmath Swami and Bhaskarbhat Borikar",
+    "Guru Nanak, Sant Namdeo and Sant Kabir",
+    "Narendra and Damodar Pandit"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Ramanuja: <b>God is for all</b>; a South Indian Acharya heard in the North too.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My teachings had a great impact in North India also.",
+    "I told people that God is for all and does not discriminate.",
+    "With other Acharyas, I strengthened the base of the Bhakti movement in South India."
+   ],
+   "options": [
+    "Sant Ramanand",
+    "Chaitany Mahaprabhu",
+    "Mahatma Basaveshwar",
+    "Ramanuja"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-03-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f13",
+    "f12"
+   ],
+   "hook": "Chaitany in Bengal inspired <b>Shankaradeva</b> in Assam.",
+   "prompt": "Who spread the Bhakti movement in Assam?",
+   "options": [
+    "Chaitany Mahaprabhu",
+    "Narsi Mehta",
+    "Shankaradeva",
+    "Sant Sena"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Mahadamba: the <b>first Marathi poetess</b>, author of Dhavale.",
+   "prompt": "Who was the first Marathi poetess, who wrote 'Dhavale'?",
+   "options": [
+    "Sant Mirabai",
+    "Mahadamba",
+    "Keshobas",
+    "Mhaimbhat"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f31",
+    "f33",
+    "f34"
+   ],
+   "hook": "Mhaimbhat: Leelacharitra. Keshobas: Sutrapath. Damodar Pandit: <b>Vacchaharan</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "Mhaimbhat compiled Leelacharitra, describing the deeds of Chakradhar Swami."
+    ],
+    [
+     "Om",
+     "Keshobas compiled Sutrapath and Drishtantapath."
+    ],
+    [
+     "Sia",
+     "Vacchaharan was composed by Narendra Pandit."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Mhaimbhat",
+    "Damodar",
+    "Keshobas"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Anubhava Mantapa: a <b>hall</b> where all castes, men and women, discussed religion.",
+   "prompt": "What was the 'Anubhava Mantapa'?",
+   "options": [
+    "A temple of Vishnu in Tamil Nadu",
+    "A hall for religious discussions open to men and women of all castes",
+    "The Holy Book of the lingayats",
+    "A Sufi shrine"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f19",
+    "f20"
+   ],
+   "hook": "Surdasa: Hindi poet, <b>Sursagar</b> about Krishna.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Devotion to Krishna is the subject of my work.",
+    "I am a great poet of Hindi literature.",
+    "I composed the poetical work 'Sursagar'."
+   ],
+   "options": [
+    "Raskhan",
+    "Sant Tulshidas",
+    "Surdasa",
+    "Narsi Mehta"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Raskhan: a Muslim Sant with melodious <b>Krishnabhakti</b> verses.",
+   "prompt": "Which Muslim Sant composed melodious verses on Krishnabhakti?",
+   "options": [
+    "Sant Sena",
+    "Surdasa",
+    "Khwaja Moinuddin Chisti",
+    "Raskhan"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-03-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f45",
+    "f46",
+    "f35"
+   ],
+   "hook": "Eknath wrote a <b>Hindu-Muslim conversation</b>; Chisti and Nijamuddin were Sufi saints.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rudra",
+     "Khwaja Moinuddin Chisti and Shaikh Nijamuddin Avaliya were great Sufi Saints."
+    ],
+    [
+     "Ira",
+     "The teachings of Sufi Saints led to unity in the Hindu and Muslim communities."
+    ],
+    [
+     "Veer",
+     "Sant Namdeo wrote a conversation between a Hindu and a Muslim."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Eknath",
+    "Rohidas",
+    "Sena"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Basaveshwar's followers wrote in Marathi too: Manmath Swami's <b>Paramarahasya</b>.",
+   "prompt": "Which well-known Marathi composition by Manmath Swami came from the followers of Mahatma Basaveshwar?",
+   "options": [
+    "Leelacharitra",
+    "Sursagar",
+    "Paramarahasya",
+    "Dhavale"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Mahanubhav Panth travelled far: up to the <b>Punjab and Afghanistan</b>.",
+   "prompt": "The Mahanubhav Panth reached up to which faraway regions?",
+   "options": [
+    "The Punjab and Afghanistan",
+    "Bengal and Assam",
+    "Sri Lanka and the Maldives",
+    "Rajasthan and Gujarat"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-33",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Narsi Mehta: Vaishnawa Sant of <b>Gujarat</b>, devotee of Krishna, message of equality.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I gave the message of equality.",
+    "I was an ardent devotee of Krishna.",
+    "I was a renowned Vaishnawa Sant in Gujarat.",
+    "I am known as the first poet of my language."
+   ],
+   "options": [
+    "Surdasa",
+    "Narsi Mehta",
+    "Chaitany Mahaprabhu",
+    "Raskhan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-03-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f24"
+   ],
+   "hook": "Bhakti spoke the people's language; Basaveshwar's was Kannada <b>Vachana</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Harsh",
+     "The Bhakti movement used the common people's language instead of Sanskrit."
+    ],
+    [
+     "Lina",
+     "This helped the development of regional languages."
+    ],
+    [
+     "Nikhil",
+     "Mahatma Basaveshwar taught in Kannada through the medium of Gatha literature."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "Vachana",
+    "Bakhar",
+    "Sufi"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f30",
+    "f28"
+   ],
+   "hook": "Chakradhar chose <b>Marathi over Sanskrit</b>, and Marathi grew.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Chakradhar Swami preached only in Sanskrit.",
+    "The Mahanubhav Panth mainly spread in the Konkan region.",
+    "Chakradhar Swami preferred Marathi instead of Sanskrit, which led to the development of the Marathi language.",
+    "Shri Govind Prabhu was a disciple of Chakradhar Swami."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "Tenth Guru, Guru Gobindsingh, named the <b>Guru Granth Sahib</b> as Guru.",
+   "prompt": "Who am I?",
+   "clues": [
+    "As per my orders, Sikhs regard the Guru Granth Sahib as their Guru.",
+    "I was the last of the nine Gurus who succeeded Guru Nanak.",
+    "I was the tenth Guru of the Sikhs."
+   ],
+   "options": [
+    "Guru Nanak",
+    "Guru Teghbahaddar",
+    "Guru Gobindsingh",
+    "Sant Namdeo"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04",
+    "f47"
+   ],
+   "hook": "Bhakti Marg: no undue <b>hierarchy</b>, people's language, open to all men and women.",
+   "prompt": "Which statement about the Bhakti Marg is correct?",
+   "options": [
+    "It did not give undue importance to hierarchies, which facilitated religious synthesis.",
+    "It gave the greatest importance to rituals and brahmadnyan.",
+    "It used only Sanskrit.",
+    "It was open only to men."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01",
+    "f02",
+    "f07"
+   ],
+   "hook": "Harihar idol = half <b>Vishnu</b> + half Shiva: two gods as one.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kunal",
+     "Diversity of languages and religions is an important characteristic of Indian society."
+    ],
+    [
+     "Aditi",
+     "The Bhakti movement, Sikhism and the Sufi sect have a significant place in religious synthesis."
+    ],
+    [
+     "Zoya",
+     "Harihar idols showing half Brahma and half Shiva were produced on a large scale."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Ganesha",
+    "Indra",
+    "Vishnu"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-03-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36",
+    "f35"
+   ],
+   "hook": "Eknath wrote a conversation; <b>Shaikh Mohammad</b> gave the famous quote of harmony.",
+   "prompt": "Whose famous quote is an example of religious harmony between Hindus and Muslims?",
+   "options": [
+    "Sant Shaikh Mohammad",
+    "Sant Rohidas",
+    "Sant Sena",
+    "Sant Tulshidas"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-03-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f26",
+    "f17",
+    "f20"
+   ],
+   "hook": "Karnataka sants Pamp and Purandardasa wrote in <b>Kannada</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "Sant Rohidas gave the message of equality and humanity."
+    ],
+    [
+     "Tanvi",
+     "Sant Tulshidas wrote RamcharitaManasa expressing devotion to Rama."
+    ],
+    [
+     "Yash",
+     "Pamp and Purandardasa composed many Telugu devotional verses."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Hindi",
+    "Kannada",
+    "Marathi"
+   ],
+   "answer": 1
+  }
+ ]
+}

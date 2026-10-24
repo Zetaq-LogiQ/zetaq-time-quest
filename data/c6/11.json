@@ -1,0 +1,1484 @@
+{
+ "class": 6,
+ "id": "11",
+ "title": "Our Social Life",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "Our social life has taken shape through thousands of years of social evolution; humans moved from a nomadic existence to a settled social life.",
+   "year": null,
+   "era": "CE",
+   "quote": "Today our social life has taken shape through thousands of years of social evolution. Humans have transitioned from a nomadic existence to a settled social life.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Society is not merely a collection of people; it is a system of relationships among the individuals living within it.",
+   "year": null,
+   "era": "CE",
+   "quote": "Society is not merely a collection of people; rather, it is a system of relationships existing among the individuals living within it.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Society includes every individual: the elderly, adults, youth and young children.",
+   "year": null,
+   "era": "CE",
+   "quote": "Society encompasses every individual-including the elderly, adults, youth and young children.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "Humans in the nomadic stage lacked stability and security; they came together to fulfil their physical and emotional needs.",
+   "year": null,
+   "era": "CE",
+   "quote": "Humans in the nomadic stage lacked stability and security. They came together to fulfill their physical and emotional needs.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "Humans began to work together to procure food and shelter; this marked the beginning of the formation of human society.",
+   "year": null,
+   "era": "CE",
+   "quote": "Humans began to work together to procure food and shelter. ... This marked the beginning of the formation of human society.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "By nature humans are social beings; they live in society to ensure their holistic development.",
+   "year": null,
+   "era": "CE",
+   "quote": "By nature, humans are social beings who find joy in being part of a community. ... they live in society to ensure their holistic development.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "Sociability is an individual's capacity to interact with others naturally, harmoniously and cooperatively.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sociability: Sociability refers to an individual's capacity to interact with others naturally, harmoniously and cooperatively.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "event",
+   "text": "Journey of social evolution: the past traditional society had joint families, agriculture, handicrafts and community-centric living; the present changing society has nuclear families, urbanization, technology and a fast-paced lifestyle; the near future is technology-based with smart cities, automation, artificial intelligence and sustainable development.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Past: Traditional Society Joint families, agriculture, handicrafts, community-centric living. The Present: Changing Society Nuclear families, urbanization, technology, fast-paced lifestyle. ... The Near Future: Technology-Based Smart cities, automation, artificial intelligence, sustainable development.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "To fulfil their need for food, humans began practising agriculture, which brought stability to their lives.",
+   "year": null,
+   "era": "CE",
+   "quote": "To fulfil their need for food, humans began practicing agriculture; this development brought stability to their lives.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "event",
+   "text": "Since agriculture required a significant workforce, the family system came into existence.",
+   "year": null,
+   "era": "CE",
+   "quote": "Since agriculture required a significant workforce, the 'family system' came into existence.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "A family is a group of individuals who live together as a unit bound by ties of blood, marriage or adoption and who care for one another.",
+   "year": null,
+   "era": "CE",
+   "quote": "Family : A group of individuals who live together as a collective unit bound by ties of blood, marriage, or adoption and who care for one another, is called a family.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "A family with four or fewer members is a small or nuclear family.",
+   "year": null,
+   "era": "CE",
+   "quote": "Small/ Nuclear Family : A family in which the number of members is four or fewer is considered a small/ Nuclear family.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "A family in which parents and children live with grandparents, uncles, aunts and their children is a large or joint family.",
+   "year": null,
+   "era": "CE",
+   "quote": "Large/Joint Family : A family in which parents and their children live together alongside grandparents, uncles, aunts and their children is referred to as a large family or a joint family.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "It was not possible for every person to do every task, so division of labour began, and through it society itself was formed; then rules were set for smooth social interaction.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was not feasible for every individual within a group to perform every single task. Consequently, the division of labour began within society and it was through this process that society itself was formed. Subsequently, rules were established to ensure the smooth functioning of social interactions.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "Family, schools, colleges and religious organizations are social institutions; their primary function is to fulfil the fundamental social needs of the community.",
+   "year": null,
+   "era": "CE",
+   "quote": "Institutions such as family, schools, colleges and religious organizations are recognized as social institutions. Their primary function is to fulfil the fundamental social needs of the community.",
+   "page": 3
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "The principal role of social institutions is imparting positive values, providing emotional support and maintaining discipline.",
+   "year": null,
+   "era": "CE",
+   "quote": "The principal role of social institutions involves imparting positive values and providing emotional support to society, as well as maintaining discipline within the community.",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Family members, neighbours, relatives, friends and teachers help develop the capacity for independent thinking; radio, newspapers, television, films, plays and the internet also shape personality.",
+   "year": null,
+   "era": "CE",
+   "quote": "Family members, neighbours, relatives, friends and teachers all play a significant role in the development of this capacity for independent thinking. Similarly, every individual's personality and thoughts are continuously shaped and developed through radio, newspapers, television, broadcasting services, films, plays, the internet, social organizations and religious institutions etc.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "Independent thinking gives rise to different choices; students from the same school go on to work in widely different fields.",
+   "year": null,
+   "era": "CE",
+   "quote": "The capacity for independent thinking gives rise to diverse preferences and choices among different individuals. ... students from the very same school eventually go on to work in widely different fields in the future.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "School is a fundamental social institution created by society; it teaches discipline, cooperation and teamwork and links an individual's personal life with the broader social need.",
+   "year": null,
+   "era": "CE",
+   "quote": "School is a fundamental social institution created by society itself. Through the medium of the school, we learn essential values and concepts such as discipline, cooperation, ... and the spirit of teamwork. School serves as a crucial link connecting an individual's personal life with the broader social need.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "At first food and shelter were the fundamental human needs; for a person living in a family, the need for clothing also began to emerge.",
+   "year": null,
+   "era": "CE",
+   "quote": "Initially, food and shelter were the fundamental human needs. However, for a human being living within a family unit, the need for clothing also began to emerge.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "Society sets up a system for food, clothing and shelter: agriculture, tools and livestock, seeds and saplings, industries for processing produce and financial provisions such as loans from credit societies or banks.",
+   "year": null,
+   "era": "CE",
+   "quote": "1) Engaging in agriculture to ensure the supply of food. 2) Making tools and livestock available for farming. 3) Providing seeds and saplings. 4) Establishing industries for processing agricultural produce. 5) ... making financial provisions (such as loans from credit societies or banks).",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "A society is an aggregate of human groups residing in a specific region, with their own distinct codes of conduct and a shared outlook on life.",
+   "year": null,
+   "era": "CE",
+   "quote": "Society : A society is an aggregate of human groups residing in a specific region, possessing their own distinct codes of conduct and a shared outlook on life.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "A social institution is the organized form of human behaviour aimed at fundamental social functions; marriage, the caste system, the family unit and educational establishments are examples.",
+   "year": null,
+   "era": "CE",
+   "quote": "Social Institutions : A social institution is the organized form of human behaviour directed toward the fulfillment of fundamental social functions. The institution of marriage, caste system, family unit and educational establishments are some of the examples of social institutions.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The individual, family, groups, culture, social norms and values, social relationships and social institutions are the components of a society.",
+   "year": null,
+   "era": "CE",
+   "quote": "Components of Society : The individual, family, groups, culture, social norms and values, social relationships and social institutions all of these constitute the components of a society.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Education and healthcare come from people's intellectual capabilities; cultural richness and entertainment from artistic talents; industries and businesses from trading skills and entrepreneurial spirit.",
+   "year": null,
+   "era": "CE",
+   "quote": "Services such as education and healthcare emerge from the intellectual capabilities of individuals within society. Cultural richness and means of entertainment are created through the artistic talents of its members. Industries and businesses flourish through the trading skills and entrepreneurial spirit of individuals in society.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "People depend on one another for material and emotional needs; this mutual reliance is called interdependence within society.",
+   "year": null,
+   "era": "CE",
+   "quote": "All people in society depend on one another both for the fulfillment of their material needs and for the satisfaction of their emotional and psychological needs. This mutual reliance among individuals is known as 'interdependence within society'.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Indian society has many languages, cultures, cuisines, religions, customs and traditions; geographical diversity helps cultural diversity; this diversity is India's defining characteristic and true strength.",
+   "year": null,
+   "era": "CE",
+   "quote": "Indian society is characterized by a plurality of languages, cultures, cuisines, religions, customs and traditions. ... Geographical diversity plays a significant role in fostering cultural diversity. This diversity is a defining characteristic of India and constitutes its true strength.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "In India, people of Hinduism, Islam, Buddhism, Jainism, Christianity, Sikhism and Zoroastrianism (Parsi) live together in harmony.",
+   "year": null,
+   "era": "CE",
+   "quote": "In India, people belonging to various religions such as Hinduism, Islam, Buddhism, Jainism, Christianity, Sikhism and Zoroastrianism (Parsi) live together in harmony.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Everyone is free to celebrate festivals according to their own faith; this fosters unity and cohesion in society.",
+   "year": null,
+   "era": "CE",
+   "quote": "Every individual possesses the freedom to celebrate festivals and observe religious occasions in accordance with their own faith. This fosters a sense of unity and cohesion within society.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Language is not something we have at birth; we learn it in our homes, neighbourhoods and at school.",
+   "year": null,
+   "era": "CE",
+   "quote": "This language is not something we possess innately at birth. We learn it in our homes, in our neighborhoods and at school.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "People speaking Marathi, Hindi, Urdu, Gujarati, Kannada, Telugu, Tamil, Bangali and Sindhi are all around us.",
+   "year": null,
+   "era": "CE",
+   "quote": "People who speak languages such as Marathi, Hindi, Urdu, Gujarati, Kannada, Telugu, Tamil, Bangali and Sindhi are present all around us.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "Ahirani, Konkani and Varhadi are regional dialects; Gondi, Bhil and Santhali are tribal dialects.",
+   "year": null,
+   "era": "CE",
+   "quote": "our linguistic heritage is enriched by regional dialects such as Ahirani, Konkani, and Varhadi as well as by tribal dialects like Gondi, Bhil and Santhali.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Social diversity is the variation in a society in language, religion, caste, culture, traditions, attire and ideologies.",
+   "year": null,
+   "era": "CE",
+   "quote": "Social Diversity : Social diversity refers to the variations found within a society regarding language, religion, caste, culture, traditions, attire, ideologies and so forth.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Religious diversity is the coexistence of people of various religions within a single society or country.",
+   "year": null,
+   "era": "CE",
+   "quote": "Religious Diversity : Religious diversity signifies the coexistence of people belonging to various religions within a single society or a country.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "Human social life developed through art, language, attire, food, traditions and sports; though festivals and customs differ by region, the same inspiration and faith bind the country by a thread of unity.",
+   "year": null,
+   "era": "CE",
+   "quote": "The development of human social life has emerged through the interplay of various elements such as art, language, attire, food, traditions, sports and so forth. ... Since the underlying inspiration and faith behind this diversity remain the same, the entire country is bound together by a thread of unity.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "In Maharashtra, Makar Sankranti, a festival of solar transition, is celebrated in January.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Maharashtra, the festival of Makar Sankranti is celebrated during the month of January. Similarly, what are the festivals celebrating solar transition in the month of January are called in other regions?",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "place",
+   "text": "Pithla-Bhakari is a dish relished in Maharashtra that is rarely found in other regions.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pithla-Bhakari is a dish relished in Maharashtra that is rarely found in other regions.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "place",
+   "text": "Coconut oil is used in Southern India, mustard oil in Northern India and groundnut oil in Western India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Oils: Coconut oil is used in Southern India, mustard oil in Northern India and groundnut oil in Western India.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "place",
+   "text": "Rice is the staple food in the southern and coastal regions and where many fresh water bodies are found; wheat, jowar, bajra and maize are the staple diet in Northern and Central India.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Rice' is the staple food in the southern and coastal regions of India, similarly in the areas where significant number of fresh water bodies are found. The 'wheat, jowar (sorghum), bajra (pearl millet) and maize' constitute the staple diet in Northern and Central India.",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "Idli-Dosa and Samosa-Paratha are popular across the whole country today, an example of Unity in Diversity.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dishes such as Idli-Dosa and Samosa-Paratha are popular across the entire country today, thereby exemplifying 'Unity in Diversity.'",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "place",
+   "text": "Puran Poli is given as a popular sweet dish of Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "(For example: Maharashtra - Puran Poli)",
+   "page": 5
+  },
+  {
+   "fid": "f42",
+   "kind": "term",
+   "text": "Linguistic diversity is the existence of various languages, dialects and scripts within a single country, state or society.",
+   "year": null,
+   "era": "CE",
+   "quote": "Linguistic Diversity : Linguistic diversity refers to the existence of various languages, dialects and scripts within a single country, state or society.",
+   "page": 5
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "Cultural diversity is the existence of diverse languages, religions, traditions, customs, festivals, celebrations and lifestyles.",
+   "year": null,
+   "era": "CE",
+   "quote": "Cultural Diversity : Cultural diversity is defined by the existence of diverse languages, religions, traditions, customs, festivals, celebrations and lifestyles.",
+   "page": 5
+  },
+  {
+   "fid": "f44",
+   "kind": "place",
+   "text": "For Maharashtra the language is Marathi, the dance type is Lavani and the sport is Kabaddi.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharashtra Marathi Lavani Kabaddi",
+   "page": 6
+  },
+  {
+   "fid": "f45",
+   "kind": "term",
+   "text": "Harmony among communities and mutual respect for each other's traditions give a deep sense of Indianness everywhere; languages have become richer through interaction.",
+   "year": null,
+   "era": "CE",
+   "quote": "Due to the harmony prevailing among various communities and the mutual respect shown towards one another's traditions and customs we experience a deep sense of 'Indianness' everywhere ... Similarly, various languages have become more enriched through their interaction with one another.",
+   "page": 6
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "Social harmony is fostered through mutual tolerance; during natural calamities it prompts people to help one another.",
+   "year": null,
+   "era": "CE",
+   "quote": "A spirit of social harmony is fostered through mutual tolerance. During times of natural calamities, the spirit of social harmony prompts people to extend a helping hand to one another.",
+   "page": 6
+  },
+  {
+   "fid": "f47",
+   "kind": "term",
+   "text": "Acceptance by all of a democratic system that accommodates India's diversity is a testament to unity in diversity.",
+   "year": null,
+   "era": "CE",
+   "quote": "Acceptance of a democratic system by all that accommodates India's diversity serves as a testament to the principle of unity in diversity.",
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-11-01",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f03",
+    "f22"
+   ],
+   "hook": "Not just a crowd of people: a <b>system of relationships</b>, from children to the elderly.",
+   "prompt": "What am I?",
+   "clues": [
+    "I have my own distinct codes of conduct and a shared outlook on life.",
+    "I include the elderly, adults, youth and young children.",
+    "I am not merely a collection of people; I am a system of relationships among them."
+   ],
+   "options": [
+    "Family",
+    "School",
+    "Market",
+    "Society"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f11",
+    "f12",
+    "f13"
+   ],
+   "hook": "Farming needed many hands, so the <b>family</b> system was born: joint or nuclear.",
+   "prompt": "What am I?",
+   "clues": [
+    "I came into existence because agriculture needed a significant workforce.",
+    "I can be nuclear or joint.",
+    "My members live together, bound by ties of blood, marriage or adoption, and care for one another."
+   ],
+   "options": [
+    "School",
+    "Family",
+    "Market",
+    "Bank"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f09",
+    "f10"
+   ],
+   "hook": "Food need -> agriculture -> needed a <b>significant</b> workforce -> the family system.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "To fulfil their need for food, humans began practising agriculture."
+    ],
+    [
+     "Meera",
+     "Agriculture brought stability to their lives."
+    ],
+    [
+     "Kabir",
+     "Since agriculture required a small workforce, the family system came into existence."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "weak",
+    "temporary",
+    "significant"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Nuclear = <b>four</b> or fewer members; joint = grandparents, uncles and aunts too.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "A family with six or fewer members is called a nuclear family."
+    ],
+    [
+     "Rohan",
+     "A nuclear family is also called a small family."
+    ],
+    [
+     "Priya",
+     "In a joint family, parents and children live with grandparents, uncles and aunts."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 3
+   },
+   "options": [
+    "eight",
+    "ten",
+    "four"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "South and coast, where fresh water is plenty: <b>rice</b>.",
+   "prompt": "What is the staple food in the southern and coastal regions of India?",
+   "options": [
+    "Wheat",
+    "Maize",
+    "Bajra",
+    "Rice"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Sociability = getting along <b>naturally, harmoniously and cooperatively</b>.",
+   "prompt": "What is sociability?",
+   "options": [
+    "Living alone without any help",
+    "Wandering from place to place for food",
+    "A person's capacity to interact with others naturally, harmoniously and cooperatively",
+    "Owning many things"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f01",
+    "f04",
+    "f05"
+   ],
+   "hook": "Nomads lacked <b>stability and security</b>, so they joined hands for food and shelter.",
+   "prompt": "What did humans in the nomadic stage lack?",
+   "options": [
+    "Language and music",
+    "Schools and banks",
+    "Stability and security",
+    "Machines and cities"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Discipline, cooperation, teamwork: the <b>school</b> links you to society's needs.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am a fundamental social institution created by society itself.",
+    "Through me, students learn discipline, cooperation and the spirit of teamwork.",
+    "I am a crucial link between a person's personal life and the broader social need."
+   ],
+   "options": [
+    "Market",
+    "Bank",
+    "Hospital",
+    "School"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-09",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Everyone relies on everyone: <b>interdependence</b> within society.",
+   "prompt": "What is the mutual reliance of people on one another for material and emotional needs called?",
+   "options": [
+    "Sociability",
+    "Division of labour",
+    "Nomadic life",
+    "Interdependence within society"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "No one can do every task, so tasks were shared: <b>division of labour</b> formed society.",
+   "prompt": "What am I?",
+   "clues": [
+    "After me, rules were set for the smooth functioning of social interactions.",
+    "Through me, society itself was formed.",
+    "I began because it was not possible for every person in a group to do every single task."
+   ],
+   "options": [
+    "Sociability",
+    "Division of labour",
+    "Interdependence",
+    "Nomadic life"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Oils: coconut South, mustard North, groundnut <b>West</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Coconut oil is used in Southern India."
+    ],
+    [
+     "Tanvi",
+     "Mustard oil is used in Northern India."
+    ],
+    [
+     "Arjun",
+     "Groundnut oil is used in Eastern India."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Central",
+    "Western",
+    "Southern"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Freedom to celebrate your own festivals <b>fosters</b> unity and cohesion.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Zoya",
+     "In India, people of many religions live together in harmony."
+    ],
+    [
+     "Kabir",
+     "Every person has the freedom to celebrate festivals according to their own faith."
+    ],
+    [
+     "Meera",
+     "This freedom weakens a sense of unity and cohesion within society."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "ends",
+    "divides",
+    "fosters"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Regional: Ahirani, Konkani, Varhadi. Tribal: <b>Gondi</b>, Bhil, Santhali.",
+   "prompt": "Which of these is a tribal dialect?",
+   "options": [
+    "Konkani",
+    "Gondi",
+    "Ahirani",
+    "Varhadi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f17"
+   ],
+   "hook": "Independent thinking = different <b>preferences and choices</b>; same school, different careers.",
+   "prompt": "Why do students from the very same school go on to work in widely different fields?",
+   "options": [
+    "Because independent thinking gives rise to different preferences, talents and choices",
+    "Because they all have the same talents",
+    "Because schools choose their jobs",
+    "Because they never learn anything"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "Social institutions: <b>values</b>, emotional <b>support</b>, <b>discipline</b>.",
+   "prompt": "What is the principal role of social institutions?",
+   "options": [
+    "Imparting positive values, giving emotional support and maintaining discipline",
+    "Only collecting taxes",
+    "Only selling goods",
+    "Only building roads"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "No one is born speaking: we learn language at <b>home, in the neighbourhood and at school</b>.",
+   "prompt": "Which statement about language is correct?",
+   "options": [
+    "We learn language in our homes, neighbourhoods and at school.",
+    "We are born knowing a language.",
+    "Language can only be learnt from television.",
+    "Schools do not teach any language."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-17",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f13"
+   ],
+   "hook": "Traditional past = <b>joint</b> families; changing present = nuclear families.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was part of the traditional society of the past.",
+    "Grandparents, uncles and aunts live in me along with parents and children.",
+    "I am also called a large family."
+   ],
+   "options": [
+    "Nuclear family",
+    "Social institution",
+    "Smart city",
+    "Joint family"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f36",
+    "f37",
+    "f44"
+   ],
+   "hook": "Pithla-Bhakari, Makar Sankranti in January, Lavani and Kabaddi: <b>Maharashtra</b>.",
+   "prompt": "Which state am I?",
+   "clues": [
+    "Lavani is my dance type and Kabaddi is my sport.",
+    "Makar Sankranti is celebrated in me in the month of January.",
+    "Pithla-Bhakari is a dish relished in me but rarely found elsewhere."
+   ],
+   "options": [
+    "Gujarat",
+    "Maharashtra",
+    "Punjab",
+    "Keralam"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-19",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Rice for South and coast; wheat, jowar, bajra, maize for North and <b>Central</b> India.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Rice is the staple food in the southern and coastal regions."
+    ],
+    [
+     "Sana",
+     "Rice is also the staple where many fresh water bodies are found."
+    ],
+    [
+     "Rohan",
+     "Wheat, jowar, bajra and maize are staple in Northern and Eastern India."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "Southern",
+    "Central",
+    "Coastal"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "Brains give schools and clinics, talent gives fun, <b>entrepreneurial</b> spirit gives industry.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Priya",
+     "Education and healthcare come from the intellectual capabilities of people."
+    ],
+    [
+     "Ishaan",
+     "Means of entertainment are created through the artistic talents of members."
+    ],
+    [
+     "Tanvi",
+     "Industries flourish through the trading skills and sporting spirit of individuals."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "entrepreneurial",
+    "artistic",
+    "religious"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Past: joint families + <b>handicrafts</b>. Present: nuclear + technology. Near future: smart cities + AI.",
+   "prompt": "Which describes the traditional society of the past?",
+   "options": [
+    "Smart cities, automation and artificial intelligence",
+    "Nuclear families, urbanization and a fast-paced lifestyle",
+    "Joint families, agriculture, handicrafts and community-centric living",
+    "Sustainable development and technology only"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "First food and shelter; in a family, <b>clothing</b> joined the list of basic needs.",
+   "prompt": "Food and shelter were the first fundamental human needs. Which need began to emerge for people living in a family?",
+   "options": [
+    "Clothing",
+    "Television",
+    "Cars",
+    "Mobile phones"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f05"
+   ],
+   "hook": "Together for <b>physical and emotional needs</b>: the start of human society.",
+   "prompt": "Why did humans in the nomadic stage come together?",
+   "options": [
+    "To build smart cities",
+    "To watch films",
+    "To fulfil their physical and emotional needs",
+    "To open banks"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34",
+    "f28"
+   ],
+   "hook": "Hindus, Muslims, Buddhists, Jains, Christians, Sikhs and Parsis together: <b>religious diversity</b>.",
+   "prompt": "What does religious diversity signify?",
+   "options": [
+    "A country having only one religion",
+    "Many kinds of food in one region",
+    "Different kinds of sports in one state",
+    "The coexistence of people belonging to various religions within a single society or country"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "January in Maharashtra, the sun's transition: <b>Makar Sankranti</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Other regions have their own festivals like me.",
+    "I celebrate the solar transition.",
+    "I am a festival celebrated in Maharashtra in the month of January."
+   ],
+   "options": [
+    "Lavani",
+    "Makar Sankranti",
+    "Puran Poli",
+    "Kabaddi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-26",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Marriage, caste system, family unit, schools: examples of a <b>social institution</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Marriage, the caste system, the family unit and educational establishments are my examples.",
+    "I am directed toward fulfilling fundamental social functions.",
+    "I am the organized form of human behaviour."
+   ],
+   "options": [
+    "Social diversity",
+    "Sociability",
+    "Social institution",
+    "Interdependence"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f31"
+   ],
+   "hook": "Ahirani, Konkani, Varhadi: regional. Gondi, Bhil, Santhali: <b>tribal</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "People who speak Marathi, Urdu, Kannada and Sindhi are present all around us."
+    ],
+    [
+     "Zoya",
+     "Ahirani, Konkani and Varhadi are regional dialects."
+    ],
+    [
+     "Kabir",
+     "Gondi, Bhil and Santhali are city dialects."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "tribal",
+    "foreign",
+    "ancient"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-28",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f37",
+    "f41",
+    "f44"
+   ],
+   "hook": "Maharashtra: Marathi, Lavani, <b>Kabaddi</b>, Pithla-Bhakari and Puran Poli.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Pithla-Bhakari is a dish relished in Maharashtra."
+    ],
+    [
+     "Aarav",
+     "Puran Poli is a popular sweet dish of Maharashtra."
+    ],
+    [
+     "Sana",
+     "The sport named for Maharashtra is Hockey and the dance is Lavani."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Cricket",
+    "Chess",
+    "Kabaddi"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Family, neighbours, relatives, friends, <b>teachers</b>: they grow your independent thinking.",
+   "prompt": "Who play a significant role in developing a person's capacity for independent thinking?",
+   "options": [
+    "No one; it is fixed at birth",
+    "Only machines",
+    "Family members, neighbours, relatives, friends and teachers",
+    "Only strangers"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Farming needs money too: <b>loans from credit societies or banks</b>.",
+   "prompt": "Which financial provision is given as an example of what society arranges for farming needs?",
+   "options": [
+    "Prizes from sports groups",
+    "Gifts from film studios",
+    "Tickets for entertainment",
+    "Loans from credit societies or banks"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Components: individual, family, groups, culture, <b>norms and values</b>, relationships, institutions.",
+   "prompt": "Which list gives components of a society?",
+   "options": [
+    "Only rivers and mountains",
+    "Only machines and tools",
+    "The individual, family, groups, culture, social norms and values",
+    "Only buildings and roads"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "Mutual tolerance builds social harmony; in calamities it brings a <b>helping hand</b>.",
+   "prompt": "During natural calamities, what does the spirit of social harmony prompt people to do?",
+   "options": [
+    "Stay away from one another",
+    "Leave the country",
+    "Stop speaking to neighbours",
+    "Extend a helping hand to one another"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-33",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40",
+    "f47",
+    "f35"
+   ],
+   "hook": "Idli-Dosa everywhere and one democracy for all: <b>unity in diversity</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "The same inspiration and faith behind many different festivals show me.",
+    "Idli-Dosa and Samosa-Paratha being popular across the country are an example of me.",
+    "Acceptance by all of a democratic system that accommodates India's many differences is a testament to me."
+   ],
+   "options": [
+    "Division of labour",
+    "Nomadic life",
+    "Sociability",
+    "Unity in diversity"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-11-34",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f42",
+    "f32"
+   ],
+   "hook": "Languages, dialects and scripts in one place: <b>linguistic</b> diversity.",
+   "prompt": "What am I?",
+   "clues": [
+    "Regional and tribal dialects like Ahirani and Gondi enrich me.",
+    "I can be found within a single country, state or society.",
+    "I am the existence of various languages, dialects and scripts."
+   ],
+   "options": [
+    "Religious diversity",
+    "Food diversity",
+    "Linguistic diversity",
+    "Division of labour"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Society: groups in one region with their own codes of conduct and a <b>shared</b> outlook.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "A society is an aggregate of human groups residing in a specific region."
+    ],
+    [
+     "Priya",
+     "These groups have their own distinct codes of conduct."
+    ],
+    [
+     "Ishaan",
+     "They have a separate outlook on life."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "foreign",
+    "shared",
+    "secret"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f07"
+   ],
+   "hook": "Social beings by nature; sociability is natural, harmonious and <b>cooperative</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "Humans are social beings by nature."
+    ],
+    [
+     "Arjun",
+     "They live in society to ensure their holistic development."
+    ],
+    [
+     "Zoya",
+     "Sociability is the capacity to interact with others in a natural, harmonious and selfish way."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 13
+   },
+   "options": [
+    "cooperative",
+    "lonely",
+    "angry"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f45"
+   ],
+   "hook": "Diversity = India's true <b>strength</b>; mutual respect gives a deep sense of Indianness.",
+   "prompt": "Which statement about diversity in India is correct?",
+   "options": [
+    "Diversity is a weakness of India.",
+    "Languages have become poorer through interaction.",
+    "Diversity is a defining characteristic of India and its true strength.",
+    "Geographical diversity plays no role in cultural diversity."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-11-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f43",
+    "f34",
+    "f42"
+   ],
+   "hook": "Social diversity: language, religion, caste, culture, traditions, <b>attire</b>, ideologies.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Cultural diversity means everyone has the same festivals.",
+    "Social diversity refers to variations in language, religion, caste, culture, traditions, attire and ideologies.",
+    "Religious diversity means a country has only one religion.",
+    "Linguistic diversity means a country has only one script."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-11-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f38",
+    "f39"
+   ],
+   "hook": "North and Central: wheat, jowar, bajra, maize. South: rice and coconut oil.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Wheat, jowar, bajra and maize are the staple diet in Northern and Central India.",
+    "Rice is the staple diet in Northern and Central India.",
+    "Coconut oil is used in Northern India.",
+    "Mustard oil is used in Southern India."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-11-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Intellect -> education and health; talent -> culture and fun; trade skills -> industry.",
+   "prompt": "Which pair is matched correctly?",
+   "options": [
+    "Education and healthcare - artistic talents",
+    "Means of entertainment - trading skills",
+    "Cultural richness - entrepreneurial spirit",
+    "Industries and businesses - trading skills and entrepreneurial spirit"
+   ],
+   "answer": 3
+  }
+ ]
+}

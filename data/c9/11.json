@@ -1,0 +1,1499 @@
+{
+ "class": 9,
+ "id": "11",
+ "title": "Post World War Political Developments",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "A system of all independent, sovereign States is called the international system.",
+   "year": null,
+   "era": "CE",
+   "quote": "A system of all these independent, sovereign States comes up. We call it international system.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "However big a nation may be, it can never be self-sufficient; interdependence is an important feature of the international system.",
+   "year": null,
+   "era": "CE",
+   "quote": "However big, prosperous or developed a nation may be, it can never be self-sufficient about all its needs. ... Thus, interdependence is an important feature of the international system",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "A nation's policy about its relations with other nations is called foreign policy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Every nation has policies about its internal dealings, as also about its relations with other nations. Such a policy is called foreign policy.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "date",
+   "text": "The First World War was fought between 1914 and 1918.",
+   "year": 1914,
+   "era": "CE",
+   "quote": "The First World War was fought between 1914 and 1918.",
+   "page": 2
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "The First World War ended in 1918.",
+   "year": 1918,
+   "era": "CE",
+   "quote": "The First World War was fought between 1914 and 1918.",
+   "page": 2
+  },
+  {
+   "fid": "f06",
+   "kind": "event",
+   "text": "Major countries of Europe took part in the First World War; Europe had a very central place in the global system at that time.",
+   "year": null,
+   "era": "CE",
+   "quote": "Major countries of Europe took part in it. Europe had a very central place in the international or global system at that time.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "Allied Powers in the First World War: Britain, France, Russia, Italy, America.",
+   "year": null,
+   "era": "CE",
+   "quote": "Allied Powers ... Britain, France, Russia, Italy, America",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "place",
+   "text": "Central Powers in the First World War: Germany, Austria-Hungary, Turkey, Bulgaria.",
+   "year": null,
+   "era": "CE",
+   "quote": "Central Powers ... Germany, Austria-Hungary, Turkey Bulgaria.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "The League of Nations was established at the end of the First World War; its main responsibility was understood to be to avoid war.",
+   "year": null,
+   "era": "CE",
+   "quote": "An international organisation called the League of Nations was established out of this thinking. It became an important platform to solve international disputes and carry out negotiations. The main responsibility of the League of Nations was understood to be to avoid war.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "event",
+   "text": "After the First World War, earlier empires in Europe collapsed and new nations came into being.",
+   "year": null,
+   "era": "CE",
+   "quote": "For example, earlier empires in Europe collapsed and new nations came into being.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "event",
+   "text": "Movements for independence started in the colonies in Africa and Asia and challenged the hegemony of European nations.",
+   "year": null,
+   "era": "CE",
+   "quote": "Many European countries had their colonies in the continents of Africa and Asia. Movements for independence started in these colonies. These movements challenged the hegemony of the European nations.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "The League of Nations did not succeed at preventing war; autocratic regimes came up in Germany, Italy, Spain and other countries, culminating in the Second World War.",
+   "year": null,
+   "era": "CE",
+   "quote": "But it did not succeed at preventing war. Autocratic regimes came up in Germany, Italy, Spain and other countries. All these developments culminated in the Second World War.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "The autocratic dictatorial regime of Hitler came up in Germany.",
+   "year": null,
+   "era": "CE",
+   "quote": "The autocratic dictatorial regime of Hitler came up in Germany.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "The Second World War was fought between 1939 and 1945.",
+   "year": 1939,
+   "era": "CE",
+   "quote": "The Second World War was fought between 1939 and 1945.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "event",
+   "text": "The Second World War was far more destructive and widespread than the first and used more advanced technology; countries again faced economic crisis.",
+   "year": null,
+   "era": "CE",
+   "quote": "It proved to be far more destructive than the First World War. Not only was it more widespread compared to the First World War, but also more advanced technology was employed in this war.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "place",
+   "text": "Allied Powers in the Second World War: Britain, France, Australia, Canada, New Zealand, India, Soviet Russia, China, America.",
+   "year": null,
+   "era": "CE",
+   "quote": "Allied Powers Britain, France, Australia, Canada, New Zealand, India, Soviet Russia, China, America",
+   "page": 4
+  },
+  {
+   "fid": "f17",
+   "kind": "place",
+   "text": "Axis powers in the Second World War: Germany, Japan, Italy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Axis powers Germany, Japan, Italy",
+   "page": 4
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "America played a major role in the Second World War and dropped two nuclear weapons on Hiroshima and Nagasaki in Japan on 6th and 9th August 1945.",
+   "year": 1945,
+   "era": "CE",
+   "quote": "America played a major role in the Second World War. ... it dropped two nuclear weapons on two cities of Japan - Hiroshima and Nagasaki - on 6th and 9th August 1945 respectively.",
+   "page": 4
+  },
+  {
+   "fid": "f19",
+   "kind": "event",
+   "text": "The Second World War ended with the defeat of Germany in Europe and of Japan in Asia.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Second World War ended with the defeat of Germany in Europe and of Japan in Asia.",
+   "page": 4
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "1945 to 1991 is the long period of the Cold War.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "1945 to 1991 is the long period of the Cold War.",
+   "page": 4
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "America and the Soviet Russia, allies in the Second World War, became competitors; there was no open war between them, but great tension.",
+   "year": null,
+   "era": "CE",
+   "quote": "America and the Soviet Russia, who were allies in the Second World War became competitors as soon as the war got over. ... There was no open war between these two countries",
+   "page": 4
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Cold War describes a condition where there is no actual war, but tensions that may be responsible to cause war.",
+   "year": null,
+   "era": "CE",
+   "quote": "The concept of Cold War is used to describe the condition where there is no actual war, but there are such tensions in the circumstances, that they may be responsible to cause war.",
+   "page": 4
+  },
+  {
+   "fid": "f23",
+   "kind": "event",
+   "text": "America was already a super power; the Soviet Russia tried to become one by making nuclear weapons and increasing its military might.",
+   "year": null,
+   "era": "CE",
+   "quote": "In this period, America was already a super power, but the Soviet Russia also tried to become a super power by making nuclear weapons and by increasing its military might.",
+   "page": 4
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "The struggle for power, arms race, differences in ideologies and checkmating each other gave rise to the Cold War.",
+   "year": null,
+   "era": "CE",
+   "quote": "The struggle for power, arms race, differences in ideologies, attitude of checkmating each other by strategies and counter-strategies gave rise to the Cold War.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "NATO (North Atlantic Treaty Organisation) was a military organisation under the dominance of America; the Warsaw Pact was under the command of the Soviet Russia.",
+   "year": null,
+   "era": "CE",
+   "quote": "NATO (North Atlantic Treaty Organisation) was a military organisation under the dominance of America, while the Warsaw Pact was a military organisation under the command of the Soviet Russia.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Bipolarisation: the division of the nations of the world into two super power blocs; it increased the scope of the Cold War.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the Cold War, most countries of the world joined either of the two super power blocs. Such a division of the nations of the world in two groups is bipolarisation. The scope of the Cold War increased due to this.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "date",
+   "text": "The Cuban Missile Crisis (1962) was an important event in the Cold War period.",
+   "year": 1962,
+   "era": "CE",
+   "quote": "The Cuban Missile Crisis (1962) was an important event in the cold war period.",
+   "page": 5
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "The communist revolution took place in Russia in 1917 and the Soviet Russia came into being.",
+   "year": 1917,
+   "era": "CE",
+   "quote": "The communist revolution took place in 1917 in Russia and the Soviet Russia came into being.",
+   "page": 5
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "The USA was a democratic State advocating capitalism; the Soviet Russia advocated socialism and a one party authoritarian system.",
+   "year": null,
+   "era": "CE",
+   "quote": "The U.S.A was a democratic State, advocating capitalism, while the Soviet Russia advocated socialism and a one party authoritarian system.",
+   "page": 5
+  },
+  {
+   "fid": "f30",
+   "kind": "place",
+   "text": "Europe was ideologically divided: Western European countries joined the American bloc, Eastern European countries the Soviet bloc.",
+   "year": null,
+   "era": "CE",
+   "quote": "Western European countries joined the bloc led by America, while Eastern European countries joined the bloc led by Soviet Russia.",
+   "page": 5
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "In the arms race the super powers produced arms on a large scale; realising it may endanger peace, they also made efforts towards arms control and disarmament.",
+   "year": null,
+   "era": "CE",
+   "quote": "The super powers started producing arms on a large scale to outsmart each other. ... Hence efforts towards arms control and disarmament also happened during this period.",
+   "page": 5
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "Developing nations created regional organisations: European countries formed the European Economic Community; South East Asian countries (Singapore, Thailand, Malaysia, Indonesia, Philippines, etc.) established ASEAN.",
+   "year": null,
+   "era": "CE",
+   "quote": "They felt that economic development was more important. European countries came together and formed the European Economic Community, while the South East Asian countries (Singapore, Thailand, Malaysia, Indonesia, Philippines, etc.) established the Association of South East Asian Nations (ASEAN).",
+   "page": 5
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Countries that decided to stay out of the Cold War rivalry followed the policy of Non-alignment.",
+   "year": null,
+   "era": "CE",
+   "quote": "Such nations decided to stay out of the cold war rivalry. Their policy is known as Non-alignment.",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "The Non-aligned Movement started from 1961 under the leadership of Pandit Jawaharlal Nehru (India), Marshall Tito (Yugoslavia), Gamal Abdal Nasser (Egypt), Dr Sukarno (Indonesia) and Dr Kwame Nkrumah (Ghana).",
+   "year": 1961,
+   "era": "CE",
+   "quote": "This movement started from 1961 under the leadership of India's Prime Minister Pandit Jawaharlal Nehru, President of Yugoslavia Marshall Tito, President of Egypt Gamal Abdal Nasser, President of Indonesia Dr Sukarno and President of Ghana Dr Kwame Nkrumah.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "event",
+   "text": "Asian and African countries which became independent after the Second World War supported the idea of non-alignment.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Asian and African countries, which became independent after the Second World War supported the idea of non-alignment.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "The Non-aligned Movement opposed colonialism, imperialism and racism; India led it under the guidance of Pandit Jawaharlal Nehru.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Non-aligned Movement has opposed colonialism, imperialism and racism. ... India led this movement under the guidance of Pandit Jawaharlal Nehru.",
+   "page": 6
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "The Non-aligned Movement is based on principles of humanism, global peace and equality.",
+   "year": null,
+   "era": "CE",
+   "quote": "The non-aligned movement is based on eternal principles of humanism, global peace and equality.",
+   "page": 6
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "The Non-aligned Movement demanded a New International Economic Order (NIEO).",
+   "year": null,
+   "era": "CE",
+   "quote": "This movement made a demand of a New International Economic Order (NIEO).",
+   "page": 6
+  },
+  {
+   "fid": "f39",
+   "kind": "event",
+   "text": "A reason for the end of the Cold War: the Soviet Russia opened up its economy and loosened State control.",
+   "year": null,
+   "era": "CE",
+   "quote": "(1) The Soviet Russia adopted the policy of opening up the economy. The State loosened up its control of the economy.",
+   "page": 6
+  },
+  {
+   "fid": "f40",
+   "kind": "person",
+   "text": "Soviet President Mikhail Gorbachev implemented Perestroika (Restructuring) and Glasnost (Openness); control over the media reduced and democracy got impetus.",
+   "year": null,
+   "era": "CE",
+   "quote": "The then President of the Soviet Russia Mikhail Gorbachev implemented the policies of Perestroika (Restructuring) and Glasnost (Openness). Due to these policies, the control over the media reduced. ... This gave impetus to democracy.",
+   "page": 6
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "East European countries under Soviet influence adopted capitalist and democratic paths, and their regimes changed.",
+   "year": null,
+   "era": "CE",
+   "quote": "As the East European countries under the influence of the Soviet Russia adopted the capitalist and democratic paths, the regimes there changed.",
+   "page": 6
+  },
+  {
+   "fid": "f42",
+   "kind": "place",
+   "text": "The Soviet Russia disintegrated into several new nations; Russia was the biggest country in the former Soviet Russia.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Soviet Russia disintegrated and several new nations were created out of it. Russia was the biggest country in the former Soviet Russia.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "When there is only one super power and several countries depend on it, the system is called a unipolar system.",
+   "year": null,
+   "era": "CE",
+   "quote": "When there is only one super power and several countries are dependent upon it, such an international system is called a unipolar system.",
+   "page": 6
+  },
+  {
+   "fid": "f44",
+   "kind": "event",
+   "text": "The Cold War ended with the disintegration of the Soviet Russia; America remained the only super power.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Cold War came to an end with the disintegration of the Soviet Russia ... America remained the only super power in world politics.",
+   "page": 7
+  },
+  {
+   "fid": "f45",
+   "kind": "term",
+   "text": "After the Cold War, trade got priority over 'aid', and an opposed country came to be described as a 'rival nation' instead of an 'enemy nation'.",
+   "year": null,
+   "era": "CE",
+   "quote": "the idea of giving 'aid' to other nations fell behind. ... The description of a country which was opposed to another has now changed from 'enemy nation' to 'rival nation.'",
+   "page": 7
+  },
+  {
+   "fid": "f46",
+   "kind": "event",
+   "text": "After the Cold War the responsibility of the United Nations increased; environment, human rights, gender equality and natural calamities acquired a global dimension.",
+   "year": null,
+   "era": "CE",
+   "quote": "The responsibility of the United Nations has increased. ... Environmental protection, fostering of human rights, gender equality and management of natural calamities now acquired a global dimension.",
+   "page": 7
+  },
+  {
+   "fid": "f47",
+   "kind": "term",
+   "text": "Globalisation: open trade, global circulation of capital, labour, markets and information, and less sacrosanct boundaries; but the gap between poor and rich nations did not reduce.",
+   "year": null,
+   "era": "CE",
+   "quote": "The boundaries between nations did not remain as sacrosanct as they were before. All these processes are together called globalisation. ... but (at the same time) the gap between the poor and rich nations did not reduce.",
+   "page": 7
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-11-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Independent + sovereign States together = the <b>international system</b>.",
+   "prompt": "What is a system of all independent, sovereign States called?",
+   "options": [
+    "Political system",
+    "International system",
+    "Social system",
+    "Unipolar system"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-11-02",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f21",
+    "f20"
+   ],
+   "hook": "Two giants, no open war: <b>America</b> vs <b>Soviet Russia</b>, 1945 to 1991.",
+   "prompt": "Which two countries were the rivals in the Cold War?",
+   "options": [
+    "Britain and Germany",
+    "Japan and China",
+    "America and the Soviet Russia",
+    "France and Italy"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-03",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "League of Nations: born after the First World War with one job - <b>avoid war</b>.",
+   "prompt": "What was the main responsibility of the League of Nations understood to be?",
+   "options": [
+    "To avoid war",
+    "To spread socialism",
+    "To form military blocs",
+    "To make nuclear weapons"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event",
+    "chrono"
+   ],
+   "fids": [
+    "f04",
+    "f14",
+    "f09"
+   ],
+   "hook": "League of Nations came at the end of the <b>First</b> World War (1914-1918).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The First World War was fought between 1914 and 1918."
+    ],
+    [
+     "Meera",
+     "The Second World War was fought between 1939 and 1945."
+    ],
+    [
+     "Kabir",
+     "The League of Nations was set up at the end of the Second World War."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 12
+   },
+   "options": [
+    "First",
+    "Third",
+    "Fourth"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "NATO = <b>America's</b> military group; Warsaw Pact = Soviet Russia's.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Both super powers created military organisations during the Cold War."
+    ],
+    [
+     "Arjun",
+     "NATO was a military organisation under the dominance of China during the Cold War."
+    ],
+    [
+     "Sneha",
+     "The Warsaw Pact was a military organisation under the command of the Soviet Russia."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "Germany",
+    "India",
+    "America"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f12"
+   ],
+   "hook": "Made to stop war after 1918, yet it could not prevent the Second World War.",
+   "prompt": "What am I?",
+   "clues": [
+    "I became an important platform to carry out negotiations.",
+    "I did not succeed at preventing war.",
+    "My main responsibility was understood to be to avoid war.",
+    "I was established at the end of the First World War."
+   ],
+   "options": [
+    "NATO",
+    "Warsaw Pact",
+    "League of Nations",
+    "ASEAN"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-07",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "First World War: <b>1914</b> to 1918 - four years of war.",
+   "prompt": "In which year did the First World War begin?",
+   "year": 1914,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-11-08",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Second World War: <b>1939</b> to 1945 - six years.",
+   "prompt": "In which year did the Second World War begin?",
+   "year": 1939,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-11-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f28",
+    "f05",
+    "f14"
+   ],
+   "hook": "1914 war starts, 1917 revolution in Russia, 1918 war ends, 1939 a new war.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "First World War begins",
+     "y": "1914",
+     "k": 1914
+    },
+    {
+     "t": "Communist revolution in Russia",
+     "y": "1917",
+     "k": 1917
+    },
+    {
+     "t": "First World War ends",
+     "y": "1918",
+     "k": 1918
+    },
+    {
+     "t": "Second World War begins",
+     "y": "1939",
+     "k": 1939
+    }
+   ]
+  },
+  {
+   "qid": "c9-11-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "1914 + 4 = <b>1918</b>: the First World War ends.",
+   "prompt": "In which year did the First World War end?",
+   "year": 1918,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-11-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "August 1945: Hiroshima (6th) and Nagasaki (9th) in <b>Japan</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "America dropped two nuclear weapons on cities of China in 1945."
+    ],
+    [
+     "Diya",
+     "They fell on Hiroshima and Nagasaki on 6th and 9th August."
+    ],
+    [
+     "Rohan",
+     "The war ended with the defeat of Germany in Europe and of Japan in Asia."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 8
+   },
+   "options": [
+    "Germany",
+    "Italy",
+    "Japan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f20"
+   ],
+   "hook": "Friends in the Second World War, rivals right after: the Cold War, 1945-1991.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The long period of the Cold War was from 1945 to 1991."
+    ],
+    [
+     "Vihaan",
+     "America and the Soviet Russia had been enemies in the Second World War."
+    ],
+    [
+     "Tara",
+     "There was no open war between these two countries."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "neutral",
+    "bystanders",
+    "allies"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Non-aligned Movement from <b>1961</b>: Nehru, Tito, Nasser, Sukarno, Nkrumah.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "The Non-aligned Movement started from 1971 under the leadership of Pandit Jawaharlal Nehru and others."
+    ],
+    [
+     "Yash",
+     "Marshall Tito was the President of Yugoslavia."
+    ],
+    [
+     "Nisha",
+     "Dr Sukarno was the President of Indonesia."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "1945",
+    "1962",
+    "1961"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "NATO = North Atlantic Treaty Organisation, led by <b>America</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was created during the Cold War.",
+    "I was a military organisation.",
+    "A super power took up the security of the countries that joined me.",
+    "I was under the dominance of America."
+   ],
+   "options": [
+    "Warsaw Pact",
+    "European Economic Community",
+    "NATO",
+    "ASEAN"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "The Soviet Russia's military group: the <b>Warsaw Pact</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was created during the Cold War.",
+    "My member countries had their security looked after by a super power.",
+    "I was a military organisation under the command of the Soviet Russia."
+   ],
+   "options": [
+    "Warsaw Pact",
+    "NATO",
+    "League of Nations",
+    "ASEAN"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Axis = <b>G-J-I</b>: Germany, Japan, Italy.",
+   "prompt": "Which countries were the Axis powers in the Second World War?",
+   "options": [
+    "Britain, France and China",
+    "Germany, Japan and Italy",
+    "India, Canada and Australia",
+    "America, Russia and Britain"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-11-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f14",
+    "f18",
+    "f34",
+    "f27"
+   ],
+   "hook": "1939 war, 1945 bombs, 1961 Non-aligned Movement, 1962 Cuban Missile Crisis.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Second World War begins",
+     "y": "1939",
+     "k": 1939
+    },
+    {
+     "t": "Nuclear bombs on Hiroshima, Nagasaki",
+     "y": "1945",
+     "k": 1945
+    },
+    {
+     "t": "Non-aligned Movement starts",
+     "y": "1961",
+     "k": 1961
+    },
+    {
+     "t": "Cuban Missile Crisis",
+     "y": "1962",
+     "k": 1962
+    }
+   ]
+  },
+  {
+   "qid": "c9-11-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Non-aligned Movement started from <b>1961</b> - one year before the Cuban Missile Crisis.",
+   "prompt": "From which year did the Non-aligned Movement start?",
+   "year": 1961,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-11-19",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Gorbachev: Perestroika (Restructuring) + Glasnost (Openness) = media control <b>reduced</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aryan",
+     "Mikhail Gorbachev was the then President of the Soviet Russia."
+    ],
+    [
+     "Pooja",
+     "He implemented the policies of Perestroika and Glasnost."
+    ],
+    [
+     "Dev",
+     "The control over the media increased due to these policies."
+    ],
+    [
+     "Jiya",
+     "This gave impetus to democracy."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "reduced",
+    "grew",
+    "remained"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Europe built the European Economic Community; South East Asia built <b>ASEAN</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sara",
+     "European countries came together and formed the European Economic Community."
+    ],
+    [
+     "Neel",
+     "Thailand and Malaysia were among the countries that established NATO as a regional body."
+    ],
+    [
+     "Anvi",
+     "Developing nations felt that economic development was more important."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "ASEAN",
+    "SAARC",
+    "OPEC"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Gorbachev's two policies: <b>Perestroika</b> and <b>Glasnost</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Under my policies, the control over the media reduced.",
+    "My policies gave impetus to democracy.",
+    "I was the then President of the Soviet Russia.",
+    "I implemented Perestroika and Glasnost."
+   ],
+   "options": [
+    "Mikhail Gorbachev",
+    "Marshall Tito",
+    "Gamal Abdal Nasser",
+    "Dr Sukarno"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f35"
+   ],
+   "hook": "Stay out of both blocs = <b>Non-alignment</b>, backed by newly free Asian and African nations.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was an important movement during the Cold War.",
+    "Asian and African countries that became free after the Second World War supported me.",
+    "Nations following me decided to stay out of the super power rivalry."
+   ],
+   "options": [
+    "Bipolarisation",
+    "Non-alignment",
+    "Arms race",
+    "Globalisation"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-11-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Bi = two: the world split into <b>two</b> super power blocs.",
+   "prompt": "What am I?",
+   "clues": [
+    "Because of me, the sphere of tension spread.",
+    "Because of me, the scope of the Cold War increased.",
+    "I am the division of the nations of the world into two groups."
+   ],
+   "options": [
+    "Bipolarisation",
+    "Interdependence",
+    "Unipolar system",
+    "Globalisation"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "USA: democracy + <b>capitalism</b>. Soviet Russia: <b>socialism</b> + one party.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The USA advocated socialism and a one party system.",
+    "The Soviet Russia was a democratic State advocating capitalism.",
+    "Both super powers wanted to spread socialism.",
+    "The USA advocated capitalism, while the Soviet Russia advocated socialism."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-11-25",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f07",
+    "f08",
+    "f06"
+   ],
+   "hook": "Central Powers = Germany, <b>Austria-Hungary</b>, Turkey, Bulgaria.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "Britain, France, Russia, Italy and America were the Allied Powers in the First World War."
+    ],
+    [
+     "Anaya",
+     "The Central Powers were Germany and Japan along with Turkey and Bulgaria."
+    ],
+    [
+     "Reyansh",
+     "Europe had a very central place in the global system at that time."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "India",
+    "Austria-Hungary",
+    "Canada"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-11-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f16",
+    "f17",
+    "f18"
+   ],
+   "hook": "America played a <b>major</b> role and made nuclear weapons.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "In the Second World War, the Axis powers were Germany, Japan and Italy."
+    ],
+    [
+     "Kian",
+     "India was among the Allied Powers in that war."
+    ],
+    [
+     "Zara",
+     "America played a minor role in the Second World War."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "small",
+    "major",
+    "hidden"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-11-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "South East Asia's own group: <b>ASEAN</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Developing nations created bodies like me for mutual cooperation.",
+    "I am a regional organisation, not a military one.",
+    "Singapore, Thailand, Malaysia, Indonesia and the Philippines are among the countries that set me up."
+   ],
+   "options": [
+    "European Economic Community",
+    "Warsaw Pact",
+    "ASEAN",
+    "NATO"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f47"
+   ],
+   "hook": "Capital, labour, markets, information all on the move = <b>globalisation</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "Under me, the gap between poor and rich nations did not reduce.",
+    "Because of me, boundaries between nations did not remain as sacrosanct.",
+    "I am the name for capital, labour, markets and information circulating all over the world."
+   ],
+   "options": [
+    "Bipolarisation",
+    "Globalisation",
+    "Cold War",
+    "Non-alignment"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-11-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Non-aligned Movement asked for <b>NIEO</b>: New International Economic Order.",
+   "prompt": "What did the Non-aligned Movement demand?",
+   "options": [
+    "A new military organisation",
+    "Nuclear weapons for all nations",
+    "A return to colonial rule",
+    "A New International Economic Order"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-11-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "Uni = one: one super power and others depend on it = <b>unipolar</b>.",
+   "prompt": "When there is only one super power and several countries depend on it, what is the system called?",
+   "options": [
+    "Bipolarisation",
+    "Non-alignment",
+    "Interdependence",
+    "Unipolar system"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-11-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "After the Cold War: 'enemy nation' became '<b>rival nation</b>'; trade over aid.",
+   "prompt": "After the Cold War, the description of a country opposed to another changed from 'enemy nation' to what?",
+   "options": [
+    "'rival nation'",
+    "'friendly nation'",
+    "'allied nation'",
+    "'neutral nation'"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-32",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Cuban Missile Crisis <b>1962</b> - a year after the Non-aligned Movement began (1961).",
+   "prompt": "In which year did the Cuban Missile Crisis take place?",
+   "year": 1962,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-11-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f28",
+    "f14",
+    "f34",
+    "f20"
+   ],
+   "hook": "1914, 1917, 1939, 1961, 1991: two wars, a revolution, a movement, a long Cold War.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "First World War begins",
+     "y": "1914",
+     "k": 1914
+    },
+    {
+     "t": "Communist revolution in Russia",
+     "y": "1917",
+     "k": 1917
+    },
+    {
+     "t": "Second World War begins",
+     "y": "1939",
+     "k": 1939
+    },
+    {
+     "t": "Non-aligned Movement starts",
+     "y": "1961",
+     "k": 1961
+    },
+    {
+     "t": "Cold War period (1945 to 1991) ends",
+     "y": "1991",
+     "k": 1991
+    }
+   ]
+  },
+  {
+   "qid": "c9-11-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Revolution in Russia <b>1917</b> - one year before the First World War ended (1918).",
+   "prompt": "In which year did the communist revolution take place in Russia?",
+   "year": 1917,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-11-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f34",
+    "f36"
+   ],
+   "hook": "India led the Non-aligned Movement under <b>Pandit Jawaharlal Nehru</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "The movement I helped lead opposed colonialism, imperialism and racism.",
+    "I was one of five leaders of a movement that started from 1961.",
+    "India led that movement under my guidance.",
+    "I was India's Prime Minister."
+   ],
+   "options": [
+    "Dr Kwame Nkrumah",
+    "Marshall Tito",
+    "Pandit Jawaharlal Nehru",
+    "Mikhail Gorbachev"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f39",
+    "f40",
+    "f41",
+    "f25"
+   ],
+   "hook": "Cold War ended by: open economy, Perestroika + Glasnost, East Europe turning democratic, Soviet break-up.",
+   "prompt": "Which of these was NOT a reason for the end of the Cold War?",
+   "options": [
+    "The creation of the Warsaw Pact",
+    "The Soviet Russia opened up its economy",
+    "Mikhail Gorbachev's Perestroika and Glasnost",
+    "East European countries adopted capitalist and democratic paths"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-11-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "Soviet Russia broke into several nations; the biggest was <b>Russia</b>.",
+   "prompt": "Which was the biggest country in the former Soviet Russia?",
+   "options": [
+    "Ukraine",
+    "Belarus",
+    "Kazakhstan",
+    "Russia"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-11-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f44",
+    "f46",
+    "f47"
+   ],
+   "hook": "Post-Cold War: one super power, bigger UN role, but rich-poor gap stayed.",
+   "prompt": "Which statement about the world after the Cold War is correct?",
+   "options": [
+    "The responsibility of the United Nations reduced.",
+    "The gap between poor and rich nations disappeared.",
+    "America remained the only super power.",
+    "Giving 'aid' became more important than trade."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "<b>West</b> Europe went with America, <b>East</b> Europe with the Soviet Russia.",
+   "prompt": "Which statement about Europe during the Cold War is correct?",
+   "options": [
+    "Eastern European countries joined the bloc led by America.",
+    "All of Europe joined the bloc led by the Soviet Russia.",
+    "Western European countries joined the bloc led by America.",
+    "Europe stayed out of both blocs."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-11-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f13",
+    "f12"
+   ],
+   "hook": "Germany (Hitler), Italy, Spain: autocratic regimes that led towards the Second World War.",
+   "prompt": "In which country did the autocratic dictatorial regime of Hitler come up?",
+   "options": [
+    "Germany",
+    "Italy",
+    "Spain",
+    "Japan"
+   ],
+   "answer": 0
+  }
+ ]
+}

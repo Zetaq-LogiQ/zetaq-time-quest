@@ -1,0 +1,1575 @@
+{
+ "class": 6,
+ "id": "10",
+ "title": "Ancient India and World",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "place",
+   "text": "Persepolis was the capital of the Iranian Empire; a pillar from Persepolis is similar to an Ashokan Pillar.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The image on the left shows a pillar from Persepolis, the capital of the Iranian Empire, while the image on the right shows an Ashokan Pillar.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "place",
+   "text": "India shared close relations with Central Asia, Iran (Persia), China, Tibet, Myanmar, Sri Lanka, Cambodia and Indonesia.",
+   "year": null,
+   "era": "CE",
+   "quote": "India shared close relation with countries in Central Asia, Iran (Persia), China, Tibet, Myanmar, Sri Lanka, Cambodia and Indonesia.",
+   "page": 2
+  },
+  {
+   "fid": "f03",
+   "kind": "event",
+   "text": "Ancient India and Persia had cultural, commercial and political relations from ancient times.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Ancient India and Persia had cultural, commercial and political relations from ancient times.",
+   "page": 2
+  },
+  {
+   "fid": "f04",
+   "kind": "place",
+   "text": "The northwestern region of the Indian subcontinent (Gandhara and Sindh) formed a part of the Persian Empire.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The northwestern region of the Indian subcontinent (Gandhara and Sindh) formed a part of the Persian Empire.",
+   "page": 2
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "The Persian Empire was known as the 'Achaemenid Empire'; it was divided into provinces, and taxation, intelligence network and hierarchy of officials were based on this division.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Persian Empire was known as the 'Achaemenid Empire'. It was divided into different provinces. The structure of taxation, intelligence network and the hierarchy of officials was decided, based on this division.",
+   "page": 2
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "The administrative system of the Mauryan empire shows some influence of the Persian administrative system.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The administrative system of the Mauryan empire shows some influence of the Persian administrative system.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "The Persian Empire had spread up to Rome.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Persian Empire had spread up to Rome.",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "The Kharoshthi and Aramaic scripts used in some Ashokan inscriptions indicate Persian influence.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Kharoshthi and Aramaic scripts used in some of the Ashokan inscriptions indicate Persian influence.",
+   "page": 3
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "India exported textiles, pearls, spices and elephants to Persia; precious metals were imported from Persia.",
+   "year": null,
+   "era": "BCE",
+   "quote": "India exported textiles, pearls, spices and elephants, to Persia. Precious metals were imported from Persia.",
+   "page": 3
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "Persian influence is seen in the capitals of Ashokan pillars, which have figures of animals like lion, horse and bull.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The influence of Persian art and architecture is clearly seen in the capitals of Ashokan pillars, which have figures of animals like lion, horse and bull.",
+   "page": 3
+  },
+  {
+   "fid": "f11",
+   "kind": "date",
+   "text": "In 326 BCE, Alexander, the King of Macedonia, conquered Persia and marched towards the northwestern region of India.",
+   "year": 326,
+   "era": "BCE",
+   "quote": "In 326 BCE, Alexander, the King of Macedonia, conquered Persia and marched towards the northwestern region of India.",
+   "page": 3
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "Alexander brought small kingdoms in the Indus region under his control; after his death his empire broke into small Indo-Greek kingdoms.",
+   "year": null,
+   "era": "BCE",
+   "quote": "He brought several small kingdoms in the Indus region under his control. After Alexander's death, his empire was disintegrated in small kingdoms. These are known as Indo-Greek kingdoms.",
+   "page": 3
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "The Mauryan emperors Chandragupta, Bindusara and Ashoka established political relations with Greek kings.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Mauryan emperors Chandragupta, Bindusara and Ashoka established political relations with Greek kings.",
+   "page": 3
+  },
+  {
+   "fid": "f14",
+   "kind": "person",
+   "text": "Megasthenes was the Greek ambassador in Chandragupta Maurya's court; he wrote Indica, about the social structure, administration, agriculture and trade of the Mauryan period.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Megasthenes was the Greek ambassador in Chandragupta Maurya's court. He wrote Indica, a book that provides valuable information about the social structure, administration, agriculture, and trade of the Mauryan period.",
+   "page": 3
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "'Gandhara Art' emerged during the Kushana period; it was influenced by Greek sculptural traditions, and many images of Gautam Buddha are in this style.",
+   "year": null,
+   "era": "CE",
+   "quote": "A new school of art emerged in India during the Kushana period. It is known as 'Gandhara Art'. It was influenced by Greek sculptural traditions. A number of images of Gautam Buddha in Gandhara style are found. Faces of Gandhara sculptures resemble Greek facial features.",
+   "page": 3
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Coins minted by the Greek kings of Bactria are called 'Indo-Greek coins'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The coins minted by the Greek kings of Bactria are excellent examples of this art form. These coins are called as 'Indo-Greek coins'.",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "event",
+   "text": "During the 1st and 2nd centuries CE, trade between India and Rome flourished; the ports of South India were important.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the 1st and 2nd centuries CE, trade between India and Rome flourished. In this trade-network, the ports of South India were important.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "place",
+   "text": "Bronze objects of Roman make were found at Kolhapur in Maharashtra, and many things of Roman origin at Arikamedu in Tamil Nadu.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the excavations at Kolhapur in Maharashtra bronze objects of Roman make were found. Similarly, many things of Roman origin were found during excavations at Arikamedu in Tamil Nadu.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "place",
+   "text": "Ter, in the Dharashiv district of Maharashtra, was an important centre of Indo-Roman trade in the Satavahan period.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ter was an important trade centre of Indo-Roman trade in the Satavahan period. It is located in the Dharashiv district of Maharashtra.",
+   "page": 4
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "Excavations at Ter yielded Roman coins, amphorae, glass beads and ivory carvings, including an ivory doll measuring 12 centimetres.",
+   "year": null,
+   "era": "CE",
+   "quote": "Excavations at this site have yielded Roman coins, amphorae (storage jars), glass beads and ivory carvings. ... an ivory doll measuring 12-centimeters, draws special attention.",
+   "page": 4
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "A similar ivory doll was found at Pompeii, a city in Italy buried in a volcanic eruption in 79 CE.",
+   "year": 79,
+   "era": "CE",
+   "quote": "Similar ivory doll was found at Pompeii. This historical city in Italy was buried in a volcanic eruption in 79 CE.",
+   "page": 4
+  },
+  {
+   "fid": "f22",
+   "kind": "place",
+   "text": "The port of Alexandria in Egypt played a crucial role; Arab merchants took Indian goods to Alexandria, from where they were shipped to Europe.",
+   "year": null,
+   "era": "CE",
+   "quote": "The port of Alexandria in Egypt played a crucial role in this trade network. Arab merchants took Indian goods to Alexandria. These goods were shipped to various European nations from Alexandria.",
+   "page": 4
+  },
+  {
+   "fid": "f23",
+   "kind": "event",
+   "text": "Some Roman merchants travelled directly to India via South Indian ports; thousands of Roman coins are still found in India's coastal regions.",
+   "year": null,
+   "era": "CE",
+   "quote": "Some Roman merchants would travel directly to India via the South Indian ports ... Even today, thousands of Roman coins are found in India's coastal regions.",
+   "page": 4
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "Black pepper from India was so expensive in Rome that it was called 'Black Gold'; it was exported from South Indian ports and paid for in gold coins.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Rome, it was so expensive that it was referred as 'Black Gold'. ... Pepper was exported in large quantities from ports in South India to the Roman Empire. Roman merchants would buy pepper from Indian traders by paying them in gold coins.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "person",
+   "text": "The Roman writer Pliny wrote: 'Every year, a massive amount of gold flows out of Rome to get spices from India'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Roman writer Pliny records in his writings: \"Every year, a massive amount of gold flows out of Rome to get spices from India\".",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "place",
+   "text": "India's influence spread to Sri Lanka, Myanmar, Thailand, Cambodia, Vietnam, Indonesia and Malaysia.",
+   "year": null,
+   "era": "CE",
+   "quote": "led to spread India's influence to regions including Sri Lanka, Myanmar, Thailand, Cambodia, Vietnam, Indonesia and Malaysia.",
+   "page": 5
+  },
+  {
+   "fid": "f27",
+   "kind": "place",
+   "text": "The Angkorwat temple and the Borobudur Stupa are strong examples of Indian influence in Southeast Asia.",
+   "year": null,
+   "era": "CE",
+   "quote": "Beautiful structures such as the Angkorwat temple, the Borobudur Stupa, and art inspired by the Indian epics stand as strong examples of this influence.",
+   "page": 5
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "To spread Buddhism, Emperor Ashoka sent his son Mahendra and daughter Sanghamitra to Sri Lanka; both are mentioned in the 'Mahavamsa'.",
+   "year": null,
+   "era": "BCE",
+   "quote": "To spread Buddhism, Emperor Ashoka sent his son, Mahendra, and his daughter, Sanghamitra, to Sri Lanka. The names of both of them are mentioned in the 'Mahavamsa', a Buddhist treatise from Sri Lanka.",
+   "page": 5
+  },
+  {
+   "fid": "f29",
+   "kind": "place",
+   "text": "Sanghamitra carried a branch of the Bodhi tree; according to local tradition it became the Bodhi tree at Anuradhpur.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Sanghamitra carried a branch of the Bodhi tree with her. According to local tradition, it is that branch which has turned into the Bodhi tree at Anuradhpur.",
+   "page": 5
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "There was great demand in India for pearls and other precious raw material from Sri Lanka.",
+   "year": null,
+   "era": "CE",
+   "quote": "There was a great demand in India for pearls and other precious raw material from Sri Lanka.",
+   "page": 5
+  },
+  {
+   "fid": "f31",
+   "kind": "place",
+   "text": "At Sigiriya in Sri Lanka, King Kashyapa excavated the cave in the 5th century CE; its murals are similar to the Ajanta murals.",
+   "year": null,
+   "era": "CE",
+   "quote": "At the site of Sigiriya in Sri Lanka, a king named Kashyapa excavated the cave during the 5th century CE. The style of the murals in these caves is similar to the murals in Ajanta caves.",
+   "page": 5
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "'Mahavamsa' and 'Dipavamsa', Sri Lankan treatises in the Pali language, give information on India-Sri Lanka relations.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Mahavamsa' and 'Dipavamsa', the Sri Lankan treatises written in the Pali language, provide information regarding the mutual relations between India and Sri Lanka.",
+   "page": 5
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "Emperor Harshavardhana had sent a representative to the Chinese imperial court.",
+   "year": null,
+   "era": "CE",
+   "quote": "Emperor Harshavardhana had sent a representative to the Chinese imperial court.",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Silk fabric produced in China was known in India as 'Chinanshuka'; Indian merchants exported it to the West via land-routes.",
+   "year": null,
+   "era": "CE",
+   "quote": "Silk fabric produced in China was known in India by the name 'Chinanshuka'. ... Merchants in ancient India used to export it to countries in the West. This trade was conducted via land-routes.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "The route that passed through India, Afghanistan and Central Asia is known as the 'Silk Route'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The route that passed through India, Afghanistan and Central Asia is known as the 'Silk Route'.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "Nalasopara in the Palghar district, near Mumbai, was a city on the Silk Route.",
+   "year": null,
+   "era": "CE",
+   "quote": "Several historical cities in India were located on the Silk Route. One of them was Nalasopara in the Palghar district, near Mumbai in Maharashtra.",
+   "page": 6
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "The Buddhist monks Fa Hien and Yuan Chwang arrived in India via the Silk Route.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Buddhist monks Fa Hien and Yuan Chwang also arrived in India via the Silk Route.",
+   "page": 6
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "In the first century CE, at the invitation of Chinese Emperor 'Ming', the monks Dharmarakshit and Kashyapa Matanga went to China and translated Indian Buddhist texts into Chinese.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the first century CE, at the invitation of the Chinese Emperor 'Ming', the Buddhist monks Dharmarakshit and Kashyapa Matanga travelled to China. They translated many Indian Buddhist texts into the Chinese language.",
+   "page": 6
+  },
+  {
+   "fid": "f39",
+   "kind": "event",
+   "text": "Buddhism also spread to countries such as Japan, Korea and Vietnam.",
+   "year": null,
+   "era": "CE",
+   "quote": "Buddhism also spread to countries such as Japan, Korea, and Vietnam.",
+   "page": 6
+  },
+  {
+   "fid": "f40",
+   "kind": "person",
+   "text": "In the seventh century CE, Yuan Chwang, a Buddhist monk from China, came to India and studied at Nalanda University for many years.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the seventh century CE, Yuan Chwang a scholarly Buddhist monk from China arrived in India to pursue studies in Buddhism. He continued his studies at the Nalanda University for many years.",
+   "page": 6
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "Yuan Chwang returned to China with over 600 manuscripts, travelling by the desert route of Central Asia.",
+   "year": null,
+   "era": "CE",
+   "quote": "When he returned to China he had over 600 manuscripts with him. ... Yuan Chwang travelled by the desert route of Central Asia.",
+   "page": 6
+  },
+  {
+   "fid": "f42",
+   "kind": "event",
+   "text": "While crossing the Taklamakan Desert, Yuan Chwang was caught in a sandstorm, but every manuscript was intact.",
+   "year": null,
+   "era": "CE",
+   "quote": "One day, while he was crossing the Taklamakan Desert, the sky suddenly turned dark. Within no time, a massive sandstorm engulfed him. ... Fortunately, every single manuscript was intact.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "event",
+   "text": "The Emperor of China set up a special centre for translating Indian texts; Yuan Chwang himself translated more than seventy-five Buddhist texts into Chinese.",
+   "year": null,
+   "era": "CE",
+   "quote": "Emperor of China, welcomed Yuan Chwang and established a special centre dedicated to translating the Indian texts and manuscripts. Over the following years, Yuan Chwang himself translated more than seventy-five Buddhist texts into Chinese.",
+   "page": 6
+  },
+  {
+   "fid": "f44",
+   "kind": "place",
+   "text": "The kingdom of 'Funan' in present-day Cambodia was established in the first century CE, founded by an Indian named Kaundinya; a Sanskrit inscription from that period still exists there.",
+   "year": null,
+   "era": "CE",
+   "quote": "The historical kingdom of 'Funan' located in present-day Cambodia, was established in the first century CE. According to Chinese historical traditions, this kingdom was founded by an Indian named Kaundinya. ... An inscription from that period still exists there. It is written in Sanskrit.",
+   "page": 7
+  },
+  {
+   "fid": "f45",
+   "kind": "place",
+   "text": "The 'Srivijaya' Empire in Indonesia was an important centre for studying Buddhist texts and learning Sanskrit.",
+   "year": null,
+   "era": "CE",
+   "quote": "the 'Srivijaya' Empire in Indonesia was an important centre for the study of Buddhist texts and for learning Sanskrit.",
+   "page": 7
+  },
+  {
+   "fid": "f46",
+   "kind": "date",
+   "text": "I-tsing, a Chinese traveller, went to Indonesia in 671 CE on a Persian merchant ship and stayed in Srivijaya for six months to learn Sanskrit.",
+   "year": 671,
+   "era": "CE",
+   "quote": "I-tsing, a Chinese traveller went to Indonesia in 671 CE. He boarded a Persian merchant ship returning back from China. At that time, he stayed in the Srivijaya Kingdom for six months to learn Sanskrit.",
+   "page": 7
+  },
+  {
+   "fid": "f47",
+   "kind": "person",
+   "text": "I-tsing advised Chinese monks to stay in Srivijaya for one to two years to master Sanskrit; around one thousand monks lived in its viharas.",
+   "year": null,
+   "era": "CE",
+   "quote": "I-tsing advised Chinese monks to first stay in the Srivijaya Kingdom for one to two years to master Sanskrit before proceeding to India. According to him, around one thousand monks resided in the viharas in the Srivijaya Kingdom.",
+   "page": 7
+  },
+  {
+   "fid": "f48",
+   "kind": "term",
+   "text": "Even today in Indonesia, dance-dramas based on the Ramayana and Mahabharata are highly popular.",
+   "year": null,
+   "era": "CE",
+   "quote": "Even today in Indonesia, dance-dramas based on stories from Ramayana and Mahabharata are highly popular.",
+   "page": 7
+  },
+  {
+   "fid": "f49",
+   "kind": "event",
+   "text": "Buddhism reached Myanmar, Thailand and Indonesia in the ancient period; later, temples dedicated to Shiva and Vishnu were also built.",
+   "year": null,
+   "era": "CE",
+   "quote": "Buddhism reached countries such as Myanmar, Thailand and Indonesia in the the ancient period. Later, temples dedicated to Shiva and Vishnu were also built.",
+   "page": 8
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-10-01",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Alexander of Macedonia took Persia in <b>326 BCE</b>, then marched to northwest India.",
+   "prompt": "In which year did Alexander, the King of Macedonia, conquer Persia?",
+   "year": 326,
+   "era": "BCE"
+  },
+  {
+   "qid": "c6-10-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "Megasthenes: Greek ambassador in Chandragupta Maurya's court, author of <b>Indica</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was neither an emperor nor a soldier, yet I had a place in the royal court.",
+    "I wrote about the social structure, administration, agriculture and trade of the Mauryan period.",
+    "I was the Greek ambassador in Chandragupta Maurya's court.",
+    "I wrote the book Indica."
+   ],
+   "options": [
+    "Alexander",
+    "Pliny",
+    "Megasthenes",
+    "I-tsing"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f41"
+   ],
+   "hook": "Yuan Chwang: China to <b>Nalanda</b> in the 7th century CE, home with over 600 manuscripts.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Yuan Chwang was a Buddhist monk from China."
+    ],
+    [
+     "Meera",
+     "He studied at Vikramshila University for many years."
+    ],
+    [
+     "Kabir",
+     "He returned to China with over 600 manuscripts."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "Nalanda",
+    "Takshashila",
+    "Valabhi"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Pepper was so costly in Rome it was called <b>Black Gold</b>, and paid for in gold coins.",
+   "prompt": "In Rome, what was black pepper from India called?",
+   "options": [
+    "Black Gold",
+    "Chinanshuka",
+    "Indica",
+    "Silk Route"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Ashoka sent his son <b>Mahendra</b> and daughter <b>Sanghamitra</b> to Sri Lanka.",
+   "prompt": "Whom did Emperor Ashoka send to Sri Lanka to spread Buddhism?",
+   "options": [
+    "Megasthenes and Pliny",
+    "His son Mahendra and his daughter Sanghamitra",
+    "Fa Hien and I-tsing",
+    "Dharmarakshit and Kashyapa Matanga"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f35",
+    "f36",
+    "f37"
+   ],
+   "hook": "Silk Route: India - Afghanistan - Central Asia. Nalasopara sat on it; Fa Hien came along it.",
+   "prompt": "What am I?",
+   "clues": [
+    "Fa Hien and Yuan Chwang came to India along me.",
+    "Nalasopara in Palghar district was one of the cities on me.",
+    "I passed through India, Afghanistan and Central Asia."
+   ],
+   "options": [
+    "Taklamakan Desert",
+    "Achaemenid Empire",
+    "Silk Route",
+    "Srivijaya"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Gandhara Art = Kushana period + <b>Greek</b> style. Buddha with Greek-looking faces.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "A new school of art called Gandhara Art emerged during the Kushana period."
+    ],
+    [
+     "Arjun",
+     "It was influenced by Greek sculptural traditions."
+    ],
+    [
+     "Diya",
+     "Faces of Gandhara sculptures resemble Chinese facial features."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Greek",
+    "Persian",
+    "Roman"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f48"
+   ],
+   "hook": "Ramayana and Mahabharata dance-dramas are still loved in <b>Indonesia</b>.",
+   "prompt": "In which country are dance-dramas based on the Ramayana and Mahabharata highly popular even today?",
+   "options": [
+    "Indonesia",
+    "Thailand",
+    "Cambodia",
+    "Sri Lanka"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Pompeii, Italy: buried by a volcano in <b>79 CE</b>; it had an ivory doll like Ter's.",
+   "prompt": "In which year was the city of Pompeii in Italy buried in a volcanic eruption?",
+   "year": 79,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-10-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f40",
+    "f42",
+    "f43"
+   ],
+   "hook": "Yuan Chwang survived a <b>Taklamakan</b> sandstorm and translated 75+ texts into Chinese.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I translated more than seventy-five Buddhist texts into Chinese.",
+    "A sandstorm caught me in the Taklamakan Desert.",
+    "I came from China in the seventh century CE and studied at Nalanda."
+   ],
+   "options": [
+    "Fa Hien",
+    "I-tsing",
+    "Kashyapa Matanga",
+    "Yuan Chwang"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-10-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f09"
+   ],
+   "hook": "To Persia: textiles, pearls, spices, <b>elephants</b>. From Persia: precious metals.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Gandhara and Sindh were part of the Persian Empire."
+    ],
+    [
+     "Pooja",
+     "The Persian Empire was known as the Achaemenid Empire."
+    ],
+    [
+     "Rohan",
+     "India exported textiles, pearls, spices and horses to Persia."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "elephants",
+    "camels",
+    "gold"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Ashokan inscriptions in <b>Kharoshthi</b> and <b>Aramaic</b> show Persian influence.",
+   "prompt": "Which scripts used in some Ashokan inscriptions show Persian influence?",
+   "options": [
+    "Greek and Latin",
+    "Kharoshthi and Aramaic",
+    "Pali and Chinese"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f19",
+    "f20",
+    "f21"
+   ],
+   "hook": "Ter (Dharashiv): Roman coins, amphorae and a <b>12 cm</b> ivory doll, like one at Pompeii.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "An ivory doll 12 centimetres long was found at me.",
+    "Roman coins, amphorae and glass beads were found in my excavations.",
+    "I was an important centre of Indo-Roman trade in the Satavahan period.",
+    "I am in the Dharashiv district of Maharashtra."
+   ],
+   "options": [
+    "Kolhapur",
+    "Arikamedu",
+    "Nalasopara",
+    "Ter"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-10-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f39"
+   ],
+   "hook": "Chinese silk = <b>Chinanshuka</b>, carried West by land-routes.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "Emperor Harshavardhana had sent a representative to the Chinese imperial court."
+    ],
+    [
+     "Kabir",
+     "Chinese silk was known in India as Chinanshuka."
+    ],
+    [
+     "Meera",
+     "Indian merchants exported Chinese silk to the West via sea routes."
+    ],
+    [
+     "Aarav",
+     "Buddhism also spread to Japan, Korea and Vietnam."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "river",
+    "land",
+    "canal"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "Funan in Cambodia, founded by the Indian <b>Kaundinya</b>, used Sanskrit.",
+   "prompt": "According to Chinese historical traditions, who founded the kingdom of Funan?",
+   "options": [
+    "Kashyapa",
+    "Mahendra",
+    "Kaundinya",
+    "Ming"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Sanghamitra's Bodhi branch grew into the Bodhi tree at <b>Anuradhpur</b>.",
+   "prompt": "According to local tradition, where is the Bodhi tree that grew from Sanghamitra's branch?",
+   "options": [
+    "Anuradhpur",
+    "Sigiriya",
+    "Nalanda",
+    "Borobudur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f11",
+    "f21",
+    "f31",
+    "f46"
+   ],
+   "hook": "326 BCE, then 79 CE, then the 5th century, then <b>671 CE</b>.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Alexander conquers Persia",
+     "y": "326 BCE",
+     "k": -326
+    },
+    {
+     "t": "Pompeii buried by a volcano",
+     "y": "79 CE",
+     "k": 79
+    },
+    {
+     "t": "Kashyapa excavates the Sigiriya cave",
+     "y": "5th century CE",
+     "k": 450
+    },
+    {
+     "t": "I-tsing goes to Indonesia",
+     "y": "671 CE",
+     "k": 671
+    }
+   ]
+  },
+  {
+   "qid": "c6-10-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f46"
+   ],
+   "hook": "I-tsing sailed to Indonesia in <b>671 CE</b> and learnt Sanskrit for six months.",
+   "prompt": "In which year did the Chinese traveller I-tsing go to Indonesia?",
+   "year": 671,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-10-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f46",
+    "f47"
+   ],
+   "hook": "I-tsing: Persian ship, six months in Srivijaya, about a thousand monks there.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I said about one thousand monks lived in the viharas of Srivijaya.",
+    "I advised Chinese monks to master Sanskrit in Srivijaya for one to two years first.",
+    "I boarded a Persian merchant ship and stayed in Srivijaya for six months."
+   ],
+   "options": [
+    "I-tsing",
+    "Yuan Chwang",
+    "Fa Hien",
+    "Megasthenes"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "Roman finds: bronze at <b>Kolhapur</b> (Maharashtra), much more at <b>Arikamedu</b> (Tamil Nadu).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Diya",
+     "During the 1st and 2nd centuries CE, trade between India and Rome flourished."
+    ],
+    [
+     "Ishaan",
+     "Bronze objects of Roman make were found at Kolhapur in Gujarat during excavations."
+    ],
+    [
+     "Riya",
+     "Many things of Roman origin were found at Arikamedu in Tamil Nadu."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "Maharashtra",
+    "Bihar",
+    "Odisha"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "Arab merchants carried Indian goods to <b>Alexandria</b> in Egypt; ships took them on to Europe.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Alexandria was a port in Tamil Nadu.",
+    "Roman merchants never came to India.",
+    "Indian goods were shipped to Europe from Pompeii.",
+    "Arab merchants took Indian goods to the port of Alexandria in Egypt."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-10-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "Gandhara Art: Greek-style Buddha images; Bactrian Indo-Greek coins are fine examples.",
+   "prompt": "What am I?",
+   "clues": [
+    "Coins of the Greek kings of Bactria are excellent examples of me.",
+    "Many images of Gautam Buddha are made in my style.",
+    "I emerged in India during the Kushana period.",
+    "I was influenced by Greek sculptural traditions."
+   ],
+   "options": [
+    "Gandhara Art",
+    "Persian art",
+    "Ajanta murals",
+    "Indica"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Brother Mahendra and sister <b>Sanghamitra</b> went to Sri Lanka; she carried the Bodhi branch.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pooja",
+     "Emperor Ashoka sent Mahendra and Sanghamitra to Sri Lanka."
+    ],
+    [
+     "Arjun",
+     "Their names are mentioned in the Mahavamsa."
+    ],
+    [
+     "Sana",
+     "It was Mahendra who carried a branch of the Bodhi tree."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "Kashyapa",
+    "Sanghamitra",
+    "Ashoka"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f27",
+    "f26"
+   ],
+   "hook": "Indian influence abroad: <b>Angkorwat</b> temple (Cambodia) and <b>Borobudur</b> Stupa.",
+   "prompt": "Which structures are strong examples of Indian influence in Southeast Asia?",
+   "options": [
+    "The Sanchi Stupa and the Kailasa Temple",
+    "The pillar at Persepolis and the city of Pompeii",
+    "The Angkorwat temple and the Borobudur Stupa"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f11",
+    "f38",
+    "f31",
+    "f40"
+   ],
+   "hook": "326 BCE Alexander; 1st century CE monks to China; 5th century Sigiriya; 7th century Yuan Chwang.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Alexander conquers Persia",
+     "y": "326 BCE",
+     "k": -326
+    },
+    {
+     "t": "Emperor Ming invites Indian monks",
+     "y": "1st century CE",
+     "k": 50
+    },
+    {
+     "t": "Kashyapa excavates the Sigiriya cave",
+     "y": "5th century CE",
+     "k": 450
+    },
+    {
+     "t": "Yuan Chwang arrives in India",
+     "y": "7th century CE",
+     "k": 650
+    }
+   ]
+  },
+  {
+   "qid": "c6-10-26",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Sigiriya, Sri Lanka: King Kashyapa's 5th-century cave, murals like <b>Ajanta</b>.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "My cave was excavated in the 5th century CE.",
+    "I am a site in Sri Lanka.",
+    "A king named Kashyapa excavated a cave at me.",
+    "The style of my cave murals is similar to the murals at Ajanta."
+   ],
+   "options": [
+    "Anuradhpur",
+    "Sigiriya",
+    "Borobudur",
+    "Angkorwat"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "Pepper left <b>South</b> Indian ports; Pliny moaned that Rome's gold flowed out every year.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "Roman merchants paid for pepper in gold coins."
+    ],
+    [
+     "Meera",
+     "Pliny wrote that every year a massive amount of gold flowed out of Rome to get spices from India."
+    ],
+    [
+     "Kabir",
+     "Pepper was exported from ports in North India to the Roman Empire."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "East",
+    "South",
+    "West"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "China's silk had an Indian name: <b>Chinanshuka</b>.",
+   "prompt": "By what name was silk fabric produced in China known in India?",
+   "options": [
+    "Indica",
+    "Amphorae",
+    "Chinanshuka",
+    "Achaemenid"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f45",
+    "f46",
+    "f47"
+   ],
+   "hook": "Srivijaya (Indonesia): Sanskrit school stop for Chinese monks, about 1,000 monks in viharas.",
+   "prompt": "Which kingdom am I?",
+   "clues": [
+    "Around one thousand monks lived in my viharas.",
+    "I-tsing stayed with me for six months to learn Sanskrit.",
+    "I was an important centre for studying Buddhist texts and learning Sanskrit.",
+    "I was in Indonesia."
+   ],
+   "options": [
+    "Funan",
+    "Srivijaya",
+    "Bactria",
+    "Macedonia"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f44",
+    "f49"
+   ],
+   "hook": "Funan (Cambodia), 1st century CE: an old inscription in <b>Sanskrit</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Diya",
+     "The kingdom of Funan was in present-day Cambodia."
+    ],
+    [
+     "Aarav",
+     "It was established in the first century CE."
+    ],
+    [
+     "Ishaan",
+     "An inscription in Pali from that period still exists there."
+    ],
+    [
+     "Riya",
+     "Later, temples dedicated to Shiva and Vishnu were also built in Southeast Asia."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Greek",
+    "Aramaic",
+    "Sanskrit"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Sri Lanka's Pali books: <b>Mahavamsa</b> and <b>Dipavamsa</b>.",
+   "prompt": "Which Sri Lankan treatises in the Pali language give information about relations between India and Sri Lanka?",
+   "options": [
+    "Mahavamsa and Dipavamsa",
+    "Indica and Rajatarangini",
+    "Ashtadhyayi and Mahabhashya"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Ashokan pillar capitals: <b>lion, horse and bull</b>, in Persian style.",
+   "prompt": "Figures of which animals on the capitals of Ashokan pillars show Persian influence?",
+   "options": [
+    "Elephant, camel and tiger",
+    "Swan, tortoise and rabbit",
+    "Lion, horse and bull"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f11",
+    "f44",
+    "f31",
+    "f46"
+   ],
+   "hook": "BCE first: 326 BCE. Then Funan (1st century CE), Sigiriya (5th), I-tsing (<b>671</b>).",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Alexander conquers Persia",
+     "y": "326 BCE",
+     "k": -326
+    },
+    {
+     "t": "Kingdom of Funan is established",
+     "y": "1st century CE",
+     "k": 50
+    },
+    {
+     "t": "Kashyapa excavates the Sigiriya cave",
+     "y": "5th century CE",
+     "k": 450
+    },
+    {
+     "t": "I-tsing goes to Indonesia",
+     "y": "671 CE",
+     "k": 671
+    }
+   ]
+  },
+  {
+   "qid": "c6-10-34",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f07"
+   ],
+   "hook": "Achaemenid = Persian Empire: provinces, taxes, spies, officials; it held Gandhara and Sindh.",
+   "prompt": "What am I?",
+   "clues": [
+    "I had spread up to Rome.",
+    "My taxation, intelligence network and hierarchy of officials were based on my provinces.",
+    "Gandhara and Sindh were once part of me.",
+    "I am another name for the Persian Empire."
+   ],
+   "options": [
+    "Srivijaya Empire",
+    "Roman Empire",
+    "Achaemenid Empire",
+    "Mauryan Empire"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f12",
+    "f13",
+    "f16"
+   ],
+   "hook": "Indo-Greek coins came from the Greek kings of <b>Bactria</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "The Mauryan emperors Chandragupta, Bindusara and Ashoka established political relations with Greek kings."
+    ],
+    [
+     "Rohan",
+     "After Alexander's death, his empire broke into small Indo-Greek kingdoms."
+    ],
+    [
+     "Pooja",
+     "Indo-Greek coins were minted by the Greek kings of Macedonia in that period."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "Persia",
+    "Rome",
+    "Bactria"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-10-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f34",
+    "f35",
+    "f36",
+    "f37"
+   ],
+   "hook": "Silk Route by land: India - Afghanistan - Central Asia, with <b>Nalasopara</b> on the way.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Silk Route passed through India, Indonesia and China.",
+    "Nalasopara was a port in Tamil Nadu on the Silk Route.",
+    "Chinese silk was traded to the West only by sea.",
+    "Fa Hien and Yuan Chwang came to India via the Silk Route, and Nalasopara in Palghar district was a city on it."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-10-37",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Ashoka's daughter <b>Sanghamitra</b> carried the Bodhi branch to Sri Lanka.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My name is mentioned in the Mahavamsa.",
+    "I went to Sri Lanka to spread Buddhism.",
+    "My father was Emperor Ashoka.",
+    "I carried a branch of the Bodhi tree with me."
+   ],
+   "options": [
+    "Sanghamitra",
+    "Mahendra",
+    "Kashyapa",
+    "Kaundinya"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "Ter's 12 cm ivory doll has a twin at Pompeii, buried in <b>79 CE</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "An ivory doll found at Ter measures 12 centimetres."
+    ],
+    [
+     "Diya",
+     "A similar ivory doll was found at Pompeii in Italy."
+    ],
+    [
+     "Kabir",
+     "Pompeii was buried in a volcanic eruption in 179 CE."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "79",
+    "326",
+    "671"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-10-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f40",
+    "f41",
+    "f43",
+    "f38"
+   ],
+   "hook": "Yuan Chwang: 7th century, Nalanda, 600+ manuscripts by the desert route, 75+ translations.",
+   "prompt": "Which statement about Yuan Chwang is correct?",
+   "options": [
+    "He came in the first century CE at the invitation of Emperor Ming.",
+    "He came in the seventh century CE, studied at Nalanda and translated more than seventy-five Buddhist texts into Chinese.",
+    "He returned to China by sea with over 600 manuscripts.",
+    "He stayed in Srivijaya for six months in 671 CE to learn Sanskrit."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-10-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f06",
+    "f09",
+    "f01"
+   ],
+   "hook": "Persia gave ideas for Mauryan rule and sent precious metals; India sent elephants.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The administrative system of the Mauryan empire shows some influence of the Persian administrative system.",
+    "Precious metals were exported from India to Persia.",
+    "Elephants were imported into India from Persia.",
+    "Persepolis was the capital of the Roman Empire."
+   ],
+   "answer": 0
+  }
+ ]
+}

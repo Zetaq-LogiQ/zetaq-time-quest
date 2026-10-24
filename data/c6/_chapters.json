@@ -1,0 +1,130 @@
+[
+ {
+  "id": "01",
+  "num": "H1",
+  "title": "Sources of History",
+  "unit": "History",
+  "pages": "1-7",
+  "book": "603030584"
+ },
+ {
+  "id": "02",
+  "num": "H2",
+  "title": "Prehistoric Period",
+  "unit": "History",
+  "pages": "1-8",
+  "book": "603030584"
+ },
+ {
+  "id": "03",
+  "num": "H3",
+  "title": "Harappan Civilisation",
+  "unit": "History",
+  "pages": "1-10",
+  "book": "603030584"
+ },
+ {
+  "id": "04",
+  "num": "H4",
+  "title": "Vedic Culture",
+  "unit": "History",
+  "pages": "1-7",
+  "book": "603030584"
+ },
+ {
+  "id": "05",
+  "num": "H5",
+  "title": "Various Religious Trends",
+  "unit": "History",
+  "pages": "1-10",
+  "book": "603030584"
+ },
+ {
+  "id": "06",
+  "num": "H6",
+  "title": "Janapadas and Mahajanapadas",
+  "unit": "History",
+  "pages": "1-6",
+  "book": "603030584"
+ },
+ {
+  "id": "07",
+  "num": "H7",
+  "title": "India during Maurya Period",
+  "unit": "History",
+  "pages": "1-8",
+  "book": "603030584"
+ },
+ {
+  "id": "08",
+  "num": "H8",
+  "title": "Kingdoms and Dynasties in Ancient India and Maharashtra",
+  "unit": "History",
+  "pages": "1-8",
+  "book": "603030584"
+ },
+ {
+  "id": "09",
+  "num": "H9",
+  "title": "Cultural Heritage of Ancient India",
+  "unit": "History",
+  "pages": "1-9",
+  "book": "603030584"
+ },
+ {
+  "id": "10",
+  "num": "H10",
+  "title": "Ancient India and World",
+  "unit": "History",
+  "pages": "1-9",
+  "book": "603030584"
+ },
+ {
+  "id": "11",
+  "num": "C1",
+  "title": "Our Social Life",
+  "unit": "Civics",
+  "pages": "1-7",
+  "book": "603030584"
+ },
+ {
+  "id": "12",
+  "num": "C2",
+  "title": "The Constitution of India",
+  "unit": "Civics",
+  "pages": "1-6",
+  "book": "603030584"
+ },
+ {
+  "id": "13",
+  "num": "C3",
+  "title": "The Preamble and Features of the Indian Constitution",
+  "unit": "Civics",
+  "pages": "1-4",
+  "book": "603030584"
+ },
+ {
+  "id": "14",
+  "num": "C4",
+  "title": "Local Self Government (Rural)",
+  "unit": "Civics",
+  "pages": "1-8",
+  "book": "603030584"
+ },
+ {
+  "id": "15",
+  "num": "C5",
+  "title": "Local Self Government (Urban)",
+  "unit": "Civics",
+  "pages": "1-9",
+  "book": "603030584"
+ },
+ {
+  "id": "16",
+  "num": "C6",
+  "title": "District Administration",
+  "unit": "Civics",
+  "pages": "1-7",
+  "book": "603030584"
+ }
+]

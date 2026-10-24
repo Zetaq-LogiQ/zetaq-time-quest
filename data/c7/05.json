@@ -1,0 +1,1474 @@
+{
+ "class": 7,
+ "id": "05",
+ "title": "The Foundation of the Swaraj",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "date",
+   "text": "Shivaji Maharaj was born at the Shivneri fort near Junnar in Pune district on 19 February 1630.",
+   "year": 1630,
+   "era": "CE",
+   "quote": "Shivaji Maharaj was born at the Shivneri fort near Junnar in Pune district on the day of Phalgun Vadya Tritiya in the Shaka year 1551, that is on 19 February 1630.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "date",
+   "text": "Shivaji Maharaj's birth date was Phalgun Vadya Tritiya in the Shaka year 1551.",
+   "year": null,
+   "era": "CE",
+   "quote": "on the day of Phalgun Vadya Tritiya in the Shaka year 1551",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "person",
+   "text": "Shahajiraje, the father of Shivaji Maharaj, was a pre-eminent Sardar in the Deccan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shahajiraje, the father of Shivaji Maharaj was a pre-eminent Sardar in the Deccan.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "The Mughals launched a campaign to conquer the Nizamshahi; the Adilshah of Bijapur allied with them.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Mughals had launched a campaign to conquer the Nizamshahi Kingdom. The Adilshah of Bijapur allied with the Mughals in this campaign.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "Shahaji Maharaj tried to save the Nizamshahi by offering stiff resistance to the Mughals.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shahaji Maharaj did not wish the Mughals to get an entry into the South. So he tried to save Nizamshahi by offering stiff resistance to the Mughals.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "The Nizamshahi was defeated and came to an end in 1636 CE.",
+   "year": 1636,
+   "era": "CE",
+   "quote": "The Nizamshahi was defeated and came to an end in 1636 CE.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "As a Sardar of the Adilshah, Shahajiraje held as jagir the Pune, Supe, Indapur and Chakan parganas between the Bheema and Neera rivers.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shahajiraje became a Sardar of the Adilshah of Bijapur. The region comprising Pune, Supe, Indapur and Chakan parganas located between the Bheema and Neera rivers was vested in Shahajiraje as a jagir.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "place",
+   "text": "The Adilshah also granted Shahajiraje the jagir of Bengaluru and neighbouring areas in Karnataka.",
+   "year": null,
+   "era": "CE",
+   "quote": "he also granted the jagir of Bengaluru and the neighbouring areas in Karnataka to Shahajiraje.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Jahagir or jagir means the right to enjoy the revenue of a region; Sardars got this revenue instead of salaries.",
+   "year": null,
+   "era": "CE",
+   "quote": "Jahagir or jagir means the right to enjoy the revenue of a region. The Sardars in the service of rulers used to get the revenue of the region as income instead of getting salaries directly.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "Shahajiraje was an excellent archer and an expert with the sword, patta and spear; he won regions in Maharashtra, Karnataka and Tamil Nadu.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was an excellent archer. He was also an expert in using the sword, patta and spear. ... He had won many regions in Maharashtra, Karnataka and Tamil Nadu.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Shahajiraje arranged excellent education for Shivaji at Bengaluru and is known as the Swaraj visionary.",
+   "year": null,
+   "era": "CE",
+   "quote": "While Shivaji and Jijabai were at Bengaluru, he had arranged for providing excellent education to Shivaji ... That is why, he is known as Swaraj visionary.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "Shahajiraje sent Shivaji and Jijabai from Bengaluru to Pune with loyal and competent associates.",
+   "year": null,
+   "era": "CE",
+   "quote": "He sent Shivaji and Jijabai from Bengaluru to Pune with loyal and competent associates.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "Jijabai was the daughter of Sardar Lakhujiraje Jadhav of Sindkhedraja in Buldhana district.",
+   "year": null,
+   "era": "CE",
+   "quote": "Jijabai was the daughter of the great Sardar Lakhujiraje Jadhav of Sindkhedraja in Buldhana district.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "person",
+   "text": "At a young age, Jijabai received military training and education in various subjects.",
+   "year": null,
+   "era": "CE",
+   "quote": "At a young age, she had received military training as well as education in various subjects.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "person",
+   "text": "At times, Veermata Jijabai gave verdicts to resolve the problems of the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "At times, she undertook the task of giving verdicts for resolving the problems of people.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "Jijabai instilled in Shivaji modesty, truthfulness, oratory, vigilance, courage and fearlessness.",
+   "year": null,
+   "era": "CE",
+   "quote": "She instilled in him values like modesty, truthfulness, oratory, vigilance, courage and fearlessness.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "place",
+   "text": "Shivaji Maharaj started founding the Swaraj in the Maval region, full of hills and valleys and not easily accessible.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shivaji Maharaj started the work of founding the Swaraj in the Maval region. The Maval terrain is full of hills and valleys and is not easily accessible.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "Associates of Shivaji Maharaj included Yesaji Kank, Baji Pasalkar, Bapuji Mudgal, the Narhekar Deshpande brothers, Kavji Kondhalkar, Jiva Mahala, Tanaji Malusare, Kanhoji Jedhe, Bajiprabhu Deshpande and Dadaji Narasprabhu Deshpande.",
+   "year": null,
+   "era": "CE",
+   "quote": "Among them were Yesaji Kank, Baji Pasalkar, Bapuji Mudgal, Narhekar Deshpande brothers, Kavji Kondhalkar, Jiva Mahala, Tanaji Malusare, Kanhoji Jedhe, Bajiprabhu Deshpande and Dadaji Narasprabhu Deshpande.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "place",
+   "text": "The Maval valley in the Sahyadris was in the Pune jagir of Shivaji Maharaj and is also known as 'Bara Maval'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maval valley in the Sahyadris was a region in the Pune jagir of Shivaji Maharaj. It is also known as 'Bara Maval'.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "place",
+   "text": "Bara Maval has twelve parts, including Pavan Maval, Hirdas Maval, Gunjan Maval, Andar Maval, Nane Maval and Korbarse Maval.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bara Maval : (1) Pavan Maval (2) Hirdas Maval (3) Gunjan Maval ... (10) Andar Maval (11) Nane Maval (12) Korbarse Maval",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "The royal seal (Rajmudra) carries Sanskrit lines: the seal of Shivaji, son of Shahaji, will grow in splendour like the new moon and denotes the welfare of the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "'This seal will grow in splendour like the new moon. This seal of Shivaji, the son of Shahaji, receiving homage from the whole world denotes the welfare of the people.'",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "The Rajmudra inscription expresses gratitude to his father, confidence that Swaraj would expand, and commitment to the welfare of his subjects.",
+   "year": null,
+   "era": "CE",
+   "quote": "Through this inscription, Maharaj has expressed his gratitude towards his father, his confidence that Swaraj would expand continuously, ... his commitment to the welfare of his subjects",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "The forts within Shivaji Maharaj's jagir were under Adilshah's control; if one had forts, one ruled the land.",
+   "year": null,
+   "era": "CE",
+   "quote": "The forts situated within the jagir of Shivaji Maharaj were not under his control, but were under the control of Adilshah. ... If one had forts, one ruled the land.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "place",
+   "text": "Shivaji Maharaj captured the forts of Torana, Murumbdev, Kondhana and Purandar and laid the foundation of Swaraj.",
+   "year": null,
+   "era": "CE",
+   "quote": "He captured the forts of Torana, Murumbdev, Kondhana and Purandar, and laid the foundation of Swaraj.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "place",
+   "text": "He repaired Murumbdev and renamed it Rajgad; Rajgad was the first capital of the Swaraj.",
+   "year": null,
+   "era": "CE",
+   "quote": "He repaired the fort Murumbdev and renamed it Rajgad. Rajgad was the first capital of the Swaraj.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "The Mores of Javali, the Ghorpades of Mudhol and the Sawants of Sawantwadi were Adilshahi Sardars opposed to Swaraj.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were the Mores of Javali, the Ghorpades of Mudhol, the Sawants of Sawantwadi, and other Sardars in the Adilshahi. They were opposed to the cause of the founding of Swaraj.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "date",
+   "text": "Shivaji Maharaj attacked Javali, the region of Chandrarao More in Satara district, and captured it in 1656 CE.",
+   "year": 1656,
+   "era": "CE",
+   "quote": "Chandrarao More of Javali in Satara district was a powerful Sardar in the Adilshahi. ... Shivaji Maharaj attacked Javali and captured that region in 1656 CE.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "place",
+   "text": "After Javali he captured Raigad, gained huge wealth, and built the Pratapgad fort in the Javali valley.",
+   "year": null,
+   "era": "CE",
+   "quote": "Then he also captured Raigad. He attained a huge amount of wealth from Javali. ... He built the Pratapgad fort in the Javali valley.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "event",
+   "text": "He captured Kalyan and Bhiwandi, met the Siddi, Portuguese and British powers, and concentrated on building a navy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shivaji Maharaj captured Kalyan and Bhiwandi on the Konkan Coast. There he came into contact with the Siddi, Portuguese and British powers ... Therefore, he concentrated on building a navy.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "Badi Sahiba, looking after the Adilshahi administration, sent Afzalkhan to curb Shivaji Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "At that time, the Badi Sahiba was looking after the administration of the Adilshahi. She sent Afzalkhan, a powerful and experienced Adilshahi General, to curb Shivaji Maharaj.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "place",
+   "text": "Afzalkhan came from Bijapur to Wai; he knew the Wai region well.",
+   "year": null,
+   "era": "CE",
+   "quote": "Afzalkhan came from Bijapur to Wai. He knew the Wai region well.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "date",
+   "text": "Shivaji Maharaj met Afzalkhan on 10 November 1659 at the foot of Pratapgad near Wai; Afzalkhan attempted treachery and was killed.",
+   "year": 1659,
+   "era": "CE",
+   "quote": "A meeting of Shivaji Maharaj and Afzalkhan took place on 10 November 1659 at the foot of Pratapgad near Wai. At the meeting, Afzalkhan attempted treachery. In retaliation, Shivaji Maharaj killed Afzalkhan.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "event",
+   "text": "Shivaji Maharaj paid compensation to wounded soldiers, rewarded brave fighters and treated captured enemy soldiers well.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shivaji Maharaj paid compensation to the soldiers who were wounded in the battle. He rewarded those who had fought well. Those soldiers and officers of Afzalkhan's army who fell into the hands of Shivaji Maharaj's army were given a good treatment.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "place",
+   "text": "After Afzalkhan, Shivaji Maharaj captured Panhala, Vasantgad and Khelna, and renamed Khelna 'Vishalgad'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shivaji Maharaj captured the Adilshahi forts of Panhala, Vasantgad and Khelna. He renamed Khelna as 'Vishalgad'.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "In 1660 CE the Adilshah sent Siddi Jauhar, Sardar of the Karnul region, against Shivaji Maharaj and gave him the title 'Salabatkhan'.",
+   "year": 1660,
+   "era": "CE",
+   "quote": "the Adilshah sent Siddi Jauhar, the Sardar of the Karnul region, against Shivaji Maharaj in 1660 CE. The Adilshah gave Siddi the title 'Salabatkhan'.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "Rustum-e-Jaman, Baji Ghorpade and Afzalkhan's son Fazalkhan helped Siddi Jauhar.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rustum-e-Jaman, Baji Ghorpade and Afzalkhan's son Fazalkhan were also there to help Siddi Jauhar.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "event",
+   "text": "Siddi's soldiers besieged Panhala for about five months; Netoji Palkar's attempt to raise the siege failed as his forces were meagre.",
+   "year": null,
+   "era": "CE",
+   "quote": "Siddi's soldiers laid siege to the fort for about five months. ... Netoji Palkar tried to raise the siege by attacking Siddi's army from outside, but he couldn't succeed in it as his forces were meagre.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "Shiva Kashid, who resembled Shivaji Maharaj, left in a palanquin by the 'Raj-dindi' gate and sacrificed himself for Swaraj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shiva Kashid, a brave youth came forward. He resembled Shivaji Maharaj in looks. He dressed up like Shivaji Maharaj and sat in a palanquin. The palanquin left by the 'Raj-dindi' gate. ... Shiva Kashid sacrificed himself on this occasion for Swaraj.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Shivaji Maharaj left Panhala by another difficult route with Baji Prabhu Deshpande, Bandal Deshmukh and chosen soldiers.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was accompanied by Baji Prabhu Deshpande, Bandal Deshmukh and some chosen soldiers.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "place",
+   "text": "Bajiprabhu Deshpande checked Siddi's army at the Ghod pass near Gajapur and died a hero's death.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bajiprabhu Deshpande checked Siddi's army at the Ghod pass near Gajapur. He fought with the greatest valour. Bajiprabhu died a hero's death in this battle.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "person",
+   "text": "On the way to Vishalgad, he crushed the Adilshahi Sardars Dalvi of Palwan and Surve of Shringarpur.",
+   "year": null,
+   "era": "CE",
+   "quote": "While going to Vishalgad, Maharaj also crushed the opposition of the Adilshahi Sardars Dalvi of Palwan and Surve of Shringarpur.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "person",
+   "text": "Aurangzeb sent the Mughal Sardar Shaistakhan to the Deccan; he invaded the Pune province.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurangzeb, who had ascended the throne of Delhi, had sent Shaistakhan, a Mughal Sardar to the Deccan. He had invaded the Pune province.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "event",
+   "text": "Not wishing to fight two enemies at once, Shivaji Maharaj made a treaty with the Adilshah and returned Panhala.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj realised that it would not be prudent to fight two enemies at one and the same time. Therefore, after reaching Vishalgad safely, he entered into a treaty with the Adilshah. As per the treaty, he returned the fort of Panhala to the Adilshah.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-05-01",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Born at Shivneri on 19 February <b>1630</b>.",
+   "prompt": "In which year was Shivaji Maharaj born?",
+   "year": 1630,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-05-02",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f01",
+    "f06",
+    "f27",
+    "f32"
+   ],
+   "hook": "1630 birth, 1636 Nizamshahi ends, 1656 Javali, 1659 Afzalkhan.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Shivaji Maharaj born at Shivneri",
+     "y": "1630",
+     "k": 1630
+    },
+    {
+     "t": "Nizamshahi comes to an end",
+     "y": "1636",
+     "k": 1636
+    },
+    {
+     "t": "Javali captured",
+     "y": "1656",
+     "k": 1656
+    },
+    {
+     "t": "Afzalkhan killed near Pratapgad",
+     "y": "1659",
+     "k": 1659
+    }
+   ]
+  },
+  {
+   "qid": "c7-05-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f13",
+    "f14",
+    "f15",
+    "f16"
+   ],
+   "hook": "Jijabai of Sindkhedraja: trained in arms, she taught Shivaji courage and fearlessness.",
+   "prompt": "Who am I?",
+   "clues": [
+    "At times I gave verdicts to resolve the problems of the people.",
+    "I received military training at a young age.",
+    "My father was Lakhujiraje Jadhav of Sindkhedraja.",
+    "I instilled courage and fearlessness in young Shivaji."
+   ],
+   "options": [
+    "Badi Sahiba",
+    "Sant Muktabai",
+    "Veermata Jijabai",
+    "Sant Janabai"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-05-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Shivneri, near Junnar in Pune district: the birthplace.",
+   "prompt": "Where was Shivaji Maharaj born?",
+   "options": [
+    "Shivneri fort near Junnar",
+    "Rajgad",
+    "Raigad",
+    "Pratapgad"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f23"
+   ],
+   "hook": "Murumbdev repaired = Rajgad, the first capital.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Shivaji Maharaj captured the forts of Torana, Kondhana and Purandar."
+    ],
+    [
+     "Meera",
+     "He renamed Murumbdev as Raigad after repairing it."
+    ],
+    [
+     "Kabir",
+     "These forts were within his own jagir."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "Vishalgad",
+    "Rajgad",
+    "Pratapgad"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f32"
+   ],
+   "hook": "Afzalkhan: Bijapur to Wai, treachery at Pratapgad, 1659.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Badi Sahiba sent me to curb Shivaji Maharaj.",
+    "I came from Bijapur to Wai.",
+    "I attempted treachery at a meeting at the foot of Pratapgad."
+   ],
+   "options": [
+    "Siddi Jauhar",
+    "Afzalkhan",
+    "Shaistakhan",
+    "Fazalkhan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Rajgad came first as capital.",
+   "prompt": "Which was the first capital of the Swaraj?",
+   "options": [
+    "Rajgad",
+    "Raigad",
+    "Pratapgad",
+    "Panhala"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Maval: hills and valleys, hard to reach - perfect for Swaraj.",
+   "prompt": "In which region did Shivaji Maharaj start the work of founding the Swaraj?",
+   "options": [
+    "Konkan",
+    "Khandesh",
+    "Maval",
+    "Karnataka"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-05-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "10 November <b>1659</b>: Afzalkhan at the foot of Pratapgad.",
+   "prompt": "In which year did Shivaji Maharaj meet Afzalkhan at the foot of Pratapgad?",
+   "year": 1659,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-05-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "<b>1656</b>: Javali taken from the Mores; Pratapgad built in its valley.",
+   "prompt": "In which year did Shivaji Maharaj capture Javali?",
+   "year": 1656,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-05-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f05",
+    "f10",
+    "f11"
+   ],
+   "hook": "Shahajiraje: archer, Nizamshahi defender, Swaraj visionary.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was an excellent archer and an expert with the patta.",
+    "I tried to save the Nizamshahi from the Mughals.",
+    "I am known as the Swaraj visionary.",
+    "I was the father of Shivaji Maharaj."
+   ],
+   "options": [
+    "Lakhujiraje Jadhav",
+    "Chandrarao More",
+    "Netoji Palkar",
+    "Shahajiraje"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-05-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f35",
+    "f37"
+   ],
+   "hook": "Siddi Jauhar, called Salabatkhan, besieged Panhala for about five months.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The Adilshah sent Siddi Jauhar against Shivaji Maharaj."
+    ],
+    [
+     "Dev",
+     "The Adilshah gave Siddi Jauhar the title Salabatkhan."
+    ],
+    [
+     "Isha",
+     "Siddi's soldiers besieged Panhala for about two months."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "three",
+    "five",
+    "nine"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f40",
+    "f39"
+   ],
+   "hook": "Bajiprabhu held the Ghod pass near Gajapur so Shivaji Maharaj reached Vishalgad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I fought with the greatest valour and died a hero's death.",
+    "I checked Siddi's army at the Ghod pass near Gajapur.",
+    "I was given the task of stopping Siddi's army at the foot of Vishalgad."
+   ],
+   "options": [
+    "Bajiprabhu Deshpande",
+    "Shiva Kashid",
+    "Netoji Palkar",
+    "Bandal Deshmukh"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Khelna got a new name: Vishalgad.",
+   "prompt": "Shivaji Maharaj captured the fort of Khelna. What did he rename it?",
+   "options": [
+    "Rajgad",
+    "Pratapgad",
+    "Raigad",
+    "Vishalgad"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-05-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Jagir = revenue of a region instead of a salary.",
+   "prompt": "What does jagir mean?",
+   "options": [
+    "A fort on a hill",
+    "A royal seal",
+    "A market next to a kasba",
+    "The right to enjoy the revenue of a region"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-05-16",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f06",
+    "f27",
+    "f32",
+    "f35"
+   ],
+   "hook": "1636, 1656, 1659, 1660: Nizamshahi falls, Javali, Afzalkhan, Siddi Jauhar.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "End of the Nizamshahi",
+     "y": "1636",
+     "k": 1636
+    },
+    {
+     "t": "Capture of Javali",
+     "y": "1656",
+     "k": 1656
+    },
+    {
+     "t": "Meeting with Afzalkhan",
+     "y": "1659",
+     "k": 1659
+    },
+    {
+     "t": "Siddi Jauhar sent by the Adilshah",
+     "y": "1660",
+     "k": 1660
+    }
+   ]
+  },
+  {
+   "qid": "c7-05-17",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f04",
+    "f01"
+   ],
+   "hook": "Mughals + Adilshah ended the Nizamshahi in <b>1636</b> - six years after 1630.",
+   "prompt": "In which year did the Nizamshahi come to an end?",
+   "year": 1636,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-05-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35",
+    "f32"
+   ],
+   "hook": "Afzalkhan fell in 1659; a year later, <b>1660</b>, came Siddi Jauhar.",
+   "prompt": "In which year did the Adilshah send Siddi Jauhar against Shivaji Maharaj?",
+   "year": 1660,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-05-19",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f01",
+    "f27",
+    "f32",
+    "f35"
+   ],
+   "hook": "Birth 1630; Javali 1656; Afzalkhan 1659; Siddi Jauhar 1660.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Birth at Shivneri fort",
+     "y": "1630",
+     "k": 1630
+    },
+    {
+     "t": "Chandrarao More's Javali taken",
+     "y": "1656",
+     "k": 1656
+    },
+    {
+     "t": "Afzalkhan attempts treachery",
+     "y": "1659",
+     "k": 1659
+    },
+    {
+     "t": "Siddi Jauhar's expedition",
+     "y": "1660",
+     "k": 1660
+    }
+   ]
+  },
+  {
+   "qid": "c7-05-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f07",
+    "f08"
+   ],
+   "hook": "Pune jagir lay between the Bheema and the Neera; Bengaluru was the second jagir.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neel",
+     "Shahajiraje's jagir included the Pune, Supe, Indapur and Chakan parganas."
+    ],
+    [
+     "Avni",
+     "These parganas lay between the Bheema and Godavari rivers."
+    ],
+    [
+     "Yash",
+     "The Adilshah also granted him the jagir of Bengaluru."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Krishna",
+    "Neera",
+    "Indrayani"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Shiva Kashid looked like Shivaji Maharaj and gave his life in the palanquin.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a brave youth who sacrificed myself for Swaraj.",
+    "I resembled Shivaji Maharaj in looks.",
+    "I sat in a palanquin that left by the 'Raj-dindi' gate."
+   ],
+   "options": [
+    "Bandal Deshmukh",
+    "Shiva Kashid",
+    "Jiva Mahala",
+    "Tanaji Malusare"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f34",
+    "f32"
+   ],
+   "hook": "After Afzalkhan (1659): Panhala, Vasantgad, Khelna.",
+   "prompt": "Which Adilshahi forts did Shivaji Maharaj capture after the annihilation of Afzalkhan?",
+   "options": [
+    "Kalyan and Bhiwandi",
+    "Torana and Murumbdev",
+    "Panhala, Vasantgad and Khelna",
+    "Raigad and Javali"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-05-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Kalyan, Bhiwandi -> Siddi, Portuguese, British on the coast -> build a navy.",
+   "prompt": "Why did Shivaji Maharaj concentrate on building a navy?",
+   "options": [
+    "To attack Bengaluru",
+    "To fight the Siddi, Portuguese and British powers on the Western Coast",
+    "To trade with Bijapur",
+    "To cross the Bheema river"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-24",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f27",
+    "f28"
+   ],
+   "hook": "Javali (1656) -> Pratapgad built in the Javali valley.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "Chandrarao More of Javali was a powerful Sardar in the Adilshahi."
+    ],
+    [
+     "Zoya",
+     "Shivaji Maharaj built the Rajgad fort in the Javali valley."
+    ],
+    [
+     "Arjun",
+     "He attained a huge amount of wealth from Javali."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "Pratapgad",
+    "Panhala",
+    "Torana"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f22"
+   ],
+   "hook": "Rajmudra: Shivaji, son of Shahaji - growing like the new moon.",
+   "prompt": "What am I?",
+   "clues": [
+    "My lines are written in Sanskrit.",
+    "I say I will grow in splendour like the new moon.",
+    "I belong to Shivaji, the son of Shahaji."
+   ],
+   "options": [
+    "Jagir",
+    "Rajmudra",
+    "Bara Maval",
+    "Swaraj"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-26",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f19",
+    "f20"
+   ],
+   "hook": "Bara = twelve: Pavan Maval to Korbarse Maval.",
+   "prompt": "How many mavals and valleys made up Bara Maval?",
+   "options": [
+    "12",
+    "8",
+    "10",
+    "15"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "Maval lay in the Pune jagir; Kank, Pasalkar, Jedhe, Malusare joined the cause.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "Yesaji Kank and Baji Pasalkar were associates of Shivaji Maharaj."
+    ],
+    [
+     "Pooja",
+     "Kanhoji Jedhe and Tanaji Malusare also joined him."
+    ],
+    [
+     "Sahil",
+     "Maval was a region in the Bengaluru jagir of Shivaji Maharaj."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Bijapur",
+    "Javali",
+    "Pune"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-05-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Netoji Palkar tried to break the Panhala siege from outside - too few men.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My forces were too meagre to succeed.",
+    "I attacked Siddi's army from outside.",
+    "I tried to raise the siege of Panhala."
+   ],
+   "options": [
+    "Netoji Palkar",
+    "Bandal Deshmukh",
+    "Baji Ghorpade",
+    "Yesaji Kank"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Siddi Jauhar's helpers: Rustum-e-Jaman, Baji Ghorpade, Fazalkhan (Afzalkhan's son).",
+   "prompt": "Who helped Siddi Jauhar against Shivaji Maharaj?",
+   "options": [
+    "Netoji Palkar and Bandal Deshmukh",
+    "Chandrarao More and Lakhujiraje Jadhav",
+    "Yesaji Kank and Kavji Kondhalkar",
+    "Rustum-e-Jaman, Baji Ghorpade and Fazalkhan"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-05-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Jijabai came from Sindkhedraja in Buldhana district.",
+   "prompt": "Jijabai was the daughter of Lakhujiraje Jadhav of which place?",
+   "options": [
+    "Junnar in Pune district",
+    "Javali in Satara district",
+    "Sindkhedraja in Buldhana district",
+    "Wai"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-05-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f09",
+    "f12"
+   ],
+   "hook": "Jagir = revenue, not salary. From Bengaluru, Shivaji and Jijabai went to Pune.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "Jagir means the right to enjoy the revenue of a region."
+    ],
+    [
+     "Vihaan",
+     "Sardars got the revenue of a region instead of getting salaries directly."
+    ],
+    [
+     "Diya",
+     "From Bengaluru, Shahajiraje sent Shivaji and Jijabai to Supe with loyal associates."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "Junnar",
+    "Pune",
+    "Wai"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Badi Sahiba ran the Adilshahi and sent Afzalkhan.",
+   "prompt": "Who was looking after the administration of the Adilshahi when Afzalkhan was sent?",
+   "options": [
+    "Shaistakhan",
+    "Chandrarao More",
+    "Badi Sahiba",
+    "Siddi Jauhar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-05-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f01",
+    "f06",
+    "f27",
+    "f32",
+    "f35"
+   ],
+   "hook": "1630 - 1636 - 1656 - 1659 - 1660: from birth to the siege of Panhala.",
+   "prompt": "Put all five events in the order they happened.",
+   "items": [
+    {
+     "t": "Born on Phalgun Vadya Tritiya",
+     "y": "1630",
+     "k": 1630
+    },
+    {
+     "t": "Mughals and Adilshah end Nizamshahi",
+     "y": "1636",
+     "k": 1636
+    },
+    {
+     "t": "Javali region captured",
+     "y": "1656",
+     "k": 1656
+    },
+    {
+     "t": "Meeting at the foot of Pratapgad",
+     "y": "1659",
+     "k": 1659
+    },
+    {
+     "t": "Salabatkhan sent by the Adilshah",
+     "y": "1660",
+     "k": 1660
+    }
+   ]
+  },
+  {
+   "qid": "c7-05-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "chrono"
+   ],
+   "fids": [
+    "f06",
+    "f27",
+    "f35"
+   ],
+   "hook": "1636 Nizamshahi ends; 1656 Javali; 1660 Siddi Jauhar.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Nizamshahi came to an end in 1636 CE."
+    ],
+    [
+     "Myra",
+     "Shivaji Maharaj captured Javali in 1659 and then also captured Raigad."
+    ],
+    [
+     "Kabir",
+     "Siddi Jauhar was sent against Shivaji Maharaj in 1660 CE."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "1636",
+    "1630",
+    "1656"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-05-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f35",
+    "f37"
+   ],
+   "hook": "Siddi Jauhar of Karnul, titled Salabatkhan, besieged Panhala.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was the Sardar of the Karnul region.",
+    "The Adilshah gave me the title Salabatkhan.",
+    "My soldiers laid siege to Panhala."
+   ],
+   "options": [
+    "Siddi Jauhar",
+    "Fazalkhan",
+    "Rustum-e-Jaman",
+    "Shaistakhan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "On the road to Vishalgad: Dalvi of Palwan and Surve of Shringarpur crushed.",
+   "prompt": "Whose opposition did Shivaji Maharaj crush while going to Vishalgad?",
+   "options": [
+    "The Ghorpades of Mudhol and the Sawants of Sawantwadi",
+    "Rustum-e-Jaman and Fazalkhan",
+    "The Mores of Javali",
+    "Dalvi of Palwan and Surve of Shringarpur"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-05-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event",
+    "people"
+   ],
+   "fids": [
+    "f42",
+    "f43"
+   ],
+   "hook": "Shaistakhan in Pune + Adilshahi war = two enemies; so a treaty, and Panhala returned.",
+   "prompt": "Why did Shivaji Maharaj make a treaty with the Adilshah after reaching Vishalgad?",
+   "options": [
+    "He wanted the Adilshah's help to capture Bengaluru.",
+    "Afzalkhan's son Fazalkhan asked him for peace.",
+    "He needed Adilshahi ships to build his navy.",
+    "He did not want to fight two enemies at once, as Shaistakhan had invaded the Pune province."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-05-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f20"
+   ],
+   "hook": "The seal grows like the <b>new</b> moon; Pavan and Hirdas are among the Bara Maval.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Pavan Maval and Hirdas Maval are part of Bara Maval."
+    ],
+    [
+     "Reyansh",
+     "The lines on the royal seal are in Sanskrit."
+    ],
+    [
+     "Tanvi",
+     "The royal seal says it will grow in splendour like the full moon."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 11
+   },
+   "options": [
+    "setting",
+    "new",
+    "bright"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-05-39",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f23",
+    "f24",
+    "f25"
+   ],
+   "hook": "Murumbdev, repaired and renamed Rajgad, became the first capital.",
+   "prompt": "Which fort am I?",
+   "clues": [
+    "I lay within Shivaji Maharaj's jagir but was under Adilshah's control.",
+    "Shivaji Maharaj repaired me and gave me a new name.",
+    "Under my new name I became the first capital of the Swaraj."
+   ],
+   "options": [
+    "Murumbdev",
+    "Torana",
+    "Kondhana",
+    "Purandar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-05-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f27",
+    "f26"
+   ],
+   "hook": "Chandrarao More of Javali (Satara district) opposed Swaraj - Javali fell in 1656.",
+   "prompt": "Who was Chandrarao More?",
+   "options": [
+    "The Sardar of the Karnul region",
+    "A powerful Adilshahi Sardar of Javali in Satara district",
+    "A Mughal Sardar sent to the Deccan by Aurangzeb",
+    "An associate of Shivaji Maharaj from Maval"
+   ],
+   "answer": 1
+  }
+ ]
+}

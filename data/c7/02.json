@@ -1,0 +1,1649 @@
+{
+ "class": 7,
+ "id": "02",
+ "title": "India before the Times of Shivaji Maharaj",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "place",
+   "text": "'Pal' in the eighth century was a famous dynasty in Bengal.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Pal' in the eighth century was a famous dynasty in Bengal.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "place",
+   "text": "In Central India, the Gurjar-Pratihar power spread up to Andhra, Kalinga, Vidarbha, West Kathewad, Kanauj and Gujarat.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Central India, the Gurjar-Pratihar power spread up to Andhra, Kalinga, Vidarbha, West Kathewad, Kanauj and Gujarat.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Among the Rajput dynasties in North India, the Gahadwal and the Parmar dynasties were the important ones.",
+   "year": null,
+   "era": "CE",
+   "quote": "Among the Rajput dynasties in North India, the Gahadwal and the Parmar dynasties were the important ones.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "Prithviraj Chauhan of the Chauhan dynasty defeated Muhammad Ghuri in the first war at Tarai.",
+   "year": null,
+   "era": "CE",
+   "quote": "Prithviraj Chauhan belonging to the Chauhan dynasty was a valiant King. In the first war at Tarai, Prithviraj Chauhan had defeated Muhammad Ghuri.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "Muhammad Ghuri defeated Prithviraj Chauhan in the second war at Tarai.",
+   "year": null,
+   "era": "CE",
+   "quote": "But Muhammad Ghuri defeated Prithviraj Chauhan in the second war at Tarai.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "person",
+   "text": "Rajaraj I and Rajendra I of the Chola dynasty in Tamil Nadu were eminent rulers.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rajaraj I and Rajendra I belonging to the Chola dynasty in Tamil Nadu were eminent rulers.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "event",
+   "text": "The Cholas conquered the Maldive Islands and Sri Lanka using their naval strength.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Cholas conquered the Maldive Islands and Sri Lanka using their naval strength.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "King Vishnuvardhan of the Hoysal dynasty in Karnataka conquered the whole of Karnataka.",
+   "year": null,
+   "era": "CE",
+   "quote": "King Vishnuvardhan belonging to the Hoysal dynasty in Karnataka had conquered the whole of Karnataka.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "Under Govind III of the Rashtrakuta dynasty, Rashtrakut power spread from Kanauj up to Rameshwar; later Krishna III conquered the region up to Allahabad.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the reign of Govind III of the Rashtrakuta dynasty in Maharashtra, the Rashtrakut power spread from Kanauj up to Rameshwar. Later, Krishna III conquered the region up to Allahabad.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "place",
+   "text": "Three Shilahar dynasties emerged in Western Maharashtra: one ruled Thane and Raigad in North Konkan, the second South Konkan, the third parts of Kolhapur, Satara, Sangli and Belgaum.",
+   "year": null,
+   "era": "CE",
+   "quote": "Three dynasties of the Shilahars emerged in Western Maharashtra. One dynasty ruled over Thane and Raigad in North Konkan, the second in South Konkan, while the third dynasty ruled over some parts of the present day Kolhapur, Satara, Sangli and Belgaum districts.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "place",
+   "text": "The Yadavas were the last prosperous power before Shivaji Maharaj; the capital of Bhillam V was at Deogiri near Aurangabad, and he extended his rule beyond the river Krishna.",
+   "year": null,
+   "era": "CE",
+   "quote": "The last prosperous power before the period of Shivaji Maharaj was that of the Yadavas. The capital of Bhillam V of the Yadava dynasty was at Deogiri near Aurangabad. He extended his rule beyond the river Krishna.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "The Yadava period is the golden period of Marathi language and literature; the Mahanubhav Panth and the Varkari movement emerged then.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Yadava period is considered to be the golden period of Marathi language and literature. It was in this period that the Mahanubhav Panth and the Varkari movement emerged.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "The Arab General Muhammad-bin-Qasim attacked Sindh in the eighth century and conquered it despite King Dahir's resistance; the Arabs came into political contact with India for the first time.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Arab General Muhammad-bin-Qasim, attacked the Sindh province in the eighth century. Notwithstanding the resistance of King Dahir, he conquered the province of Sindh. Due to this campaign, the Arabs came into political contact with India for the first time.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "event",
+   "text": "In the eleventh century CE the Turks began to invade India.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the eleventh century CE the Turks began to invade India.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "event",
+   "text": "Sultan Mahmud of Ghazni invaded India many times and plundered the rich temples at Mathura, Vrindavan, Kanauj and Somnath.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sultan Mahmud of Ghazni invaded India many times. He plundered the rich temples at Mathura, Vrindavan, Kanauj and Somnath",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "event",
+   "text": "The library of the Nalanda University was burnt down by Bakhtyar Khalji.",
+   "year": null,
+   "era": "CE",
+   "quote": "The world famous enriched library of the Nalanda University was burnt down by Bakhtyar Khalji.",
+   "page": 1
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "In 1175 CE Sultan Muhammad Ghuri of Ghur from Afghanistan invaded India.",
+   "year": 1175,
+   "era": "CE",
+   "quote": "In 1175 CE and 1178 CE, Sultan Muhammad Ghuri of Ghur from Afghanistan invaded India.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "In 1178 CE Muhammad Ghuri invaded India again.",
+   "year": 1178,
+   "era": "CE",
+   "quote": "In 1175 CE and 1178 CE, Sultan Muhammad Ghuri of Ghur from Afghanistan invaded India.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "date",
+   "text": "Muhammad Ghuri appointed Qutubuddin Aibak; after Ghuri's death in 1206 CE, Aibak began to rule independently.",
+   "year": 1206,
+   "era": "CE",
+   "quote": "He appointed Qutubuddin Aibak to look after the governance of the conquered territories in India. Later, after the death of Muhammad Ghuri in 1206 CE, Aibak began to rule the Indian territories under his rule, independently.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "Aibak, who was initially a slave, became the ruler of Delhi and died in 1210 CE.",
+   "year": 1210,
+   "era": "CE",
+   "quote": "Aibak, who was initially a slave, became the ruler of Delhi. He died in 1210 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "person",
+   "text": "After Qutubuddin Aibak, Iltutmish, Razia, Bulban, Alauddin Khalji, Muhammad-bin-Tughluque, Firuz Tughluque, Ibrahim Lodi and other Sultans ruled.",
+   "year": null,
+   "era": "CE",
+   "quote": "After Qutubuddin Aibak, Iltutmish, Razia, Bulban, Alauddin Khalji, Muhammad-bin-Tughluque, Firuz Tughluque, Ibrahim Lodi and other Sultans ruled over India.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "person",
+   "text": "Ibrahim Lodi was the last Sultan; Daulatkhan Lodi, Governor of Punjab, invited Babur, the ruler of Kabul, to fight him.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ibrahim Lodi was the last Sultan. ... Daulatkhan Lodi, Governor of Punjab, invited Babur, the ruler of Kabul to fight against Ibrahim Lodi.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "The brothers Harihar and Bukka founded the kingdom of Vijaynagar in 1336 CE.",
+   "year": 1336,
+   "era": "CE",
+   "quote": "The brothers Harihar and Bukka ... founded the kingdom of Vijaynagar in the South in 1336 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "place",
+   "text": "Hampi in today's Karnataka was the capital of Vijaynagar; Harihar was the first king, succeeded by his brother Bukka, who brought the region up to Rameshwar under his control.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hampi in today's Karnataka was the capital of this kingdom. Harihar was the first king of Vijaynagar. Harihar was succeeded by his brother Bukka. Bukka brought the region up to Rameshwar under his control.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "date",
+   "text": "Krishnadevaraya ascended the throne of Vijaynagar in 1509 CE.",
+   "year": 1509,
+   "era": "CE",
+   "quote": "Krishnadevaraya ascended the throne of Vijaynagar in 1509 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "Krishnadevaraya conquered Vijaywada and Rajmahendri and defeated the united Sultans led by the Bahamani Sultan Mahmud Shah.",
+   "year": null,
+   "era": "CE",
+   "quote": "He conquered Vijaywada and Rajmahendri and annexed the regions to his kingdom. He defeated the combined forces of the armies of the Sultans who had united under the leadership of the Bahamani Sultan Mahmud Shah.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "place",
+   "text": "Under Krishnadevaraya, Vijaynagar extended from Cuttak in the east to Goa in the west and from the Raichur Doab in the north to the Indian Ocean in the south.",
+   "year": null,
+   "era": "CE",
+   "quote": "During Krishnadevaraya's reign, the kingdom of Vijaynagar extended from Cuttak in the east up to Goa in the west and from the Raichur Doab in the north up to the Indian Ocean in the south.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "Krishnadevaraya died in 1530 CE; the decline of Vijaynagar began with his death.",
+   "year": 1530,
+   "era": "CE",
+   "quote": "He died in 1530 CE. ... The decline of the Vijaynagar kingdom began with the death of Krishnadevaraya.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "Krishnadevaraya wrote 'Amuktamalyada', a Telugu compendium on polity; the Hazar Ram temple and Vitthal temple were built in his reign.",
+   "year": null,
+   "era": "CE",
+   "quote": "He wrote 'Amuktamalyada', a Telugu compendium on polity. The Hazar Ram temple and Vitthal temple were built in Vijaynagar during his reign.",
+   "page": 2
+  },
+  {
+   "fid": "f30",
+   "kind": "date",
+   "text": "In 1565 CE, at Talikot, Adilshahi, Nizamshahi, Qutubshahi and Baridshahi fought Vijaynagar; Vijaynagar was defeated.",
+   "year": 1565,
+   "era": "CE",
+   "quote": "In 1565 CE, at Talikot in the present State of Karnataka, there was a battle between Adilshahi, Nizamshahi, Qutubshahi, Baridshahi on one side and Vijaynagar on the other side. Vijaynagar was defeated.",
+   "page": 2
+  },
+  {
+   "fid": "f31",
+   "kind": "date",
+   "text": "Hasan Gangu led the rebel Sardars; the Bahamani kingdom came into existence in 1347 CE with Hasan Gangu as first Sultan and Gulburga as capital.",
+   "year": 1347,
+   "era": "CE",
+   "quote": "The leader of these Sardars, Hasan Gangu, defeated the army of the Sultan of Delhi. A new kingdom, known as the Bahamani kingdom, came into existence in 1347 CE. Hasan Gangu became the first Sultan of the Bahamani kingdom. He made the city of Gulburga in Karnataka his capital.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "Mahmud Gawan, Chief Wazir of the Bahamani kingdom, paid soldiers in cash instead of land grants, brought discipline, reformed land revenue and opened a madarsa at Bidar for Arabic and Persian studies.",
+   "year": null,
+   "era": "CE",
+   "quote": "Mahmud Gawan was the Chief Wazir of the Bahamani kingdom. ... He started paying the soldiers their salaries in cash instead of through land grants. He brought discipline in the army. He introduced many reforms in the land revenue system. He opened a madarsa at Bidar for Arabic and Persian studies.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "place",
+   "text": "The Bahamani kingdom broke into five powers: Imadshahi of Varhad, Baridshahi of Bidar, Adilshahi of Bijapur, Nizamshahi of Ahmadnagar and Qutubshahi of Golconda.",
+   "year": null,
+   "era": "CE",
+   "quote": "This led to the disintegration of the Bahamani kingdom into five small powers - Imadshahi of Varhad, Baridshahi of Bidar, Adilshahi of Bijapur, Nizamshahi of Ahmadnagar and Qutubshahi of Golconda.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "In 1526 CE the Sultanate of Delhi came to an end and Mughal power was established.",
+   "year": 1526,
+   "era": "CE",
+   "quote": "In 1526 CE, the Sultanate of Delhi came to an end. Mughal power was established there.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "person",
+   "text": "Babur, founder of Mughal power, was the king of Farghana in Central Asia in today's Uzbekistan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Babur was the founder of Mughal power. He was the king of Farghana in Central Asia in today's Uzbekistan.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "date",
+   "text": "On 21 April 1526 Babur defeated Ibrahim Lodi at Panipat, using artillery effectively for the first time in India: the First Battle of Panipat.",
+   "year": 1526,
+   "era": "CE",
+   "quote": "There was a battle between Ibrahim Lodi and Babur on 21 April 1526 at Panipat. In this battle, Babur made use of an artillery effectively for the first time in India. He defeated Ibrahim Lodi's army. This is known as the First Battle of Panipat.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "event",
+   "text": "At Khanua, Babur's artillery and reserved force defeated the army of Rana Sanga of Mewad.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the battle of Panipat, Rana Sanga of Mewad brought all Rajput kings together. There was a battle between Babur and Rana Sanga at Khanua. Babur's artillery and reserved force played a key role in this battle and Rana Sanga's army was defeated.",
+   "page": 3
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "Babur died in 1530 CE.",
+   "year": 1530,
+   "era": "CE",
+   "quote": "Babur died in 1530 CE.",
+   "page": 3
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Humayun ruled from 1530 CE to 1539 CE and from 1555 CE to 1556 CE; he was defeated by Shershah, who established the Sur dynasty.",
+   "year": null,
+   "era": "CE",
+   "quote": "After Babur, Humayun (1530 CE to 1539 CE and from 1555 CE to 1556 CE) ascended the throne. He was defeated by Shershah. Shershah established the Sur dynasty on the throne of Delhi.",
+   "page": 3
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "Akbar ruled from 1556 CE to 1605 CE.",
+   "year": 1556,
+   "era": "CE",
+   "quote": "After Humayun, Akbar (1556 CE to 1605 CE) ascended the throne.",
+   "page": 3
+  },
+  {
+   "fid": "f41",
+   "kind": "date",
+   "text": "The Second Battle of Panipat was fought between Akbar and Hemu in 1556 CE.",
+   "year": 1556,
+   "era": "CE",
+   "quote": "There was a battle between Akbar and Hemu at Panipat in 1556 CE. This is the Second Battle of Panipat.",
+   "page": 3
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "Jahangir was Emperor from 1605 CE to 1628 CE; his wife Nurjahan played an active role in the administration.",
+   "year": 1605,
+   "era": "CE",
+   "quote": "After Akbar, Jahangir (1605 CE to 1628 CE) became the Emperor. During his reign, his wife Nurjahan played an active role in the administration.",
+   "page": 3
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "Shahajahan was Emperor from 1628 CE to 1658 CE.",
+   "year": 1628,
+   "era": "CE",
+   "quote": "Jahangir was followed by Shahajahan (1628 CE to 1658 CE) as the Emperor.",
+   "page": 3
+  },
+  {
+   "fid": "f44",
+   "kind": "date",
+   "text": "Aurangzeb won the war of succession and became Emperor in 1658 CE by detaining his father.",
+   "year": 1658,
+   "era": "CE",
+   "quote": "Aunrangzeb won the war of succession amongst other sons of Shahjahan and became the Emperor by detaining his father in 1658 C.E.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "date",
+   "text": "Aurangzeb reigned from 1658 CE to 1707 CE, a very long time; after his death the Mughal Empire became weak.",
+   "year": 1707,
+   "era": "CE",
+   "quote": "Aurangzeb (1658 CE to 1707 CE) reigned for a very long time. After his death, the Mughal Empire became weak.",
+   "page": 3
+  },
+  {
+   "fid": "f46",
+   "kind": "person",
+   "text": "Akbar was the most powerful King of the Mughal dynasty; Maharana Pratap, Chandbibi and Rani Durgavati struggled against him.",
+   "year": null,
+   "era": "CE",
+   "quote": "Akbar was the most powerful King of the Mughal dynasty. When he tried to bring India under his central authority, he had to face opposition. Maharana Pratap, Chandbibi, Rani Durgavati struggled against him.",
+   "page": 3
+  },
+  {
+   "fid": "f47",
+   "kind": "person",
+   "text": "After the death of Udaysingh, Maharana Pratap ascended the throne of Mewad and struggled with Akbar till the very end to maintain his independence.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the death of Udaysingh, Maharana Pratap ascended the throne of Mewad. He continued the struggle for Mewad's existence. Till the very end, he struggled with Akbar to maintain his indepedence.",
+   "page": 4
+  },
+  {
+   "fid": "f48",
+   "kind": "date",
+   "text": "In 1595 CE the Mughals attacked Ahmadnagar; Chandbibi, daughter of Husain Nizamshah, bravely defended the fort and was later murdered amid internal strife.",
+   "year": 1595,
+   "era": "CE",
+   "quote": "The Mughals attacked Ahmadnagar, the capital of Nizamshah's kingdom, in 1595 CE. ... Chandbibi, the capable daughter of Husain Nizamshah of Ahmadnagar, bravely defended the fort. ... This resulted in the murder of Chandbibi.",
+   "page": 4
+  },
+  {
+   "fid": "f49",
+   "kind": "person",
+   "text": "Durgavati, born in the Chandel Rajput dynasty, became queen of Gondvana on marriage, was an excellent administrator, and laid down her life fighting Akbar without surrendering.",
+   "year": null,
+   "era": "CE",
+   "quote": "Durgavati, born in the dynasty Chandel Rajput became the queen of Gondvana when she was married. She was an excellent administrator. ... Durgavati laid down her life while fighting against Akbar, but she did not surrender.",
+   "page": 4
+  },
+  {
+   "fid": "f50",
+   "kind": "term",
+   "text": "Akbar's religious policy was liberal and tolerant; he founded Din-i-Ilahi but never compelled anyone to adopt it.",
+   "year": null,
+   "era": "CE",
+   "quote": "His religious policy was liberal and tolerant. He gave equal treatment to people from all religions. He founded Din-i-Ilahi by incorporating noble principles from all religions, but never compelled anyone to adopt Din-i-Ilahi.",
+   "page": 4
+  },
+  {
+   "fid": "f51",
+   "kind": "person",
+   "text": "Dara Shukoh, the elder son of Shahjahan, was famous for religious tolerance and translated more than fifty Upanishadas into Persian.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dara Shukoh, the elder son of Shahjahan was famous for religious tolerance. He translated more than fifty Upanishadas in Persian language",
+   "page": 4
+  },
+  {
+   "fid": "f52",
+   "kind": "place",
+   "text": "When Aurangzeb became Emperor, the Mughal empire stretched from Kashmir to Ahmadnagar and from Kabul to Bengal; he added Assam, Adilshahi of Bijapur and Qutubshahi of Golconda.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Mughal empire extended from Kashmir in the north up to Ahmadnagar in the south and from Kabul in the west up to Bengal in the east. To this Aurangzeb added Assam in the east, and the regions of Adilshahi of Bijapur in the south and Qutubshahi of Golconda",
+   "page": 4
+  },
+  {
+   "fid": "f53",
+   "kind": "place",
+   "text": "In the thirteenth century CE, the Shaan community settled in the Brahmaputra valley; they were locally known as Ahom people.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the thirteenth century CE, the people of the Shaan community settled down in the valley of river Brahmaputra. ... They were locally known as Ahom people.",
+   "page": 4
+  },
+  {
+   "fid": "f54",
+   "kind": "person",
+   "text": "The Ahoms united under Gadadharsinha; Commander Lachit Borphukan fought the Mughals, and with the guerilla technique the Mughals could not build a strong base in Assam.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Ahoms united under the leadership of Gadadharsinha. Commander Lachit Borphukan gave an intense battle against the Mughals. The Ahoms used the guerilla technique in the conflict against the Mughals. It became impossible for Mughals to create a strong base in Assam.",
+   "page": 5
+  },
+  {
+   "fid": "f55",
+   "kind": "date",
+   "text": "Aurangzeb imprisoned the ninth Sikh Guru, Guru Teghbahaddar, and beheaded him in 1675 CE.",
+   "year": 1675,
+   "era": "CE",
+   "quote": "The ninth Guru of the Sikhs, Guru Teghbahaddar, protested strongly against Aurangzeb's policy of religious intolerance. Aurangzeb imprisoned him and beheaded him in 1675 CE.",
+   "page": 5
+  },
+  {
+   "fid": "f56",
+   "kind": "person",
+   "text": "Guru Gobindsingh organised Sikh youths into the 'Khalsa Dal', with headquarters at Anandpur.",
+   "year": null,
+   "era": "CE",
+   "quote": "He organised the Sikh youths into a fighting force called the 'Khalsa Dal'. Their headquarters were at Anandpur.",
+   "page": 5
+  },
+  {
+   "fid": "f57",
+   "kind": "date",
+   "text": "Guru Gobindsingh came to the Deccan in 1708 CE; there was an attempt on his life at Nanded.",
+   "year": 1708,
+   "era": "CE",
+   "quote": "Guru Gobindsingh came to the Deccan in 1708 CE. There was an attempt on his life when he was at Nanded.",
+   "page": 5
+  },
+  {
+   "fid": "f58",
+   "kind": "person",
+   "text": "Aurangzeb could not obtain Rajput cooperation; Durgadas Rathod crowned Jaswantsingh's minor son Ajitsingh King of Marwad and fought the Mughals; Prince Akbar joined the Rajputs.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurangzeb could not obtain the cooperation of Rajputs. ... Durgadas Rathod crowned Jaswantsingh's minor son Ajitsingh as the King of Marwad. Durgadas Rathod fought hard against the Mughals. ... Prince Akbar joined hands with Rajputs and rose in revolt against Aurangzeb.",
+   "page": 5
+  },
+  {
+   "fid": "f59",
+   "kind": "event",
+   "text": "Aurangzeb came to the Deccan after the death of Chhatrapati Shivaji Maharaj to conquer South India, but the Marathas offered stiff resistance.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurangzeb came down to the Deccan after the death of Chhatrapati Shivaji Maharaj with the intention of conquering the whole of South India. But the Marathas offered stiff resistance to Aurangzeb",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-02-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f23",
+    "f31",
+    "f25",
+    "f34"
+   ],
+   "hook": "1336 Vijaynagar, <b>11 years</b> later 1347 Bahamani; 1509 Krishnadevaraya, 1526 Mughals.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Vijaynagar kingdom founded",
+     "y": "1336 CE",
+     "k": 1336
+    },
+    {
+     "t": "Bahamani kingdom founded",
+     "y": "1347 CE",
+     "k": 1347
+    },
+    {
+     "t": "Krishnadevaraya ascends the throne",
+     "y": "1509 CE",
+     "k": 1509
+    },
+    {
+     "t": "Mughal power established",
+     "y": "1526 CE",
+     "k": 1526
+    }
+   ]
+  },
+  {
+   "qid": "c7-02-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "<b>1336</b>: Harihar and Bukka, two brothers, found Vijaynagar.",
+   "prompt": "In which year did Harihar and Bukka found the kingdom of Vijaynagar?",
+   "year": 1336,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f36",
+    "f34"
+   ],
+   "hook": "<b>1526</b>: Babur's artillery wins at Panipat, the Sultanate ends.",
+   "prompt": "In which year was the First Battle of Panipat fought?",
+   "year": 1526,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f35",
+    "f22",
+    "f36"
+   ],
+   "hook": "Farghana king, invited by Daulatkhan Lodi, won Panipat in 1526: <b>Babur</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was the king of Farghana in Central Asia.",
+    "Daulatkhan Lodi invited me to march on India.",
+    "I used artillery effectively for the first time in India.",
+    "I founded Mughal power."
+   ],
+   "options": [
+    "Babur",
+    "Humayun",
+    "Akbar",
+    "Muhammad Ghuri"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-02-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f26",
+    "f25"
+   ],
+   "hook": "Krishnadevaraya: crowned 1509, died 1530, a reign of <b>21 years</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I wrote 'Amuktamalyada', a Telugu compendium on polity.",
+    "The Hazar Ram temple and Vitthal temple were built during my reign.",
+    "I conquered Vijaywada and Rajmahendri.",
+    "I ascended the throne of Vijaynagar in 1509 CE."
+   ],
+   "options": [
+    "Harihar",
+    "Bukka",
+    "Krishnadevaraya",
+    "Hasan Gangu"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f23",
+    "f24"
+   ],
+   "hook": "Vijaynagar's capital <b>Hampi</b> is in today's Karnataka; Harihar was its first king.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Harihar and Bukka founded the kingdom of Vijaynagar in 1336 CE."
+    ],
+    [
+     "Meera",
+     "Hampi in today's Kerala was the capital of this kingdom."
+    ],
+    [
+     "Kabir",
+     "Harihar was the first king of Vijaynagar."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "Bengal",
+    "Gujarat",
+    "Karnataka"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f22",
+    "f21"
+   ],
+   "hook": "Sultans from Aibak to <b>Ibrahim Lodi</b>, the last; Babur ended the Sultanate.",
+   "prompt": "Who was the last Sultan of the Delhi Sultanate?",
+   "options": [
+    "Iltutmish",
+    "Ibrahim Lodi",
+    "Alauddin Khalji",
+    "Firuz Tughluque"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-02-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f56",
+    "f57"
+   ],
+   "hook": "Khalsa Dal HQ: <b>Anandpur</b>. Nanded: where the Guru was attacked in 1708.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Guru Gobindsingh organised the Sikh youths into a fighting force."
+    ],
+    [
+     "Dev",
+     "This fighting force was called the Khalsa Dal."
+    ],
+    [
+     "Sana",
+     "The Sikh headquarters at Nanded were attacked by Aurangzeb's army."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Bidar",
+    "Deogiri",
+    "Anandpur"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Vijaynagar 1336 + <b>11</b> = 1347, the Bahamani kingdom.",
+   "prompt": "In which year did the Bahamani kingdom come into existence?",
+   "year": 1347,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Krishnadevaraya took the throne in <b>1509</b>, 17 years before Panipat (1526).",
+   "prompt": "In which year did Krishnadevaraya ascend the throne of Vijaynagar?",
+   "year": 1509,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-11",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "people"
+   ],
+   "fids": [
+    "f40",
+    "f42",
+    "f43",
+    "f44"
+   ],
+   "hook": "<b>A</b>kbar 1556, <b>J</b>ahangir 1605, <b>S</b>hahajahan 1628, <b>A</b>urangzeb 1658: A-J-S-A.",
+   "prompt": "Put these Mughal Emperors in the order they came to the throne.",
+   "items": [
+    {
+     "t": "Akbar ascends the throne",
+     "y": "1556 CE",
+     "k": 1556
+    },
+    {
+     "t": "Jahangir becomes Emperor",
+     "y": "1605 CE",
+     "k": 1605
+    },
+    {
+     "t": "Shahajahan becomes Emperor",
+     "y": "1628 CE",
+     "k": 1628
+    },
+    {
+     "t": "Aurangzeb becomes Emperor",
+     "y": "1658 CE",
+     "k": 1658
+    }
+   ]
+  },
+  {
+   "qid": "c7-02-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Mahmud Gawan: cash salaries, discipline, revenue reforms, a madarsa at <b>Bidar</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I opened a madarsa at Bidar for Arabic and Persian studies.",
+    "I introduced many reforms in the land revenue system.",
+    "I started paying soldiers their salaries in cash instead of land grants.",
+    "I was the Chief Wazir of the Bahamani kingdom."
+   ],
+   "options": [
+    "Hasan Gangu",
+    "Mahmud Shah",
+    "Mahmud Gawan",
+    "Daulatkhan Lodi"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f48",
+    "f46"
+   ],
+   "hook": "1595: the Mughals besiege Ahmadnagar fort; <b>Chandbibi</b> defends it.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Internal strife among the Sardars led to my murder.",
+    "I was the capable daughter of Husain Nizamshah.",
+    "I bravely defended the fort of Ahmadnagar against the Mughals."
+   ],
+   "options": [
+    "Chandbibi",
+    "Rani Durgavati",
+    "Nurjahan",
+    "Razia"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-02-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f02"
+   ],
+   "hook": "Tarai twice: <b>1st</b> war Prithviraj wins, <b>2nd</b> war Ghuri wins.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Gurjar-Pratihar power in Central India spread up to Kanauj and Gujarat."
+    ],
+    [
+     "Anaya",
+     "Prithviraj Chauhan belonged to the Chauhan dynasty."
+    ],
+    [
+     "Rohan",
+     "In the first war at Tarai, Prithviraj Chauhan defeated Muhammad Ghuri."
+    ],
+    [
+     "Tara",
+     "Muhammad Ghuri won the second war at Panipat against Prithviraj Chauhan."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 7
+   },
+   "options": [
+    "Tarai",
+    "Talikot",
+    "Khanua"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-02-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Yadava age = <b>golden</b> age of Marathi; Mahanubhav Panth and Varkari movement arose then.",
+   "prompt": "Which period is considered the golden period of Marathi language and literature?",
+   "options": [
+    "The Rashtrakuta period",
+    "The Yadava period",
+    "The Shilahar period",
+    "The Bahamani period"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-02-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "8th century: <b>Muhammad-bin-Qasim</b> takes Sindh despite King Dahir.",
+   "prompt": "Due to whose campaign did the Arabs come into political contact with India for the first time?",
+   "options": [
+    "Muhammad-bin-Qasim",
+    "Sultan Mahmud of Ghazni",
+    "Muhammad Ghuri",
+    "Babur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-02-17",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f30",
+    "f28"
+   ],
+   "hook": "Krishnadevaraya died 1530; <b>35 years</b> later, Vijaynagar fell at Talikot in 1565.",
+   "prompt": "In which year was Vijaynagar defeated at Talikot?",
+   "year": 1565,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f41",
+    "f36"
+   ],
+   "hook": "Panipat I in 1526, Panipat II in <b>1556</b>: exactly 30 years apart.",
+   "prompt": "In which year was the Second Battle of Panipat fought between Akbar and Hemu?",
+   "year": 1556,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-19",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "people"
+   ],
+   "fids": [
+    "f17",
+    "f18",
+    "f19",
+    "f20"
+   ],
+   "hook": "Ghuri invades 1175 and 1178; dies 1206; Aibak rules alone and dies <b>4 years</b> later, 1210.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Muhammad Ghuri invades India",
+     "y": "1175 CE",
+     "k": 1175
+    },
+    {
+     "t": "Muhammad Ghuri invades again",
+     "y": "1178 CE",
+     "k": 1178
+    },
+    {
+     "t": "Ghuri dies; Aibak rules independently",
+     "y": "1206 CE",
+     "k": 1206
+    },
+    {
+     "t": "Qutubuddin Aibak dies",
+     "y": "1210 CE",
+     "k": 1210
+    }
+   ]
+  },
+  {
+   "qid": "c7-02-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f36",
+    "f37",
+    "f35"
+   ],
+   "hook": "Babur: from Farghana in today's <b>Uzbekistan</b>; won Panipat, then Khanua.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pranav",
+     "Babur defeated Ibrahim Lodi at Panipat on 21 April 1526."
+    ],
+    [
+     "Diya",
+     "After Panipat, Babur defeated the army of Rana Sanga of Mewad at Khanua."
+    ],
+    [
+     "Arjun",
+     "Babur ruled Farghana in today's Afghanistan before invading India."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Iran",
+    "Uzbekistan",
+    "Kashmir"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-02-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f49",
+    "f46"
+   ],
+   "hook": "Chandel Rajput by birth, queen of <b>Gondvana</b> by marriage: Rani Durgavati.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was born in the Chandel Rajput dynasty.",
+    "I was an excellent administrator.",
+    "I became the queen of Gondvana when I was married.",
+    "I laid down my life fighting Akbar, but did not surrender."
+   ],
+   "options": [
+    "Chandbibi",
+    "Rani Durgavati",
+    "Nurjahan",
+    "Razia"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-02-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Five Bahamani pieces: Imad-<b>Varhad</b>, Barid-<b>Bidar</b>, Adil-<b>Bijapur</b>, Nizam-<b>Ahmadnagar</b>, Qutub-<b>Golconda</b>.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Nizamshahi - Golconda",
+    "Qutubshahi - Bidar",
+    "Baridshahi - Ahmadnagar",
+    "Adilshahi - Bijapur"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-02-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Hasan Gangu: rebel leader, first Bahamani Sultan in 1347, capital <b>Gulburga</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I led the Sardars in the Deccan who rebelled against Muhammad-bin-Tughluque.",
+    "I defeated the army of the Sultan of Delhi.",
+    "I made the city of Gulburga my capital.",
+    "I became the first Sultan of the Bahamani kingdom."
+   ],
+   "options": [
+    "Harihar",
+    "Mahmud Gawan",
+    "Qutubuddin Aibak",
+    "Hasan Gangu"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-02-24",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f30",
+    "f28",
+    "f27"
+   ],
+   "hook": "Krishnadevaraya's Vijaynagar: Cuttak to Goa. His death in 1530 began the decline.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "During Krishnadevaraya's reign Vijaynagar extended from Cuttak in the east up to Goa in the west."
+    ],
+    [
+     "Om",
+     "In 1565 CE a battle was fought at Talikot in the present State of Karnataka."
+    ],
+    [
+     "Sia",
+     "Vijaynagar was defeated in this battle."
+    ],
+    [
+     "Kunal",
+     "With the death of Bukka the decline of the Vijaynagar kingdom began."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 4
+   },
+   "options": [
+    "Harihar",
+    "Babur",
+    "Krishnadevaraya"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f19",
+    "f20"
+   ],
+   "hook": "Ghuri dies <b>1206</b>; Aibak rules on his own till his death in 1210.",
+   "prompt": "In which year did Muhammad Ghuri die?",
+   "year": 1206,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f48"
+   ],
+   "hook": "Ahmadnagar besieged in <b>1595</b>, 39 years after Akbar came to the throne in 1556.",
+   "prompt": "In which year did the Mughals attack Ahmadnagar, the capital of Nizamshah's kingdom?",
+   "year": 1595,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f55"
+   ],
+   "hook": "Ninth Guru Teghbahaddar beheaded in <b>1675</b>; Guru Gobindsingh came to the Deccan in 1708.",
+   "prompt": "In which year did Aurangzeb behead Guru Teghbahaddar?",
+   "year": 1675,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-28",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f30",
+    "f48",
+    "f55",
+    "f57"
+   ],
+   "hook": "Talikot 1565, Ahmadnagar 1595, Teghbahaddar 1675, Guru Gobindsingh in the Deccan 1708.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Vijaynagar defeated at Talikot",
+     "y": "1565 CE",
+     "k": 1565
+    },
+    {
+     "t": "Mughals attack Ahmadnagar",
+     "y": "1595 CE",
+     "k": 1595
+    },
+    {
+     "t": "Guru Teghbahaddar beheaded",
+     "y": "1675 CE",
+     "k": 1675
+    },
+    {
+     "t": "Guru Gobindsingh comes to the Deccan",
+     "y": "1708 CE",
+     "k": 1708
+    }
+   ]
+  },
+  {
+   "qid": "c7-02-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f51"
+   ],
+   "hook": "Dara Shukoh: Shahjahan's elder son, put <b>50+</b> Upanishadas into Persian.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was famous for religious tolerance.",
+    "I translated more than fifty Upanishadas into Persian.",
+    "I was the elder son of Shahjahan."
+   ],
+   "options": [
+    "Prince Akbar",
+    "Aurangzeb",
+    "Dara Shukoh",
+    "Humayun"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f53",
+    "f54",
+    "f59"
+   ],
+   "hook": "Ahoms of the Brahmaputra valley used <b>guerilla</b> fighting; the Mughals found no strong base in Assam.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Yash",
+     "The Shaan community settled in the valley of river Brahmaputra."
+    ],
+    [
+     "Neha",
+     "They were locally known as Ahom people."
+    ],
+    [
+     "Rudra",
+     "The Ahoms used the guerilla technique against the Marathas in Assam."
+    ],
+    [
+     "Ira",
+     "Aurangzeb came to the Deccan after the death of Chhatrapati Shivaji Maharaj."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "Mughals",
+    "Rajputs",
+    "Sikhs"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-02-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f15",
+    "f14"
+   ],
+   "hook": "Turks came from the 11th century CE; Mahmud of Ghazni raided <b>Mathura, Vrindavan, Kanauj, Somnath</b>.",
+   "prompt": "Which rich temples did Sultan Mahmud of Ghazni plunder?",
+   "options": [
+    "Hampi, Bidar, Gulburga and Golconda",
+    "Anandpur, Nanded, Deogiri and Raigad",
+    "Thane, Satara, Sangli and Belgaum",
+    "Mathura, Vrindavan, Kanauj and Somnath"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-02-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "<b>B</b>akhtyar Khalji burnt the <b>b</b>ooks: Nalanda's library.",
+   "prompt": "Who burnt down the library of the Nalanda University?",
+   "options": [
+    "Alauddin Khalji",
+    "Sultan Mahmud of Ghazni",
+    "Bakhtyar Khalji",
+    "Muhammad-bin-Qasim"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f36",
+    "f28",
+    "f38",
+    "f39",
+    "f41"
+   ],
+   "hook": "1509 throne, 1526 Panipat I, <b>1530</b> both Krishnadevaraya and Babur die, 1539, 1556 Panipat II.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Krishnadevaraya ascends the throne",
+     "y": "1509 CE",
+     "k": 1509
+    },
+    {
+     "t": "First Battle of Panipat",
+     "y": "1526 CE",
+     "k": 1526
+    },
+    {
+     "t": "Babur dies",
+     "y": "1530 CE",
+     "k": 1530
+    },
+    {
+     "t": "Humayun's first reign ends",
+     "y": "1539 CE",
+     "k": 1539
+    },
+    {
+     "t": "Second Battle of Panipat",
+     "y": "1556 CE",
+     "k": 1556
+    }
+   ]
+  },
+  {
+   "qid": "c7-02-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f57",
+    "f45"
+   ],
+   "hook": "Guru Gobindsingh came to the Deccan in <b>1708</b>, one year after Aurangzeb's reign ended (1707).",
+   "prompt": "In which year did Guru Gobindsingh come to the Deccan?",
+   "year": 1708,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-02-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f58"
+   ],
+   "hook": "Durgadas Rathod crowned young <b>Ajitsingh</b> and fought for Marwad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Prince Akbar joined hands with the Rajputs during my struggle.",
+    "I crowned Ajitsingh, the minor son of Jaswantsingh, as King of Marwad.",
+    "I fought hard against the Mughals for the existence of Marwad."
+   ],
+   "options": [
+    "Durgadas Rathod",
+    "Rana Sanga",
+    "Maharana Pratap",
+    "Udaysingh"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-02-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f39",
+    "f40",
+    "f42"
+   ],
+   "hook": "Akbar 1556-1605, Jahangir 1605-<b>1628</b>, then Shahajahan from 1628.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gauri",
+     "Humayun ruled from 1530 CE to 1539 CE and again from 1555 CE to 1556 CE."
+    ],
+    [
+     "Samar",
+     "Akbar ruled from 1556 CE to 1605 CE."
+    ],
+    [
+     "Pooja",
+     "Jahangir ruled from 1605 CE to 1658 CE as the Emperor."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "1630",
+    "1707",
+    "1628"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-02-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f09",
+    "f08",
+    "f06",
+    "f07"
+   ],
+   "hook": "Govind III: <b>Kanauj to Rameshwar</b>. Krishna III: up to Allahabad. Cholas: by sea.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Rajaraj I and Rajendra I belonged to the Hoysal dynasty.",
+    "Under Govind III, Rashtrakut power spread from Kanauj up to Rameshwar.",
+    "Vishnuvardhan of the Hoysal dynasty conquered the whole of Maharashtra.",
+    "The Cholas conquered Sri Lanka using their cavalry."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-02-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f50",
+    "f52",
+    "f58"
+   ],
+   "hook": "Akbar founded Din-i-Ilahi but <b>never compelled</b> anyone; Aurangzeb lost Rajput cooperation.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Akbar founded Din-i-Ilahi but never compelled anyone to adopt it.",
+    "Akbar forced everyone to adopt Din-i-Ilahi.",
+    "When Aurangzeb became Emperor, the Mughal empire extended up to Rameshwar in the south.",
+    "Aurangzeb secured the cooperation of the Rajputs."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-02-39",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f01",
+    "f03",
+    "f10",
+    "f11"
+   ],
+   "hook": "Shilahars: Thane-Raigad in <b>North</b> Konkan, one in South Konkan, one around Kolhapur.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Harsh",
+     "Pal was a famous dynasty in Bengal in the eighth century."
+    ],
+    [
+     "Lina",
+     "Gahadwal and Parmar were important Rajput dynasties in North India."
+    ],
+    [
+     "Nikhil",
+     "One Shilahar dynasty ruled over Thane and Raigad in South Konkan."
+    ],
+    [
+     "Zoya",
+     "The capital of Bhillam V of the Yadava dynasty was at Deogiri near Aurangabad."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "West",
+    "North",
+    "East"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-02-40",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f47",
+    "f46"
+   ],
+   "hook": "Udaysingh's successor, <b>Maharana Pratap</b>, fought Akbar to the very end.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I continued the struggle for Mewad's existence.",
+    "I struggled with Akbar till the very end to maintain my independence.",
+    "I ascended the throne of Mewad after the death of Udaysingh."
+   ],
+   "options": [
+    "Rana Sanga",
+    "Durgadas Rathod",
+    "Maharana Pratap",
+    "Jaswantsingh"
+   ],
+   "answer": 2
+  }
+ ]
+}

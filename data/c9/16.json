@@ -1,0 +1,1481 @@
+{
+ "class": 9,
+ "id": "16",
+ "title": "International Problems",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "Problems that affect many countries and eventually the whole world are called international problems; all nations need to make joint efforts to solve them.",
+   "year": null,
+   "era": "CE",
+   "quote": "These problems that affect the whole world are called international problems. In order to solve these international problems, all nations need to make joint efforts.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "The concept of human rights has emerged from the concept of natural rights, which we are endowed with because we are born as human beings.",
+   "year": null,
+   "era": "CE",
+   "quote": "The concept of human rights has emerged from the concept of natural rights. Natural rights are those rights that we are endowed with because we are born as human beings.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "event",
+   "text": "The American and the French Revolutions proclaimed Liberty, Equality, Fraternity and Justice as Human rights.",
+   "year": null,
+   "era": "CE",
+   "quote": "The American and the French Revolutions proclaimed Liberty, Equality, Fraternity and Justice as Human rights.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "Several European nations then adopted democratic constitutions, which limited the authority of the State; the main responsibility of the State came to be understood as the protection of citizens' rights.",
+   "year": null,
+   "era": "CE",
+   "quote": "After that several European nations adopted democratic constitutions and governments. This brought limits on the authority of the State. The main responsibility of the State came to be understood to be the protection of citizens' rights.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "After the UN was established, the Universal Declaration of Human Rights was adopted in the UN General Assembly by a majority vote on 10 December 1948.",
+   "year": 1948,
+   "era": "CE",
+   "quote": "After the United Nations was established, the Universal Declaration of Human Rights was prepared. It was adopted in the United Nations General Assembly by a majority vote on 10th December 1948.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "In 1966, the UN General Assembly adopted the International Covenant on Civil and Political Rights (ICCPR) and the covenant on Economic, Social and Cultural rights (ICESCR); these two covenants are a part of International Law.",
+   "year": 1966,
+   "era": "CE",
+   "quote": "Later, in 1966, the United Nations General Assembly adopted the International Covenant on Civil and Political Rights (ICCPR) and the Internal Covenant on Economic, Social and Cultural rights (ICESCR). These two covenants are a part of International Law.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "Human rights include the important rights to life, food, clothing, shelter, education and health; the State has to see that these rights are available to everybody.",
+   "year": null,
+   "era": "CE",
+   "quote": "Human rights include the important rights to life, food, clothing, shelter, education and health. The State has to see to it that these rights are available to everybody.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "event",
+   "text": "During the Cold War, racial segregation in Africa was said to be against human rights, so it was decided to boycott the regime there.",
+   "year": null,
+   "era": "CE",
+   "quote": "Racial segregation in Africa was said to be against human rights and hence it was decided to boycott the regime there.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Today struggle against racism, border disputes and terrorism jeopardise human rights; the concept has broadened and now includes protection of the environment and sustainable development.",
+   "year": null,
+   "era": "CE",
+   "quote": "In modern times, problems like struggle against racism, border disputes, terrorism are jeopardizing human rights on a large scale. ... Human rights today also include goals like protection of the environment and sustainable development.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "There are 30 articles in the United Nations Declaration of Human Rights, including economic rights like the right to work and equal pay for equal work.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are 30 articles in the United Nations Declaration of Human Rights. There are a few articles about civil rights. Similarly there are provisions of economic rights like right to work and equal pay for equal work.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "date",
+   "text": "On 20 November 1959, a Declaration of the Rights of the Child was proclaimed.",
+   "year": 1959,
+   "era": "CE",
+   "quote": "Just like the United Nations Declaration of Human Rights, on 20th November 1959, a Declaration of the Rights of the Child was proclaimed.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "In the Indian Constitution, human rights have been given the place of Fundamental Rights; the government is also responsible for protecting weaker sections like women and minorities.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the Indian Constitution, human rights have been given the place of Fundamental Rights. The constitution gives the responsibility of the protection of the weaker sections like women and minorities to the government",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "date",
+   "text": "In 1993 the Human Rights Protection Act was passed; as per this law the National Human Rights Commission and State Human Rights Commissions were established.",
+   "year": 1993,
+   "era": "CE",
+   "quote": "In 1993, the Human Rights Protection Act was passed. As per this law, the National Human Rights Commission and the State Human Rights Commissions were established.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The Human Rights Commission takes cognizance of complaints regarding violation of human rights and takes appropriate action.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Human Rights Commission is responsible for taking cognizance of the complaints regarding violation of human rights and take appropriate action regarding such violation.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "It is increasingly accepted that a secure environment is an important Human Right.",
+   "year": null,
+   "era": "CE",
+   "quote": "it is increasingly being accepted that a secure environment is an important Human Right.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "date",
+   "text": "The need of saving the environment was expressed at the international level in 1970; experts believed large scale industrialisation and the increasing need for energy endangered the environment; activists celebrated the first Earth Day on 22 April 1970.",
+   "year": 1970,
+   "era": "CE",
+   "quote": "At the international level, the awareness and need of saving the environment was expressed in 1970. The experts studying the environment believed that due to industrialisation on a large scale and the increasing need for energy has endangered the environment. These activists celebrated the first Earth Day on 22nd April 1970.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Chemical fertilisers and pesticides, sound pollution from vehicles, radiation from nuclear reactors, and leakages of oil or chemical gases make the environment unsafe.",
+   "year": null,
+   "era": "CE",
+   "quote": "Chemical fertilisers and pesticides used in agriculture, sound pollution due to vehicles, radiation from nuclear reactors, oil leakages or leakages of chemical gases make the environment unsafe",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "After the wave of globalisation that started in 1990, interdependence among nations increased; pollution does not remain restricted to one nation and its effects are long term.",
+   "year": 1990,
+   "era": "CE",
+   "quote": "After the wave of globalisation that started in 1990, the interdependence among nations increased ... The threat to the environment caused by pollution or by leakage of oil and gas does not remain restricted to one nation. Also, its effects are long term.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "Visible effects of the decline of environment include extinction of species, decrease in soil fertility, water shortage, global warming, drying up of rivers and lakes, acid rain and thinning of the ozone layer.",
+   "year": null,
+   "era": "CE",
+   "quote": "The visible effects of the decline of environment are extinction of species of plants and animals, decrease in the fertility of soil, water shortage, fluctuation in the proportion of rainfall, global warming, drying up of rivers and lakes, pollution of rivers and seas, incidence of newer diseases, acid rain, thinning of the ozone layer, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "A United Nations Conference on human environment was called at Stockholm from 5 to 16 June 1972.",
+   "year": 1972,
+   "era": "CE",
+   "quote": "a United Nations Conference on human environment was called at Stockholm from 5th to 16th June 1972.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "At Stockholm it was stressed that all nations must cooperate to overcome pollution; developing nations felt developed nations are more responsible for the decline of the environment and should take responsibility for stopping it.",
+   "year": null,
+   "era": "CE",
+   "quote": "In this conference, it was stressed that it is the responsibility of all nations to cooperate to overcome pollution. The developing nations feel that the developed nations are more responsible for the decline of the environment and they should take the responsibility for stopping the decline.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "event",
+   "text": "Non-governmental organisations working in environmental protection were also present at Stockholm; a consensus emerged that protecting the common global wealth is the responsibility of all nations.",
+   "year": null,
+   "era": "CE",
+   "quote": "Another feature of this conference was that the non-governmental organisations working in the field of environmental protection were also present. The issue of the protection of the common global wealth was raised. A consensus emerged that it was the responsibility of all the nations to protect these resources.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "After the Stockholm conference, the United Nations created the United Nations Environment Programme (UNEP); many international treaties about environment were signed and environmental movements started on a large scale.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was after this conference that the United Nations created the United Nations Environment Programme (UNEP). Many international treaties about environment were signed after this conference. ... Environmental movements started on a large scale",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "date",
+   "text": "The next stage was the environmental conference at Rio in 1992, which stressed sustainable development; treaties on bio-diversity, climate change due to green house gases and protection of forests were signed.",
+   "year": 1992,
+   "era": "CE",
+   "quote": "The next stage was the environmental conference at Rio in 1992. In this conference, the idea of sustainable development was stressed. Different treaties regarding bio-diversity, climate change due to green house gases, protection of forests, etc. were signed.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "date",
+   "text": "In 1997, the conference at Kyoto laid down the protocols for the developed countries for preventing climate change.",
+   "year": 1997,
+   "era": "CE",
+   "quote": "In 1997, the conference at Kyoto laid down the protocols for the developed countries for preventing climate change.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "date",
+   "text": "A conference on climate change was held at Paris in November 2015; it appealed for concerted efforts to stop climate change and global warming and asked developed countries to help developing countries acquire the technology.",
+   "year": 2015,
+   "era": "CE",
+   "quote": "a conference on climate change was held at Paris in November 2015. An appeal was made in this conference that all nations should make concerted efforts to stop climate change and global warming and that the developed countries should help the developing countries to acquire the technology to achieve these goals.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Oceans, deep seabeds, atmosphere, outer space and genetic resources are global resources; since they belong to all nations, all nations should look after them.",
+   "year": null,
+   "era": "CE",
+   "quote": "Oceans, deep seabeds, atmosphere, outer space, genetic resources are included in the global resources. Since this wealth of resources belong to all the nations of the world, it is expected that all nations should look after it.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "No nation is capable of countering terrorism entirely on its own, so terrorism is considered to be a global problem.",
+   "year": null,
+   "era": "CE",
+   "quote": "No nation is capable of countering terrorism entirely on its own. Hence terrorism is considered to be a global problem.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "Terrorism is spreading fear and terror in a society by using or threatening to use violence against common and innocent people for achieving political goals; it is organised and planned violence.",
+   "year": null,
+   "era": "CE",
+   "quote": "Terrorism is spreading fear and terror in a society by using or threatening to use violence against common and innocent people for achieving political goals. Terrorism is organised and planned violence.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Traditional war is a conflict between two or more sovereign States in which geographical boundaries acquire importance; terrorist groups can cause violence in any part of the world from anywhere.",
+   "year": null,
+   "era": "CE",
+   "quote": "Traditional war is a conflict between two or more sovereign States. In such wars, the geographical boundaries between nations acquire importance ... in the case of terrorism, terrorist groups can cause violence in any part of the world from anywhere in the world.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "The aim of a terrorist attack is not to endanger geographical boundaries but to challenge a regime or refuse to acknowledge the State; internal security is threatened in addition to external security.",
+   "year": null,
+   "era": "CE",
+   "quote": "The aim of a terrorist attack is not to endanger the geographical boundaries, but to challenge a regime in a country or refuse to acknowledge the existence of the State. This means that due to increasing terrorism, the internal security of a country is threatened in addition to its external security.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "event",
+   "text": "In the last two decades terrorist conflict appears to have intensified; to curb terrorism, the security mechanisms of different nations should work in a concerted manner.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the last two decades, terrorist conflict appears to have intensified in different countries. ... In order to curb terrorism, it is imperative that the security mechanisms of different nations should work in a concerted manner.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "Refugees are people who have to leave their motherland against their wishes or are forced to go to other nations seeking refuge or security, due to persecution for race or religion, war or a disaster.",
+   "year": null,
+   "era": "CE",
+   "quote": "People who have to leave their motherland against their wishes or are forced to go to other nations, seeking refuge or for security are called as refugees. People become refugees due to torture or persecution for belonging to a particular race or religion, due to war or a disaster, etc.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "event",
+   "text": "Before the Second World War, the Jews were tortured in Germany; their citizenship and property were confiscated and they became refugees.",
+   "year": null,
+   "era": "CE",
+   "quote": "Before the Second World War, the Jews were tortured in Germany. Their citizenship and property was confiscated. Due to this, the Jews became refugees.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "In 1971, the people in East Pakistan turned refugees and came to India seeking refuge due to political and religious persecution.",
+   "year": 1971,
+   "era": "CE",
+   "quote": "In 1971, the people in East Pakistan turned refugees and came to India seeking refuge due to political and religious persecution.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "Due to the war-like situation in Iraq and Syria, a lot of people have left Syria as refugees.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the last few years due to the war-like situation in Iraq and Syria, a lot of people are leaving Syria as refugees.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "event",
+   "text": "Refugees must decide where to go and whether that nation will give shelter; they face physical and emotional stress and problems like heat, rain, storms, shortages of food, sickness and an enemy in pursuit.",
+   "year": null,
+   "era": "CE",
+   "quote": "The most important problem is to decide where to go? And will that nation give us shelter? ... It involves a lot of physical and emotional stress. Apart from this, there are problems caused by natural elements like heat, rain, storms, as well as shortages of food, sickness, an enemy in pursuit, etc.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "As refugee numbers increase, the strain on the host nation's economy increases: shortage of essential goods, more crime or inflation, locals losing jobs and law and order problems; so many nations are not ready to shelter refugees.",
+   "year": null,
+   "era": "CE",
+   "quote": "as the number of refugees increases, the strain on the economy of the host nation increases. A shortage of essential goods is created; there may be an increase in crime or even inflation. The locals may lose their jobs; a problem of law and order may crop up. ... many nations are not ready to give shelter to refugees and to resettle them.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "date",
+   "text": "In 1951, provisions were made on refugees at the international level, such as that refugees will not be forcefully sent back against their wishes; an office of the High Commissioner of the United Nations has been established to solve their problems.",
+   "year": 1951,
+   "era": "CE",
+   "quote": "In 1951, some provisions were made regarding the question of refugees at the international level. One such provision was that the refugees will not be forcefully sent back to their country against their wishes. Similarly an office of the High Commissioner of the Uinted Nations has been established to solve their problems.",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "Human rights can be more effectively implemented if the environment is safeguarded and terrorism is completely wiped out; then no group will have to become refugees.",
+   "year": null,
+   "era": "CE",
+   "quote": "Human rights can be more effectively implemented if the environment is safeguarded and if terrorism is completely wiped out. No group of people will have to become refugees.",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-16-01",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "10 December <b>1948</b>: the UN General Assembly adopts the Universal Declaration of Human Rights.",
+   "prompt": "In which year did the UN General Assembly adopt the Universal Declaration of Human Rights?",
+   "year": 1948,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "<b>Terrorism</b>: planned violence on innocent people for political goals; no nation can beat it alone.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am organised and planned violence.",
+    "No nation is capable of countering me entirely on its own.",
+    "I spread fear by using or threatening violence against common and innocent people for political goals."
+   ],
+   "options": [
+    "Traditional war",
+    "Globalisation",
+    "Terrorism",
+    "Racial segregation"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event",
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f03",
+    "f07",
+    "f08"
+   ],
+   "hook": "The <b>American and French</b> Revolutions: Liberty, Equality, Fraternity, Justice.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The concept of human rights has emerged from the concept of natural rights."
+    ],
+    [
+     "Arjun",
+     "The French and the Russian Revolutions proclaimed Liberty, Equality, Fraternity and Justice as Human rights."
+    ],
+    [
+     "Sana",
+     "Human rights include the important rights to life, food, clothing, shelter, education and health."
+    ],
+    [
+     "Kabir",
+     "During the Cold War, racial segregation in Africa was said to be against human rights."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "Industrial",
+    "American",
+    "Chinese"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-16-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Problems that hit the whole world = <b>international problems</b>; they need joint efforts.",
+   "prompt": "What are problems that affect many countries and eventually the whole world called?",
+   "options": [
+    "Local problems",
+    "Internal problems",
+    "International problems",
+    "National problems"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "event",
+    "year"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "First <b>Earth Day</b>: 22 April 1970, celebrated by environment activists.",
+   "prompt": "Which day am I?",
+   "clues": [
+    "Activists who studied the environment celebrated me.",
+    "I am observed on an international level.",
+    "I was first celebrated on 22 April 1970."
+   ],
+   "options": [
+    "Teachers' Day",
+    "Children's Day",
+    "Earth Day",
+    "Flag Day"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "<b>Stockholm</b> 1972: UN Conference on human environment; UNEP came after it.",
+   "prompt": "Where was the 1972 United Nations Conference on human environment held?",
+   "options": [
+    "Stockholm",
+    "Rio",
+    "Kyoto",
+    "Paris"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f34"
+   ],
+   "hook": "Before WWII, Jews tortured in <b>Germany</b> lost citizenship and property and became refugees.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "People who are forced to go to other nations seeking refuge are called refugees."
+    ],
+    [
+     "Ishaan",
+     "People may become refugees due to war or a disaster."
+    ],
+    [
+     "Tanvi",
+     "Before the Second World War, the Jews were tortured in France and became refugees."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "Japan",
+    "India",
+    "Germany"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-08",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Stockholm, 5 to 16 June <b>1972</b>: UN Conference on human environment.",
+   "prompt": "In which year was the United Nations Conference on human environment held at Stockholm?",
+   "year": 1972,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "<b>1993</b>: Human Rights Protection Act; Human Rights Commissions set up.",
+   "prompt": "In which year was the Human Rights Protection Act passed in India?",
+   "year": 1993,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f14"
+   ],
+   "hook": "1993 Act created the <b>National Human Rights Commission</b>: it acts on complaints.",
+   "prompt": "Which body am I?",
+   "clues": [
+    "I was set up as per a law passed in India in 1993.",
+    "I take cognizance of complaints regarding violation of human rights.",
+    "I take appropriate action regarding such violation."
+   ],
+   "options": [
+    "United Nations Environment Programme",
+    "Security Council",
+    "National Human Rights Commission",
+    "Office of the UN High Commissioner"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f16",
+    "f17"
+   ],
+   "hook": "<b>1970</b>: world speaks up for the environment; first Earth Day on 22 April.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "At the international level, the need of saving the environment was expressed in 1970."
+    ],
+    [
+     "Neha",
+     "The experts believed that industrialisation on a large scale and the increasing need for energy endangered the environment."
+    ],
+    [
+     "Aditya",
+     "On 22nd April 1980 activists celebrated the first Earth Day."
+    ],
+    [
+     "Zoya",
+     "Chemical fertilisers and pesticides used in agriculture make the environment unsafe."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "1972",
+    "1990",
+    "1970"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "In India, human rights sit in the Constitution as <b>Fundamental Rights</b>.",
+   "prompt": "In the Indian Constitution, human rights have been given the place of what?",
+   "options": [
+    "Fundamental Duties",
+    "Fundamental Rights",
+    "The State List",
+    "International Law"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-16-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f05",
+    "f10"
+   ],
+   "hook": "30 articles, adopted 10 December 1948: the <b>Universal Declaration of Human Rights</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I include economic rights like the right to work and equal pay for equal work.",
+    "I have 30 articles.",
+    "I was adopted by the UN General Assembly on 10 December 1948."
+   ],
+   "options": [
+    "Declaration of the Rights of the Child",
+    "Human Rights Protection Act",
+    "International Covenant on Civil and Political Rights",
+    "Universal Declaration of Human Rights"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-16-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Terror's aim: not borders, but to <b>challenge a regime</b> or deny the State.",
+   "prompt": "What is the aim of a terrorist attack?",
+   "options": [
+    "To endanger the geographical boundaries between nations",
+    "To challenge a regime in a country or refuse to acknowledge the existence of the State",
+    "To protect the common global wealth",
+    "To win a war between two sovereign States"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-16-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f22",
+    "f23"
+   ],
+   "hook": "After Stockholm 1972, the UN created <b>UNEP</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Dev",
+     "A United Nations Conference on human environment was called at Stockholm in 1972."
+    ],
+    [
+     "Anaya",
+     "It stressed that all nations must cooperate to overcome pollution."
+    ],
+    [
+     "Om",
+     "Non-governmental organisations working for the environment were also present."
+    ],
+    [
+     "Sneha",
+     "It was after this conference that UNICEF was created by the United Nations."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 6
+   },
+   "options": [
+    "UNEP",
+    "UNESCO",
+    "IAEA"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-16",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f05",
+    "f11",
+    "f06",
+    "f13"
+   ],
+   "hook": "Declaration 1948, Child 1959, Covenants 1966, India's Act 1993.",
+   "prompt": "Put these human rights milestones in order, earliest first.",
+   "items": [
+    {
+     "t": "Universal Declaration of Human Rights",
+     "y": "1948",
+     "k": 1948
+    },
+    {
+     "t": "Declaration of the Rights of the Child",
+     "y": "1959",
+     "k": 1959
+    },
+    {
+     "t": "ICCPR and ICESCR adopted",
+     "y": "1966",
+     "k": 1966
+    },
+    {
+     "t": "Human Rights Protection Act in India",
+     "y": "1993",
+     "k": 1993
+    }
+   ]
+  },
+  {
+   "qid": "c9-16-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f16",
+    "f20",
+    "f24",
+    "f25"
+   ],
+   "hook": "Earth Day 1970, Stockholm 1972, Rio 1992, Kyoto 1997.",
+   "prompt": "Put these environment milestones in order, earliest first.",
+   "items": [
+    {
+     "t": "First Earth Day",
+     "y": "1970",
+     "k": 1970
+    },
+    {
+     "t": "Stockholm Conference",
+     "y": "1972",
+     "k": 1972
+    },
+    {
+     "t": "Rio Conference",
+     "y": "1992",
+     "k": 1992
+    },
+    {
+     "t": "Kyoto Conference",
+     "y": "1997",
+     "k": 1997
+    }
+   ]
+  },
+  {
+   "qid": "c9-16-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Twenty years after Stockholm, Rio <b>1992</b> stressed sustainable development.",
+   "prompt": "In which year was the environmental conference held at Rio?",
+   "year": 1992,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f37",
+    "f38"
+   ],
+   "hook": "A <b>refugee</b> leaves home against their wishes and seeks shelter abroad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "There is no assurance that the people of the nation giving me shelter will accept me.",
+    "I may become this due to persecution for my race or religion, or due to war.",
+    "I have to leave my motherland against my wishes and seek shelter in another country."
+   ],
+   "options": [
+    "Tourist",
+    "Terrorist",
+    "Refugee",
+    "Diplomat"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "Kyoto 1997: protocols for the <b>developed</b> countries to prevent climate change.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "The environmental conference at Rio was held in 1992."
+    ],
+    [
+     "Ira",
+     "At Rio, the idea of sustainable development was stressed."
+    ],
+    [
+     "Yash",
+     "In 1997, the conference at Kyoto laid down protocols for the developing countries for preventing climate change."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 11
+   },
+   "options": [
+    "developed",
+    "poorest",
+    "island"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Traditional war: States vs States, <b>borders</b> matter. Terror: anywhere, from anywhere.",
+   "prompt": "Which statement about traditional war is correct?",
+   "options": [
+    "It is caused by small groups from anywhere in the world.",
+    "It is a conflict between two or more sovereign States in which geographical boundaries matter.",
+    "It threatens only the internal security of a country.",
+    "It has no connection with geographical boundaries."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-16-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "<b>Paris</b>, November 2015: stop climate change; rich nations share technology.",
+   "prompt": "Which conference am I?",
+   "clues": [
+    "Developed countries were asked to help developing countries acquire technology.",
+    "An appeal was made for concerted efforts to stop climate change and global warming.",
+    "I was held in 2015."
+   ],
+   "options": [
+    "Stockholm Conference",
+    "Rio Conference",
+    "Kyoto Conference",
+    "Paris Conference"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-16-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f11"
+   ],
+   "hook": "<b>1966</b>: ICCPR and ICESCR, two covenants that are part of International Law.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "In 1976 the UN General Assembly adopted the International Covenant on Civil and Political Rights."
+    ],
+    [
+     "Pooja",
+     "The same year it adopted a covenant on Economic, Social and Cultural rights."
+    ],
+    [
+     "Farhan",
+     "These two covenants are a part of International Law."
+    ],
+    [
+     "Gauri",
+     "On 20 November 1959 a Declaration of the Rights of the Child was proclaimed."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 1
+   },
+   "options": [
+    "1948",
+    "1966",
+    "1993"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-16-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Visible damage: species lost, acid rain, <b>ozone layer thinning</b>, global warming.",
+   "prompt": "Which of these is a visible effect of the decline of environment?",
+   "options": [
+    "Increase in the fertility of soil",
+    "Fewer newer diseases",
+    "Thinning of the ozone layer",
+    "More water for everyone"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Kyoto <b>1997</b>: climate protocols for developed countries.",
+   "prompt": "In which year did the conference at Kyoto lay down protocols for preventing climate change?",
+   "year": 1997,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "<b>1951</b>: refugees must not be forced back; a UN High Commissioner's office helps them.",
+   "prompt": "In which year were provisions made at the international level that refugees will not be forcefully sent back?",
+   "year": 1951,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-27",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f39",
+    "f35",
+    "f18",
+    "f26"
+   ],
+   "hook": "Refugee rules 1951, East Pakistan refugees 1971, globalisation 1990, Paris 2015.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "International provisions on refugees",
+     "y": "1951",
+     "k": 1951
+    },
+    {
+     "t": "East Pakistan refugees come to India",
+     "y": "1971",
+     "k": 1971
+    },
+    {
+     "t": "Wave of globalisation starts",
+     "y": "1990",
+     "k": 1990
+    },
+    {
+     "t": "Paris climate change conference",
+     "y": "2015",
+     "k": 2015
+    }
+   ]
+  },
+  {
+   "qid": "c9-16-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f22"
+   ],
+   "hook": "Oceans, seabeds, air, outer space, genes: <b>global resources</b> for all to protect.",
+   "prompt": "What are we?",
+   "clues": [
+    "At Stockholm, a consensus emerged that protecting us is the responsibility of all nations.",
+    "Since we belong to all the nations of the world, all nations should look after us.",
+    "We include oceans, deep seabeds, atmosphere, outer space and genetic resources."
+   ],
+   "options": [
+    "Fundamental Rights",
+    "Natural rights",
+    "Global resources",
+    "Trust territories"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f35",
+    "f36"
+   ],
+   "hook": "1971: East Pakistan refugees to India. Iraq and Syria war: many left <b>Syria</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "In 1971, the people in East Pakistan turned refugees and came to India."
+    ],
+    [
+     "Shreya",
+     "They came seeking refuge due to political and religious persecution."
+    ],
+    [
+     "Manav",
+     "Due to the war-like situation in Iraq and Syria, many people left Japan as refugees."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 12
+   },
+   "options": [
+    "India",
+    "Germany",
+    "Syria"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "1951 rule: <b>no forced return</b> of refugees against their wishes.",
+   "prompt": "What was one of the provisions made in 1951 about refugees?",
+   "options": [
+    "Refugees must return home within one year.",
+    "Only rich nations may accept refugees.",
+    "Refugees will not be forcefully sent back to their country against their wishes.",
+    "Refugees cannot work in the host country."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-16-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "year",
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Act of <b>1993</b> set up the National and State Human Rights Commissions.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meher",
+     "In the Indian Constitution, human rights have been given the place of Fundamental Rights."
+    ],
+    [
+     "Siddharth",
+     "In 1983 the Human Rights Protection Act was passed."
+    ],
+    [
+     "Lata",
+     "As per this Act, the National Human Rights Commission and State Human Rights Commissions were established."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "1993",
+    "1948",
+    "1966"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-32",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f11",
+    "f05"
+   ],
+   "hook": "1948 + 11 = <b>1959</b>: the Declaration of the Rights of the Child.",
+   "prompt": "What am I?",
+   "clues": [
+    "I came eleven years after the Universal Declaration of Human Rights.",
+    "I was proclaimed just like the United Nations Declaration of Human Rights.",
+    "I was proclaimed on 20 November 1959."
+   ],
+   "options": [
+    "Declaration of the Rights of the Child",
+    "Human Rights Protection Act",
+    "International Covenant on Civil and Political Rights",
+    "Universal Declaration of Human Rights"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f05",
+    "f11",
+    "f16",
+    "f13",
+    "f26"
+   ],
+   "hook": "1948 Declaration, 1959 Child, 1970 Earth Day, 1993 Act, 2015 Paris.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Universal Declaration of Human Rights",
+     "y": "1948",
+     "k": 1948
+    },
+    {
+     "t": "Declaration of the Rights of the Child",
+     "y": "1959",
+     "k": 1959
+    },
+    {
+     "t": "First Earth Day",
+     "y": "1970",
+     "k": 1970
+    },
+    {
+     "t": "Human Rights Protection Act in India",
+     "y": "1993",
+     "k": 1993
+    },
+    {
+     "t": "Paris climate change conference",
+     "y": "2015",
+     "k": 2015
+    }
+   ]
+  },
+  {
+   "qid": "c9-16-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "1948 Declaration, then <b>1966</b>: two covenants, ICCPR and ICESCR.",
+   "prompt": "In which year did the UN General Assembly adopt the ICCPR and the ICESCR?",
+   "year": 1966,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-35",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "First Earth Day, 22 April <b>1970</b>.",
+   "prompt": "In which year was the first Earth Day celebrated?",
+   "year": 1970,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-16-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f37",
+    "f38"
+   ],
+   "hook": "More refugees, more strain: shortages, crime, <b>inflation</b>, lost jobs.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "As the number of refugees increases, the strain on the economy of the host nation increases."
+    ],
+    [
+     "Rahul",
+     "A shortage of essential goods may be created."
+    ],
+    [
+     "Diya",
+     "There may be an increase in crime and even deflation in the host nation."
+    ],
+    [
+     "Kunal",
+     "On the way, refugees face problems like heat, rain, storms and shortages of food."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "tourism",
+    "inflation",
+    "exports"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-16-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28",
+    "f40"
+   ],
+   "hook": "No nation can fight terror alone, so terrorism is a <b>global</b> problem.",
+   "prompt": "Why is terrorism considered to be a global problem?",
+   "options": [
+    "No nation is capable of countering terrorism entirely on its own.",
+    "It happens only between two sovereign States.",
+    "It threatens only the external security of a country.",
+    "It only affects geographical boundaries."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "<b>Rio</b> 1992: sustainable development, bio-diversity, forests.",
+   "prompt": "Which conference am I?",
+   "clues": [
+    "A treaty regarding bio-diversity was signed at me.",
+    "The idea of sustainable development was stressed at me.",
+    "I was held in 1992."
+   ],
+   "options": [
+    "Rio Conference",
+    "Kyoto Conference",
+    "Stockholm Conference",
+    "Paris Conference"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Developing nations: the <b>developed</b> nations did more damage, so they must lead the fix.",
+   "prompt": "At the Stockholm conference, what did the developing nations feel?",
+   "options": [
+    "Developed nations are more responsible for the decline of the environment and should take responsibility for stopping it.",
+    "Developing nations alone caused the pollution.",
+    "Non-governmental organisations should not be present.",
+    "Global resources belong only to developed nations."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-16-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f32"
+   ],
+   "hook": "To curb terror, nations' security systems must work in a <b>concerted</b> manner.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Harsh",
+     "In the last two decades, terrorist conflict appears to have intensified."
+    ],
+    [
+     "Nisha",
+     "Terrorist groups can cause violence in any part of the world from anywhere."
+    ],
+    [
+     "Vikram",
+     "Due to increasing terrorism, the internal security of a country is threatened in addition to its external security."
+    ],
+    [
+     "Leela",
+     "To curb terrorism, security mechanisms of nations should work in a separate manner."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 11
+   },
+   "options": [
+    "secret",
+    "slow",
+    "concerted"
+   ],
+   "answer": 2
+  }
+ ]
+}

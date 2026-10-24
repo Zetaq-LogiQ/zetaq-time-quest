@@ -1,0 +1,1614 @@
+{
+ "class": 8,
+ "id": "10",
+ "title": "Armed Revolutionary Movement",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "person",
+   "text": "In the period after 1857, Ramsinh Kuka organised a rebellion against the Government in Punjab.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the later period, Ramsinh Kuka organised a rebellion against the Government in Punjab.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "person",
+   "text": "In Maharashtra, Vasudev Balwant Phadke gave an armed struggle against the British; he took the training of arms from Vastad Lahuji Salve.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Maharashtra, Vasudev Balwant Phadke gave an armed struggle against the British. ... He took the training of arms from Vastad Lahuji Salve.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "event",
+   "text": "Vasudev Balwant Phadke organised the Ramoshis and revolted against the British; the rebellion was unsuccessful.",
+   "year": null,
+   "era": "CE",
+   "quote": "He organised the Ramoshis and revolted against the British. This rebellion became unsuccessful.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "date",
+   "text": "The British Government sent Vasudev Balwant Phadke to Eden jail, where he died in 1883.",
+   "year": 1883,
+   "era": "CE",
+   "quote": "The British Government sent him to Eden jail. There he died in 1883.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "In 1897 Plague Commissioner Rand resorted to tyranny and force while managing the plague epidemic in Pune.",
+   "year": 1897,
+   "era": "CE",
+   "quote": "In 1897, the Plague Commissioner Rand had resorted to tyranny and force while managing the epidemic of plague in Pune.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "As a revenge, the Chafekar brothers Damodar and Balkrishna shot Rand dead on 22 June 1897.",
+   "year": 1897,
+   "era": "CE",
+   "quote": "As a revenge the Chafekar brothers, Damodar and Balkrishna, shot him dead on 22 June 1897.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "person",
+   "text": "Damodar, Balkrishna and Vasudev Chafekar and their associate Mahadev Ranade were hanged; three brothers from the same house accepted martyrdom.",
+   "year": null,
+   "era": "CE",
+   "quote": "Damodar, Balkrishna and Vasudev these three brothers and their associate Mahadev Ranade were hanged to death. From the same house, three brothers accepted martyrdom for the service of the country.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "During the same period, the Munda tribe in Bihar under Birsa Munda made a great revolt against the Government.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the same period Munda tribe in Bihar under the leadership of Birsa Munda made great revolt against the Government.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "date",
+   "text": "In 1900 Swatantryaveer Vinayak Damodar Savarkar founded 'Mitramela', a secret organisation of revolutionaries in Nasik.",
+   "year": 1900,
+   "era": "CE",
+   "quote": "In 1900, Swatantryaveer Vinayak Damodar Savarkar founded 'Mitramela'- a secret organisation of revolutionaries in Nasik.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "date",
+   "text": "Mitramela was renamed 'Abhinav Bharat' in 1904.",
+   "year": 1904,
+   "era": "CE",
+   "quote": "The same organisation was renamed as 'Abhinav Bharat' in 1904.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Savarkar went to England for higher education and from there sent revolutionary literature and guns to members of Abhinav Bharat in India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Savarkar went to England for higher education. From there he began sending revolutionary literature, guns etc. to the members of Abhinav Bharat in India.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "Savarkar wrote an inspiring biography of Joseph Mazzini, the famous Italian revolutionary.",
+   "year": null,
+   "era": "CE",
+   "quote": "He wrote an inspiring biography of Joseph Mazzini, the famous Italian revolutionary.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Savarkar wrote 'The 1857 War of Independence', stating that the revolt of 1857 was the first war of independence.",
+   "year": null,
+   "era": "CE",
+   "quote": "He wrote a book entitled 'The 1857 War of Independence' wherein he stated that revolt of 1857 was the first war of independence.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "place",
+   "text": "Savarkar was sentenced to fifty years of rigorous imprisonment at Andaman; he was there for ten years.",
+   "year": null,
+   "era": "CE",
+   "quote": "Swatantryaveer Savarkar was sentenced to fifty years of rigorous imprisonment at Andaman. He was there for ten years.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "In his autobiography 'Majhi Janmathep', Savarkar wrote about his terrible days in Andaman.",
+   "year": null,
+   "era": "CE",
+   "quote": "In his autobiography 'Majhi Janmathep' he wrote down his experiences of the terrible days in Andaman.",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "place",
+   "text": "The Government detained Savarkar at Ratnagiri, where he started social movements such as removal of caste differences, removal of untouchability, common dining and purification of language.",
+   "year": null,
+   "era": "CE",
+   "quote": "Later the Government took him to Ratnagiri and detained there. There Savarkar started many social movements such as removal of caste differences, removal of untouchability, common dining, purification of language etc.",
+   "page": 1
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "Savarkar was the President of the Marathi Sahitya Sammelan at Mumbai in 1938.",
+   "year": 1938,
+   "era": "CE",
+   "quote": "He was the President of Marathi Sahitya Sammelan at Mumbai in 1938.",
+   "page": 1
+  },
+  {
+   "fid": "f18",
+   "kind": "person",
+   "text": "When the Government learnt about Abhinav Bharat, it arrested Babarao Savarkar, who was sentenced to life imprisonment.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Government came to know about the activities of Abhinav Bharat. Therefore the Government arrested Babarao Savarkar. He was sentenced to life imprisonment.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "As a revenge, a youth named Anant Laxman Kanhere killed Jackson, the Collector of Nasik.",
+   "year": null,
+   "era": "CE",
+   "quote": "As a revenge to this punishment, a youth named Anant Laxman Kanhere killed Jackson, the Collector of Nasik.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "event",
+   "text": "The Government linked Jackson's murder with Savarkar; he was tried and the court ordered rigorous punishment for 50 years.",
+   "year": null,
+   "era": "CE",
+   "quote": "The murder of Jackson was linked with Swatantryaveer Savarkar by the Government, he was arrested and put under trial. The court ordered him rigorous punishment for 50 years.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "After the partition of Bengal, the outrage against the British became more severe and revolutionary movements rose at the national level.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the partition of Bengal, the outrage against British became more severe. In place of local rebellions comprehensive revolutionary movements started rising at national level.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "In Bengal the revolutionary organisation 'Anushilan Samiti' was active; it had more than 500 branches.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Bengal a revolutionary organisation called 'Anushilan Samiti' was active. The Anushilan Samiti had more than 500 branches.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "person",
+   "text": "Barindrakumar Ghosh, brother of Aurobindo Ghosh, was the chief of the Anushilan Samiti; it received counsel and guidance from Aurobindo Ghosh.",
+   "year": null,
+   "era": "CE",
+   "quote": "Barindrakumar Ghosh, brother of Aurobindo Ghosh, was the chief of this organisation. This organisation received counsel and guidance from Aurobindo Ghosh.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "place",
+   "text": "The Anushilan Samiti had a bomb manufacturing centre at Maniktala near Kolkata.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Anushilan Samiti had a bomb manufacturing centre at Maniktala near Kolkata.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "date",
+   "text": "In 1908 Khudiram Bose and Prafulla Chaki planned to kill a judge named Kingsford, but the bomb hit the wrong vehicle and two English women were killed.",
+   "year": 1908,
+   "era": "CE",
+   "quote": "In 1908, Khudiram Bose and Prafulla Chaki, members of Anushilan Samiti planned to kill a judge named Kingsford. But the vehicle on which they threw the bomb was not the one carrying Kingsford. Two English women were killed in this attack.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "Prafulla Chaki shot himself so as not to fall into British hands; Khudiram Bose was caught by the police.",
+   "year": null,
+   "era": "CE",
+   "quote": "Prafulla Chaki shot himself with a bullet so that he will not fall in the hands of British. Khudiram Bose was caught by the police.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "Aurobindo Ghosh was arrested, but the Government could not link him to making bombs, so the court set him free.",
+   "year": null,
+   "era": "CE",
+   "quote": "Aurobindo Ghosh was also arrested. But the Government was unsuccessful in linking him to manufacturing of bombs and hence the court set him free.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "place",
+   "text": "Rash Behari Bose and Sachindra Nath Sanyal spread revolutionary organisations outside Bengal, with centres in Punjab, Delhi and Uttar Pradesh.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rash Behari Bose and Sachindra Nath Sanyal spread the network of revolutionary organisations outside Bengal. The centres of revolutionary work were set up at Punjab, Delhi and Uttar Pradesh.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "event",
+   "text": "Rash Behari Bose and his associate threw a bomb at Viceroy Lord Hardinge, but he was saved.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rash Behari Bose and his associate made a daring act of throwing bomb at the Viceroy Lord Hardinge. But he got saved from the attack.",
+   "page": 2
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "In Madras Province, revolutionary Vanchhi Iyyer killed a British officer named Ash and then shot himself.",
+   "year": null,
+   "era": "CE",
+   "quote": "The revolutionary work was carried out in Madras Province as well. Vanchhi Iyyer, a revolutionary, killed a British officer named Ash. Later he shot himself with a bullet and sacrificed his own life.",
+   "page": 2
+  },
+  {
+   "fid": "f31",
+   "kind": "place",
+   "text": "India House in London was established by Pandit Shyamji Krishna Varma; through it Indian youths, including Savarkar, got scholarships for higher education in England.",
+   "year": null,
+   "era": "CE",
+   "quote": "India House, in London, was an important centre ... Pandit Shyamji Krishna Varma, an Indian patriot, had established India House. Through this organisation Indian youths were given scholarships for higher education in England. Swatantryaveer Savarkar received such scholarship.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "Madam Cama raised the issue of India's independence at the World Socialist Conference at Stuttgart in Germany and unfurled the flag of India there.",
+   "year": null,
+   "era": "CE",
+   "quote": "Madam Cama raised the issue of India's independence at the World Socialist Conference held at Stuttgart in Germany. In the same conference she unfurled the flag of India.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "Madanlal Dhingra, a youth associated with India House, killed British officer Curzon Wylie and was hanged.",
+   "year": null,
+   "era": "CE",
+   "quote": "Another revolutionary associated with India House was a youth named Madanlal Dhingra. He killed Curzon Wylie, a British Officer, due to which Dhingra was hanged to death.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Indians living in America and Canada established the Gadar organisation; Lala Hardayal, Bhai Parmanand and Dr. Pandurang Sadashiv Khankhoje were important leaders.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Indians living in America and Canada established the Gadar organisation. Lala Hardayal, Bhai Parmanand, Dr. Pandurang Sadashiv Khankhoje etc. these revolutionaries were the important leaders of the organisation.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "The word 'Gadar' means 'revolt'; 'Gadar' was also the journal (mouthpiece) of the organisation.",
+   "year": null,
+   "era": "CE",
+   "quote": "The word 'Gadar' means 'revolt'. 'Gadar' was the journal of this organisation that acted as its mouthpiece.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "event",
+   "text": "Gadar leaders planned a revolt in Punjab to be led by Rash Behari Bose and Vishnu Ganesh Pingle; due to treachery Pingle was caught and hanged, while Rash Behari Bose escaped to Japan.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was decided that Rash Behari Bose and Vishnu Ganesh Pingle should lead the revolt. But due to treachery, the British traced out the plan. Pingle fell into the hands of the police. He was hanged to death. But Rash Behari Bose escaped successfuly. He went to Japan",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "place",
+   "text": "In Berlin, Veerendra Nath Chattopadhyay, Bhupen Dutta and Hardayal prepared anti British plans with the German Foreign ministry.",
+   "year": null,
+   "era": "CE",
+   "quote": "In Berlin, Veerendra Nath Chattopadhyay, Bhupen Dutta and Hardayal prepared anti British plans in cooperation with the German Foreign ministry.",
+   "page": 3
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "In 1915 Mahendra Pratap, Barkatullah and Obaidullah Sindhi established the Provisional Government of free India in Kabul.",
+   "year": 1915,
+   "era": "CE",
+   "quote": "In 1915, Mahendra Pratap, Barkatullah and Obaidullah Sindhi established Provisional Government of free India in Kabul.",
+   "page": 3
+  },
+  {
+   "fid": "f39",
+   "kind": "event",
+   "text": "After Mahatma Gandhi suspended the Civil Disobedience Movement, many youngsters turned to revolutionary ways.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the suspension of Civil Disobedience Movement by Mahatma Gandhi, many youngsters got diverted to revolutionary ways.",
+   "page": 3
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "On 9 August 1925 Chandrashekhar Azad, Ram Prasad Bismil, Yogesh Chatterjee, Sachindra Nath Sanyal and others looted the Government treasury carried in a train near Kakori railway station in Uttar Pradesh: the 'Kakori conspiracy'.",
+   "year": 1925,
+   "era": "CE",
+   "quote": "On 9 August 1925, they looted the Government treasury that was carried in a train near Kakori railway station in Uttar Pradesh. This is known as the 'Kakori conspiracy'.",
+   "page": 3
+  },
+  {
+   "fid": "f41",
+   "kind": "person",
+   "text": "Ashfaqulla Khan, Ram Prasad Bismil, Roshan Singh and Rajendra Lahiri were hanged, but Chandrashekhar Azad managed to escape.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ashfaqulla Khan, Ram Prasad Bismil, Roshan Singh, Rajendra Lahiri were hanged. But Chandrashekhar Azad managed to escape.",
+   "page": 3
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "In 1928, at a meeting at Feroz Shah Kotla ground in Delhi, young men including Chandrashekhar Azad, Bhagat Singh, Rajguru and Sukhdev set up the 'Hindustan Socialist Republican Association'.",
+   "year": 1928,
+   "era": "CE",
+   "quote": "Prominent among them were Chandrashekhar Azad, Bhagat Singh, Rajguru, Sukhdev etc. ... In 1928 in the meeting held at Feroz Shah Kotla ground in Delhi, these young men established the organisation called 'Hindustan Socialist Republican Association'.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "The HSRA aimed to free India from British exploitation and overthrow the unjust system that exploited farmers and workers; Bhagat Singh stressed a society based on social justice and equality.",
+   "year": null,
+   "era": "CE",
+   "quote": "The objective behind the establishment of this organisation was to free India from British exploitation. It also wanted to overthrow the unjust socio-economic system which exploited the farmers and workers. Bhagat Singh gave importance to creation of a society based on social justice and equality.",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "term",
+   "text": "The wing for gathering arms was called the 'Hindustan Socialist Republican Army'; Chandrashekhar Azad was its chief.",
+   "year": null,
+   "era": "CE",
+   "quote": "This wing was called 'Hindustan Socialist Republican Army' and Chandrashekar Azad was the chief of this wing.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "person",
+   "text": "Bhagat Singh and Rajguru killed an officer named Saunders to avenge the death of Lala Lajpat Rai.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bhagat Singh and Rajguru fired bullets and killed an officer named Saunders in order to avenge the death of Lala Lajpat Rai.",
+   "page": 4
+  },
+  {
+   "fid": "f46",
+   "kind": "event",
+   "text": "To protest two bills curtailing civil rights, Bhagat Singh and Batukeshwar Dutta threw bombs in the Central Legislative Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Government had introduced two bills in the Central Legislative Assembly, curtailing civil rights. To protest it, Bhagat Singh and Batukeshwar Dutta threw bombs in the Central Legislative Assembly.",
+   "page": 4
+  },
+  {
+   "fid": "f47",
+   "kind": "date",
+   "text": "On 23 March 1931 Bhagat Singh, Rajguru and Sukhdev were hanged in the Lahore jail.",
+   "year": 1931,
+   "era": "CE",
+   "quote": "On 23 March 1931, Bhagat Singh, Rajguru and Sukhdev were hanged in the Lahore jail.",
+   "page": 4
+  },
+  {
+   "fid": "f48",
+   "kind": "place",
+   "text": "Chandrashekhar Azad never fell into police hands; he died in an encounter with police at Alfred Park in Allahabad.",
+   "year": null,
+   "era": "CE",
+   "quote": "But till the end Chandrashekhar Azad did not fall into the hands of the police. Later he died in an encounter with police at Alfred Park in Allahabad.",
+   "page": 4
+  },
+  {
+   "fid": "f49",
+   "kind": "person",
+   "text": "Surya Sen was the chief of the revolutionary group at Chittagong in Bengal, with Anant Singh, Ganesh Ghosh, Kalpana Dutta and Pritilata Waddedar.",
+   "year": null,
+   "era": "CE",
+   "quote": "Surya Sen was the chief of the revolutionary group at Chittagong in Bengal. He had gathered around him revolutionaries like Anant Singh, Ganesh Ghosh, Kalpana Dutta, Pritilata Waddedar.",
+   "page": 4
+  },
+  {
+   "fid": "f50",
+   "kind": "date",
+   "text": "On 18 April 1930 the revolutionaries seized arms from the two armouries in Chittagong and broke the telephone and telegraph lines.",
+   "year": 1930,
+   "era": "CE",
+   "quote": "As per the plan, on 18 April 1930 the revolutionaries seized the arms from the two armouries in Chittagong. The telephone and telegraph lines were broken",
+   "page": 4
+  },
+  {
+   "fid": "f51",
+   "kind": "date",
+   "text": "On 16 February 1933 Surya Sen and some of his associates were captured by the police.",
+   "year": 1933,
+   "era": "CE",
+   "quote": "On 16 February 1933, Surya Sen and some of his associates were captured by the police.",
+   "page": 4
+  },
+  {
+   "fid": "f52",
+   "kind": "person",
+   "text": "Surya Sen and his 12 associates were given death punishment; Kalpana Dutta got life imprisonment; Pritilata Waddedar killed herself rather than fall into police hands.",
+   "year": null,
+   "era": "CE",
+   "quote": "Surya Sen and his 12 associates were given death punishment. Kalpana Dutta was sentenced to life imprisonment. Pritilata Waddedar killed herself without falling into the hands of the police.",
+   "page": 5
+  },
+  {
+   "fid": "f53",
+   "kind": "person",
+   "text": "School girls Shanti Ghosh and Suniti Choudhary killed the District Judge; young Bina Das shot the Governor during the convocation ceremony of Kolkata University.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shanti Ghosh and Suniti Choudhary, these two school girls killed the District Judge, where as a young girl Bina Das shot dead the Governor during the convocation ceremony of Kolkata University.",
+   "page": 5
+  },
+  {
+   "fid": "f54",
+   "kind": "date",
+   "text": "Sardar Udham Singh killed Dyer, the officer responsible for the Jallianwala Bagh massacre, in London in 1940.",
+   "year": 1940,
+   "era": "CE",
+   "quote": "Sardar Udham Singh killed Dyer, the officer responsible for Jallianwala Bagh massacre, in London in 1940.",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-10-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f09",
+    "f40",
+    "f50",
+    "f54"
+   ],
+   "hook": "1900 Mitramela, 1925 Kakori, 1930 Chittagong, 1940 Dyer killed in London.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Savarkar founds Mitramela in Nasik",
+     "y": "1900",
+     "k": 19000000
+    },
+    {
+     "t": "Kakori train treasury looted",
+     "y": "1925",
+     "k": 19250809
+    },
+    {
+     "t": "Chittagong armouries seized",
+     "y": "1930",
+     "k": 19300418
+    },
+    {
+     "t": "Udham Singh kills Dyer in London",
+     "y": "1940",
+     "k": 19400000
+    }
+   ]
+  },
+  {
+   "qid": "c8-10-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "9 August 1925: the treasury train near Kakori - the 'Kakori conspiracy'.",
+   "prompt": "In which year did revolutionaries loot the Government treasury from a train near Kakori?",
+   "year": 1925,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f47"
+   ],
+   "hook": "23 March 1931: Bhagat Singh, Rajguru and Sukhdev hanged in the Lahore jail.",
+   "prompt": "In which year were Bhagat Singh, Rajguru and Sukhdev hanged in the Lahore jail?",
+   "year": 1931,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f43",
+    "f45",
+    "f46"
+   ],
+   "hook": "Bhagat Singh: Saunders with Rajguru, Assembly bombs with Batukeshwar Dutta.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I gave importance to a society based on social justice and equality.",
+    "With Rajguru, I killed Saunders to avenge the death of Lala Lajpat Rai.",
+    "With Batukeshwar Dutta, I threw bombs in the Central Legislative Assembly."
+   ],
+   "options": [
+    "Sukhdev",
+    "Bhagat Singh",
+    "Chandrashekhar Azad",
+    "Surya Sen"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-10-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f09",
+    "f12",
+    "f13",
+    "f15"
+   ],
+   "hook": "Mitramela 1900, Mazzini's biography, 'Majhi Janmathep': all by Swatantryaveer Savarkar.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I wrote an inspiring biography of Joseph Mazzini.",
+    "I wrote that the revolt of 1857 was the first war of independence.",
+    "I wrote about my days in Andaman in 'Majhi Janmathep'.",
+    "In 1900 I founded a secret organisation called Mitramela in Nasik."
+   ],
+   "options": [
+    "Babarao Savarkar",
+    "Vasudev Balwant Phadke",
+    "V. D. Savarkar",
+    "Anant Laxman Kanhere"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-10-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f05",
+    "f06",
+    "f07",
+    "f08"
+   ],
+   "hook": "1897: Rand's plague tyranny in Pune - and the Chafekar brothers' revenge on 22 June.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Plague Commissioner Rand used tyranny and force while managing plague in Pune."
+    ],
+    [
+     "Isha",
+     "In 1905 the Chafekar brothers shot Rand dead."
+    ],
+    [
+     "Rohan",
+     "Damodar, Balkrishna and Vasudev were the three Chafekar brothers who were hanged."
+    ],
+    [
+     "Isha",
+     "In the same period Birsa Munda led the Munda tribe in Bihar against the Government."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "1897",
+    "1883",
+    "1908"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f42",
+    "f44",
+    "f47"
+   ],
+   "hook": "HSRA born in 1928 at Feroz Shah Kotla ground, Delhi; its army wing led by Azad.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "The Hindustan Socialist Republican Association was set up in Mumbai in 1928."
+    ],
+    [
+     "Kabir",
+     "Chandrashekhar Azad was the chief of its army wing."
+    ],
+    [
+     "Meera",
+     "Bhagat Singh, Rajguru and Sukhdev were hanged in the Lahore jail."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 9
+   },
+   "options": [
+    "Lahore",
+    "Allahabad",
+    "Delhi"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-10-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f10"
+   ],
+   "hook": "Mitramela (1900) became Abhinav Bharat (1904): same group, new name 4 years later.",
+   "prompt": "Which secret organisation founded by Savarkar in Nasik was later renamed 'Abhinav Bharat'?",
+   "options": [
+    "Anushilan Samiti",
+    "Gadar",
+    "Mitramela",
+    "India House"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-10-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f10",
+    "f42",
+    "f47"
+   ],
+   "hook": "1897 Rand shot, 1904 Abhinav Bharat, 1928 HSRA, 1931 Lahore jail.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Chafekar brothers shoot Rand",
+     "y": "1897",
+     "k": 18970622
+    },
+    {
+     "t": "Mitramela renamed Abhinav Bharat",
+     "y": "1904",
+     "k": 19040000
+    },
+    {
+     "t": "HSRA founded at Feroz Shah Kotla",
+     "y": "1928",
+     "k": 19280000
+    },
+    {
+     "t": "Bhagat Singh, Rajguru, Sukhdev hanged",
+     "y": "1931",
+     "k": 19310323
+    }
+   ]
+  },
+  {
+   "qid": "c8-10-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "1900: Mitramela begins in Nasik; 1904 it becomes Abhinav Bharat.",
+   "prompt": "In which year did Savarkar found the secret organisation Mitramela in Nasik?",
+   "year": 1900,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-11",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f50"
+   ],
+   "hook": "18 April 1930: two armouries seized, telephone and telegraph lines cut.",
+   "prompt": "In which year did Surya Sen's revolutionaries seize arms from the two armouries in Chittagong?",
+   "year": 1930,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f02",
+    "f03",
+    "f04"
+   ],
+   "hook": "Phadke: trained by Lahuji Salve, led the Ramoshis, died in Eden jail in 1883.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I died in Eden jail in 1883.",
+    "Vastad Lahuji Salve trained me in arms.",
+    "I organised the Ramoshis and revolted against the British in Maharashtra."
+   ],
+   "options": [
+    "Ramsinh Kuka",
+    "Vasudev Balwant Phadke",
+    "Birsa Munda",
+    "Damodar Chafekar"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-10-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f41",
+    "f44",
+    "f48"
+   ],
+   "hook": "Azad escaped after Kakori, led the HSR Army, and died at Alfred Park, Allahabad.",
+   "prompt": "Who am I?",
+   "clues": [
+    "After Kakori, others were hanged but I managed to escape.",
+    "I was the chief of the Hindustan Socialist Republican Army.",
+    "I died in an encounter with police at Alfred Park in Allahabad."
+   ],
+   "options": [
+    "Ram Prasad Bismil",
+    "Rajguru",
+    "Chandrashekhar Azad",
+    "Ashfaqulla Khan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-10-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f31",
+    "f33"
+   ],
+   "hook": "India House in London: Savarkar's scholarship and Dhingra, who killed Curzon Wylie.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "India House in London was established by Pandit Shyamji Krishna Varma."
+    ],
+    [
+     "Arjun",
+     "A youth named Rajguru killed Curzon Wylie, a British officer."
+    ],
+    [
+     "Neha",
+     "Savarkar received a scholarship through India House."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "Kanhere",
+    "Dhingra",
+    "Chaki"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-10-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f40",
+    "f41"
+   ],
+   "hook": "Kakori: 9 August 1925, a treasury train in Uttar Pradesh.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "On 9 March 1925 revolutionaries looted the Government treasury near Kakori."
+    ],
+    [
+     "Varun",
+     "The treasury was being carried in a train in Uttar Pradesh."
+    ],
+    [
+     "Tanvi",
+     "Ashfaqulla Khan and Ram Prasad Bismil were hanged, but Chandrashekhar Azad escaped."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 2
+   },
+   "options": [
+    "August",
+    "April",
+    "June"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Punjab rebellion after 1857: Ramsinh Kuka.",
+   "prompt": "Who organised a rebellion against the Government in Punjab in the period after 1857?",
+   "options": [
+    "Birsa Munda",
+    "Vasudev Balwant Phadke",
+    "Surya Sen",
+    "Ramsinh Kuka"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-10-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f04",
+    "f25",
+    "f38",
+    "f40"
+   ],
+   "hook": "1883 Eden jail, 1908 Kingsford bomb, 1915 Kabul government, 1925 Kakori.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Phadke dies in Eden jail",
+     "y": "1883",
+     "k": 18830000
+    },
+    {
+     "t": "Bomb thrown to kill judge Kingsford",
+     "y": "1908",
+     "k": 19080000
+    },
+    {
+     "t": "Provisional Government set up in Kabul",
+     "y": "1915",
+     "k": 19150000
+    },
+    {
+     "t": "Kakori train treasury looted",
+     "y": "1925",
+     "k": 19250809
+    }
+   ]
+  },
+  {
+   "qid": "c8-10-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Mitramela 1900 + 4 years = Abhinav Bharat 1904.",
+   "prompt": "In which year was Mitramela renamed 'Abhinav Bharat'?",
+   "year": 1904,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "22 June 1897: Rand's plague tyranny in Pune ended with the Chafekar brothers' shots.",
+   "prompt": "In which year did the Chafekar brothers shoot Plague Commissioner Rand dead?",
+   "year": 1897,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f49",
+    "f51",
+    "f52"
+   ],
+   "hook": "Surya Sen: Chittagong 1930, captured 16 February 1933, death punishment with 12 associates.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Anant Singh and Ganesh Ghosh were among my associates.",
+    "I planned the attack on the armouries at Chittagong.",
+    "I was captured on 16 February 1933 and given death punishment."
+   ],
+   "options": [
+    "Rash Behari Bose",
+    "Surya Sen",
+    "Khudiram Bose",
+    "Barindrakumar Ghosh"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-10-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Stuttgart, Germany: Madam Cama spoke for India's independence and unfurled India's flag.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I attended a conference held at Stuttgart in Germany.",
+    "There I raised the issue of India's independence.",
+    "At that World Socialist Conference I unfurled the flag of India."
+   ],
+   "options": [
+    "Madam Cama",
+    "Kalpana Dutta",
+    "Bina Das",
+    "Pritilata Waddedar"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "1908, the Kingsford plan: Prafulla Chaki shot himself, Khudiram Bose was caught.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "In 1908 Khudiram Bose and Prafulla Chaki planned to kill a judge named Kingsford."
+    ],
+    [
+     "Dev",
+     "Their bomb hit the wrong vehicle and two English women were killed."
+    ],
+    [
+     "Riya",
+     "Of the two, Khudiram shot himself so he would not fall into British hands."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Barindrakumar",
+    "Kingsford",
+    "Prafulla"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-10-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f14",
+    "f15",
+    "f16",
+    "f18",
+    "f19"
+   ],
+   "hook": "Babarao's life sentence led Kanhere to kill Jackson; Savarkar spent 10 years in Andaman.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anika",
+     "Anant Laxman Kanhere killed Jackson, the Collector of Nasik."
+    ],
+    [
+     "Om",
+     "Savarkar was sentenced to fifty years of rigorous imprisonment at Andaman."
+    ],
+    [
+     "Anika",
+     "He was in Andaman for twenty years and was later detained at Ratnagiri."
+    ],
+    [
+     "Om",
+     "He wrote about those days in his autobiography 'Majhi Janmathep'."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "ten",
+    "five",
+    "fifty"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f45",
+    "f46"
+   ],
+   "hook": "Saunders = revenge for Lala Lajpat Rai; Assembly bombs = protest against two bills.",
+   "prompt": "Why did Bhagat Singh and Batukeshwar Dutta throw bombs in the Central Legislative Assembly?",
+   "options": [
+    "To protest two bills curtailing civil rights",
+    "To avenge the death of Lala Lajpat Rai",
+    "To free Surya Sen from prison",
+    "To loot the Government treasury"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f42",
+    "f50",
+    "f47",
+    "f51"
+   ],
+   "hook": "1928 HSRA, 1930 Chittagong, 1931 Lahore jail, 1933 Surya Sen captured.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "HSRA founded in Delhi",
+     "y": "1928",
+     "k": 19280000
+    },
+    {
+     "t": "Chittagong armouries seized",
+     "y": "18 April 1930",
+     "k": 19300418
+    },
+    {
+     "t": "Bhagat Singh, Rajguru, Sukhdev hanged",
+     "y": "23 March 1931",
+     "k": 19310323
+    },
+    {
+     "t": "Surya Sen captured by police",
+     "y": "16 February 1933",
+     "k": 19330216
+    }
+   ]
+  },
+  {
+   "qid": "c8-10-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Phadke died in Eden jail in 1883 - 14 years before Rand was shot in 1897.",
+   "prompt": "In which year did Vasudev Balwant Phadke die in Eden jail?",
+   "year": 1883,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f54"
+   ],
+   "hook": "1940, London: Udham Singh killed Dyer of the Jallianwala Bagh massacre.",
+   "prompt": "In which year did Sardar Udham Singh kill Dyer in London?",
+   "year": 1940,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f22",
+    "f23",
+    "f24"
+   ],
+   "hook": "Anushilan Samiti: 500+ branches, Barindrakumar Ghosh as chief, bombs at Maniktala.",
+   "prompt": "What am I?",
+   "clues": [
+    "I had a bomb manufacturing centre at Maniktala near Kolkata.",
+    "I had more than 500 branches.",
+    "Barindrakumar Ghosh was my chief."
+   ],
+   "options": [
+    "Abhinav Bharat",
+    "Mitramela",
+    "Gadar",
+    "Anushilan Samiti"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-10-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28",
+    "f29",
+    "f36"
+   ],
+   "hook": "Rash Behari Bose: bomb at Lord Hardinge, Gadar plan in Punjab, escape to Japan.",
+   "prompt": "Who am I?",
+   "clues": [
+    "With Sachindra Nath Sanyal, I spread revolutionary networks outside Bengal.",
+    "My associate and I threw a bomb at Viceroy Lord Hardinge.",
+    "When the Gadar plan in Punjab failed, I escaped to Japan."
+   ],
+   "options": [
+    "Rash Behari Bose",
+    "Vishnu Ganesh Pingle",
+    "Lala Hardayal",
+    "Madanlal Dhingra"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "Gadar = revolt: begun by Indians in America and Canada; its journal had the same name.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "The Gadar organisation was set up by Indians living in America and Canada."
+    ],
+    [
+     "Pooja",
+     "The word Gadar means freedom and it was also the name of its journal."
+    ],
+    [
+     "Kiran",
+     "Lala Hardayal and Bhai Parmanand were important leaders of Gadar."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "victory",
+    "revolt",
+    "unity"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-10-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f52"
+   ],
+   "hook": "After Chittagong: Surya Sen + 12 associates sentenced to death; Kalpana Dutta for life.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "Surya Sen and his 20 associates were given death punishment."
+    ],
+    [
+     "Manav",
+     "Kalpana Dutta was sentenced to life imprisonment."
+    ],
+    [
+     "Ira",
+     "Pritilata Waddedar killed herself without falling into the hands of the police."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 4
+   },
+   "options": [
+    "8",
+    "12",
+    "30"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-10-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Madras Province: Vanchhi Iyyer killed officer Ash, then gave his own life.",
+   "prompt": "Which revolutionary in Madras Province killed a British officer named Ash?",
+   "options": [
+    "Vanchhi Iyyer",
+    "Prafulla Chaki",
+    "Madanlal Dhingra",
+    "Bina Das"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f09",
+    "f10",
+    "f38",
+    "f17",
+    "f54"
+   ],
+   "hook": "1900, 1904, 1915, 1938, 1940: Mitramela to Udham Singh.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Mitramela founded in Nasik",
+     "y": "1900",
+     "k": 19000000
+    },
+    {
+     "t": "Mitramela renamed Abhinav Bharat",
+     "y": "1904",
+     "k": 19040000
+    },
+    {
+     "t": "Provisional Government set up in Kabul",
+     "y": "1915",
+     "k": 19150000
+    },
+    {
+     "t": "Savarkar presides Sahitya Sammelan",
+     "y": "1938",
+     "k": 19380000
+    },
+    {
+     "t": "Udham Singh kills Dyer in London",
+     "y": "1940",
+     "k": 19400000
+    }
+   ]
+  },
+  {
+   "qid": "c8-10-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "1915, Kabul: Mahendra Pratap, Barkatullah and Obaidullah Sindhi.",
+   "prompt": "In which year was the Provisional Government of free India established in Kabul?",
+   "year": 1915,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-10-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Shyamji Krishna Varma founded India House, London - Savarkar got its scholarship.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am described as an Indian patriot.",
+    "Through my organisation, Indian youths got scholarships for higher education in England.",
+    "I established India House in London."
+   ],
+   "options": [
+    "Madanlal Dhingra",
+    "Lala Hardayal",
+    "Pandit Shyamji Krishna Varma",
+    "Mahendra Pratap"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-10-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f37",
+    "f38"
+   ],
+   "hook": "Plans in Berlin with the German Foreign ministry; a free India government in Kabul in 1915.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Karan",
+     "In Berlin, Veerendra Nath Chattopadhyay, Bhupen Dutta and Hardayal made anti British plans."
+    ],
+    [
+     "Sana",
+     "They worked in cooperation with the German Foreign ministry."
+    ],
+    [
+     "Karan",
+     "In 1915 a Provisional Government of free India was set up in Tokyo by Mahendra Pratap and others."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 12
+   },
+   "options": [
+    "Kabul",
+    "Berlin",
+    "London"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-10-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f23",
+    "f27",
+    "f22"
+   ],
+   "hook": "Barindrakumar led Anushilan; his brother Aurobindo was arrested but set free.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Aurobindo Ghosh was sentenced to life imprisonment",
+    "Barindrakumar Ghosh was the son of Aurobindo Ghosh",
+    "The Anushilan Samiti had fewer than 100 branches",
+    "The court set Aurobindo Ghosh free as he could not be linked to making bombs"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-10-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f36",
+    "f34"
+   ],
+   "hook": "Gadar's Punjab revolt: Rash Behari Bose escaped to Japan, Pingle was hanged.",
+   "prompt": "Who were chosen to lead the revolt planned by the Gadar leaders in Punjab?",
+   "options": [
+    "Lala Hardayal and Bhai Parmanand",
+    "Bhagat Singh and Rajguru",
+    "Mahendra Pratap and Barkatullah",
+    "Rash Behari Bose and Vishnu Ganesh Pingle"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-10-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f16",
+    "f14"
+   ],
+   "hook": "Andaman for ten years, then Ratnagiri: common dining and removal of untouchability.",
+   "prompt": "After Andaman, where did the Government detain Savarkar, where he started movements like common dining?",
+   "options": [
+    "Nasik",
+    "Eden",
+    "Ratnagiri",
+    "Mumbai"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-10-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f53",
+    "f52",
+    "f32",
+    "f54"
+   ],
+   "hook": "Shanti Ghosh + Suniti Choudhary: the District Judge; Bina Das: the Governor; Udham Singh: Dyer.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Bina Das killed Dyer in London",
+    "School girls Shanti Ghosh and Suniti Choudhary killed the District Judge",
+    "Kalpana Dutta unfurled the flag of India at Stuttgart",
+    "Pritilata Waddedar was sentenced to life imprisonment"
+   ],
+   "answer": 1
+  }
+ ]
+}

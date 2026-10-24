@@ -1,0 +1,1633 @@
+{
+ "class": 8,
+ "id": "03",
+ "title": "Effects of British Rule",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "The Portuguese, Dutch, French and British entered the race for capturing the Indian market.",
+   "year": null,
+   "era": "CE",
+   "quote": "All the European including Portuguese, Dutch, French and British entered the race for capturing the Indian market.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "event",
+   "text": "When the British came to India for trade, the Portuguese had already settled here and gave a bitter resistance; later friendly relations developed; the British faced opposition from the French, Dutch and local rulers.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Portuguese had already settled here and they gave a bitter resistance. Later friendly relations developed between them. But, to establish the domination over India, the British had to face opposition from French, Dutch and local rulers.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "place",
+   "text": "Mumbai was the main centre of the British in western India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Mumbai was the main centre of British in western India.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "person",
+   "text": "After the death of Peshwa Madhavrao, his uncle Raghunathrao sought help from the British due to his greed for Peshwaship; this led to the British entering Maratha politics.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the death of Peshwa Madhavrao, his uncle, Raghunathrao approached for help from the British due to his greed for Peshwaship. This led to the entrance of the British in Maratha politics.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "During 1774 to 1818, three wars were fought between the Marathas and the British.",
+   "year": null,
+   "era": "CE",
+   "quote": "During 1774 to 1818, three wars were fought between the Marathas and the British.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "In the first war the Marathas unitedly faced the British and proved superior; in 1782 the Treaty of Salbai ended the first Anglo-Maratha war.",
+   "year": 1782,
+   "era": "CE",
+   "quote": "During the first war the Marathas unitedly faced the British and hence proved superior. In 1782, with the Treaty of Salbai, the first Anglo-Maratha war came to an end.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "date",
+   "text": "In 1798 Lord Wellesley arrived in India as Governor General; to establish British Dominion all over India he signed the Subsidiary Alliance with many Indian rulers.",
+   "year": 1798,
+   "era": "CE",
+   "quote": "In 1798, Lord Wellesley arrived in India as Governor General. His objective was to establish the British Dominion all over India. For this he signed the Subsidiary Alliance with many Indian rulers.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "Under the Subsidiary Alliance, rulers got British military help but had to maintain a British army, pay cash or territory for it, make no alliance or war without the British, and accept a British resident.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Indian rulers have to maintain British army in their court and have to pay cash or part of their territory to the company for its maintenance. The ruler would not have any alliance with any other power or declare war against any power without the intervention of the British. The ruler would accept a British resident in his state.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "date",
+   "text": "In 1802 Bajirao II signed the Subsidiary Alliance treaty with the British, well known as the Treaty of Vasai.",
+   "year": 1802,
+   "era": "CE",
+   "quote": "In 1802, Bajirao II signed the Subsidiary Alliance treaty with the British. This alliance is well known as the Treaty of Vasai.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "event",
+   "text": "The Treaty of Vasai was not acceptable to some Maratha sardars, which led to the second Anglo Maratha war.",
+   "year": null,
+   "era": "CE",
+   "quote": "But this treaty was not acceptable to some Maratha sardars. This led to the second Anglo Maratha war.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "date",
+   "text": "Bajirao II waged war against the British, was defeated, and in 1818 surrendered to the British.",
+   "year": 1818,
+   "era": "CE",
+   "quote": "Bajirao II waged a war against the British. He was defeated in this battle and in 1818 he surrendered to the British.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "The Mughal capital was under Daulatrao Shinde; General Lake defeated Shinde's troops, captured the Mughal emperor and gained victory over Hindustan.",
+   "year": null,
+   "era": "CE",
+   "quote": "the capital of Mughals was under the control of Daulatrao Shinde. By defeating the troop of Shinde, General Lake captured the Mughal emperor and gained victory over Hindustan.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "Chhatrapati Pratapsingh of Satara was still ruling after the Peshwaship ended; the British signed a treaty with him and appointed Grant Duff to assist him in state affairs.",
+   "year": null,
+   "era": "CE",
+   "quote": "Although the Peshwaship came to an end, Chhatrapati Pratapsingh of Satara was still ruling. Britishers signed a treaty with Chhatrapati Pratapsingh and appointed Grant Duff as an officer to assist him in the state affairs.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "Chhatrapati Pratapsingh was dethroned and exiled to Kashi, where he died in 1847.",
+   "year": 1847,
+   "era": "CE",
+   "quote": "the Chhatrapati was dethroned and exiled to Kashi. He died there in 1847.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "person",
+   "text": "Rango Bapuji Gupte, a loyal officer of the Chhatrapati, fought the legal battle and went up to England, but his efforts were unsuccessful.",
+   "year": null,
+   "era": "CE",
+   "quote": "Rango Bapuji Gupte, a loyal officer of the Chhatrapati fought the legal battle and went up to England but his efforts were unsuccessful.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "date",
+   "text": "Lord Dalhousie rejected the adoption policy and in 1848 annexed the state of Satara.",
+   "year": 1848,
+   "era": "CE",
+   "quote": "Later Lord Dalhousie rejected the adoption policy and in 1848 annexed the state of Satara.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "Chhatrapati Pratapsingh built a water tank behind Yevteshwar temple and Mahadara, built roads with trees, and schools for boys and girls teaching Sanskrit, Marathi and English.",
+   "year": null,
+   "era": "CE",
+   "quote": "Chhatrapati Pratapsingh made provision of water to the city by building a water tank on the back side of Yevteshwar temple and Mahadara in Satara. Roads were built in the city. Trees were planted on both sides of the road. Schools were built for boys and girls for teaching Sanskrit, Marathi and English.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "Under Chhatrapati Pratapsingh a printing press was set up and many useful books were published; in 1827 'Sabhaniti', a book on polity, was printed.",
+   "year": 1827,
+   "era": "CE",
+   "quote": "Printing press was set up and many useful books were published. In 1827, 'Sabhaniti', a book on polity, was printed.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "place",
+   "text": "Chhatrapati Pratapsingh built a road from Satara to Mahabaleshwar to Pratapgad, later extended to Mahad, and wrote a personal daily diary.",
+   "year": null,
+   "era": "CE",
+   "quote": "He built road from Satara to Mahabaleshwar to Pratapgad. The same road further extended to Mahad. Chhatrapati Pratapsingh used to write personal daily diary.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "In 1765 Robert Clive introduced the dual government system in Bengal: the company collected revenue and the Nawab of Bengal maintained law and order.",
+   "year": 1765,
+   "era": "CE",
+   "quote": "Robert Clive, in 1765, introduced the dual government system in Bengal. The company undertook the work of revenue collection whereas the Nawab of Bengal had to maintain law and order.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "Under dual government, tax money went into the pockets of company officers; trading companies in England envied the company's monopoly, and Parliament passed laws to control it.",
+   "year": null,
+   "era": "CE",
+   "quote": "Money in the form of taxes went into the pockets of the company officers. The Monopoly of Trade in India was given to East India Company and hence many trading companies in England envied them. ... British Parliament introduced some important laws to keep control over the company.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "date",
+   "text": "By the Regulating Act of 1773 the Bengal Governor became the Governor General; Lord Warren Hastings became Governor General of India, controlled Mumbai and Madras policies, and had a committee of four members to assist him.",
+   "year": 1773,
+   "era": "CE",
+   "quote": "According to Regulating Act of 1773, the Bengal Governor came to be known as the Governor General. According to this act, Lord Warren Hastings became the Governor General of India. He got the right to control the policies of Mumbai and Madras provinces. A committee of four members was set up to assist him.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "In 1784 Pitt's India Act was passed, providing a permanent Board of Control for the affairs of the East India Company.",
+   "year": 1784,
+   "era": "CE",
+   "quote": "In 1784, Pitt's India Act was passed. The Act provided for appointment of a permanent Board of Control for better regulation and management of affairs of the East India Company in India.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "In 1813, 1833 and 1853 Parliament passed new laws changing the working of the company, giving the British Government indirect control over it.",
+   "year": null,
+   "era": "CE",
+   "quote": "In 1813, 1833 and 1853 new laws were passed by the Parliament to make certain changes in the working of the company. In this way there evolved an indirect control of the British Government",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Civil Services, military, police force and judicial system were the main pillars of British administration in India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Civil Services, military, police force and judicial system became the main pillars of British administration in India.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "Lord Cornwallis introduced bureaucracy; he restricted the private trade of company officers and increased their salary.",
+   "year": null,
+   "era": "CE",
+   "quote": "Lord Cornwallis introduced bureaucracy. ... He restricted the private trade carried out by the company officers and for this purpose he increased their salary.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Cornwallis divided British territories into districts; the District Collector, chief of district administration, collected revenue, gave justice and maintained law and order.",
+   "year": null,
+   "era": "CE",
+   "quote": "he divided the British occupied territories into districts. The District Collector was the chief of district administration. He was responsible for collection of revenue, giving justice, maintaining law and order.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Officers were appointed through competitive examinations known as Indian Civil Services (ICS).",
+   "year": null,
+   "era": "CE",
+   "quote": "The officers were appointed through competitive examinations known as Indian Civil Services (ICS).",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "The military safeguarded British regions, acquired new territories and broke down revolts; the police maintained law and order.",
+   "year": null,
+   "era": "CE",
+   "quote": "The duty of military was to safeguard the British occupied regions in India, acquire new territories and break down any revolt against the British in India. To maintain law and order in the country was the duty of the police force.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "The new judicial system was based on that of England; every district had a Civil and Criminal Court, and a High Court was set up to reconsider judgements.",
+   "year": null,
+   "era": "CE",
+   "quote": "The British established a new judicial system in India on the basis of judicial system in England. Every district had a Civil and Criminal Court to solve the local cases. For reconsideration of their judgements a High Court was established.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "A committee under Lord Macaulay created the code of law; the Indian Penal Code was enforced all over British India with the principle of equality before law.",
+   "year": null,
+   "era": "CE",
+   "quote": "Under the leadership of Lord Macaulay, a committee was setup to create the code of law. The Indian Penal Code was enforced all over British India with British principle of equality before law.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "event",
+   "text": "Defects: separate courts and laws for Europeans, laws hard for common people to understand, expensive cases pending for years.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were seperate courts and different laws for the Europeans. New laws were difficult to be understood by common people. Legal cases became an expensive affair for the community and the cases remained pending for years together.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "event",
+   "text": "Earlier invaders never changed the basic Indian economic system; the British were an exception, and India faced economic exploitation.",
+   "year": null,
+   "era": "CE",
+   "quote": "Even though they ruled here, they never made any changes in the basic Indian economic system. The Britishers were an exception. ... Due to this Britishers gained economic benefit, but India started facing economic exploitation.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Before British rule, revenue depended on the crop, farmers were exempted when crops were lost, revenue was mainly in grains, and land was not confiscated for late payment.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the Pre British period, revenue was based on the type of cultivated crop. The farmer was exempted from taxation in case of loss of crops. Revenue was mainly collected in the form of grains. Even in case of late payment of tax, the farmer's land was not confiscated.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "The British measured land and fixed tax by area, made cash payment compulsory, and confiscated land if tax was late.",
+   "year": null,
+   "era": "CE",
+   "quote": "Land was measured and as per the area of the land, the tax was fixed. Payment of tax was made compulsory in the form of cash. If the farmer failed to pay tax in time, then his land would be confiscated.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "event",
+   "text": "Farmers sold crops cheaply, mortgaged land to money lenders and became bankrupt; they were exploited by the government, zamindar, money lenders and merchants.",
+   "year": null,
+   "era": "CE",
+   "quote": "At certain times the farmer had to mortgage his land to the money lender ... Farmer became bankrupt. ... The farmer was exploited by the government, zamindar, money lenders and merchants.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "Commercialisation of agriculture: stress on cultivating profit giving cash crops like cotton, indigo, tobacco and tea instead of food grains.",
+   "year": null,
+   "era": "CE",
+   "quote": "The British Government started giving more encouragement to cash crops like cotton, indigo, tobacco, tea etc. The process of giving stress on cultivation of profit giving cash crops instead of food grains is known as the commercialisation of agriculture.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "event",
+   "text": "From 1860 to 1900 India faced great famine, but the British rulers did not take much effort to overcome it.",
+   "year": null,
+   "era": "CE",
+   "quote": "From 1860 to 1900, India faced great famine but the British rulers did not take much efforts to overcome it.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "date",
+   "text": "In 1853 the first Railway ran from Mumbai to Thane; in the same year the British started the Telegraph system; they also started the Postal System.",
+   "year": 1853,
+   "era": "CE",
+   "quote": "In 1853, first Railway ran on the route of Mumbai to Thane. In the same year British started Telegraph system in India. ... Similarly the British also started the Postal System.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "Huge taxes on Indian exports to England, very little tax on English imports, and cheap machine made English goods closed traditional industries and left artisans unemployed.",
+   "year": null,
+   "era": "CE",
+   "quote": "The British government obtained huge taxes on goods exported from India to England. On the other hand very less tax was imposed on goods imported from England to India. ... Eventually it led to closing down of traditional industries and many artisans became unemployed.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "date",
+   "text": "In 1854 Kawasjee Nanabhoy Davar started the first textile mill in Mumbai.",
+   "year": 1854,
+   "era": "CE",
+   "quote": "In 1854, Kawasjee Nanabhoy Davar, started the first textile mill in Mumbai.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "In 1855 the first Jute mill was started at Rishra in Bengal.",
+   "year": 1855,
+   "era": "CE",
+   "quote": "In 1855 the first Jute mill was started at Rishra in Bengal.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "In 1907 Jamshedji Tata established the Tata Iron and Steel company at Jamshedpur.",
+   "year": 1907,
+   "era": "CE",
+   "quote": "In 1907 Jamshedji Tata established the Tata Iron and Steel company at Jamshedpur.",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "event",
+   "text": "Coal, metals, sugar, cement and chemical industries came to be started in India.",
+   "year": null,
+   "era": "CE",
+   "quote": "In India coal, metals, sugar, cement and chemical Industries came to be started.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "term",
+   "text": "In 19th century Europe a new era took shape on values like humanitarianism, democracy, nationalism and liberalism, which affected India.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the 19th Century Europe, a new era took shape on basis of values like humanitarianism, democracy, nationalism, liberalism etc.",
+   "page": 4
+  },
+  {
+   "fid": "f46",
+   "kind": "date",
+   "text": "In 1784 Sir William Jones, an English officer, established the 'Asiatic Society of Bengal' at Kolkata.",
+   "year": 1784,
+   "era": "CE",
+   "quote": "In 1784, Sir William Jones, an English officer established the 'Asiatic Society of Bengal' at Kolkata.",
+   "page": 5
+  },
+  {
+   "fid": "f47",
+   "kind": "person",
+   "text": "Max Mueller, a German thinker, was a devout scholar of Indian religion, language and history.",
+   "year": null,
+   "era": "CE",
+   "quote": "Max Mueller, a German thinker was a devout scholar of Indian religion, language and history.",
+   "page": 5
+  },
+  {
+   "fid": "f48",
+   "kind": "date",
+   "text": "In 1829 Lord William Bentinck passed the Sati Prohibition Act.",
+   "year": 1829,
+   "era": "CE",
+   "quote": "In 1829, Lord William Bentinck passed the Sati Prohibition Act.",
+   "page": 5
+  },
+  {
+   "fid": "f49",
+   "kind": "date",
+   "text": "In 1856 Lord Dalhousie passed the widow remarriage act.",
+   "year": 1856,
+   "era": "CE",
+   "quote": "In 1856 Lord Dalhousie passed the widow remarriage act.",
+   "page": 5
+  },
+  {
+   "fid": "f50",
+   "kind": "date",
+   "text": "On the recommendation of Lord Macaulay, English education started being imparted in India in 1835.",
+   "year": 1835,
+   "era": "CE",
+   "quote": "According to recommendation of Lord Macaulay, in 1835, English education started being imparted in India.",
+   "page": 5
+  },
+  {
+   "fid": "f51",
+   "kind": "date",
+   "text": "In 1857 universities were established at Kolkata, Mumbai and Madras (Chennai).",
+   "year": 1857,
+   "era": "CE",
+   "quote": "In 1857, universities were established at Kolkata, Mumbai and Madras (Chennai).",
+   "page": 5
+  },
+  {
+   "fid": "f52",
+   "kind": "event",
+   "text": "The Western educated middle class Indians led the social reform movement in India.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Western educated middle class Indians led the social reform movement in India.",
+   "page": 5
+  },
+  {
+   "fid": "f53",
+   "kind": "event",
+   "text": "These developments had a long term impact on social life and increased the sense of unity among Indians.",
+   "year": null,
+   "era": "CE",
+   "quote": "Due to all these developments, there was a long term impact on the social life of the Indians. Due to this there was increasing sense of unity among them.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-03-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f09",
+    "f11",
+    "f39",
+    "f43"
+   ],
+   "hook": "1802 Vasai, 1818 surrender, 1853 railway, 1907 Tata steel.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Bajirao II signs the Treaty of Vasai",
+     "y": "1802",
+     "k": 1802
+    },
+    {
+     "t": "Bajirao II surrenders to the British",
+     "y": "1818",
+     "k": 1818
+    },
+    {
+     "t": "First railway, Mumbai to Thane",
+     "y": "1853",
+     "k": 1853
+    },
+    {
+     "t": "Tata Iron and Steel at Jamshedpur",
+     "y": "1907",
+     "k": 1907
+    }
+   ]
+  },
+  {
+   "qid": "c8-03-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "<b>1802</b>: Bajirao II signs at Vasai.",
+   "prompt": "In which year did Bajirao II sign the Subsidiary Alliance treaty (Treaty of Vasai) with the British?",
+   "year": 1802,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "<b>1853</b>: train to Thane and telegraph in the same year.",
+   "prompt": "In which year did the first railway run from Mumbai to Thane?",
+   "year": 1853,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Wellesley 1798: Subsidiary Alliance to spread British Dominion.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My aim was to establish the British Dominion all over India.",
+    "I signed the Subsidiary Alliance with many Indian rulers.",
+    "I arrived in India as Governor General in 1798."
+   ],
+   "options": [
+    "Lord Cornwallis",
+    "Lord Dalhousie",
+    "Lord Wellesley",
+    "Warren Hastings"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-03-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "1853: railway and telegraph together; post too.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aryan",
+     "In 1853 the first railway ran from Mumbai to Thane."
+    ],
+    [
+     "Sneha",
+     "In 1857 the British started the Telegraph system in India."
+    ],
+    [
+     "Aryan",
+     "The British also started the Postal System."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 1
+   },
+   "options": [
+    "1835",
+    "1853",
+    "1854"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-03-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "Jamshedji Tata, 1907, steel at Jamshedpur.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was an Indian businessman who built up my business despite many problems.",
+    "My company made iron and steel.",
+    "I established my company at Jamshedpur in 1907."
+   ],
+   "options": [
+    "Kawasjee Nanabhoy Davar",
+    "Max Mueller",
+    "Jamshedji Tata",
+    "Rango Bapuji Gupte"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-03-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Cash crops (cotton, indigo, tobacco, tea) over food grains.",
+   "prompt": "What is meant by the commercialisation of agriculture?",
+   "options": [
+    "Stressing the cultivation of profit giving cash crops instead of food grains",
+    "Paying land tax in the form of grains",
+    "Growing only food grains for the village",
+    "Exempting farmers from tax when crops fail"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Subsidiary Alliance: British army, pay for it, no wars alone, British resident.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pranav",
+     "Under the Subsidiary Alliance Indian rulers had to maintain a British army."
+    ],
+    [
+     "Ira",
+     "They had to pay cash or part of their territory for its maintenance."
+    ],
+    [
+     "Pranav",
+     "The ruler had to accept a French resident in his state."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "British",
+    "Dutch",
+    "Portuguese"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f20",
+    "f22",
+    "f23",
+    "f07"
+   ],
+   "hook": "1765 dual rule, 1773 Regulating Act, 1784 Pitt's Act, 1798 Wellesley.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Dual government in Bengal",
+     "y": "1765",
+     "k": 1765
+    },
+    {
+     "t": "Regulating Act",
+     "y": "1773",
+     "k": 1773
+    },
+    {
+     "t": "Pitt's India Act",
+     "y": "1784",
+     "k": 1784
+    },
+    {
+     "t": "Lord Wellesley arrives as Governor General",
+     "y": "1798",
+     "k": 1798
+    }
+   ]
+  },
+  {
+   "qid": "c8-03-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "<b>1765</b>: Clive splits power - company takes revenue, Nawab keeps order.",
+   "prompt": "In which year did Robert Clive introduce the dual government system in Bengal?",
+   "year": 1765,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-11",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f11",
+    "f09"
+   ],
+   "hook": "Vasai 1802, surrender <b>1818</b>: 16 years later.",
+   "prompt": "In which year did Bajirao II surrender to the British?",
+   "year": 1818,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "Cornwallis: bureaucracy, higher salaries, districts and Collectors.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I increased the salary of company officers to stop their private trade.",
+    "I divided British territories into districts.",
+    "I introduced bureaucracy in India."
+   ],
+   "options": [
+    "Lord Cornwallis",
+    "Lord Wellesley",
+    "Lord William Bentinck",
+    "Robert Clive"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f36"
+   ],
+   "hook": "British revenue: measure land, fix tax by area, cash only, late = land lost.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ritika",
+     "The British measured land and fixed the tax as per its area."
+    ],
+    [
+     "Om",
+     "Payment of tax in the form of grains was made compulsory."
+    ],
+    [
+     "Ritika",
+     "If a farmer failed to pay tax in time his land would be confiscated."
+    ],
+    [
+     "Om",
+     "Many farmers became bankrupt and had to sell their land."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "cash",
+    "cloth",
+    "cattle"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f09",
+    "f11"
+   ],
+   "hook": "Bajirao II: Vasai 1802, surrender 1818.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I waged a war when British interference became intolerable.",
+    "My treaty with the British is known as the Treaty of Vasai.",
+    "In 1818 I surrendered to the British."
+   ],
+   "options": [
+    "Bajirao II",
+    "Raghunathrao",
+    "Daulatrao Shinde",
+    "Chhatrapati Pratapsingh"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "event",
+    "people"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "Portuguese (already settled here), Dutch, French and British: all in the race for India's market.",
+   "prompt": "Which European powers entered the race for capturing the Indian market?",
+   "options": [
+    "Only the British and the French",
+    "Only the Portuguese and the British",
+    "Only the Dutch and the French",
+    "Portuguese, Dutch, French and British"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-03-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "District: Civil and Criminal Court; appeal: High Court.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kunal",
+     "The British judicial system in India was based on the system in England."
+    ],
+    [
+     "Anika",
+     "Every district had a Civil and Criminal Court."
+    ],
+    [
+     "Kunal",
+     "A Village Court was set up to reconsider their judgements."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Military",
+    "Revenue",
+    "High"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-03-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f11",
+    "f18",
+    "f14",
+    "f16"
+   ],
+   "hook": "1818 Peshwa ends, 1827 'Sabhaniti', 1847 Pratapsingh dies, 1848 Satara annexed.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Bajirao II surrenders to the British",
+     "y": "1818",
+     "k": 1818
+    },
+    {
+     "t": "'Sabhaniti' printed",
+     "y": "1827",
+     "k": 1827
+    },
+    {
+     "t": "Pratapsingh dies at Kashi",
+     "y": "1847",
+     "k": 1847
+    },
+    {
+     "t": "Lord Dalhousie annexes Satara",
+     "y": "1848",
+     "k": 1848
+    }
+   ]
+  },
+  {
+   "qid": "c8-03-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "<b>1773</b>: Bengal Governor becomes Governor General.",
+   "prompt": "In which year was the Regulating Act passed?",
+   "year": 1773,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f48"
+   ],
+   "hook": "<b>1829</b> Bentinck bans Sati; 27 years later, 1856, widow remarriage act.",
+   "prompt": "In which year did Lord William Bentinck pass the Sati Prohibition Act?",
+   "year": 1829,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f13",
+    "f14"
+   ],
+   "hook": "Pratapsingh of Satara: Grant Duff to assist, exiled to Kashi, died 1847.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Grant Duff was appointed to assist me in state affairs.",
+    "I was dethroned and exiled to Kashi.",
+    "I ruled Satara even after the Peshwaship came to an end."
+   ],
+   "options": [
+    "Bajirao II",
+    "Chhatrapati Pratapsingh",
+    "Rango Bapuji Gupte",
+    "Daulatrao Shinde"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-03-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "Dual government, Bengal 1765: company = revenue, Nawab = law and order.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanmay",
+     "Robert Clive introduced the dual government system in Mysore in 1765."
+    ],
+    [
+     "Mira",
+     "Under it the company did the work of revenue collection."
+    ],
+    [
+     "Tanmay",
+     "The Nawab of Bengal had to maintain law and order."
+    ],
+    [
+     "Mira",
+     "Money in the form of taxes went into the pockets of the company officers."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 8
+   },
+   "options": [
+    "Bengal",
+    "Satara",
+    "Madras"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "Raghunathrao's greed for Peshwaship opened the door to the British.",
+   "prompt": "How did the British enter Maratha politics?",
+   "options": [
+    "Grant Duff was made the Peshwa.",
+    "The Portuguese gave Mumbai to the Marathas.",
+    "Chhatrapati Pratapsingh invited the British to build railways.",
+    "Raghunathrao asked the British for help due to his greed for Peshwaship after Peshwa Madhavrao's death."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-03-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "year"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "1773: Warren Hastings, Governor General, with a committee of four.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Vihaan",
+     "According to the Regulating Act of 1773 the Bengal Governor became the Governor General."
+    ],
+    [
+     "Kiara",
+     "Lord Warren Hastings became the Governor General of India."
+    ],
+    [
+     "Vihaan",
+     "A committee of six members was set up to assist him."
+    ],
+    [
+     "Kiara",
+     "He got the right to control the policies of Mumbai and Madras provinces."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "four",
+    "two",
+    "three"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-24",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f31",
+    "f50"
+   ],
+   "hook": "Macaulay: Indian Penal Code + English education from 1835.",
+   "prompt": "Who am I?",
+   "clues": [
+    "A committee under my leadership created the code of law.",
+    "The Indian Penal Code that followed brought equality before law.",
+    "English education started in India in 1835 on my recommendation."
+   ],
+   "options": [
+    "Lord Macaulay",
+    "Sir William Jones",
+    "Lord Cornwallis",
+    "Max Mueller"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f39",
+    "f41",
+    "f42",
+    "f43"
+   ],
+   "hook": "1853 rail, 1854 textile, 1855 jute, 1907 steel.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "First railway, Mumbai to Thane",
+     "y": "1853",
+     "k": 1853
+    },
+    {
+     "t": "First textile mill in Mumbai",
+     "y": "1854",
+     "k": 1854
+    },
+    {
+     "t": "First Jute mill at Rishra",
+     "y": "1855",
+     "k": 1855
+    },
+    {
+     "t": "Tata Iron and Steel at Jamshedpur",
+     "y": "1907",
+     "k": 1907
+    }
+   ]
+  },
+  {
+   "qid": "c8-03-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Regulating Act 1773 + 11 = Pitt's India Act <b>1784</b>.",
+   "prompt": "In which year was Pitt's India Act passed?",
+   "year": 1784,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Railway 1853, textile mill <b>1854</b>, jute mill 1855: three years in a row.",
+   "prompt": "In which year did Kawasjee Nanabhoy Davar start the first textile mill in Mumbai?",
+   "year": 1854,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Rango Bapuji Gupte fought for the Chhatrapati all the way to England.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a loyal officer of the Chhatrapati.",
+    "I fought a legal battle on his behalf.",
+    "I went up to England, but my efforts were unsuccessful."
+   ],
+   "options": [
+    "Grant Duff",
+    "Raghunathrao",
+    "Kawasjee Nanabhoy Davar",
+    "Rango Bapuji Gupte"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-03-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f17",
+    "f18",
+    "f19"
+   ],
+   "hook": "Pratapsingh's road: Satara - Mahabaleshwar - Pratapgad, then Mahad.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gauri",
+     "Chhatrapati Pratapsingh built a water tank behind the Yevteshwar temple."
+    ],
+    [
+     "Dhruv",
+     "Schools for boys and girls taught Sanskrit, Marathi and English."
+    ],
+    [
+     "Gauri",
+     "In 1827 a book on polity called Sabhaniti was printed."
+    ],
+    [
+     "Dhruv",
+     "He built a road from Satara to Mahabaleshwar to Raigad which was extended to Mahad."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 9
+   },
+   "options": [
+    "Sinhagad",
+    "Shivneri",
+    "Pratapgad"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-03-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "Before the British: tax by crop, in grain, excused on crop loss, land safe.",
+   "prompt": "Which statement about land revenue before British rule is correct?",
+   "options": [
+    "Tax was fixed as per the area of the land.",
+    "Payment of tax in cash was compulsory.",
+    "Late payment of tax led to confiscation of land.",
+    "The farmer was exempted from taxation in case of loss of crops."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-03-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f41",
+    "f42",
+    "f44"
+   ],
+   "hook": "1854 Mumbai textile, 1855 Rishra jute.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sahil",
+     "In 1854 Kawasjee Nanabhoy Davar started the first textile mill in Mumbai."
+    ],
+    [
+     "Nisha",
+     "In 1855 the first Jute mill was started at Surat in Bengal."
+    ],
+    [
+     "Sahil",
+     "Coal, metals, sugar, cement and chemical industries were also started in India."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "Thane",
+    "Rishra",
+    "Satara"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-03-32",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f46",
+    "f47"
+   ],
+   "hook": "Sir William Jones, 1784, Asiatic Society of Bengal at Kolkata.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was an English officer.",
+    "I set up a society at Kolkata in 1784.",
+    "I established the 'Asiatic Society of Bengal'."
+   ],
+   "options": [
+    "Max Mueller",
+    "Sir William Jones",
+    "Lord William Bentinck",
+    "Grant Duff"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-03-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f09",
+    "f11",
+    "f16"
+   ],
+   "hook": "1782 Salbai, 1798 Wellesley, 1802 Vasai, 1818 surrender, 1848 Satara.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Treaty of Salbai ends the first war",
+     "y": "1782",
+     "k": 1782
+    },
+    {
+     "t": "Lord Wellesley arrives in India",
+     "y": "1798",
+     "k": 1798
+    },
+    {
+     "t": "Treaty of Vasai",
+     "y": "1802",
+     "k": 1802
+    },
+    {
+     "t": "Bajirao II surrenders",
+     "y": "1818",
+     "k": 1818
+    },
+    {
+     "t": "Satara annexed by Lord Dalhousie",
+     "y": "1848",
+     "k": 1848
+    }
+   ]
+  },
+  {
+   "qid": "c8-03-34",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f46",
+    "f48",
+    "f50",
+    "f49",
+    "f51"
+   ],
+   "hook": "1784 Asiatic Society, 1829 Sati ban, 1835 English education, 1856 widows, 1857 universities.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Asiatic Society of Bengal founded",
+     "y": "1784",
+     "k": 1784
+    },
+    {
+     "t": "Sati Prohibition Act",
+     "y": "1829",
+     "k": 1829
+    },
+    {
+     "t": "English education begins in India",
+     "y": "1835",
+     "k": 1835
+    },
+    {
+     "t": "Widow remarriage act",
+     "y": "1856",
+     "k": 1856
+    },
+    {
+     "t": "Universities at Kolkata, Mumbai, Madras",
+     "y": "1857",
+     "k": 1857
+    }
+   ]
+  },
+  {
+   "qid": "c8-03-35",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f16",
+    "f14"
+   ],
+   "hook": "Pratapsingh died 1847; Satara annexed the next year, <b>1848</b>.",
+   "prompt": "In which year did Lord Dalhousie annex the state of Satara?",
+   "year": 1848,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-36",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Treaty of Salbai <b>1782</b>: the united Marathas proved superior.",
+   "prompt": "In which year did the first Anglo-Maratha war end with the Treaty of Salbai?",
+   "year": 1782,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-03-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f12",
+    "f05",
+    "f10"
+   ],
+   "hook": "Three Anglo-Maratha wars, 1774 to 1818; General Lake beat Shinde.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arnav",
+     "The capital of the Mughals was under the control of Daulatrao Shinde."
+    ],
+    [
+     "Pari",
+     "General Lake defeated Shinde's troops and captured the Mughal emperor."
+    ],
+    [
+     "Arnav",
+     "During 1774 to 1818 four wars were fought between the Marathas and the British."
+    ],
+    [
+     "Pari",
+     "The Treaty of Vasai was not acceptable to some Maratha sardars."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "two",
+    "five",
+    "three"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-03-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "High tax out, low tax in, cheap machine goods: artisans lost work.",
+   "prompt": "Why did traditional industries in India close down?",
+   "options": [
+    "Indian exports to England were taxed heavily, English imports lightly, and English machine made goods were cheap.",
+    "The British gave great support to Indian artisans.",
+    "Indian goods were cheaper than machine made English goods.",
+    "All trade between India and England was banned."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-03-39",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f28",
+    "f29",
+    "f25"
+   ],
+   "hook": "Military: guard, conquer, crush revolts. Police: law and order.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rehan",
+     "The District Collector was the chief of district administration."
+    ],
+    [
+     "Tia",
+     "Officers were appointed through competitive examinations called the ICS."
+    ],
+    [
+     "Rehan",
+     "The duty of the police was to acquire new territories for the British."
+    ],
+    [
+     "Tia",
+     "Civil Services, military, police force and judicial system were the main pillars of British administration."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Collector",
+    "military",
+    "court"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-03-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event",
+    "year"
+   ],
+   "fids": [
+    "f38",
+    "f32",
+    "f51",
+    "f33"
+   ],
+   "hook": "Famine 1860-1900, little British effort.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "There were no separate courts for Europeans under British rule.",
+    "From 1860 to 1900 India faced great famine, but the British did not take much effort to overcome it.",
+    "Universities were set up at Kolkata, Mumbai and Madras in 1835.",
+    "Earlier invaders changed the basic Indian economic system, just like the British."
+   ],
+   "answer": 1
+  }
+ ]
+}

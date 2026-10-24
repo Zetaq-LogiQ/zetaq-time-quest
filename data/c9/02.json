@@ -1,0 +1,1503 @@
+{
+ "class": 9,
+ "id": "02",
+ "title": "India: Events after 1960",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "date",
+   "text": "India became independent in 1947 CE.",
+   "year": 1947,
+   "era": "CE",
+   "quote": "India became independent in 1947 ce.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "date",
+   "text": "India accepted the constitutional framework in 1950 and became a sovereign democratic nation.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "India accepted the constitutional framework in 1950 and became a sovereign democratic nation.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Indian society is multicultural: people of various languages, religions, ethnicities and castes live together.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Indian society is multicultural and people of various languages, religions, ethnicities and castes live together.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "The establishment of the Planning Commission and emphasis on industrialisation were a means to achieve economic development and eliminate poverty.",
+   "year": null,
+   "era": "CE",
+   "quote": "The establishment of the Planning Commission and emphasis on industrialisation was a means to achieve economic development and to eliminate poverty in India.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "In the 1960s the regions of Goa, Diu and Daman were freed from Portuguese rule and became parts of the Indian federation.",
+   "year": null,
+   "era": "CE",
+   "quote": "The regions of Goa, Diu and Daman were freed from Portuguese rule and became parts of the Indian federation.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "Tensions between India and China on the northern border, rising since 1950, culminated in the war of 1962, fought in the region of the MacMahon line.",
+   "year": 1962,
+   "era": "CE",
+   "quote": "The tensions between India and China on the northern border which had been rising since 1950, culminated in the war of 1962 between two countries. This war was fought in the region of the MacMahon line.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "person",
+   "text": "Prime Minister Pandit Jawaharlal Nehru led the country after independence; he was the architect of India's foreign policy.",
+   "year": null,
+   "era": "CE",
+   "quote": "After India became independent, Prime Minister Pandit Jawaharlal Nehru led the country. He was the architect of India's foreign policy.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "date",
+   "text": "Jawaharlal Nehru passed away in 1964; Lal Bahadur Shastri succeeded him as Prime Minister.",
+   "year": 1964,
+   "era": "CE",
+   "quote": "Jawaharlal Nehru passed away in 1964. Lal Bahadur Shastri succeeded him and became the next Prime Minister of India.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "date",
+   "text": "During Shastri's tenure India and Pakistan went to war over the Kashmir issue in 1965; the Soviet Russia tried to mediate.",
+   "year": 1965,
+   "era": "CE",
+   "quote": "During his tenure, India and Pakistan went to war over the Kashmir issue in 1965. The Soviet Russia tried to mediate between the two countries.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "date",
+   "text": "Lal Bahadur Shastri breathed his last at Tashkent in 1966.",
+   "year": 1966,
+   "era": "CE",
+   "quote": "Lal Bahadur Shastri breathed his last at Tashkent in 1966.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Lal Bahadur Shastri gave the slogan 'Jai Jawan Jai Kisan', highlighting Indian soldiers and Indian farmers.",
+   "year": null,
+   "era": "CE",
+   "quote": "Lal Bahadur Shastri gave the slogan 'Jai Jawan Jai Kisan' with which he highlighted the importance of Indian soldiers and Indian farmers.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "date",
+   "text": "Indira Gandhi became Prime Minister in 1966; her decisions on nationalisation of banks and cancelling pensions of Princes had far reaching effects.",
+   "year": 1966,
+   "era": "CE",
+   "quote": "Indira Gandhi became the Prime Minister of India in 1966. ... Her decisions regarding the Nationalisation of banks and cancelling pensions of Princes had far reaching effects.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "Pakistan's oppressive policies in East Pakistan led to a big movement led by Sheikh Mujibur Rahman and his organisation 'Mukti Bahini'; millions of refugees came to India.",
+   "year": null,
+   "era": "CE",
+   "quote": "Pakistan's oppressive policies in East Pakistan resulted in a big movement there. This movement was led by Sheikh Mujibur Rahman and his organisation, 'Mukti Bahini.' This crisis in East Pakistan affected India as well, because millions of refugees came to India.",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "The 1971 war between India and Pakistan led to the creation of an independent country called Bangladesh; Indira Gandhi's strong leadership was prominent.",
+   "year": 1971,
+   "era": "CE",
+   "quote": "The 1971 war between India and Pakistan led to the creation of an independent country called Bangladesh. Role of Prime Minister Indira Gandhi's strong leadership was prominent in this issue.",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "As part of the policy to use atomic energy for peaceful purposes, India carried out an underground test of an atomic device at Pokharan in Rajasthan in 1974.",
+   "year": 1974,
+   "era": "CE",
+   "quote": "As a part of India's policy to use atomic energy for peaceful purposes, India successfully carried out an underground test of an atomic device at Pokharan in Rajasthan in 1974.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "date",
+   "text": "In 1975 the people of Sikkim voted for joining the Indian republic and Sikkim became a full-fledged State.",
+   "year": 1975,
+   "era": "CE",
+   "quote": "In 1975, the people of Sikkim voted for joining the Indian republic and Sikkim became a full-fledged State in the Indian federation.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "event",
+   "text": "During the National Emergency (1975 to 1977) fundamental rights were suspended; administration became disciplined but human rights were restricted; general elections followed.",
+   "year": null,
+   "era": "CE",
+   "quote": "During this turbulent period, the fundamental rights of Indian citizens were suspended. Due to the emergency, the Indian administration became disciplined, but the human rights were restricted. The period of national emergency lasted from 1975 to 1977 and after that general elections were conducted.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "event",
+   "text": "Opposition parties formed the Janata Party, which roundly defeated the Congress; Morarji Desai became Prime Minister but the government could not last long due to internal differences; Charan Singh succeeded him, also short-lived.",
+   "year": null,
+   "era": "CE",
+   "quote": "many opposition parties came together and formed a party called the Janata Party. The Congress party led by Indira Gandhi was roundly defeated ... Morarji Desai became the Prime Minister, but ... the Janata Party government couldn't last long due to internal differences. Charan Singh succeeded him, but even his government was a short-lived one.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "date",
+   "text": "Elections were held again in 1980 and the Congress under Indira Gandhi came to power again.",
+   "year": 1980,
+   "era": "CE",
+   "quote": "Elections were conducted once again in 1980 and the Congress party under the leadership of Indira Gandhi came to power again.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "event",
+   "text": "In the 1980s Sikhs in Punjab demanded an independent state of Khalistan; the movement became violent and destructive, and Pakistan lent its support.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Sikhs in Punjab demanded an independent state of Khalistan and began a movement which went on to become violent and destructive. Pakistan had lent its support to this movement.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "In 1984 the Indian army was sent into the Golden Temple at Amritsar, a holy shrine of the Sikhs, to evict terrorists; a bodyguard in Indira Gandhi's personal security assassinated her.",
+   "year": 1984,
+   "era": "CE",
+   "quote": "The Indian army was sent into the Golden Temple at Amritsar, a holy shrine of the Sikhs in 1984, to evict the terrorists who had allegedly taken shelter there. One of the bodyguards in Indira Gandhi's personal security assassinated her.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "event",
+   "text": "The United Liberation Front of Assam (ULFA) carried on a major movement in North-east India.",
+   "year": null,
+   "era": "CE",
+   "quote": "During this period, an organisation called United Liberation Front of Assam (ULFA) carried on a major movement in North-east India.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "Right after Indira Gandhi's assassination in 1984, Rajiv Gandhi became Prime Minister; he tried reforms in the economy and in science and technology.",
+   "year": 1984,
+   "era": "CE",
+   "quote": "Right after Indira Gandhi's assassination in 1984, Rajiv Gandhi became the Prime Minister of India. He tried to make several reforms in the field of Indian economy and that of science and technology.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "person",
+   "text": "Rajiv Gandhi took the lead in solving the issues of the Tamil minority in Sri Lanka, promoting a united Sri Lanka with internal autonomy to the Tamil community, but in vain.",
+   "year": null,
+   "era": "CE",
+   "quote": "He took the lead in solving the issues of the Tamil minority in Sri Lanka. He promoted the idea of a united Sri Lanka with internal autonomy to the Tamil community, but his efforts in this regard proved to be in vain.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "date",
+   "text": "The Congress was defeated in the 1989 general elections; the Janata Dal coalition formed and Vishwanath Pratap Singh became Prime Minister; his most important contribution was the OBC reservation policy.",
+   "year": 1989,
+   "era": "CE",
+   "quote": "The Congress party was defeated in the general elections held in 1989. Several political parties formed a coalition called the Janata Dal and Vishwanath Pratap Singh became the next Prime Minister of India. The policy for providing reservations for other backward classes (OBC) is considered to be his most important contribution.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "date",
+   "text": "In 1990 Chandra Shekhar became Prime Minister; his government was also short-lived.",
+   "year": 1990,
+   "era": "CE",
+   "quote": "In 1990, Chandra Shekhar became the Prime Minister of India. His government was also short-lived.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "date",
+   "text": "In 1991, during the election campaign, the LTTE (Liberation Tigers of Tamil Eelum) of Sri Lanka assassinated Rajiv Gandhi.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "In 1991, during the election campaign, the terrorist organisation in Sri Lanka, Liberation Tigers of Tamil Eelum (LTTE), assassinated Rajiv Gandhi.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "event",
+   "text": "Towards the end of the 1980s unrest in Jammu and Kashmir began; terrorist activities forced the Kashmiri Pandits to leave the valley.",
+   "year": null,
+   "era": "CE",
+   "quote": "Towards the end of the decade of 1980s, the unrest in Jammu and Kashmir had begun. ... The terrorist activities there forced the Kashmiri Pandits to leave the valley.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "date",
+   "text": "In 1991 the Soviet Russia disintegrated into several small countries and the Cold War came to an end; in India the government of P.V. Narasimha Rao initiated many economic changes.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "The year 1991 is held to be very important in the history of the world as well as India. The Soviet Russia disintegrated into several different small countries and the Cold War came to an end. In India, the Government under the leadership of Prime Minister P.V. Narasimha Rao initiated many changes in the Indian economy.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "In the elections between 1996 and 1999 no party got a clear majority in the Lok Sabha; Atal Bihari Vajpayee, H.D. Devegowda and Inder Kumar Gujral worked as Prime Ministers.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the elections conducted between 1996 and 1999, no political party got a clear majority in the Lok Sabha. Atal Bihari Vajpayee, H.D. Devegowda and Inder Kumar Gujral worked as Prime Ministers in this period amongst them.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "date",
+   "text": "In 1999 the 'National Democratic Alliance' came to power under the flag of Bharatiya Janata Party and Atal Bihari Vajpayee became Prime Minister.",
+   "year": 1999,
+   "era": "CE",
+   "quote": "Finally, in 1999 the 'National Democratic Alliance' came to power under the flag of Bharatiya Janata Party and Atal Bihari Vajpayee became India's Prime Minister.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "Atal Bihari Vajpayee tried to establish a dialogue with Pakistan but was not successful.",
+   "year": null,
+   "era": "CE",
+   "quote": "Atal Bihari Vajpayee tried to establish a dialogue with Pakistan but was not successful.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "India conducted a number of nuclear tests in 1998 and declared herself an atomic power.",
+   "year": 1998,
+   "era": "CE",
+   "quote": "India conducted a number of nuclear tests in 1998 and declared herself as an atomic power.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "In 1999 there was war between India and Pakistan in the Kargil region over the Kashmir issue; India defeated Pakistan.",
+   "year": 1999,
+   "era": "CE",
+   "quote": "In 1999, there was war between India and Pakistan in Kargil region over the Kashmir issue. India defeated Pakistan in this war.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "Modernisation, economic self-sufficiency and social justice have been characteristics of the Indian economy; the National Planning Commission coordinated development through Five Year Plans.",
+   "year": null,
+   "era": "CE",
+   "quote": "Right from independence, the modernisation of economy, economic self-sufficiency and social justice have been the characteristics of Indian economy. ... the National Planning Commission was established that would coordinate development through the policy of Five Year Plans.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "date",
+   "text": "The Narasimha Rao Government started economic reforms from 1991, called economic liberalisation; foreign investment increased and information technology opened jobs; the changes are also called 'globalisation'.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "The Narasimha Rao Government started economic reforms from 1991. These economic reforms are called as economic liberalisation. ... The foreign investment in India increased. ... The changes after 1991 are also described as 'globalisation'.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "date",
+   "text": "Dr M. S. Swaminathan is known as the father of the Green Revolution in 1965; he increased foodgrain production with new scientific techniques.",
+   "year": 1965,
+   "era": "CE",
+   "quote": "Dr M. S. Swaminathan is known as the father of the Green Revolution in 1965. He implemented new scientific agricultural techniques and increased the production of foodgrains.",
+   "page": 3
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "The co-operative dairy experiment of Dr. Verghese Kurien increased milk production in India; this is called the 'White Revolution'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The experiment in co-operative dairy movement by Dr. Verghese Kurien led to increase of milk production in India. This is called as 'White Revolution'.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "person",
+   "text": "Dr. Homi Bhabha laid the foundation of the Indian atomic power programme; India insisted on peaceful uses like electricity, pharmaceuticals and defence.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr. Homi Bhabha laid the foundation of the Indian atomic power programme. India insisted on using atomic energy for peaceful purposes like generation of electricity, pharmaceuticals and defence.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "In 1975 India's first satellite 'Aryabhatta' was launched.",
+   "year": 1975,
+   "era": "CE",
+   "quote": "In 1975, the first satellite 'Aryabhatta' was launched.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "date",
+   "text": "A separate 'Department of Women and Child Development' was created in 1985 under the Ministry of Human Resource Development.",
+   "year": 1985,
+   "era": "CE",
+   "quote": "a separate 'Department of Women and Child Development' was created in 1985 under the Ministry of Human Resource Development.",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "term",
+   "text": "Laws for social justice to women include the Prohibition of Dowry Act and the Equal Remuneration Act; the 73rd and 74th Constitution Amendments reserved seats for women in local self-government bodies.",
+   "year": null,
+   "era": "CE",
+   "quote": "They include the Prohibition of Dowry Act, Equal Remuneration Act. As per the 73rd and 74th Constitution Amendments, seats were reserved for women in the local self-government bodies.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "The 'Kakasaheb Kalelkar Commission' was set up in 1953 to recommend ways to improve the condition of those deprived due to the caste system.",
+   "year": 1953,
+   "era": "CE",
+   "quote": "The 'Kakasaheb Kalelkar Commission' was set up in 1953 to make recommendations so as to improve their condition.",
+   "page": 4
+  },
+  {
+   "fid": "f44",
+   "kind": "date",
+   "text": "In 1978 a commission was constituted under the chairmanship of B. P. Mandal to study the issue of the other backward classes.",
+   "year": 1978,
+   "era": "CE",
+   "quote": "In 1978, a commission was constituted under the chairmanship of B. P. Mandal to study the issue of the other backward classes.",
+   "page": 4
+  },
+  {
+   "fid": "f45",
+   "kind": "date",
+   "text": "The Government passed the Prevention of Atrocities Act in 1989 so that Scheduled castes and tribes could live with dignity and respect, free from fear and violence.",
+   "year": 1989,
+   "era": "CE",
+   "quote": "The Government passed the Prevention of Atrocities Act in 1989 to enable those belonging to the Scheduled castes and tribes to live with dignity and respect, free from fear, violence and oppression of the upper classes.",
+   "page": 4
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "Globalisation brought a revolution in telecommunication: mobile phones, internet and satellite communication spread across the country, changing the lifestyle, dietary habits, clothing, language and beliefs of the youth.",
+   "year": null,
+   "era": "CE",
+   "quote": "India has experienced an important revolution in the field of telecommunication technology. Mobile phones, internet and the communication facilities based on satellite have spread all across the country. ... These changes are visible from their dietary habits, clothing, language and beliefs.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-02-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f06",
+    "f08",
+    "f09",
+    "f14"
+   ],
+   "hook": "China war 1962, Nehru dies 1964, Kashmir war 1965, Bangladesh born of the 1971 war.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "India-China war",
+     "y": "1962",
+     "k": 1962
+    },
+    {
+     "t": "Jawaharlal Nehru passes away",
+     "y": "1964",
+     "k": 1964
+    },
+    {
+     "t": "India-Pakistan war over Kashmir",
+     "y": "1965",
+     "k": 1965
+    },
+    {
+     "t": "War that creates Bangladesh",
+     "y": "1971",
+     "k": 1971
+    }
+   ]
+  },
+  {
+   "qid": "c9-02-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "1971: India-Pakistan war, and a new country, Bangladesh.",
+   "prompt": "In which year did the war between India and Pakistan lead to the creation of Bangladesh?",
+   "year": 1971,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Pokharan, Rajasthan, 1974: an underground atomic test for peaceful purposes.",
+   "prompt": "In which year did India carry out an underground test of an atomic device at Pokharan in Rajasthan?",
+   "year": 1974,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f08",
+    "f09",
+    "f10",
+    "f11"
+   ],
+   "hook": "Shastri: PM after Nehru (1964), war of 1965, died at Tashkent 1966, 'Jai Jawan Jai Kisan'.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I breathed my last at Tashkent.",
+    "During my tenure India and Pakistan went to war over the Kashmir issue.",
+    "I succeeded Jawaharlal Nehru as Prime Minister.",
+    "I gave the slogan 'Jai Jawan Jai Kisan'."
+   ],
+   "options": [
+    "Lal Bahadur Shastri",
+    "Jawaharlal Nehru",
+    "Indira Gandhi",
+    "Morarji Desai"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "year"
+   ],
+   "fids": [
+    "f01",
+    "f16",
+    "f05"
+   ],
+   "hook": "1975: Sikkim voted to join and became a full-fledged State.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditya",
+     "India became independent in 1947."
+    ],
+    [
+     "Priya",
+     "In 1975 the people of Goa voted for joining the Indian republic."
+    ],
+    [
+     "Aditya",
+     "Goa, Diu and Daman were freed from Portuguese rule in the 1960s."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Sikkim",
+    "Assam",
+    "Punjab"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Swaminathan = Green (foodgrains); Kurien = White (milk).",
+   "prompt": "Who is known as the father of the Green Revolution in India?",
+   "options": [
+    "Dr Verghese Kurien",
+    "Dr M. S. Swaminathan",
+    "Dr Homi Bhabha",
+    "B. P. Mandal"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-02-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f06",
+    "f12"
+   ],
+   "hook": "Indira Gandhi, PM 1966: nationalised banks, cancelled pensions of Princes.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohit",
+     "The 1962 war between India and China was fought in the region of the MacMahon line."
+    ],
+    [
+     "Neha",
+     "Indira Gandhi became the Prime Minister of India in 1966."
+    ],
+    [
+     "Rohit",
+     "Her decisions on nationalisation of banks and increasing pensions of Princes had far reaching effects."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "freezing",
+    "halving",
+    "cancelling"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f12",
+    "f14",
+    "f19"
+   ],
+   "hook": "Indira Gandhi: PM 1966, Bangladesh 1971, back in power 1980.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My decisions included cancelling the pensions of Princes.",
+    "My strong leadership was prominent in the 1971 war that created Bangladesh.",
+    "My party came to power again after the elections of 1980.",
+    "I became the Prime Minister of India in 1966."
+   ],
+   "options": [
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+    "Morarji Desai",
+    "Charan Singh"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Border tensions from 1950 boiled over in 1962 along the MacMahon line.",
+   "prompt": "In which year was the war between India and China fought in the region of the MacMahon line?",
+   "year": 1962,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Shastri died at Tashkent in 1966; Indira Gandhi became PM the same year.",
+   "prompt": "In which year did Indira Gandhi become the Prime Minister of India?",
+   "year": 1966,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-11",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f15",
+    "f16",
+    "f19",
+    "f23"
+   ],
+   "hook": "Pokharan 1974, Sikkim 1975, Congress back 1980, Rajiv Gandhi PM 1984.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Atomic test at Pokharan",
+     "y": "1974",
+     "k": 1974
+    },
+    {
+     "t": "Sikkim becomes a full-fledged State",
+     "y": "1975",
+     "k": 1975
+    },
+    {
+     "t": "Congress returns to power",
+     "y": "1980",
+     "k": 1980
+    },
+    {
+     "t": "Rajiv Gandhi becomes Prime Minister",
+     "y": "1984",
+     "k": 1984
+    }
+   ]
+  },
+  {
+   "qid": "c9-02-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f23",
+    "f24",
+    "f27"
+   ],
+   "hook": "Rajiv Gandhi: PM 1984, Sri Lanka Tamil issue, killed by the LTTE in 1991.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I promoted the idea of a united Sri Lanka with internal autonomy to the Tamil community.",
+    "I tried to make reforms in the economy and in science and technology.",
+    "The LTTE assassinated me during the 1991 election campaign.",
+    "I became Prime Minister right after Indira Gandhi's assassination in 1984."
+   ],
+   "options": [
+    "P. V. Narasimha Rao",
+    "Vishwanath Pratap Singh",
+    "Rajiv Gandhi",
+    "Chandra Shekhar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event",
+    "year"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "Emergency 1975 to 1977, then elections; the Janata Party won.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sanya",
+     "During the Emergency the fundamental rights of Indian citizens were suspended."
+    ],
+    [
+     "Kunal",
+     "The national emergency lasted from 1975 to 1980 and then general elections were held."
+    ],
+    [
+     "Sanya",
+     "On the backdrop of the emergency many opposition parties came together and formed the Janata Party."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "1976",
+    "1977",
+    "1979"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-02-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Janata Party wins: Morarji Desai first, then Charan Singh - both short-lived.",
+   "prompt": "Who became Prime Minister when the newly formed Janata Party defeated the Congress after the emergency?",
+   "options": [
+    "Charan Singh",
+    "Vishwanath Pratap Singh",
+    "Morarji Desai",
+    "Chandra Shekhar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Kurien's co-operative dairies = White Revolution (milk).",
+   "prompt": "Who am I?",
+   "clues": [
+    "My experiment was in the co-operative dairy movement.",
+    "It led to an increase of milk production in India.",
+    "It is called the 'White Revolution'."
+   ],
+   "options": [
+    "Dr Verghese Kurien",
+    "Dr M. S. Swaminathan",
+    "Dr Homi Bhabha",
+    "B. P. Mandal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f29",
+    "f36"
+   ],
+   "hook": "1991: Soviet Russia breaks up, Cold War ends, Narasimha Rao starts liberalisation.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "In 1991 the Soviet Russia disintegrated into several small countries."
+    ],
+    [
+     "Isha",
+     "The Cold War came to an end in the same year."
+    ],
+    [
+     "Varun",
+     "The Narasimha Rao Government started economic reforms from 1981 called economic liberalisation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "1989",
+    "1990",
+    "1991"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "people"
+   ],
+   "fids": [
+    "f23",
+    "f25",
+    "f26",
+    "f31"
+   ],
+   "hook": "Rajiv Gandhi 1984, V.P. Singh 1989, Chandra Shekhar 1990, Vajpayee with the NDA 1999.",
+   "prompt": "Put these in order, earliest first.",
+   "items": [
+    {
+     "t": "Rajiv Gandhi becomes Prime Minister",
+     "y": "1984",
+     "k": 1984
+    },
+    {
+     "t": "Congress defeated; V.P. Singh PM",
+     "y": "1989",
+     "k": 1989
+    },
+    {
+     "t": "Chandra Shekhar becomes Prime Minister",
+     "y": "1990",
+     "k": 1990
+    },
+    {
+     "t": "NDA comes to power; Vajpayee PM",
+     "y": "1999",
+     "k": 1999
+    }
+   ]
+  },
+  {
+   "qid": "c9-02-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "1998: nuclear tests, and India declared herself an atomic power.",
+   "prompt": "In which year did India conduct a number of nuclear tests and declare herself an atomic power?",
+   "year": 1998,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Pokharan 1974, then a year later (1975) Sikkim joined as a full State.",
+   "prompt": "In which year did the people of Sikkim vote for joining the Indian republic?",
+   "year": 1975,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "V.P. Singh: Janata Dal, 1989, reservations for OBC.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I could not continue as Prime Minister due to internal differences in the party.",
+    "A coalition called the Janata Dal brought me to power.",
+    "I became Prime Minister after the Congress was defeated in the 1989 elections.",
+    "My most important contribution was the policy of reservations for OBC."
+   ],
+   "options": [
+    "Charan Singh",
+    "Chandra Shekhar",
+    "Morarji Desai",
+    "Vishwanath Pratap Singh"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-02-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f22"
+   ],
+   "hook": "Golden Temple at Amritsar (1984); ULFA = United Liberation Front of Assam, in North-east India.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "In 1984 the Indian army was sent into the Golden Temple at Amritsar."
+    ],
+    [
+     "Aman",
+     "The Golden Temple is a holy shrine of the Sikhs."
+    ],
+    [
+     "Tara",
+     "During this period an organisation called ULFA carried on a major movement in South India."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 13
+   },
+   "options": [
+    "Central",
+    "North-east",
+    "Western"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-02-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "LTTE, a Sri Lankan organisation, killed Rajiv Gandhi in 1991.",
+   "prompt": "Which organisation assassinated Rajiv Gandhi during the election campaign of 1991?",
+   "options": [
+    "ULFA",
+    "LTTE",
+    "Mukti Bahini",
+    "Janata Dal"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-02-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f29",
+    "f16",
+    "f15",
+    "f40"
+   ],
+   "hook": "1991: Soviet Russia broke up and the Cold War ended.",
+   "prompt": "Which statement about the year 1991 is correct?",
+   "options": [
+    "Sikkim became a full-fledged State of India.",
+    "India carried out an underground test of an atomic device at Pokharan.",
+    "The Soviet Russia disintegrated and the Cold War came to an end.",
+    "India launched its first satellite 'Aryabhatta'."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-24",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "East Pakistan: Sheikh Mujibur Rahman, Mukti Bahini, millions of refugees.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meghna",
+     "Pakistan's oppressive policies in West Pakistan resulted in a big movement there."
+    ],
+    [
+     "Yuvraj",
+     "This movement was led by Sheikh Mujibur Rahman and his organisation Mukti Bahini."
+    ],
+    [
+     "Meghna",
+     "The crisis affected India as well because millions of refugees came to India."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 4
+   },
+   "options": [
+    "North",
+    "East",
+    "South"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-02-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f43",
+    "f44",
+    "f41",
+    "f45"
+   ],
+   "hook": "Kalelkar 1953, Mandal 1978, Women and Child Department 1985, Atrocities Act 1989.",
+   "prompt": "Put these in order, earliest first.",
+   "items": [
+    {
+     "t": "Kakasaheb Kalelkar Commission set up",
+     "y": "1953",
+     "k": 1953
+    },
+    {
+     "t": "B. P. Mandal commission constituted",
+     "y": "1978",
+     "k": 1978
+    },
+    {
+     "t": "Department of Women and Child Development",
+     "y": "1985",
+     "k": 1985
+    },
+    {
+     "t": "Prevention of Atrocities Act passed",
+     "y": "1989",
+     "k": 1989
+    }
+   ]
+  },
+  {
+   "qid": "c9-02-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f44"
+   ],
+   "hook": "Kalelkar 1953, Mandal 1978: 25 years apart.",
+   "prompt": "In which year was a commission constituted under the chairmanship of B. P. Mandal to study the issue of the other backward classes?",
+   "year": 1978,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-27",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Nehru died 1964; a year later, 1965, India and Pakistan fought over Kashmir.",
+   "prompt": "In which year did India and Pakistan go to war over the Kashmir issue during Lal Bahadur Shastri's tenure?",
+   "year": 1965,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Pokharan, Rajasthan: underground atomic test, 1974.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "A test at me was part of India's policy to use atomic energy for peaceful purposes.",
+    "I am in Rajasthan.",
+    "In 1974 an underground test of an atomic device was carried out at me."
+   ],
+   "options": [
+    "Pokharan",
+    "Tashkent",
+    "Amritsar",
+    "Kargil"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f36"
+   ],
+   "hook": "Planning Commission + Five Year Plans; after 1991 = liberalisation and globalisation.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Jay",
+     "Modernisation, economic self-sufficiency and social justice have been characteristics of the Indian economy."
+    ],
+    [
+     "Mira",
+     "The National Planning Commission coordinated development through the policy of Ten Year Plans."
+    ],
+    [
+     "Jay",
+     "The changes after 1991 are also described as globalisation."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "Five",
+    "Three",
+    "Seven"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Homi Bhabha founded India's atomic power programme.",
+   "prompt": "Who laid the foundation of the Indian atomic power programme?",
+   "options": [
+    "Dr Homi Bhabha",
+    "Dr M. S. Swaminathan",
+    "Dr Verghese Kurien",
+    "B. P. Mandal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f41",
+    "f42"
+   ],
+   "hook": "1985 Women and Child Department; 73rd and 74th Amendments: seats for women.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anvi",
+     "A separate Department of Women and Child Development was created in 1985."
+    ],
+    [
+     "Rahul",
+     "Laws like the Prohibition of Dowry Act and the Equal Remuneration Act were made to ensure social justice to women."
+    ],
+    [
+     "Anvi",
+     "As per the 73rd and 74th Constitution Amendments seats were reserved for youth in local self-government bodies."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 12
+   },
+   "options": [
+    "farmers",
+    "soldiers",
+    "women"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "1975: Aryabhatta, India's first satellite, goes up.",
+   "prompt": "What was the name of India's first satellite, launched in 1975?",
+   "options": [
+    "Swaminathan",
+    "Kalelkar",
+    "Aryabhatta",
+    "Mandal"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "people"
+   ],
+   "fids": [
+    "f08",
+    "f12",
+    "f23",
+    "f26",
+    "f31"
+   ],
+   "hook": "Shastri 1964, Indira 1966, Rajiv 1984, Chandra Shekhar 1990, Vajpayee (NDA) 1999.",
+   "prompt": "Put these Prime Ministers in the order they took office, earliest first.",
+   "items": [
+    {
+     "t": "Lal Bahadur Shastri",
+     "y": "1964",
+     "k": 1964
+    },
+    {
+     "t": "Indira Gandhi",
+     "y": "1966",
+     "k": 1966
+    },
+    {
+     "t": "Rajiv Gandhi",
+     "y": "1984",
+     "k": 1984
+    },
+    {
+     "t": "Chandra Shekhar",
+     "y": "1990",
+     "k": 1990
+    },
+    {
+     "t": "Atal Bihari Vajpayee with the NDA",
+     "y": "1999",
+     "k": 1999
+    }
+   ]
+  },
+  {
+   "qid": "c9-02-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "Nuclear tests 1998, Kargil war the next year, 1999.",
+   "prompt": "In which year was there a war between India and Pakistan in the Kargil region?",
+   "year": 1999,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-35",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "From 1991 Narasimha Rao's reforms = economic liberalisation.",
+   "prompt": "From which year did the Narasimha Rao Government start the economic reforms called economic liberalisation?",
+   "year": 1991,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-02-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f43",
+    "f44"
+   ],
+   "hook": "Kalelkar Commission 1953; Mandal commission came 25 years later, in 1978.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was set up to make recommendations to improve the condition of those deprived of dignity due to the caste system.",
+    "The commission chaired by B. P. Mandal came 25 years after me.",
+    "I was set up in 1953."
+   ],
+   "options": [
+    "Planning Commission",
+    "Mandal Commission",
+    "Janata Dal",
+    "Kakasaheb Kalelkar Commission"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-02-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f30",
+    "f33",
+    "f15"
+   ],
+   "hook": "1974 = one underground test at Pokharan; 1998 = many tests, atomic power declared.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ritika",
+     "In the elections between 1996 and 1999 no political party got a clear majority in the Lok Sabha."
+    ],
+    [
+     "Sahil",
+     "H.D. Devegowda and Inder Kumar Gujral worked as Prime Ministers in this period."
+    ],
+    [
+     "Ritika",
+     "India conducted a number of nuclear tests in 1988 and declared herself an atomic power."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "1998",
+    "1974",
+    "1991"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-02-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f17",
+    "f23",
+    "f29",
+    "f25"
+   ],
+   "hook": "OBC reservations were V.P. Singh's big contribution; the 1978 OBC commission was chaired by B. P. Mandal.",
+   "prompt": "Which pair is wrong?",
+   "options": [
+    "P. V. Narasimha Rao - Economic improvements",
+    "Indira Gandhi - National Emergency",
+    "Chandra Shekhar - Mandal Commission",
+    "Rajiv Gandhi - Development in science and technology"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-02-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Janata Party: Morarji Desai, then Charan Singh.",
+   "prompt": "Who succeeded Morarji Desai as Prime Minister?",
+   "options": [
+    "Chandra Shekhar",
+    "Charan Singh",
+    "Vishwanath Pratap Singh",
+    "Rajiv Gandhi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-02-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "1996-1999, no clear majority: Vajpayee, Devegowda, Gujral.",
+   "prompt": "Which three worked as Prime Ministers between 1996 and 1999, when no party had a clear majority in the Lok Sabha?",
+   "options": [
+    "Morarji Desai, Charan Singh and Chandra Shekhar",
+    "Atal Bihari Vajpayee, H.D. Devegowda and Inder Kumar Gujral",
+    "Rajiv Gandhi, V.P. Singh and Chandra Shekhar",
+    "Lal Bahadur Shastri, Indira Gandhi and Morarji Desai"
+   ],
+   "answer": 1
+  }
+ ]
+}

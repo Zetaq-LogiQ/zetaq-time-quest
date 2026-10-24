@@ -1,0 +1,1479 @@
+{
+ "class": 7,
+ "id": "07",
+ "title": "The Administration of the Swaraj",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "After the coronation, Shivaji Maharaj accomplished 'Dakshin Digvijay', the conquest of the South.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the coronation, Maharaj accomplished 'Dakshin Digvijay', the conquest of the South.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "place",
+   "text": "The Swaraj comprised large areas of Nashik, Pune, Satara, Sangli, Kolhapur, Sindhudurg, Ratnagiri, Raigad and Thane districts, and parts of Andhra Pradesh and Tamil Nadu.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Swaraj expanded comprising large areas of Nashik, Pune, Satara, Sangli, Kolhapur, Sindhudurg, Ratnagiri, Raigad and Thane districts of Maharashtra. It also included parts Andhra Pradesh and Tamil Nadu States.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "At the time of his coronation, Shivaji Maharaj appointed the Ashtapradhan Mandal, a council of eight ministers.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ashtapradhan Mandal (Council of Eight Ministers) : At the time of his coronation, Shivaji Maharaj appointed a council of eight ministers.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The administration was divided into eight departments; the eight Heads of department made up the Ashtapradhan Mandal.",
+   "year": null,
+   "era": "CE",
+   "quote": "The administration was divided into eight departments. A Head was appointed for each department. These eight Heads of department constituted the Ashtapradhan Mandal.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "event",
+   "text": "Maharaj alone could appoint or remove a minister; the ministers were answerable to him.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj alone had the power to appoint a minister or to remove him from his position. The ministers were answerable to Maharaj",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "event",
+   "text": "The Council was selected on merit; members got no jagirs, vatans, gifts or fiefs but were paid handsome salaries.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shivaji Maharaj selected the Council on the basis of their merit and achievements. He did not give them jagirs, vatans or gifts or fiefs. They were paid handsome salaries instead.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "person",
+   "text": "Moro Trimbak Pingle was the Pradhan: running the administration and making arrangements for the conquered territories.",
+   "year": null,
+   "era": "CE",
+   "quote": "Moro Trimbak Pingle | Pradhan | Running the administration and making arrangements for the conquered territories",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "Ramchandra Nilkanth Muzumdar was the Amatya: keeping the accounts of the State.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ramchandra Nilkanth Muzumdar | Amatya | Keeping the accounts of the State",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "Annaji Datto was the Sachiv: preparing royal edicts.",
+   "year": null,
+   "era": "CE",
+   "quote": "Annaji Datto | Sachiv | Preparing royal edicts",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "Dattaji Trimbak Waknis was the Mantri: correspondence.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dattaji Trimbak Waknis | Mantri | Correspondence",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Hambirrao Mohite was the Senapati: organisation of the Army and protection of the kingdom.",
+   "year": null,
+   "era": "CE",
+   "quote": "Hambirrao Mohite | Senapati | Organisation of the Army and protection of the kingdom",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "Ramchandra Trimbak Dabir was the Sumant: foreign relations.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ramchandra Trimbak Dabir | Sumant | Foreign relations",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "person",
+   "text": "Niraji Rawaji was the Nyayadhish: dispensing justice.",
+   "year": null,
+   "era": "CE",
+   "quote": "Niraji Rawaji | Nyayadhish | Dispensing justice",
+   "page": 1
+  },
+  {
+   "fid": "f14",
+   "kind": "person",
+   "text": "Moreshwar Panditrao was the Panditrao: looking after religious matters.",
+   "year": null,
+   "era": "CE",
+   "quote": "Moreshwar Panditrao | Panditrao | Looking after religious matters",
+   "page": 1
+  },
+  {
+   "fid": "f15",
+   "kind": "person",
+   "text": "Maharaj entrusted the organizing of the land revenue system to his capable and experienced office bearer Annaji Datto.",
+   "year": null,
+   "era": "CE",
+   "quote": "He entrusted the responsibility of organizing the land revenue system to his capable and experienced office bearer Annaji Datto.",
+   "page": 1
+  },
+  {
+   "fid": "f16",
+   "kind": "event",
+   "text": "Officers were warned not to collect more revenue than the fixed amount; peasants were encouraged to bring uncultivated land under cultivation.",
+   "year": null,
+   "era": "CE",
+   "quote": "He warned the officers that they should not collect more revenue than the amount that was fixed. He encouraged peasants to bring uncultivated land under cultivation.",
+   "page": 1
+  },
+  {
+   "fid": "f17",
+   "kind": "event",
+   "text": "If crops were lost due to excessive rains or drought, or an enemy army devastated a village, remissions were granted in land revenue and other taxes.",
+   "year": null,
+   "era": "CE",
+   "quote": "If the crop was lost due to excessive rains or drought, or if an enemy army had devasted the area of the village, remissions were granted in land revenue and other taxes.",
+   "page": 1
+  },
+  {
+   "fid": "f18",
+   "kind": "event",
+   "text": "Officers were instructed to provide peasants with bullocks, ploughs and good seeds for sowing.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maharaj had instructed his officers to provide peasants with bullocks, ploughs and good seeds for sowing.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "Baluta was the definite share of their produce that farmers gave to artisans; the village was a self-sufficient unit.",
+   "year": null,
+   "era": "CE",
+   "quote": "In this sense, a village was a self-sufficient unit. Farmers gave a definite share from their produce to artisans. This share was called 'Baluta'.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "The Ajnyapatra describes merchants as 'the ornaments of the kingdom and the glory of the king'.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Ajnyapatra where merchants are described as follows: 'Merchants are the ornaments of the kingdom and the glory of the king.'",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "Maharaj protected the salt industry in Konkan by charging heavy duty on salt imported from the Portuguese territory.",
+   "year": null,
+   "era": "CE",
+   "quote": "He protected the salt industry in Konkan. ... Maharaj charged heavy duty on the salt imported into Swaraj from the Portuguese territory.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "The army of Shivaji Maharaj had two main divisions: infantry and cavalry.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were two main divisions of the army of Shivaji Maharaj : infantry and cavalry.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "The infantry had officers such as the Havaldar and Jumledar; its chief, the highest officer, was called Sarnobat.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the infantry there were officers such as the Havaldar, Jumledar, etc. The chief of the infantry was called Sarnobat. He was the highest officer in the infantry.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "In the cavalry, a Shiledar had his own horse and weapons; a bargir was given a horse and weapons by the State; bargirs were more in number.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Shiledar had his own horse and weapons. The bargir was provided with a horse and weapons by the State. In the cavalry, bargirs were more in number.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "person",
+   "text": "The highest officer in the cavalry was the Sarnobat; Netoji Palkar, Prataprao Gujar and Hambirrao Mohite were famous Sarnobats.",
+   "year": null,
+   "era": "CE",
+   "quote": "The highest officer in the cavalry was the Sarnobat. Netoji Palkar, Prataprao Gujar, Hambirrao Mohite were some of the famous Sarnobats of the cavalry.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "Bahirji Naik was the Head of the intelligence department; he collected information about Surat before the raid on Surat.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bahirji Naik was the Head of the intelligence department. ... He collected accurate and detailed information about Surat before the raid on Surat.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Ajnyapatra says: 'This kingdom was created by the late revered and exalted Majesty forts alone.'",
+   "year": null,
+   "era": "CE",
+   "quote": "The importance of forts in the foundation of Swaraj is well stated in the Ajnyapatra : 'This kingdom was created by the late revered and exalted Majesty forts alone.'",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "'Budhabhusanam', composed by Chhatrapati Sambhaji Maharaj, describes the forts built from Karnataka up to Baglan, from the river Krishna up to the sea, and mentions the Rayari fort.",
+   "year": null,
+   "era": "CE",
+   "quote": "the treatise 'Budhabhusanam' composed by Chhatrapati Sambhaji Maharaj ... in many places from Karnataka up to Baglan ... from the banks of the river Krishna up to the sea ... In the Rayari fort",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "place",
+   "text": "There were about 300 forts in the Swaraj.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were about 300 forts in the Swaraj.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "place",
+   "text": "Maharaj built hill forts like Pratapgad, Pavangad and Rajgad.",
+   "year": null,
+   "era": "CE",
+   "quote": "He built hill forts like Pratapgad, Pavangad and Rajgad.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Every fort had a Killedar, a Sabnis and a Karkhanis; the Karkhanis looked after the storage of foodgrains and the maintenance of war material.",
+   "year": null,
+   "era": "CE",
+   "quote": "There was a Killedar, a Sabnis and a Karkhanis on every fort. The Karkhanis looked after the storage of foodgrains and the maintenance of war material on the fort.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "place",
+   "text": "Maharaj built the sea fort Sindhudurga at Malwan; five khandis of lead were poured into its foundation.",
+   "year": null,
+   "era": "CE",
+   "quote": "One of the sea forts that he built was Sindhudurga at Malwan. It is an excellent sea fort. To give strength to the construction of the fort, five khandis of lead was poured into its foundation.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "place",
+   "text": "The sea fort Padmadurga was built in front of Rajapuri to counter the Siddi power: 'another Rajapuri to overshadow the Rajapuri of the Siddi'.",
+   "year": null,
+   "era": "CE",
+   "quote": "A sea fort called Padmadurga was built in front of Rajapuri in order to counter the Siddi power. ... 'another Rajapuri to overshadow the Rajapuri of the Siddi.'",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "event",
+   "text": "The Portuguese of Goa, the Siddi of Janjira and the British factors of Surat and Rajapur created obstacles on the west coast.",
+   "year": null,
+   "era": "CE",
+   "quote": "Enemies on the west coast of India, the Portuguese of Goa, the Siddi of Janjira and the British factors of Surat and Rajapur, created obstacles in the work of expanding the Swaraj.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "event",
+   "text": "To protect the west coast Maharaj raised a navy; he realised that the one who has a navy controls the sea.",
+   "year": null,
+   "era": "CE",
+   "quote": "For this purpose, Maharaj raised a navy. He realised that the one who has a navy, controls the sea",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "The navy had four hundred ships, including battle ships like the gurab, galbat and pal.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were four hundred ships of various kinds in his navy. They included battle ships like the gurab, galbat and pal.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "place",
+   "text": "Ships were built in the creek of Kalyan Bhivandi, Vijaydurga and Malvan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Ships were built in the creek of Kalyan Bhivandi, Vijaydurga and Malvan",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "person",
+   "text": "Maynak Bhandari and Daulatkhan were the chief naval Commanders.",
+   "year": null,
+   "era": "CE",
+   "quote": "Maynak Bhandari and Daulatkhan were the chief naval Commanders.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "event",
+   "text": "The main objective of Maharaj was to make his subjects independent, with a disciplined administration that cared for people's welfare.",
+   "year": null,
+   "era": "CE",
+   "quote": "His main objective was to make his subjects independent. ... it was necessary to have a disciplined administration, take comprehensive care of people's welfare and protect the conquered territories.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "Forts let rulers watch the surrounding area, shelter people during invasion, and stock foodgrains, war materials, ammunition and a garrison.",
+   "year": null,
+   "era": "CE",
+   "quote": "Possession of a fort made it possible to keep an eye on the surrounding area. In case of foreign invasion it was possible to protect the people taking shelter in the fort. It was possible to stock the fort with foodgrains, war materials, ammunition and military garrison.",
+   "page": 2
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "The salt duty was meant to make imported salt cost more, so its import would fall and the sale of local salt would rise.",
+   "year": null,
+   "era": "CE",
+   "quote": "The intention was that the salt imported from the Portuguese territory would then cost more and as a result, its import would decrease and the sale of the local salt would increase.",
+   "page": 2
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-07-01",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Bahirji = the eyes and ears of the Swaraj: he scouted Surat before the raid.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I gathered accurate and detailed information for Maharaj.",
+    "My job was to watch the movements of the enemies.",
+    "Before the raid on Surat, I collected details about the city.",
+    "I was the Head of the intelligence department."
+   ],
+   "options": [
+    "Bahirji Naik",
+    "Annaji Datto",
+    "Netoji Palkar",
+    "Maynak Bhandari"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-02",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04"
+   ],
+   "hook": "<b>Ashtapradhan</b> Mandal = Council of Eight Ministers: eight departments, eight Heads.",
+   "prompt": "What was the Ashtapradhan Mandal?",
+   "options": [
+    "A group of eight sea forts",
+    "An army of eight cavalry units",
+    "A council of eight ministers",
+    "A list of eight royal edicts"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f32",
+    "f29"
+   ],
+   "hook": "About 300 forts in the Swaraj; Sindhudurga at Malwan had five khandis of lead in its foundation.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Shivaji Maharaj built the sea fort Sindhudurga at Malwan."
+    ],
+    [
+     "Isha",
+     "Five khandis of lead were poured into its foundation."
+    ],
+    [
+     "Rohan",
+     "About 500 forts stood in the Swaraj."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "100",
+    "300",
+    "800"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-04",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Merit, not land: the ministers got handsome salaries, not jagirs or vatans.",
+   "prompt": "How were the members of the Council of Eight Ministers rewarded for their work?",
+   "options": [
+    "They were given jagirs",
+    "They were given vatans",
+    "They were given fiefs",
+    "They were paid handsome salaries"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-07-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Farmers gave artisans a definite share of their produce, called <b>Baluta</b>; the village was a self-sufficient unit.",
+   "prompt": "What am I?",
+   "clues": [
+    "I belong to the village economy of that period.",
+    "I helped the village work as a self-sufficient unit.",
+    "Artisans received me from farmers.",
+    "I was a definite share of the farmers' produce."
+   ],
+   "options": [
+    "Ajnyapatra",
+    "Jagir",
+    "Vatan",
+    "Baluta"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-07-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f23"
+   ],
+   "hook": "Two divisions: infantry and cavalry. Sarnobat was the chief of the infantry.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "The army of Shivaji Maharaj had two main divisions."
+    ],
+    [
+     "Kabir",
+     "Infantry and navy were those two divisions."
+    ],
+    [
+     "Tanvi",
+     "The chief of the infantry was called Sarnobat."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "artillery",
+    "police",
+    "cavalry"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Senapati = army chief: Hambirrao Mohite organised the Army and protected the kingdom.",
+   "prompt": "Who was the Senapati in the Ashtapradhan Mandal?",
+   "options": [
+    "Moro Trimbak Pingle",
+    "Niraji Rawaji",
+    "Annaji Datto",
+    "Hambirrao Mohite"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-07-08",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "Sea fort at Malwan = Sindhudurga, made strong with five khandis of lead.",
+   "prompt": "Which fort am I?",
+   "clues": [
+    "People call me an excellent sea fort.",
+    "Five khandis of lead were poured into my foundation.",
+    "I stand at Malwan."
+   ],
+   "options": [
+    "Padmadurga",
+    "Sindhudurga",
+    "Rajgad",
+    "Pratapgad"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-09",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Amatya = accounts: Ramchandra Nilkanth Muzumdar kept the State's books.",
+   "prompt": "Which minister kept the accounts of the State?",
+   "options": [
+    "Sachiv",
+    "Mantri",
+    "Amatya",
+    "Sumant"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f15"
+   ],
+   "hook": "Annaji Datto did two big jobs: Sachiv (royal edicts) and organiser of land revenue.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a capable and experienced office bearer.",
+    "Maharaj gave me the task of organizing the land revenue system.",
+    "In the council, I prepared royal edicts.",
+    "My designation was Sachiv."
+   ],
+   "options": [
+    "Moro Trimbak Pingle",
+    "Dattaji Trimbak Waknis",
+    "Annaji Datto",
+    "Niraji Rawaji"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Shiledar = his own horse. Bargir = horse from the State. Bargirs were more in number.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "In the cavalry there were Shiledars and Bargirs."
+    ],
+    [
+     "Arjun",
+     "A Shiledar had his own horse and weapons."
+    ],
+    [
+     "Diya",
+     "The State gave every Shiledar a horse and weapons."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "Havaldar",
+    "Jumledar",
+    "bargir"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f41"
+   ],
+   "hook": "Heavy duty on Portuguese salt = costlier import, so Konkan's local salt sold more.",
+   "prompt": "Why did Maharaj charge heavy duty on salt imported from the Portuguese territory?",
+   "options": [
+    "To help Portuguese traders sell more salt",
+    "To stop all salt from being sold in Konkan",
+    "To fill the forts with salt for the army",
+    "To make imported salt cost more so local salt sold more"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-07-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Padmadurga faced Rajapuri: 'another Rajapuri to overshadow the Rajapuri of the Siddi'.",
+   "prompt": "Which fort am I?",
+   "clues": [
+    "Maharaj wrote about me in a letter.",
+    "I was built to counter the Siddi power.",
+    "I stand in front of Rajapuri."
+   ],
+   "options": [
+    "Sindhudurga",
+    "Padmadurga",
+    "Vijaydurga",
+    "Rajgad"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f36",
+    "f38"
+   ],
+   "hook": "Navy: 400 ships (gurab, galbat, pal) led by Maynak Bhandari and Daulatkhan.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "There were four hundred ships of various kinds in the navy."
+    ],
+    [
+     "Pooja",
+     "Battle ships like the gurab, galbat and pal were used."
+    ],
+    [
+     "Sahil",
+     "Maynak Bhandari and Bahirji were the chief naval Commanders."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Netoji",
+    "Daulatkhan",
+    "Annaji"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Karkhanis kept the store: foodgrains and war material on the fort.",
+   "prompt": "What did the Karkhanis do on a fort?",
+   "options": [
+    "Kept the accounts of the State",
+    "Looked after the storage of foodgrains and war material",
+    "Dispensed justice",
+    "Commanded the cavalry"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Pradhan: Moro Trimbak Pingle ran the administration and the conquered territories.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was one of the eight ministers.",
+    "I made arrangements for the conquered territories.",
+    "I was in charge of running the administration.",
+    "My designation was Pradhan."
+   ],
+   "options": [
+    "Ramchandra Nilkanth Muzumdar",
+    "Moro Trimbak Pingle",
+    "Moreshwar Panditrao",
+    "Ramchandra Trimbak Dabir"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f10",
+    "f12",
+    "f13",
+    "f14"
+   ],
+   "hook": "Mantri = letters, Sumant = foreign relations, Nyayadhish = justice, Amatya = accounts.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Sumant - Dispensing justice",
+    "Panditrao - Keeping the accounts of the State",
+    "Mantri - Correspondence",
+    "Amatya - Foreign relations"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f11",
+    "f25"
+   ],
+   "hook": "Hambirrao Mohite wore two hats: Senapati in the council and a famous Sarnobat of the cavalry.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Hambirrao Mohite was the Senapati in the Ashtapradhan Mandal."
+    ],
+    [
+     "Dev",
+     "Netoji Palkar and Prataprao Gujar were famous Havaldars of the cavalry."
+    ],
+    [
+     "Riya",
+     "Hambirrao Mohite was also a famous Sarnobat."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Sarnobats",
+    "Sabnis",
+    "Killedars"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f27"
+   ],
+   "hook": "Ajnyapatra praises two things: merchants (ornaments of the kingdom) and forts.",
+   "prompt": "What am I?",
+   "clues": [
+    "I tell how Maharaj looked at traders.",
+    "I call merchants the ornaments of the kingdom and the glory of the king.",
+    "I also say this kingdom was created by forts alone."
+   ],
+   "options": [
+    "Ajnyapatra",
+    "Budhabhusanam",
+    "Baluta",
+    "Ashtapradhan Mandal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "West coast enemies: Portuguese (Goa), Siddi (Janjira), British factors (Surat, Rajapur).",
+   "prompt": "Which enemies on the west coast created obstacles in expanding the Swaraj?",
+   "options": [
+    "The Portuguese of Goa, the Siddi of Janjira and the British factors of Surat and Rajapur",
+    "The British of Goa, the Portuguese of Janjira and the Siddi of Surat",
+    "The Siddi of Goa, the British of Janjira and the Portuguese of Rajapur"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f15",
+    "f17",
+    "f18"
+   ],
+   "hook": "Help for farmers: bullocks, ploughs, good seeds, and remissions when rain, drought or enemies ruined crops.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anika",
+     "Annaji Datto organized the land revenue system."
+    ],
+    [
+     "Om",
+     "If crops were lost to excessive rains or drought, remissions were granted."
+    ],
+    [
+     "Anika",
+     "Officers were told to give peasants ploughs, good seeds and horses for sowing."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "bullocks",
+    "camels",
+    "elephants"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f25"
+   ],
+   "hook": "Sarnobat = top officer twice over: chief of the infantry and highest officer of the cavalry.",
+   "prompt": "Which title am I?",
+   "clues": [
+    "Netoji Palkar held me in the cavalry.",
+    "Havaldars and Jumledars served below me in the infantry.",
+    "I was the highest officer in the infantry and in the cavalry."
+   ],
+   "options": [
+    "Sarnobat",
+    "Senapati",
+    "Killedar",
+    "Karkhanis"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Shipyards: the creek of Kalyan Bhivandi, Vijaydurga and Malvan.",
+   "prompt": "Where were the ships of the navy built?",
+   "options": [
+    "At Surat, Rajapur and Goa",
+    "In the creek of Kalyan Bhivandi, Vijaydurga and Malvan",
+    "At Pune, Satara and Nashik",
+    "At Janjira, Rajapuri and Surat"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-24",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Nyayadhish dispensed justice: Niraji Rawaji.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I sat on the Council of Eight Ministers.",
+    "My work was dispensing justice.",
+    "My designation was Nyayadhish."
+   ],
+   "options": [
+    "Dattaji Trimbak Waknis",
+    "Moreshwar Panditrao",
+    "Niraji Rawaji",
+    "Ramchandra Trimbak Dabir"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Chhatrapati Sambhaji Maharaj composed 'Budhabhusanam', describing the forts built by Shivaji Maharaj.",
+   "prompt": "Who composed the treatise 'Budhabhusanam' that describes the forts built by Shivaji Maharaj?",
+   "options": [
+    "Chhatrapati Sambhaji Maharaj",
+    "Annaji Datto",
+    "Moreshwar Panditrao",
+    "Bahirji Naik"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Budhabhusanam: forts from Karnataka to Baglan, from the river Krishna to the sea.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Varun",
+     "Budhabhusanam says forts were built from Karnataka up to Baglan."
+    ],
+    [
+     "Sneha",
+     "It says they were built from the banks of the river Godavari up to the sea."
+    ],
+    [
+     "Varun",
+     "It also mentions the Rayari fort."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 11
+   },
+   "options": [
+    "Narmada",
+    "Krishna",
+    "Tapi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Three hill forts: Pratapgad, Pavangad, Rajgad - all end in 'gad'.",
+   "prompt": "Which of these were hill forts built by Maharaj?",
+   "options": [
+    "Janjira, Rajapuri and Surat",
+    "Sindhudurga and Padmadurga",
+    "Pratapgad, Pavangad and Rajgad"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Shiledar brought his own horse and weapons; bargirs got theirs from the State and were more.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I served in the cavalry.",
+    "My kind was fewer in number than the other kind of cavalryman.",
+    "I owned my own horse and weapons."
+   ],
+   "options": [
+    "Bargir",
+    "Havaldar",
+    "Shiledar",
+    "Jumledar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Salt from Portuguese land hurt Konkan's salt, so Maharaj taxed it heavily.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "Maharaj protected the salt industry in Konkan."
+    ],
+    [
+     "Yash",
+     "Traders imported salt from the British territory and sold it in Swaraj."
+    ],
+    [
+     "Aditi",
+     "So Maharaj charged heavy duty on that imported salt."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Siddi",
+    "Mughal",
+    "Portuguese"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Every fort: Killedar, Sabnis and Karkhanis - three officers, one team.",
+   "prompt": "Which three officers were there on every fort?",
+   "options": [
+    "Killedar, Sabnis and Karkhanis",
+    "Havaldar, Jumledar and Sarnobat",
+    "Pradhan, Amatya and Sachiv",
+    "Shiledar, Bargir and Senapati"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Sumant = foreign relations: Ramchandra Trimbak Dabir. (Ramchandra Nilkanth = Amatya.)",
+   "prompt": "Who am I?",
+   "clues": [
+    "I sat on the Council of Eight Ministers.",
+    "Dealing with other kingdoms was my work.",
+    "My designation was Sumant."
+   ],
+   "options": [
+    "Ramchandra Nilkanth Muzumdar",
+    "Ramchandra Trimbak Dabir",
+    "Dattaji Trimbak Waknis",
+    "Moro Trimbak Pingle"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-32",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "Dakshin = South: after the coronation came the conquest of the South; the Swaraj also included parts of Andhra Pradesh and Tamil Nadu.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nisha",
+     "After the coronation, Maharaj accomplished Dakshin Digvijay."
+    ],
+    [
+     "Rahul",
+     "Dakshin Digvijay means the conquest of the North by Maharaj."
+    ],
+    [
+     "Nisha",
+     "The Swaraj also included parts of Andhra Pradesh and Tamil Nadu."
+    ],
+    [
+     "Rahul",
+     "Ratnagiri, Raigad and Thane districts were part of it too."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "East",
+    "South",
+    "West"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f09",
+    "f10",
+    "f12",
+    "f13"
+   ],
+   "hook": "Waknis = Mantri (letters). Annaji = Sachiv. Muzumdar = Amatya. Niraji = Nyayadhish. Dabir = Sumant.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Annaji Datto was the Amatya and kept the accounts",
+    "Moreshwar Panditrao was the Nyayadhish",
+    "Dattaji Trimbak Waknis was the Mantri and handled correspondence",
+    "Ramchandra Nilkanth Muzumdar was the Sumant"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-34",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f11",
+    "f25"
+   ],
+   "hook": "Only Hambirrao Mohite was both a cavalry Sarnobat and the Senapati of the council.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am remembered among famous cavalry commanders.",
+    "I was a Sarnobat of the cavalry.",
+    "In the Council of Eight Ministers I was the Senapati."
+   ],
+   "options": [
+    "Netoji Palkar",
+    "Prataprao Gujar",
+    "Hambirrao Mohite",
+    "Maynak Bhandari"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-07-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f29",
+    "f32",
+    "f33"
+   ],
+   "hook": "Padmadurga was the answer to the Siddi's Rajapuri; Sindhudurga guarded Malwan.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ira",
+     "The Swaraj had about 300 forts."
+    ],
+    [
+     "Manav",
+     "Padmadurga was built in front of Rajapuri to counter the Portuguese power."
+    ],
+    [
+     "Ira",
+     "Sindhudurga was built at Malwan."
+    ],
+    [
+     "Manav",
+     "Five khandis of lead went into the foundation of Sindhudurga."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "Siddi",
+    "Mughal",
+    "British"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-07-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Not just conquest: Maharaj wanted his subjects to feel the joy of freedom.",
+   "prompt": "Beyond conquering enemy territories, what was the main objective of Shivaji Maharaj?",
+   "options": [
+    "To collect more revenue than was fixed",
+    "To make his subjects independent",
+    "To give jagirs to all his ministers",
+    "To buy salt from the Portuguese"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-37",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Two chief naval Commanders: Maynak Bhandari and Daulatkhan.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I served the Swaraj at sea.",
+    "Daulatkhan shared my role.",
+    "I was a chief naval Commander."
+   ],
+   "options": [
+    "Bahirji Naik",
+    "Daulatkhan",
+    "Netoji Palkar",
+    "Maynak Bhandari"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-07-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f27"
+   ],
+   "hook": "Ajnyapatra: merchants = ornaments of the kingdom; the kingdom was created by forts alone.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tara",
+     "The Ajnyapatra calls merchants the ornaments of the kingdom."
+    ],
+    [
+     "Veer",
+     "It also calls them the glory of the king."
+    ],
+    [
+     "Tara",
+     "Ajnyapatra says this kingdom was created by ships alone."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "merchants",
+    "forts",
+    "farmers"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Rain, drought or enemy damage = remissions in land revenue and other taxes.",
+   "prompt": "What did Maharaj do when an enemy army had devastated the area of a village?",
+   "options": [
+    "Made the farmers pay double revenue",
+    "Granted remissions in land revenue and other taxes",
+    "Gave the village lands away as jagirs",
+    "Ordered the village to build a new fort"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-07-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f40",
+    "f31"
+   ],
+   "hook": "A fort = watchtower + shelter + store of foodgrains, war materials, ammunition and garrison.",
+   "prompt": "Which statement about forts in the medieval age is correct?",
+   "options": [
+    "Forts were of little importance in the medieval age",
+    "Forts could not protect people during a foreign invasion",
+    "Only sea forts had a Karkhanis",
+    "A fort could be stocked with foodgrains, war materials, ammunition and a military garrison"
+   ],
+   "answer": 3
+  }
+ ]
+}

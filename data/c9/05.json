@@ -1,0 +1,1660 @@
+{
+ "class": 9,
+ "id": "05",
+ "title": "Education",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "date",
+   "text": "The first Census of independent India in 1951 showed a literacy level of 17%.",
+   "year": 1951,
+   "era": "CE",
+   "quote": "The first Census of independent India in 1951 revealed the extreme complexity and intractability of the educational issues in the country. In the first Census, the literacy level was 17%.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "event",
+   "text": "Literacy rose to 34% (1971), 43% (1981), 52% (1991) and 64% (2001).",
+   "year": null,
+   "era": "CE",
+   "quote": "Census Year Literacy 1971 34% 1981 43% 1991 52% 2001 64%",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Primary education refers to the schooling given to children in the 6 to 14 year age-group.",
+   "year": null,
+   "era": "CE",
+   "quote": "Primary education refers to the schooling given to children in the 6 to 14 year age-group.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "date",
+   "text": "In 1988 the central government started Operation Blackboard to spread primary education, funding at least two proper classrooms, toilets, one of the two teachers to be female, a blackboard, maps, a small library and more.",
+   "year": 1988,
+   "era": "CE",
+   "quote": "In 1988, the central government started a scheme for the spread of primary education and to improve educational standards. It is known as Operation Blackboard. ... such as at least two proper classrooms, toilets, one of the two teachers to be female, a blackboard, maps, laboratory apparatus, a small library, a playground, sports equipment, etc.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "In 1994 the scheme was expanded: one additional classroom and one more teacher for schools with more than 100 students, and female teachers to fill fifty percent of the posts in schools.",
+   "year": 1994,
+   "era": "CE",
+   "quote": "In 1994, this scheme was expanded and provision was made for one additional classroom and for appointing one more teacher in schools with an enrolment of more than 100 students ... It was also made binding upon the State government to appoint female teachers to fifty percent of the posts in schools.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "In 1994 the District Primary Education Programme (DPEP) was started for universalisation of primary education; it was implemented in seven States including Maharashtra.",
+   "year": 1994,
+   "era": "CE",
+   "quote": "Again in 1994, the District Primary Education Programme (DPEP) was started with the objective of universalisation of primary education. It was implemented in seven States including Maharashtra.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "date",
+   "text": "The 'mid-day meal' scheme was started in 1995 to provide proper nourishment for students.",
+   "year": 1995,
+   "era": "CE",
+   "quote": "The 'mid-day meal' scheme was started in 1995 to provide proper nourishment for students.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "date",
+   "text": "In 1991, Kerala became a fully literate State.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "In 1991, Kerala became a fully literate State.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "date",
+   "text": "After Maharashtra State was formed in 1960, it decided on a common state-wide curriculum for Stds I to VII; Principal Sayyad Rauf of S.T. College, Mumbai prepared the draft.",
+   "year": 1960,
+   "era": "CE",
+   "quote": "After the formation of Maharashtra State in 1960, the government took the decision to implement a common state-wide curriculum for Stds I to VII. Principal Sayyad Rauf of S.T. College, Mumbai was assigned the task of preparing the draft of this curriculum.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "Tarabai Modak began work in education in Bordi and Kosbad; she started Anganwadis for Adivasi children, the 'learning by doing' method and kuranshalas (meadow schools).",
+   "year": null,
+   "era": "CE",
+   "quote": "Tarabai Modak began work in the field of education in Bordi and Kosbad. She started Anganwadis for Adivasi children. She worked hard to bring in the 'learning by doing' method, to start kuranshalas (meadow schools) and to spread vocational technical education.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Anutai Wagh established an institution at Kosbad, Thane district, known as the Kosbad Project, starting creches, nurseries, primary schools, adult education classes and balsevika training schools.",
+   "year": null,
+   "era": "CE",
+   "quote": "Anutai Wagh established an institution at Kosbad for the progress of Adivasis in Thane district. It is known as the Kosbad Project. She started crèches, nurseries, primary schools, adult education classes, balsevika training schools, etc.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "After independence, Education Minister Maulana Abul Kalam Azad decided to bring fundamental changes in education; the University Education Commission recommended a separate Commission for secondary education.",
+   "year": null,
+   "era": "CE",
+   "quote": "After independence, Education Minister Maulana Abul Kalam Azad decided to bring about fundamental changes in the field of education. The University Education Commission was set up for this purpose. This Commission recommended the appointment of a separate Commission for secondary education.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "In 1952-53 the Mudaliar Commission was appointed; the pattern then was 11 + 4 years for the first degree or 11+1+3 years.",
+   "year": null,
+   "era": "CE",
+   "quote": "Accordingly, in 1952-53, the Mudaliar Commission was appointed. At that time, the pattern of education consisted of 11 + 4 years for the first degree or of 11+1+3 years.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "event",
+   "text": "The Mudaliar Commission proposed the concept of Higher Secondary Education, but it was difficult to implement all over the country.",
+   "year": null,
+   "era": "CE",
+   "quote": "This Commission proposed the concept of Higher Secondary Education. However, it was found difficult to implement it all over the country.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "The Maharashtra State Board of Secondary and Higher Secondary Education was established on 1st January 1966 at Pune; it conducts Std X and XII exams and publishes 'Shikshan Sankraman'.",
+   "year": 1966,
+   "era": "CE",
+   "quote": "The Maharashtra State Board of Secondary and Higher Secondary Education was established on the 1st of January 1966 at Pune. This Board conducts the school leaving examinations of Std X and Std XII. The Board also publishes a periodical called 'Shikshan Sankraman'.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "date",
+   "text": "In 1964 a Commission was appointed under the Chairmanship of Dr D. S. Kothari; Dr J. P. Naik made valuable contributions to its work.",
+   "year": 1964,
+   "era": "CE",
+   "quote": "In 1964 a Commission was appointed under the Chairmanship of Dr D. S. Kothari. Dr J. P. Naik made valuable contributions to the work of this Commission.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "The Kothari Commission recommended the 10+2+3 pattern, implemented from 1972; Maharashtra adopted it in 1972.",
+   "year": 1972,
+   "era": "CE",
+   "quote": "The Commission also recommended the 10+2+3 pattern for secondary, higher secondary and university education. This system was implemented from 1972. ... Maharashtra government adopted the 10+2+3 pattern in 1972",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "The Kothari Commission suggested a uniform national system, the mother tongue, Hindi and English in education, continuing, adult and correspondence education and open universities, and more budget for scheduled castes and tribes.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Commission also suggested a uniform national system of education, the inclusion of the mother tongue, Hindi and English in education, as well as continuing education, adult education, education by correspondence and open universities ... increased provision in the government's budget for expenditure on education of neglected sections like the scheduled castes and tribes.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "date",
+   "text": "Maharashtra conducted the first Std X Board exam in 1975.",
+   "year": 1975,
+   "era": "CE",
+   "quote": "Maharashtra government adopted the 10+2+3 pattern in 1972 and conducted the first Std X Board exam in 1975.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Objectives of education according to the Kothari Commission: modernisation of education, social and national integration, nurture of social, moral, spiritual values, education and productivity, securing and strengthening of democracy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Modernisation of Education; Social and national Integration; Nurture of social, moral, spiritual values; Education and Productivity; Securing and strengthening of democracy",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "In 1948 the Central Government appointed the University Education Commission whose Chairman was Dr Sarvapalli Radhakrishnan.",
+   "year": 1948,
+   "era": "CE",
+   "quote": "After independence, in 1948, the Central Government appointed the University Education Commission whose Chairman was Dr Sarvapalli Radhakrishnan.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "event",
+   "text": "The Commission accepted the Five-Year Plans method, disbursed grants to universities, and after the advent of television initiated the 'Countrywide Classroom' programme telecast by Doordarshan.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Commission accepted the Five-Year Plans method. It began to sanction and disburse grants to the universities ... After the advent of television in India, it initiated the 'Countrywide Classroom' programme which is telecast by Doordarshan on behalf of the Commission.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "The Art Department was established in 1965 in Maharashtra to frame the policy for Art Education; it organises the drawing grade examinations.",
+   "year": 1965,
+   "era": "CE",
+   "quote": "The Art Department was established in 1965 in Maharashtra, to frame the policy for Art Education ... This Department undertook the responsibility of organising the drawing grade examinations at school level.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "date",
+   "text": "The NCERT was established in Delhi on the 1st of September 1961; it designs school curricula and textbooks with the CBSE and conducts talent search examinations at the national level.",
+   "year": 1961,
+   "era": "CE",
+   "quote": "This body was established in Delhi on the 1st of September 1961. ... It has played a central role in designing school curricula and textbooks with the cooperation of the Central Board of Secondary Education (CBSE). ... conducting talent search examinations at the national level.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "event",
+   "text": "SCERTs were established in all States on the lines of the NCERT.",
+   "year": null,
+   "era": "CE",
+   "quote": "SCERTs were established in all States on the lines of the NCERT.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "date",
+   "text": "The Maharashtra State Council of Educational Research and Training was established in Pune in 1984; it is known as the academic authority and brings out the periodical Jeevan Shikshan.",
+   "year": 1984,
+   "era": "CE",
+   "quote": "The Maharashtra State Council of Educational Research and Training was established in Pune in 1984. ... This institute is known as the academic authority. It brings out a periodical called Jeevan Shikshan.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "date",
+   "text": "Balbharati was established in Pune on 27 January 1967; it prepares textbooks for 1st to 12th standards and publishes 'Kishor', a monthly magazine for children.",
+   "year": 1967,
+   "era": "CE",
+   "quote": "The Maharashtra State Bureau of Textbook Production and Curriculum Research (Balbharati) was established in Pune on 27 January 1967. Balbharati prepares textbooks for school children of 1st to 12th standards. ... 'Kishor', a monthly magazine for children, is also published by Balbharati.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "Under the National Policy on Education 1986 a common core curriculum was framed for all States, with scope for flexibility for individual States.",
+   "year": 1986,
+   "era": "CE",
+   "quote": "National Policy on Education 1986 : ... Under this policy, a common core curriculum was framed for all States. ... There is scope in the national curriculum for individual States to bring in flexibility",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "date",
+   "text": "The 'Primary Education Curriculum 1988' was prepared for the effective implementation of the National Policy on Education 1986.",
+   "year": 1988,
+   "era": "CE",
+   "quote": "The 'Primary Education Curriculum 1988' was prepared on the basis of the plan of action designed at the national level for the effective implementation of the National Policy on Education 1986.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "date",
+   "text": "Competency based Primary Education Curriculum 1995: a Committee with Dr R. H. Dave as Chairman set minimum levels of learning in language, mathematics and environmental studies up to Std V.",
+   "year": 1995,
+   "era": "CE",
+   "quote": "The Competency based Primary Education Curriculum 1995 : ... a Committee was formed at the national level with Dr R. H. Dave as its Chairman, to determine minimum levels of learning. The Dave Committee developed charts of minimum levels of learning in language, mathematics and environmental studies up to Std V.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "date",
+   "text": "In 1975 India succeeded in using a satellite for education; Eknath Chitnis, a scientist with ISRO, played an important role.",
+   "year": 1975,
+   "era": "CE",
+   "quote": "In 1975, India met with success in its attempt to use a satellite for the purpose of education. Eknath Chitnis, a scientist with ISRO, played an important role in it.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "event",
+   "text": "SITE (Satellite Instructional Television Experiment) was undertaken under the Space Applications Centre at Ahmedabad; America helped India in this programme.",
+   "year": null,
+   "era": "CE",
+   "quote": "SITE (Satellite Instructional Television Experiment) was undertaken for educational purposes under the leadership of the Space Applications Centre at Ahmedabad. ... America had helped India in this programme.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "The United Nations declared 1970 the International Education Year; that year a seminar in New Delhi on the Open University, with UNESCO, gave rise to the idea of an open university.",
+   "year": 1970,
+   "era": "CE",
+   "quote": "The United Nations had declared 1970 as the International Education Year. In the same year, a seminar was organised in New Delhi on the subject of Open University ... along with UNESCO. The idea of establishing an open university evolved in this seminar.",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "date",
+   "text": "In 1974 the government appointed a committee under the chairmanship of P. Parthasarathy.",
+   "year": 1974,
+   "era": "CE",
+   "quote": "In 1974, the government appointed a committee under the chairmanship of P. Parthasarathy",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "The Open University took shape on 20 September 1985 and was named after Prime Minister Indira Gandhi (IGNOU).",
+   "year": 1985,
+   "era": "CE",
+   "quote": "the Open University took shape on 20 September 1985 in accordance with its recommendations and suggestions. It was named after Prime Minister Indira Gandhi.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "date",
+   "text": "The Yashwantrao Chavan Maharashtra Mukta Vidyapeeth was established in Nashik in 1989.",
+   "year": 1989,
+   "era": "CE",
+   "quote": "The Yashwantrao Chavan Maharashtra Mukta Vidyapeeth was established in Nashik in 1989.",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "date",
+   "text": "In 1990 IGNOU started an audio-visual distance education programme through Akashvani and Doordarshan.",
+   "year": 1990,
+   "era": "CE",
+   "quote": "In 1990, the IGNOU started an audio-visual distance education programme through Akashvani and Doordarshan.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "In 1950 the Council of Scientific and Industrial Research (CSIR) was established to promote scientific research and take its benefits to all the people.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "In the post-independence period in 1950, the Council of Scientific and Industrial Research (CSIR) was established with the objective to promote scientific research in the country and to take the benefits of the research to all the people.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "event",
+   "text": "CSIR achievements: the ink for marking voters' fingers, medicines for malaria, elephantiasis and tuberculosis, first use of DNA fingerprinting in India, a genetic study proving the Andaman Adivasis are 60,000 years old, and an earthquake early warning system.",
+   "year": null,
+   "era": "CE",
+   "quote": "The achievements of the CSIR include making the ink used for marking voters' fingers during elections, medicines for malaria, elephantiasis and tuberculosis ... It also used DNA fingerprinting for the first time in India, conducted a genetic study of the Adivasis of the Andamans and proved that those tribes are 60,000 years old and developed the earthquake early warning system.",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "CSIR also helped with neem as a pesticide, turmeric for healing wounds and rice variety patents, and prepared a digital encyclopaedia of Indian traditional knowledge.",
+   "year": null,
+   "era": "CE",
+   "quote": "It has also played an important role in the use of neem as a pesticide, use of turmeric for healing wounds and in the case of the patents for varieties of rice. The CSIR has prepared a digital encyclopaedia of Indian traditional knowledge",
+   "page": 5
+  },
+  {
+   "fid": "f41",
+   "kind": "date",
+   "text": "The 'National Institute for Research in the Mathematical and Physical Sciences' in Tamil Nadu was established in 1962.",
+   "year": 1962,
+   "era": "CE",
+   "quote": "The 'National Institute for Research in the Mathematical and Physical Sciences' in Tamil Nadu was established in 1962.",
+   "page": 6
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "In 1969 India made the first indigenous computer, ISIJU, by the Indian Statistical Institute and Jadavpur University working together.",
+   "year": 1969,
+   "era": "CE",
+   "quote": "In 1969, we made the first indigenous computer named the ISIJU computer as this was achieved by the Indian Statistical Institute and Jadavpur University working together.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "date",
+   "text": "In 1974 Tata Consultancy Services (TCS) obtained an American contract in software production - the beginning of the software industry in India.",
+   "year": 1974,
+   "era": "CE",
+   "quote": "In 1974, Tata Consultancy Services, (TCS), obtained an American contract in the area of software production and that was the beginning of the software industry in India.",
+   "page": 6
+  },
+  {
+   "fid": "f44",
+   "kind": "date",
+   "text": "In 1987 America refused to allow India to get a supercomputer; the Rajiv Gandhi government decided to develop one indigenously.",
+   "year": 1987,
+   "era": "CE",
+   "quote": "In 1987, America refused to allow India to get a supercomputer. The Rajiv Gandhi government decided to develop a supercomputer indigenously.",
+   "page": 6
+  },
+  {
+   "fid": "f45",
+   "kind": "date",
+   "text": "In 1988 the Central Government established the Centre for Development for Advanced Computing (C-DAC) in Pune.",
+   "year": 1988,
+   "era": "CE",
+   "quote": "In 1988, the Central Government established the Centre for Development for Advanced Computing (C-DAC) in Pune",
+   "page": 6
+  },
+  {
+   "fid": "f46",
+   "kind": "date",
+   "text": "In 1991 the Centre under the leadership of Dr Vijay Bhatkar developed the Param-8000 supercomputer.",
+   "year": 1991,
+   "era": "CE",
+   "quote": "in 1991 the Centre under the leadership of Dr Vijay Bhatkar developed the Param-8000 supercomputer.",
+   "page": 6
+  },
+  {
+   "fid": "f47",
+   "kind": "place",
+   "text": "BARC conducted research in nuclear physics, solid state physics, spectroscopy, chemical and life sciences, and started a school to train scientists for setting up nuclear reactors.",
+   "year": null,
+   "era": "CE",
+   "quote": "This institute has conducted valuable research in the fields of nuclear physics, solid state physics, spectroscopy, chemical and life sciences. It also started a school to train scientists for setting up nuclear reactors.",
+   "page": 6
+  },
+  {
+   "fid": "f48",
+   "kind": "date",
+   "text": "India's first IIT was set up at Kharagpur in West Bengal in 1951.",
+   "year": 1951,
+   "era": "CE",
+   "quote": "India's first IIT was set up at Kharagpur in West Bengal in 1951.",
+   "page": 6
+  },
+  {
+   "fid": "f49",
+   "kind": "place",
+   "text": "Engineering colleges at Powai, Chennai, Kanpur and New Delhi were converted into IITs, with help from Soviet Russia, America, Germany and UNESCO.",
+   "year": null,
+   "era": "CE",
+   "quote": "The engineering colleges at Powai, Chennai, Kanpur and New Delhi were converted into IITs. The Soviet Russia, America, Germany and the UNESCO all extended help to set up these institutes.",
+   "page": 6
+  },
+  {
+   "fid": "f50",
+   "kind": "event",
+   "text": "IITs were given the status of deemed Universities; admission through entrance exams is a special feature; from 1970 to 1980 many IIT students left for foreign countries, causing the Brain Drain crisis.",
+   "year": null,
+   "era": "CE",
+   "quote": "The IITs in India were given the status of deemed Universities and BTech and MTech courses were started there. Admission through entrance exams, nominal fees and reservations for students are the special features ... In the decade from 1970 to 1980 a large number of IIT students began to leave for foreign countries causing the Brain Drain crisis.",
+   "page": 6
+  },
+  {
+   "fid": "f51",
+   "kind": "date",
+   "text": "IITs were also established at Guwahati (Assam) in 1994 and in Roorkee in 2001.",
+   "year": null,
+   "era": "CE",
+   "quote": "IITs were also established at Guwahati (Assam) in 1994 and in Roorkee in 2001.",
+   "page": 6
+  },
+  {
+   "fid": "f52",
+   "kind": "place",
+   "text": "The Centre and the Gujarat government started the Indian Institute of Management; Harvard Business School in America helped to set up IIM Ahmedabad.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Centre and the Gujarat government started the Indian Institute of Management to mould skilled managers. Harvard Business School in America helped to set up IIM Ahmedabad.",
+   "page": 6
+  },
+  {
+   "fid": "f53",
+   "kind": "place",
+   "text": "The Film and Television Institute of India inherited the legacy of the Prabhat Film Company of Pune.",
+   "year": null,
+   "era": "CE",
+   "quote": "This Institute inherited the legacy of the Prabhat Film Company of Pune.",
+   "page": 6
+  },
+  {
+   "fid": "f54",
+   "kind": "date",
+   "text": "The National Institute of Design was established in Ahmedabad in 1961 for training in industrial design; its work includes the transistor radio, the calculator and the logos of Indian Airlines and the State Bank of India.",
+   "year": 1961,
+   "era": "CE",
+   "quote": "This institute was established in Ahmedabad in 1961 for the purpose of imparting training in industrial design. ... The work done by this institute includes designing of the transistor radio and the calculator and the logos of Indian Airlines and the State Bank of India.",
+   "page": 6
+  },
+  {
+   "fid": "f55",
+   "kind": "date",
+   "text": "In 1949 the Indian Council for Medical Research (ICMR) was established; its research made it possible to control tuberculosis and leprosy.",
+   "year": 1949,
+   "era": "CE",
+   "quote": "In the post-independence period in 1949, the Indian Council for Medical Research (ICMR) was established for conducting research in the medical field. ... Their research has made it possible to control tuberculosis and leprosy.",
+   "page": 7
+  },
+  {
+   "fid": "f56",
+   "kind": "place",
+   "text": "AIIMS gives advanced education and research in medicine, medical treatment at nominal rates, and super-speciality centres for disorders of the heart, brain and eyes.",
+   "year": null,
+   "era": "CE",
+   "quote": "The All India Institute of Medical Sciences (AIIMS) was established to give further impetus to advanced education and research in medicine. ... The institute also provides medical treatment to the common people at nominal rates. It has established special colleges for training in nursing, and super-speciality centres for treatment of disorders of the heart, brain and eyes.",
+   "page": 7
+  },
+  {
+   "fid": "f57",
+   "kind": "date",
+   "text": "The Medical Council of India was restructured in 1958 to determine criteria for quality of medical education.",
+   "year": 1958,
+   "era": "CE",
+   "quote": "the Medical Council of India was restructured in 1958 and was entrusted with the task of determining criteria for quality of medical education, its supervision and inspection.",
+   "page": 7
+  },
+  {
+   "fid": "f58",
+   "kind": "date",
+   "text": "In 1969 the Central Council for Research in Indian Medicine and Homoeopathy was established; in 1979 it was replaced by three councils for Unani Medicine, Homoeopathy, and Yoga and Nature Cure.",
+   "year": 1979,
+   "era": "CE",
+   "quote": "In 1969 the Central Council for Research in Indian Medicine and Homoeopathy was established ... In 1979, this institute was dissolved and replaced by three others, namely, the (1) Central Council for Research in Unani Medicine (2) Central Council for Research in Homoeopathy and (3) Central Council for Research in Yoga and Nature Cure",
+   "page": 7
+  },
+  {
+   "fid": "f59",
+   "kind": "place",
+   "text": "The Advanced Centre for Treatment, Research and Education in Cancer is a branch of the Tata Memorial Centre, the national centre for cancer.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Advanced Centre for Treatment, Research and Education in Cancer is a branch of the Tata Memorial Centre. It functions as the national centre for treatment, research and education in relation to cancer.",
+   "page": 7
+  },
+  {
+   "fid": "f60",
+   "kind": "date",
+   "text": "Agricultural research in India began as early as 1905; the Indian Agricultural Research Institute got University status in 1958 and did fundamental research on taking multiple crops in a year.",
+   "year": 1905,
+   "era": "CE",
+   "quote": "In India, research in agriculture had begun as early as 1905. The Indian Agricultural Research Institute was given the status of a University in 1958 ... Its most significant achievement is the fundamental research it has conducted on the methods of taking multiple crops in a year",
+   "page": 7
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-05-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f24",
+    "f16",
+    "f27"
+   ],
+   "hook": "University Commission 1948, NCERT 1961, Kothari 1964, Balbharati 1967.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "University Education Commission appointed",
+     "y": "1948",
+     "k": 19480000
+    },
+    {
+     "t": "NCERT established in Delhi",
+     "y": "1 September 1961",
+     "k": 19610901
+    },
+    {
+     "t": "Kothari Commission appointed",
+     "y": "1964",
+     "k": 19640000
+    },
+    {
+     "t": "Balbharati established in Pune",
+     "y": "27 January 1967",
+     "k": 19670127
+    }
+   ]
+  },
+  {
+   "qid": "c9-05-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "1951: the first Census of independent India - literacy only 17%.",
+   "prompt": "In which year was the first Census of independent India held, showing a literacy level of 17%?",
+   "year": 1951,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-03",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "1988: Operation Blackboard - two classrooms, a blackboard and a female teacher.",
+   "prompt": "In which year did the central government start Operation Blackboard?",
+   "year": 1988,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Tarabai Modak: Bordi, Kosbad, Anganwadis and meadow schools.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I worked hard to bring in the 'learning by doing' method.",
+    "I started kuranshalas, or meadow schools.",
+    "I began work in education in Bordi and Kosbad and started Anganwadis for Adivasi children."
+   ],
+   "options": [
+    "Anutai Wagh",
+    "Sayyad Rauf",
+    "Tarabai Modak",
+    "Dr J. P. Naik"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f44",
+    "f45",
+    "f46"
+   ],
+   "hook": "Refused in 1987, C-DAC in 1988, Param-8000 in 1991 under Dr Vijay Bhatkar.",
+   "prompt": "Who am I?",
+   "clues": [
+    "America's refusal in 1987 to let India get a supercomputer set the stage for my work.",
+    "I led the Centre for Development for Advanced Computing in Pune when it built a supercomputer.",
+    "Under my leadership, the Param-8000 supercomputer was developed in 1991."
+   ],
+   "options": [
+    "Dr Vijay Bhatkar",
+    "Eknath Chitnis",
+    "Dr R. H. Dave",
+    "P. Parthasarathy"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-05-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f01",
+    "f03",
+    "f04",
+    "f08"
+   ],
+   "hook": "Literacy 17% in 1951; Kerala fully literate by 1991.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "In the first Census of 1951, the literacy level was 17%."
+    ],
+    [
+     "Diya",
+     "Primary education is schooling for children in the 6 to 14 year age-group."
+    ],
+    [
+     "Aarav",
+     "In 1988 the central government started Operation Blackboard."
+    ],
+    [
+     "Diya",
+     "In 1991 Punjab became a fully literate State."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 2
+   },
+   "options": [
+    "Kerala",
+    "Bihar",
+    "Rajasthan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-05-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f16",
+    "f17",
+    "f19"
+   ],
+   "hook": "Kothari 1964, 10+2+3 adopted in 1972, first Std X Board exam in 1975.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "In 1964 a Commission was appointed under Dr D. S. Kothari."
+    ],
+    [
+     "Meera",
+     "It recommended the 10+2+3 pattern for secondary, higher secondary and university education."
+    ],
+    [
+     "Ishaan",
+     "Maharashtra adopted the 10+2+3 pattern in 1972."
+    ],
+    [
+     "Meera",
+     "The first Std X Board exam in Maharashtra was conducted in 1985 under this pattern."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 11
+   },
+   "options": [
+    "1972",
+    "1966",
+    "1975"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f48",
+    "f49"
+   ],
+   "hook": "IIT = Indian Institute of Technology: engineering, from Kharagpur in 1951.",
+   "prompt": "In which field is the IIT famous for education?",
+   "options": [
+    "Medicine",
+    "Engineering",
+    "Agriculture",
+    "Skilled managers"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-05-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f28",
+    "f04",
+    "f06",
+    "f07"
+   ],
+   "hook": "Policy 1986, Blackboard 1988, DPEP 1994, mid-day meal 1995.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "National Policy on Education",
+     "y": "1986",
+     "k": 19860000
+    },
+    {
+     "t": "Operation Blackboard starts",
+     "y": "1988",
+     "k": 19880000
+    },
+    {
+     "t": "DPEP starts",
+     "y": "1994",
+     "k": 19940000
+    },
+    {
+     "t": "Mid-day meal scheme starts",
+     "y": "1995",
+     "k": 19950000
+    }
+   ]
+  },
+  {
+   "qid": "c9-05-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "DPEP in 1994, then the mid-day meal in 1995 - one year later.",
+   "prompt": "In which year was the 'mid-day meal' scheme started to provide proper nourishment for students?",
+   "year": 1995,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-11",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "1964: Kothari Commission; its 10+2+3 pattern began in 1972, eight years later.",
+   "prompt": "In which year was the Commission under Dr D. S. Kothari appointed?",
+   "year": 1964,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "1948: University Education Commission, chaired by Dr Sarvapalli Radhakrishnan.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My Commission was set up soon after independence.",
+    "The Central Government appointed my Commission in 1948.",
+    "I was the Chairman of the University Education Commission."
+   ],
+   "options": [
+    "Maulana Abul Kalam Azad",
+    "Dr D. S. Kothari",
+    "Dr J. P. Naik",
+    "Dr Sarvapalli Radhakrishnan"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-05-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "NCERT, Delhi, 1st September 1961: textbooks with CBSE and talent search exams.",
+   "prompt": "What am I?",
+   "clues": [
+    "SCERTs were set up in all States on my lines.",
+    "I have been involved in teacher training and in designing handbooks for teachers.",
+    "I was established in Delhi on the 1st of September 1961."
+   ],
+   "options": [
+    "CSIR",
+    "Balbharati",
+    "ICMR",
+    "NCERT"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-05-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f48",
+    "f50"
+   ],
+   "hook": "First IIT: Kharagpur, West Bengal, 1951.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kabir",
+     "India's first IIT was set up at Roorkee in 1951."
+    ],
+    [
+     "Ananya",
+     "The IITs were given the status of deemed Universities."
+    ],
+    [
+     "Kabir",
+     "Admission through entrance exams is a special feature of the IITs."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 7
+   },
+   "options": [
+    "Guwahati",
+    "Kharagpur",
+    "Powai"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-05-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f12",
+    "f13",
+    "f14"
+   ],
+   "hook": "Azad's push led to the Mudaliar Commission (1952-53) for secondary education.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Maulana Abul Kalam Azad was the Education Minister after independence."
+    ],
+    [
+     "Arjun",
+     "In 1952-53 the Kothari Commission was appointed for secondary education."
+    ],
+    [
+     "Riya",
+     "That Commission proposed the concept of Higher Secondary Education."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "Parthasarathy",
+    "Dave",
+    "Mudaliar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "MSCERT, Pune, 1984: the academic authority that brings out Jeevan Shikshan.",
+   "prompt": "Which body brought out a periodical called 'Jeevan Shikshan'?",
+   "options": [
+    "Balbharati",
+    "University Education Commission",
+    "Maharashtra State Council of Educational Research and Training",
+    "Maharashtra State Board of Secondary and Higher Secondary Education"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f42",
+    "f43",
+    "f45",
+    "f46"
+   ],
+   "hook": "ISIJU 1969, TCS 1974, C-DAC 1988, Param-8000 1991.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "ISIJU computer made",
+     "y": "1969",
+     "k": 19690000
+    },
+    {
+     "t": "TCS gets an American software contract",
+     "y": "1974",
+     "k": 19740000
+    },
+    {
+     "t": "C-DAC established in Pune",
+     "y": "1988",
+     "k": 19880000
+    },
+    {
+     "t": "Param-8000 supercomputer developed",
+     "y": "1991",
+     "k": 19910000
+    }
+   ]
+  },
+  {
+   "qid": "c9-05-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "1st September 1961: NCERT opens in Delhi.",
+   "prompt": "In which year was the NCERT established in Delhi on the 1st of September?",
+   "year": 1961,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f27",
+    "f15"
+   ],
+   "hook": "State Board on 1 January 1966, Balbharati on 27 January 1967 - both in Pune.",
+   "prompt": "In which year was Balbharati established in Pune on 27 January?",
+   "year": 1967,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "Anutai Wagh's Kosbad Project: creches, nurseries and balsevika training.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I worked for the progress of Adivasis in Thane district.",
+    "I started creches, nurseries and balsevika training schools.",
+    "The institution I established is known as the Kosbad Project."
+   ],
+   "options": [
+    "Tarabai Modak",
+    "Sayyad Rauf",
+    "Anutai Wagh",
+    "Eknath Chitnis"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Balbharati: textbooks for Std 1-12 and the 'Kishor' magazine, Pune 1967.",
+   "prompt": "What am I?",
+   "clues": [
+    "I publish 'Kishor', a monthly magazine for children.",
+    "I was established in Pune on 27 January 1967.",
+    "I prepare textbooks for school children of 1st to 12th standards."
+   ],
+   "options": [
+    "NCERT",
+    "Art Department",
+    "Maharashtra State Board of Secondary and Higher Secondary Education",
+    "Balbharati"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-05-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f31",
+    "f32"
+   ],
+   "hook": "1975 satellite education: SITE from Ahmedabad, with help from America.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sneha",
+     "In 1975 India used a satellite for the purpose of education."
+    ],
+    [
+     "Rohan",
+     "SITE was undertaken under the Space Applications Centre at Ahmedabad."
+    ],
+    [
+     "Sneha",
+     "India got help from Japan in this satellite programme."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "America",
+    "Germany",
+    "Russia"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-05-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "event",
+    "people"
+   ],
+   "fids": [
+    "f28",
+    "f29",
+    "f30"
+   ],
+   "hook": "Policy 1986, curriculum 1988, Dave's minimum levels of learning up to Std V in 1995.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Vihaan",
+     "Under the National Policy on Education 1986, a common core curriculum was framed for all States."
+    ],
+    [
+     "Tara",
+     "The Primary Education Curriculum 1988 was prepared to implement this policy."
+    ],
+    [
+     "Vihaan",
+     "A committee led by Dr R. H. Dave set minimum levels of learning up to Std VIII in language, mathematics and environmental studies."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 16
+   },
+   "options": [
+    "VII",
+    "X",
+    "V"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Maharashtra formed 1960; Principal Sayyad Rauf drafted the Std I-VII curriculum.",
+   "prompt": "Who was assigned the task of drafting a common state-wide curriculum for Stds I to VII after Maharashtra was formed in 1960?",
+   "options": [
+    "Dr J. P. Naik",
+    "Dr R. H. Dave",
+    "Eknath Chitnis",
+    "Principal Sayyad Rauf"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-05-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f35",
+    "f36"
+   ],
+   "hook": "Idea 1970, committee 1974, IGNOU 20 September 1985, Nashik open university 1989.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "International Education Year",
+     "y": "1970",
+     "k": 19700000
+    },
+    {
+     "t": "Parthasarathy committee appointed",
+     "y": "1974",
+     "k": 19740000
+    },
+    {
+     "t": "IGNOU takes shape",
+     "y": "20 September 1985",
+     "k": 19850920
+    },
+    {
+     "t": "Mukta Vidyapeeth set up in Nashik",
+     "y": "1989",
+     "k": 19890000
+    }
+   ]
+  },
+  {
+   "qid": "c9-05-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35",
+    "f34"
+   ],
+   "hook": "Committee in 1974, IGNOU on 20 September 1985 - 11 years later.",
+   "prompt": "In which year did the Indira Gandhi National Open University take shape on 20 September?",
+   "year": 1985,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Eknath Chitnis of ISRO: India's 1975 satellite success in education.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was a scientist.",
+    "I worked with ISRO.",
+    "I played an important role when India used a satellite for education in 1975."
+   ],
+   "options": [
+    "Dr Vijay Bhatkar",
+    "Eknath Chitnis",
+    "Dr R. H. Dave",
+    "P. Parthasarathy"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-05-28",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f55",
+    "f57",
+    "f59"
+   ],
+   "hook": "ICMR 1949 (TB, leprosy), Medical Council 1958, Tata Memorial for cancer.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The Indian Council for Medical Research was established in 1949."
+    ],
+    [
+     "Dev",
+     "Its research has made it possible to control tuberculosis and leprosy."
+    ],
+    [
+     "Aditi",
+     "The Medical Council of India was restructured in 1958."
+    ],
+    [
+     "Dev",
+     "The national centre for treatment and research in malaria is a branch of the Tata Memorial Centre."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 8
+   },
+   "options": [
+    "leprosy",
+    "cancer",
+    "tuberculosis"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-05-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f58"
+   ],
+   "hook": "1969 one council; 1979 split into three: Unani, Homoeopathy, Yoga and Nature Cure.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "In 1969 the Central Council for Research in Indian Medicine and Homoeopathy was established."
+    ],
+    [
+     "Yash",
+     "In 1979 it was dissolved and replaced by five others."
+    ],
+    [
+     "Neha",
+     "One of them was the Central Council for Research in Yoga and Nature Cure."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "three",
+    "two",
+    "four"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-05-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f52"
+   ],
+   "hook": "IIM Ahmedabad was set up with help from Harvard Business School.",
+   "prompt": "Which institution helped to set up IIM Ahmedabad?",
+   "options": [
+    "Harvard Business School",
+    "UNESCO",
+    "Jadavpur University",
+    "Prabhat Film Company"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-05-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f54",
+    "f42",
+    "f46",
+    "f39"
+   ],
+   "hook": "NID Ahmedabad (1961) designed the SBI and Indian Airlines logos.",
+   "prompt": "Which of these was designed by the National Institute of Design?",
+   "options": [
+    "The ISIJU computer",
+    "The Param-8000 supercomputer",
+    "The logo of the State Bank of India",
+    "The ink used for marking voters' fingers"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f53"
+   ],
+   "hook": "Film and Television Institute of India carries on the legacy of Prabhat Film Company, Pune.",
+   "prompt": "Which institute inherited the legacy of the Prabhat Film Company of Pune?",
+   "options": [
+    "Film and Television Institute of India",
+    "National Institute of Design",
+    "Indian Institute of Management",
+    "Bhabha Atomic Research Centre"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-05-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f09",
+    "f23",
+    "f15",
+    "f19",
+    "f26"
+   ],
+   "hook": "State 1960, Art Department 1965, Board 1966, first Std X Board exam 1975, MSCERT 1984.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Maharashtra State formed",
+     "y": "1960",
+     "k": 19600000
+    },
+    {
+     "t": "Art Department established",
+     "y": "1965",
+     "k": 19650000
+    },
+    {
+     "t": "State Board set up at Pune",
+     "y": "1 January 1966",
+     "k": 19660101
+    },
+    {
+     "t": "First Std X Board exam",
+     "y": "1975",
+     "k": 19750000
+    },
+    {
+     "t": "Maharashtra SCERT set up in Pune",
+     "y": "1984",
+     "k": 19840000
+    }
+   ]
+  },
+  {
+   "qid": "c9-05-34",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "1948: University Education Commission under Radhakrishnan - 16 years before Kothari (1964).",
+   "prompt": "In which year did the Central Government appoint the University Education Commission under Dr Sarvapalli Radhakrishnan?",
+   "year": 1948,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-05-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38",
+    "f39",
+    "f40"
+   ],
+   "hook": "CSIR (1950): voters' ink, DNA fingerprinting, digital encyclopaedia.",
+   "prompt": "What am I?",
+   "clues": [
+    "I prepared a digital encyclopaedia of Indian traditional knowledge.",
+    "I used DNA fingerprinting for the first time in India.",
+    "I made the ink used for marking voters' fingers during elections.",
+    "I was established in 1950 to promote scientific research."
+   ],
+   "options": [
+    "ICMR",
+    "CSIR",
+    "BARC",
+    "Indian Agricultural Research Institute"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-05-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f35",
+    "f36"
+   ],
+   "hook": "IGNOU took shape in 1985; the Nashik open university came in 1989.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "The United Nations had declared 1970 as the International Education Year."
+    ],
+    [
+     "Aryan",
+     "In 1974 a committee was appointed under the chairmanship of P. Parthasarathy."
+    ],
+    [
+     "Kavya",
+     "The Open University took shape on 20 September 1989 in accordance with its recommendations."
+    ],
+    [
+     "Aryan",
+     "It was named after Prime Minister Indira Gandhi."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "1974",
+    "1985",
+    "1990"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-05-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f04",
+    "f05"
+   ],
+   "hook": "Blackboard 1988: one of two teachers female; 1994: half of all posts for women.",
+   "prompt": "Which statement about Operation Blackboard and its 1994 expansion is correct?",
+   "options": [
+    "Female teachers were to fill fifty percent of the posts in schools.",
+    "One of the two teachers had to be a scientist.",
+    "An extra teacher was given to schools with fewer than 100 students.",
+    "It was started by the Maharashtra government alone."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-05-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f60",
+    "f38",
+    "f46",
+    "f59"
+   ],
+   "hook": "Research from 1905; IARI a University in 1958; multiple crops in a year.",
+   "prompt": "Which statement about the Indian Agricultural Research Institute is correct?",
+   "options": [
+    "It made the ink used for marking voters' fingers.",
+    "It developed the Param-8000 supercomputer.",
+    "It was given the status of a University in 1958.",
+    "It is a branch of the Tata Memorial Centre."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-05-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f17",
+    "f22",
+    "f59"
+   ],
+   "hook": "Old pattern 11+1+3; Kothari's new pattern 10+2+3 from 1972.",
+   "prompt": "Which was a recommendation of the Kothari Commission?",
+   "options": [
+    "The 11+1+3 pattern of education",
+    "Setting up the Tata Memorial Centre",
+    "The 'Countrywide Classroom' on Doordarshan",
+    "The 10+2+3 pattern of education"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-05-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "CSIR's genetic study: the Andaman Adivasis are 60,000 years old.",
+   "prompt": "What did the CSIR's genetic study of the Adivasis of the Andamans prove?",
+   "options": [
+    "Those tribes are 6,000 years old.",
+    "Those tribes are 60,000 years old.",
+    "Those tribes are 600,000 years old.",
+    "Those tribes are 16,000 years old."
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,1396 @@
+{
+ "class": 9,
+ "id": "01",
+ "title": "Sources of History",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "History can be studied with the help of written sources, material sources, oral sources and sources in the audio-visual medium.",
+   "year": null,
+   "era": "CE",
+   "quote": "We can study history with the help of various sources like written sources, material sources, oral sources and sources in the audio-visual medium.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "In the modern period we have to take note of sources at the regional, state, national as well as international level.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the modern period, we have to take note of various sources at the regional, state, national as well as international level.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Written sources include newspapers, periodicals, diaries, reference books, correspondence, documents in the archives, government gazettes, postage stamps and encyclopedias.",
+   "year": null,
+   "era": "CE",
+   "quote": "Newspapers ... Periodicals ... Diaries ... Reference books ... Correspondence ... Documents in the Archives ... Government Gazettes ... Postage Stamps ... Encyclopedias",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The place where historical documents are preserved is called 'Archives'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The place where historical documents are preserved is called 'Archives'.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "place",
+   "text": "The main office of the National Archives of India is at New Delhi; it is the largest among the Archives in Asia.",
+   "year": null,
+   "era": "CE",
+   "quote": "The main office of the National Archives of India is at New Delhi. It is the largest among the Archives in Asia.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "Newspapers are considered the fourth pillar of democracy in the modern period.",
+   "year": null,
+   "era": "CE",
+   "quote": "Just as newspapers are considered the fourth pillar of democracy in the modern period, they are also a major medium of information.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "event",
+   "text": "From 1961 to 2000, at first there was no alternative to print media; with liberalisation and widespread use of internet an alternative became available, yet print media still continue to be powerful.",
+   "year": null,
+   "era": "CE",
+   "quote": "If we consider the period from 1961 to 2000, we see that in the beginning, there was no alternative to the print media, especially newspapers. With liberalisation and widespread use of internet in India, an alternative for print media became available. Yet, the print media still continue to be powerful.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "Most national newspapers have started their regional editions and publish supplements on various topics.",
+   "year": null,
+   "era": "CE",
+   "quote": "Most national newspapers have started their regional editions. They publish supplements that give information about various topics.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Some newspapers produce special supplements towards the end of the year that take an overview of the important events of the year.",
+   "year": null,
+   "era": "CE",
+   "quote": "Some newspapers produce special supplements towards the end of the year that take an overview of the important events of the year.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "date",
+   "text": "After 1953, the Press Trust of India (PTI) has been an important source of primary details of all important events.",
+   "year": 1953,
+   "era": "CE",
+   "quote": "After 1953, the Press Trust of India has been an important source of primary details of all important events and of articles on important subjects.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "PTI has provided reports, photographs and articles on financial and scientific issues to newspapers, and has now started its online service.",
+   "year": null,
+   "era": "CE",
+   "quote": "Press Trust of India has provided reports, photographs and articles on financial and scientific issues to newspapers. PTI has now started its online service.",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "event",
+   "text": "During the 1990s, PTI started using 'satellite broadcast' technology instead of tele-printers to send news all over the country.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the 1990s, PTI started using the 'satellite broadcast' technology instead of tele-printers to send news all over the country.",
+   "page": 1
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Information in the annual issues of the Publications Division of the Government of India is authentic and trustworthy.",
+   "year": null,
+   "era": "CE",
+   "quote": "Among the print media, the information contained in the annual issues of the Publications Division of the Government of India is authentic and trustworthy.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The Information and Broadcasting Department published INDIA 2000, an annual reference book created under the 'Research, Reference and Training Department'.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Information and Broadcasting Department published INDIA 2000, an annual reference book. This reference book is created under 'Research, Reference and Training Department'.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "INDIA 2000 contains information about the land, its people, national emblems, political system, defence, education and much basic data on economics, agriculture, energy, transport and more.",
+   "year": null,
+   "era": "CE",
+   "quote": "It contains useful information about the land, its people, national emblems, political system, defence, education, ... along with basic data, related to economics, finance, planning, agriculture, ... energy, industries, trade and commerce, transport ...",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Postage stamps don't reveal anything on their own, yet a historian makes them speak; their sizes, subjects and colour schemes reveal changing times.",
+   "year": null,
+   "era": "CE",
+   "quote": "The postage stamps don't reveal anything on their own. Yet a historian makes them speak. ... Postage stamps reveal a lot to us about changing times due to the variety in the sizes of the stamps, the novelty in their subjects and colour schemes.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "The Postal Department issues stamps on themes like political leaders, flowers, animals, birds, events and silver, golden, diamond jubilees, centenary, bicentenary and tercentenary; it is a valuable repository of history.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Postal Department issues postage stamps on a wide variety of themes like political leaders, flowers, animals, birds, an event, or the silver, golden, diamond jubilees or centenary, bicentenary, tercentenary of different events. It is therefore a valuable repository of history.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "The Indian government issued the 'Jal Cooper' stamp in 1977.",
+   "year": 1977,
+   "era": "CE",
+   "quote": "The Indian government issued the 'Jal Cooper' stamp in 1977.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "Jal Cooper was an internationally acclaimed philatelist (an expert on postage stamps), born in a Parsi household in Mumbai, who edited 'India's Stamp Journal'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Jal Cooper was an internationally acclaimed philatelist, i.e. an expert on the subject of 'postage stamps'. Born in a Parsi household in Mumbai, Cooper edited 'India's Stamp Journal'.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "Jal Cooper founded the first Philatelic Bureau in India (an office that collected stamps) and the 'Empire of India Philatelic Society', and wrote many books on stamps.",
+   "year": null,
+   "era": "CE",
+   "quote": "He was the founder of the first Philatelic Bureau in India, an office that collected stamps. He founded the 'Empire of India Philatelic Society'. He went on to write many books on this subject.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "Material sources include coins, places of worship, things in daily use, royal seals, ornaments, museums, clothing and modern architecture.",
+   "year": null,
+   "era": "CE",
+   "quote": "Coins ... Places of worship ... Things in daily use ... Royal Seals ... Ornaments ... Museums ... Clothing ... Modern architecture",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "place",
+   "text": "The Reserve Bank of India prints the notes; it has its headquarters in Mumbai.",
+   "year": null,
+   "era": "CE",
+   "quote": "Reserve Bank of India prints the notes. It has its headquarters in Mumbai.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "date",
+   "text": "The coins from 1950 to the present help us understand contemporary issues in India, e.g. coins conveying population control and the importance of agriculture and farmers.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "The coins from 1950 to those used at present, the metals used for making them, their different shapes, the diversity of subjects on them together help us to understand the important contemporary issues in India eg., coins to convey the message of population control and coins communicating the importance of agriculture and of farmers.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "place",
+   "text": "All States of India have museums; an example is the Chhatrapati Shivaji Maharaj Museum at Mumbai. Private collectors also set up museums on subjects like coins, notes, lamps, nutcrackers and cricket equipment.",
+   "year": null,
+   "era": "CE",
+   "quote": "All States of India have museums ... (eg., the Chhatrapati Shivaji Maharaj Museum at Mumbai. Apart from the Government Museums, some private collectors also set up their own museums. ... eg., coins, notes, lamps and nutcrackers in different shapes, cricket equipment, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Oral sources include folktales, folksongs, proverbs, ballads and owis (Marathi verses in the oral tradition).",
+   "year": null,
+   "era": "CE",
+   "quote": "Oral sources : These sources include folktales, folksongs, proverbs, ballads and owis (Marathi verses in the oral tradition).",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "Activists were inspired by the powadas of Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh during the Sanyukta Maharashtra Movement.",
+   "year": null,
+   "era": "CE",
+   "quote": "Activists were inspired by the powadas of Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh during the Sanyukta Maharashtra Movement.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "The noted Marathi poet Kusumagraj wrote the poem 'Aavahan' on the backdrop of the Sino-Indian war.",
+   "year": null,
+   "era": "CE",
+   "quote": "study the poem 'Aavahan' written on the backdrop of the Sino-Indian war by the noted Marathi poet Kusumagraj.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "Television, films and internet are called 'Audio-visual media'; channels like History channel and Discovery channel also come under this head.",
+   "year": null,
+   "era": "CE",
+   "quote": "Television, films, internet are called 'Audio-visual media'. Many domestic and foreign television channels also come under this head, eg., History channel, Discovery channel, etc.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "date",
+   "text": "The Government of India started the Film and Television Institute of India (FTII) at Pune in 1960 with the purpose of providing public education.",
+   "year": 1960,
+   "era": "CE",
+   "quote": "The Government of India started the Film and Television Institute of India at Pune in 1960 with the purpose of providing public education.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "An institute called Indian News Review produced newsreels on important events in politics, social issues, art, sports and culture; documentaries were also made on social leaders and important locations.",
+   "year": null,
+   "era": "CE",
+   "quote": "An institute called Indian News Review has produced various newsreels on important events in politics, social issues, art, sports and culture. This Department has also produced various documentaries on prominent social leaders, on people who have made major contributions for the country and about important locations in India.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "event",
+   "text": "During the change from land line telephones to cellphones, a gadget called 'pager' came up for contacting people but died out as quickly as it had come up.",
+   "year": null,
+   "era": "CE",
+   "quote": "during the transformation from land line telephone to cellphones, a gadget called 'pager' came up for contacting people. But it died out as quickly as it had come up.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The huge amount of information on the Internet is used for studying history, but its truth and authenticity need to be verified.",
+   "year": null,
+   "era": "CE",
+   "quote": "The huge amount of information available on the Internet is used for studying history, but the truth and authenticity of this information needs to be verified.",
+   "page": 4
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Modern sources are from the contemporary period, so they are easily available; efforts to preserve them are made at all levels.",
+   "year": null,
+   "era": "CE",
+   "quote": "As these sources are from the contemporary period, they are easily available. Since a subject like history touches all the aspects of our lives, efforts for preservation of such sources are made at all levels.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c9-01-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f10",
+    "f29",
+    "f18",
+    "f12"
+   ],
+   "hook": "PTI after 1953, FTII 1960, Jal Cooper stamp 1977, PTI goes satellite in the 1990s.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "PTI becomes an important news source",
+     "y": "after 1953",
+     "k": 1953
+    },
+    {
+     "t": "FTII started at Pune",
+     "y": "1960",
+     "k": 1960
+    },
+    {
+     "t": "Jal Cooper stamp issued",
+     "y": "1977",
+     "k": 1977
+    },
+    {
+     "t": "PTI starts satellite broadcast",
+     "y": "1990s",
+     "k": 1990
+    }
+   ]
+  },
+  {
+   "qid": "c9-01-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "FTII, Pune, 1960: films and TV for public education.",
+   "prompt": "In which year did the Government of India start the Film and Television Institute of India at Pune?",
+   "year": 1960,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-01-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f19",
+    "f20"
+   ],
+   "hook": "Jal Cooper: Mumbai-born philatelist, honoured with his own stamp in 1977.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I founded the 'Empire of India Philatelic Society'.",
+    "I edited 'India's Stamp Journal'.",
+    "I was an internationally acclaimed expert on postage stamps.",
+    "In 1977 the Indian government issued a stamp in my name."
+   ],
+   "options": [
+    "Jal Cooper",
+    "Kusumagraj",
+    "Anna Bhau Sathe",
+    "Amar Sheikh"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f04",
+    "f05"
+   ],
+   "hook": "Archives keep historical documents; India's national one is at New Delhi, largest in Asia.",
+   "prompt": "What am I?",
+   "clues": [
+    "The main office of my national branch in India is at New Delhi.",
+    "India's national one of me is the largest of its kind in Asia.",
+    "I am the place where historical documents are preserved."
+   ],
+   "options": [
+    "Archives",
+    "Museum",
+    "Philatelic Bureau",
+    "Gazette"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f01",
+    "f29",
+    "f28"
+   ],
+   "hook": "FTII = Pune, 1960.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "We can study history with written, material, oral and audio-visual sources."
+    ],
+    [
+     "Sneha",
+     "The Government of India started the Film and Television Institute of India at Nagpur in 1960."
+    ],
+    [
+     "Aarav",
+     "Television, films and internet are called audio-visual media."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 13
+   },
+   "options": [
+    "Mumbai",
+    "Kolkata",
+    "Pune"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Oral = what people say and sing: folktales, folksongs, proverbs, ballads, owis.",
+   "prompt": "Which of these is an oral source of history?",
+   "options": [
+    "Coins",
+    "Newspapers",
+    "Proverbs",
+    "Royal seals"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "Notes are printed by the Reserve Bank of India, headquartered in Mumbai.",
+   "prompt": "Where are the headquarters of the Reserve Bank of India, which prints the notes?",
+   "options": [
+    "New Delhi",
+    "Pune",
+    "Kolkata",
+    "Mumbai"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-01-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "Jal Cooper = philatelist (stamp expert), born in Mumbai, stamp in 1977.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "The Indian government issued the Jal Cooper stamp in 1977."
+    ],
+    [
+     "Kabir",
+     "Jal Cooper was an internationally acclaimed poet and edited India's Stamp Journal."
+    ],
+    [
+     "Riya",
+     "He was born in a Parsi household in Mumbai."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "singer",
+    "painter",
+    "philatelist"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "1977: a stamp for the stamp expert, Jal Cooper.",
+   "prompt": "In which year did the Indian government issue the 'Jal Cooper' postage stamp?",
+   "year": 1977,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-01-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "After 1953 PTI became the go-to source of primary details of important events.",
+   "prompt": "After which year has the Press Trust of India been an important source of primary details of all important events?",
+   "year": 1953,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-01-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f11",
+    "f12"
+   ],
+   "hook": "PTI: important after 1953, tele-printers to satellite in the 1990s, now online.",
+   "prompt": "What am I?",
+   "clues": [
+    "In the 1990s I began using satellite broadcast instead of tele-printers.",
+    "I have given newspapers reports, photographs and articles on financial and scientific issues.",
+    "I have now started my online service.",
+    "After 1953 I became an important source of primary details of all important events."
+   ],
+   "options": [
+    "Indian News Review",
+    "Publications Division",
+    "Press Trust of India",
+    "Film and Television Institute of India"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f27"
+   ],
+   "hook": "Kusumagraj's 'Aavahan': a Marathi poem on the Sino-Indian war.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My poem was written on the backdrop of the Sino-Indian war.",
+    "I was a noted Marathi poet.",
+    "I wrote the poem 'Aavahan'."
+   ],
+   "options": [
+    "Kusumagraj",
+    "Anna Bhau Sathe",
+    "Amar Sheikh",
+    "Jal Cooper"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f25"
+   ],
+   "hook": "Things you can touch = material; things told and sung = oral.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Coins, ornaments, clothing and royal seals are material sources."
+    ],
+    [
+     "Dev",
+     "Folktales, folksongs and ballads are written sources."
+    ],
+    [
+     "Meera",
+     "Museums are also included among material sources."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "material",
+    "oral",
+    "audio-visual"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f21",
+    "f25",
+    "f28"
+   ],
+   "hook": "Written sources are things on paper: diaries, periodicals, gazettes, newspapers.",
+   "prompt": "Which group lists only written sources?",
+   "options": [
+    "Coins, ornaments and clothing",
+    "Diaries, periodicals and government gazettes",
+    "Folktales, proverbs and owis",
+    "Television, films and internet"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Audio-visual = you hear and see it: television, films, internet.",
+   "prompt": "Which of these is included among the audio-visual media?",
+   "options": [
+    "Newspaper",
+    "Periodicals",
+    "Television",
+    "Diaries"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f08",
+    "f09"
+   ],
+   "hook": "Newspapers: the fourth pillar of democracy.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "Most national newspapers have started their regional editions."
+    ],
+    [
+     "Omkar",
+     "Newspapers are considered the second pillar of democracy in the modern period."
+    ],
+    [
+     "Tanvi",
+     "Some newspapers bring out special supplements towards the end of the year."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "fourth",
+    "first",
+    "third"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f23",
+    "f10",
+    "f29",
+    "f18"
+   ],
+   "hook": "Coins from 1950, PTI after 1953, FTII 1960, Jal Cooper stamp 1977.",
+   "prompt": "Put these in order, earliest first.",
+   "items": [
+    {
+     "t": "Coins studied from this year to today",
+     "y": "1950",
+     "k": 1950
+    },
+    {
+     "t": "PTI becomes an important news source",
+     "y": "after 1953",
+     "k": 1953
+    },
+    {
+     "t": "FTII started at Pune",
+     "y": "1960",
+     "k": 1960
+    },
+    {
+     "t": "Jal Cooper stamp issued",
+     "y": "1977",
+     "k": 1977
+    }
+   ]
+  },
+  {
+   "qid": "c9-01-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "RBI prints the notes; headquarters in Mumbai.",
+   "prompt": "What am I?",
+   "clues": [
+    "Changes in what I print help historians understand history.",
+    "My headquarters are in Mumbai.",
+    "I print the currency notes of India."
+   ],
+   "options": [
+    "Postal Department",
+    "Press Trust of India",
+    "Publications Division",
+    "Reserve Bank of India"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-01-19",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "event"
+   ],
+   "fids": [
+    "f11",
+    "f12"
+   ],
+   "hook": "PTI: tele-printers out, satellite broadcast in, during the 1990s.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Press Trust of India has provided reports, photographs and articles on financial and scientific issues to newspapers."
+    ],
+    [
+     "Pooja",
+     "During the 1990s PTI started using satellite broadcast instead of telephones to send news."
+    ],
+    [
+     "Ishaan",
+     "PTI has now started its online service."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "radios",
+    "tele-printers",
+    "pagers"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "1961-2000: print media alone at first; liberalisation and internet brought an alternative.",
+   "prompt": "In the period from 1961 to 2000, what made an alternative to print media available in India?",
+   "options": [
+    "The Press Trust of India",
+    "Government gazettes",
+    "Liberalisation and widespread use of internet",
+    "The Film and Television Institute of India"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "INDIA 2000: annual reference book of the Information and Broadcasting Department.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was created under the 'Research, Reference and Training Department'.",
+    "I contain basic data on economics, agriculture, energy, transport and much more.",
+    "The Information and Broadcasting Department published me as an annual reference book."
+   ],
+   "options": [
+    "India's Stamp Journal",
+    "Indian News Review",
+    "Government Gazette",
+    "INDIA 2000"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-01-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f25",
+    "f26"
+   ],
+   "hook": "Sanyukta Maharashtra Movement: powadas of Anna Bhau Sathe and Amar Sheikh.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "Oral sources include folktales, folksongs, proverbs, ballads and owis."
+    ],
+    [
+     "Aditi",
+     "Activists were inspired by the paintings of Lokshahir Anna Bhau Sathe and Shahir Amar Sheikh."
+    ],
+    [
+     "Nikhil",
+     "This happened during the Sanyukta Maharashtra Movement."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "powadas",
+    "stamps",
+    "films"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Jal Cooper founded the 'Empire of India Philatelic Society'.",
+   "prompt": "Which of these did Jal Cooper found?",
+   "options": [
+    "The Press Trust of India",
+    "The Empire of India Philatelic Society",
+    "The Film and Television Institute of India",
+    "The National Archives of India"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-24",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "FTII, Pune, 1960, for public education.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was started with the purpose of providing public education.",
+    "The Government of India started me in 1960.",
+    "I am located at Pune."
+   ],
+   "options": [
+    "Press Trust of India",
+    "Reserve Bank of India",
+    "National Archives of India",
+    "Film and Television Institute of India"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-01-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Coins from 1950 to today tell of population control, farmers and agriculture.",
+   "prompt": "Coins from which year to the present help us understand important contemporary issues in India?",
+   "year": 1950,
+   "era": "CE"
+  },
+  {
+   "qid": "c9-01-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f19",
+    "f20"
+   ],
+   "hook": "Jal Cooper: Parsi, Mumbai, India's Stamp Journal, first Philatelic Bureau.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sara",
+     "Jal Cooper edited India's Stamp Journal."
+    ],
+    [
+     "Yash",
+     "He founded the first Philatelic Bureau in India, an office that collected stamps."
+    ],
+    [
+     "Sara",
+     "He was born in a Parsi household in Kolkata and wrote many books on stamps."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "Pune",
+    "Delhi",
+    "Mumbai"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Mumbai's Chhatrapati Shivaji Maharaj Museum shows the State's heritage.",
+   "prompt": "Which of these museums is at Mumbai?",
+   "options": [
+    "Chhatrapati Shivaji Maharaj Museum",
+    "Salar Jung Museum",
+    "National Museum",
+    "Indian Museum"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Land line to cellphone: the pager came and went quickly.",
+   "prompt": "During the change from land line telephones to cellphones, which gadget came up for contacting people but died out quickly?",
+   "options": [
+    "Tele-printer",
+    "Pager",
+    "Typewriter",
+    "Radio"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f17"
+   ],
+   "hook": "Stamps are silent, but a historian makes them speak.",
+   "prompt": "What am I?",
+   "clues": [
+    "I don't reveal anything on my own, yet a historian makes me speak.",
+    "My sizes, subjects and colour schemes have changed since India became independent.",
+    "I am issued on themes like flowers, animals, birds and jubilees."
+   ],
+   "options": [
+    "Coin",
+    "Postage stamp",
+    "Newspaper",
+    "Royal seal"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f14",
+    "f15"
+   ],
+   "hook": "INDIA 2000: an annual reference book; Publications Division = authentic.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "Information in the annual issues of the Publications Division of the Government of India is authentic and trustworthy."
+    ],
+    [
+     "Anika",
+     "The Information and Broadcasting Department published INDIA 2000 as a weekly reference book."
+    ],
+    [
+     "Rohan",
+     "It contains information about the land, its people, national emblems and the political system."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "annual",
+    "monthly",
+    "daily"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f05"
+   ],
+   "hook": "National Archives: New Delhi, largest in Asia.",
+   "prompt": "Which statement about the National Archives of India is correct?",
+   "options": [
+    "Its main office is at Mumbai and it prints currency notes.",
+    "Its main office is at Pune and it was started to provide public education through films.",
+    "It was set up in 1977 to collect postage stamps.",
+    "Its main office is at New Delhi and it is the largest among the Archives in Asia."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-01-32",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Owis: Marathi verses passed on by word of mouth.",
+   "prompt": "What am I?",
+   "clues": [
+    "I belong to the oral tradition.",
+    "I am listed with folktales, folksongs, proverbs and ballads.",
+    "I am a kind of Marathi verse."
+   ],
+   "options": [
+    "Gazette",
+    "Newsreel",
+    "Owi",
+    "Encyclopedia"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f23",
+    "f10",
+    "f29",
+    "f18",
+    "f12"
+   ],
+   "hook": "1950 coins, after 1953 PTI, 1960 FTII, 1977 Jal Cooper stamp, 1990s satellite news.",
+   "prompt": "Put these in order, earliest first.",
+   "items": [
+    {
+     "t": "Coins studied from this year to today",
+     "y": "1950",
+     "k": 1950
+    },
+    {
+     "t": "PTI becomes an important news source",
+     "y": "after 1953",
+     "k": 1953
+    },
+    {
+     "t": "FTII started at Pune",
+     "y": "1960",
+     "k": 1960
+    },
+    {
+     "t": "Jal Cooper stamp issued",
+     "y": "1977",
+     "k": 1977
+    },
+    {
+     "t": "PTI starts satellite broadcast",
+     "y": "1990s",
+     "k": 1990
+    }
+   ]
+  },
+  {
+   "qid": "c9-01-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f29",
+    "f30"
+   ],
+   "hook": "FTII at Pune was set up for public education; Indian News Review made newsreels.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "An institute called Indian News Review has produced newsreels on important events."
+    ],
+    [
+     "Arjun",
+     "Documentaries have also been produced on prominent social leaders and important locations in India."
+    ],
+    [
+     "Kavya",
+     "The Government of India started the FTII at Pune to provide public entertainment in 1960."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 12
+   },
+   "options": [
+    "health",
+    "education",
+    "transport"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "Indian News Review: newsreels on politics, social issues, art, sports and culture.",
+   "prompt": "What am I?",
+   "clues": [
+    "My news releases are useful for studying the history of modern India.",
+    "I am called an institute.",
+    "I produced newsreels on important events in politics, social issues, art, sports and culture."
+   ],
+   "options": [
+    "Press Trust of India",
+    "Publications Division",
+    "Indian News Review",
+    "History channel"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c9-01-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f12",
+    "f29",
+    "f18",
+    "f10"
+   ],
+   "hook": "PTI satellite in the 1990s; FTII Pune 1960; Jal Cooper stamp 1977; PTI after 1953.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "PTI began using satellite broadcast in the 1960s; FTII was started at Pune in 1990.",
+    "The Jal Cooper stamp was issued in 1953; PTI became important after 1977.",
+    "The Jal Cooper stamp was issued in 1960; FTII was started at Mumbai in 1977.",
+    "PTI began using satellite broadcast in the 1990s; FTII was started at Pune in 1960."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c9-01-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f19",
+    "f26",
+    "f27"
+   ],
+   "hook": "Philatelist Jal Cooper, poet Kusumagraj, Lokshahir Anna Bhau Sathe, Shahir Amar Sheikh.",
+   "prompt": "Which pair of person and speciality is wrong?",
+   "options": [
+    "Amar Sheikh - Art collector",
+    "Jal Cooper - Philatelist",
+    "Kusumagraj - Poet",
+    "Anna Bhau Sathe - A people's bard"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c9-01-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Jal Cooper founded India's first Philatelic Bureau, an office that collected stamps.",
+   "prompt": "Jal Cooper was the founder of the first office in India that collected stamps. What was it called?",
+   "options": [
+    "Film institute",
+    "Philatelic Bureau",
+    "News agency",
+    "Archives"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f03",
+    "f25",
+    "f28"
+   ],
+   "hook": "Material = touchable: worship places, royal seals, modern architecture, coins.",
+   "prompt": "Which group lists only material sources?",
+   "options": [
+    "Diaries, correspondence and encyclopedias",
+    "Places of worship, royal seals and modern architecture",
+    "Folktales, ballads and owis",
+    "Television, films and internet"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c9-01-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f32"
+   ],
+   "hook": "Modern sources are contemporary, so easy to find; internet facts still need checking.",
+   "prompt": "Why has it become comparatively easy to study modern history with these sources?",
+   "options": [
+    "They are all kept only at the National Archives.",
+    "They were all made by the Press Trust of India.",
+    "Internet information never needs to be checked.",
+    "They are from the contemporary period, so they are easily available."
+   ],
+   "answer": 3
+  }
+ ]
+}

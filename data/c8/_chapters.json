@@ -1,0 +1,162 @@
+[
+ {
+  "id": "01",
+  "num": "H1",
+  "title": "Sources of History",
+  "unit": "History",
+  "pages": "1-4",
+  "book": "803000584"
+ },
+ {
+  "id": "02",
+  "num": "H2",
+  "title": "Europe and India",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "803000584"
+ },
+ {
+  "id": "03",
+  "num": "H3",
+  "title": "Effects of British Rule",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "803000584"
+ },
+ {
+  "id": "04",
+  "num": "H4",
+  "title": "The Freedom Struggle of 1857",
+  "unit": "History",
+  "pages": "1-6",
+  "book": "803000584"
+ },
+ {
+  "id": "05",
+  "num": "H5",
+  "title": "Social and Religious Reforms",
+  "unit": "History",
+  "pages": "1-4",
+  "book": "803000584"
+ },
+ {
+  "id": "06",
+  "num": "H6",
+  "title": "Beginning of Freedom Movement",
+  "unit": "History",
+  "pages": "1-6",
+  "book": "803000584"
+ },
+ {
+  "id": "07",
+  "num": "H7",
+  "title": "Non-co-operation Movement",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "803000584"
+ },
+ {
+  "id": "08",
+  "num": "H8",
+  "title": "Civil Disobedience Movement",
+  "unit": "History",
+  "pages": "1-4",
+  "book": "803000584"
+ },
+ {
+  "id": "09",
+  "num": "H9",
+  "title": "Last Phase of Struggle for Independence",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "803000584"
+ },
+ {
+  "id": "10",
+  "num": "H10",
+  "title": "Armed Revolutionary Movement",
+  "unit": "History",
+  "pages": "1-5",
+  "book": "803000584"
+ },
+ {
+  "id": "11",
+  "num": "H11",
+  "title": "Struggle for Equality",
+  "unit": "History",
+  "pages": "1-6",
+  "book": "803000584"
+ },
+ {
+  "id": "12",
+  "num": "H12",
+  "title": "India gains Independence",
+  "unit": "History",
+  "pages": "1-3",
+  "book": "803000584"
+ },
+ {
+  "id": "13",
+  "num": "H13",
+  "title": "Fulfillment of Struggle for Independence",
+  "unit": "History",
+  "pages": "1-3",
+  "book": "803000584"
+ },
+ {
+  "id": "14",
+  "num": "H14",
+  "title": "Formation of State of Maharashtra",
+  "unit": "History",
+  "pages": "1-4",
+  "book": "803000584"
+ },
+ {
+  "id": "15",
+  "num": "C1",
+  "title": "Introduction to the Parliamentary System",
+  "unit": "Civics",
+  "pages": "1-3",
+  "book": "803000584"
+ },
+ {
+  "id": "16",
+  "num": "C2",
+  "title": "The Indian Parliament",
+  "unit": "Civics",
+  "pages": "1-4",
+  "book": "803000584"
+ },
+ {
+  "id": "17",
+  "num": "C3",
+  "title": "The Union Executive",
+  "unit": "Civics",
+  "pages": "1-4",
+  "book": "803000584"
+ },
+ {
+  "id": "18",
+  "num": "C4",
+  "title": "The Indian Judicial System",
+  "unit": "Civics",
+  "pages": "1-4",
+  "book": "803000584"
+ },
+ {
+  "id": "19",
+  "num": "C5",
+  "title": "The State Government",
+  "unit": "Civics",
+  "pages": "1-3",
+  "book": "803000584"
+ },
+ {
+  "id": "20",
+  "num": "C6",
+  "title": "Bureaucracy",
+  "unit": "Civics",
+  "pages": "1-3",
+  "book": "803000584"
+ }
+]

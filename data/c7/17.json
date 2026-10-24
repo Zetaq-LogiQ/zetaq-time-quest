@@ -1,0 +1,1333 @@
+{
+ "class": 7,
+ "id": "17",
+ "title": "Fundamental Rights - Part I",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "Placards assert rights: 'Education is our right', the assurance of a minimum wage, and a right over forests and their resources.",
+   "year": null,
+   "era": "CE",
+   "quote": "Education is our right. ... We must get the assurance of a minimum wage. It is our right! ... We have a right over our forests and its resources!",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "We get rights at birth; every newborn baby has a right to live.",
+   "year": null,
+   "era": "CE",
+   "quote": "We get rights at birth. Every newborn baby has a right to live.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Only with protection from injustice, exploitation, discrimination and deprivation can individuals develop their skills and qualities.",
+   "year": null,
+   "era": "CE",
+   "quote": "Only when all individuals get protection from injustice, exploitation, discrimination and deprivation, will they be able to develop their skills and qualities.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The Constitution guaranteed equal rights to all citizens to create a conducive atmosphere; these are fundamental rights.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Indian Constitution has guaranteed equal rights to all citizens in order to create this conducive atmosphere. These rights are fundamental rights.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Being included in the Constitution, fundamental rights have the status of law and everybody must abide by them.",
+   "year": null,
+   "era": "CE",
+   "quote": "As they are included in the Constitution, they have the status of law. It is imperative for everybody to abide by these rights.",
+   "page": 2
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "Right to Equality: the State cannot discriminate as superior-inferior or men-women; the same law applies equally to all.",
+   "year": null,
+   "era": "CE",
+   "quote": "According to the right to equality, the State cannot discriminate among citizens as superior-inferior or as men-women and cannot give different treatment or privileges to anybody. The same law applies equally to all.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "We have protection from arrest without warrant, and the State cannot discriminate while extending such protection.",
+   "year": null,
+   "era": "CE",
+   "quote": "For example, we have protection from arrest without warrant. Also the State cannot discriminate while extending such protection.",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "For government employment the State cannot discriminate on grounds of religion, caste, race, sex, descent, place of birth or residence.",
+   "year": null,
+   "era": "CE",
+   "quote": "The State cannot discriminate against any citizen on grounds of religion, caste, race, sex, descent or place of birth or residence for government employment.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Untouchability has been abolished by law; practising it in any form is a cognizable offence; it was abolished to establish equality.",
+   "year": null,
+   "era": "CE",
+   "quote": "The inhuman practice of untouchability that was prevalent in our country has been abolished by law. The practice of untouchability in any form is a cognizable offence. This practice has been abolished in order to establish equality in Indian society.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "Titles that create an artificial hierarchy, like Raja, Maharaja and Raobahadur, have been abolished.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Constitution has also abolished titles that create an artificial hierarchy among people. For example, titles like Raja, Maharaja, Raobahadur, etc. have been abolished.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The State confers awards like Padmashree, Padmabhushan and Padmavibhushan for distinguished contribution in different fields.",
+   "year": null,
+   "era": "CE",
+   "quote": "But the State does confer awards like Padmashree, Padmabhushan, Padmavibhushan, etc. for distinguished contribution in different fields.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "Bharat Ratna is the greatest civilian honour or award of our country.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bharat Ratna is the greatest civilian honour or award of our country.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Paramveer Chakra, Ashok Chakra and Shaurya Chakra are awarded for remarkable service in the armed forces.",
+   "year": null,
+   "era": "CE",
+   "quote": "Medals of honour like Paramveer Chakra, Ashok Chakra, Shaurya Chakra are awarded for remarkable service in the armed forces.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "Such awards don't bestow any special rights or privileges; they are only a recognition of contribution.",
+   "year": null,
+   "era": "CE",
+   "quote": "Such awards don't bestow any special rights or privileges upon those who receive them. It is only a recognition of their contribution.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "The Right to Liberty guarantees all the freedoms necessary from the point of view of the individual.",
+   "year": null,
+   "era": "CE",
+   "quote": "Right to Liberty : This is a very important right given by the Constitution. It gives a guarantee of all the freedoms necessary from the point of view of the individual.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Freedoms: speech and expression; to assemble peaceably; to form associations or unions; to move freely throughout India.",
+   "year": null,
+   "era": "CE",
+   "quote": "freedom of speech and expression - freedom to assemble peaceably - freedom to form associations or unions - freedom to move freely throughout the territory of India.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Freedoms: to reside and settle in any part of India; to practise any lawful profession, occupation, trade or business.",
+   "year": null,
+   "era": "CE",
+   "quote": "freedom to reside and settle in any part of the territory of India. - freedom to practise any lawful profession, or to carry on any occupation, trade or business of one's choice.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "event",
+   "text": "'A' established the 'Adivasi Cooperation Forum'; 'B' moved his father's bakery production from Goa to Maharashtra; 'C' wrote an article on the new tax policy.",
+   "year": null,
+   "era": "CE",
+   "quote": "'A' established 'Adivasi Cooperation Forum' to solve the problems of the tribal people. 'B' decided to move his father's bakery production from Goa to Maharashtra. 'C' found some lacunae in the new tax policy of the Government. He wrote an article",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "Rights must be exercised responsibly; freedom of expression does not allow speaking or writing anything that might incite violence.",
+   "year": null,
+   "era": "CE",
+   "quote": "But we have to exercise these responsibly. ... We have the freedom of expression but we cannot speak or write anything that might incite anybody to violence.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "The right to life implies a guarantee to live and a conducive environment for living; nobody can take away another's life.",
+   "year": null,
+   "era": "CE",
+   "quote": "we all have a right to life. It appears to be simple, but it has a deep significance. It implies getting a guarantee to live; availability of a conducive environment for living. Nobody can take away another's life.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "term",
+   "text": "No person can be arrested and detained without any reason.",
+   "year": null,
+   "era": "CE",
+   "quote": "No person can be arrested and detained without any reason.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "A right supplementary to the right to life: nobody can be punished twice for the same offence.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are some rights supplementary to the right to life. For example, nobody can be punished twice for the same offence.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "Allegations must be proved by the courts; the police collect evidence; even a person who accepts a crime is not punished immediately.",
+   "year": null,
+   "era": "CE",
+   "quote": "Before being punished, the allegations against a person have to be proved. The courts have to perform this task. The police collect evidence against the accused and put up the case in the court. Even if a person accepts that he has committed a crime, he is not punished immediately.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "The right to liberty now includes the Right to Education: all children between 6 and 14 years are entitled to education as a Fundamental Right.",
+   "year": null,
+   "era": "CE",
+   "quote": "The right to liberty now also includes the Right to Education. All children between 6 and 14 years of age are entitled to get education as a Fundamental Right.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Right against Exploitation: children under 14 cannot be employed in hazardous places, factories or mines.",
+   "year": null,
+   "era": "CE",
+   "quote": "it is prohibited to employ children under 14 years of age in hazardous places. Children cannot be employed or made to work in factories and mines.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Exploitation includes bonded labour, forced work, treating somebody like a slave, denying legitimate compensation, excessive work, starving or ill-treating.",
+   "year": null,
+   "era": "CE",
+   "quote": "Exploitation includes bonded labour or forcing somebody to work against his/her wish, treating somebody like a slave, denying them legitimate compensation, making them do excessive or strenuous work, starving them or ill-treating them.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Generally women, children, the weaker sections and powerless people are exploited; this right helps us stand up against exploitation.",
+   "year": null,
+   "era": "CE",
+   "quote": "Generally women, children, the weaker sections of society and powerless people are exploited. This right enables us to stand up against any kind of exploitation.",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "event",
+   "text": "Boards in shops and hotels read 'Children are not employed here' and 'Workers are paid daily here'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Children are not employed here. Workers are paid daily here. You see such boards in shops and hotels.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "The Minimum Wages Act has provisions relating to working hours and rest hours in factories.",
+   "year": null,
+   "era": "CE",
+   "quote": "Minumum Wages Act - Provisions relating to working hours, rest hours, etc. in factories.",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "The Protection of Women from Domestic Violence Act is another law made to prevent exploitation.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Government has made many laws in order to prevent exploitation ... The Protection of Women from Domestic Violence Act",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "The Right against Exploitation has a special provision to prevent the exploitation of children.",
+   "year": null,
+   "era": "CE",
+   "quote": "While the Constitution has banned all types of oppression through the right against exploitation, it has made a special provision to prevent the exploitation of children.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The legal protection of the right to liberty is given to everybody equally and not denied to anybody.",
+   "year": null,
+   "era": "CE",
+   "quote": "This legal protection has been given to everybody equally. It is not denied to anybody.",
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-17-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Rights start at birth: every newborn baby has a right to live.",
+   "prompt": "When do we get rights?",
+   "options": [
+    "At 14 years of age",
+    "At birth",
+    "At 18 years of age",
+    "After getting a job"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f09"
+   ],
+   "hook": "Equality: one law for all; untouchability abolished.",
+   "prompt": "Which right am I?",
+   "clues": [
+    "Because of me, the State cannot give different treatment or privileges to anybody.",
+    "Under me, the State cannot discriminate among citizens as superior-inferior or as men-women.",
+    "Under me, the same law applies equally to all."
+   ],
+   "options": [
+    "Right to Liberty",
+    "Right against Exploitation",
+    "Right to Education",
+    "Right to Equality"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-03",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "Bharat Ratna tops the civilian honours; Chakras are for the armed forces.",
+   "prompt": "Which is the greatest civilian honour of our country?",
+   "options": [
+    "Padmashree",
+    "Paramveer Chakra",
+    "Bharat Ratna",
+    "Shaurya Chakra"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f05",
+    "f24"
+   ],
+   "hook": "Right to Education: ages <b>6</b> to <b>14</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Every newborn baby has a right to live."
+    ],
+    [
+     "Meera",
+     "Fundamental rights have the status of law."
+    ],
+    [
+     "Kabir",
+     "The age group for the Right to Education is 6 to 18 years."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 11
+   },
+   "options": [
+    "14",
+    "12",
+    "16"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-05",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15",
+    "f16",
+    "f24"
+   ],
+   "hook": "Liberty: speech, assembly, unions, movement, residence, profession, plus education.",
+   "prompt": "Which right am I?",
+   "clues": [
+    "I now also include the Right to Education.",
+    "Freedom to assemble peaceably is part of me.",
+    "I guarantee all the freedoms necessary from the point of view of the individual."
+   ],
+   "options": [
+    "Right to Liberty",
+    "Right to Equality",
+    "Right against Exploitation",
+    "Right to life"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-06",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Under <b>14</b>: no work in hazardous places, factories or mines.",
+   "prompt": "Which age limit does the right against exploitation set for employing children in hazardous places?",
+   "options": [
+    "Under 18 years",
+    "Under 10 years",
+    "Under 6 years",
+    "Under 14 years"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-07",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25",
+    "f26",
+    "f27",
+    "f31"
+   ],
+   "hook": "No bonded labour, no child labour in mines: Right against Exploitation.",
+   "prompt": "Which right am I?",
+   "clues": [
+    "I help us stand up for women, children and the weaker sections of society.",
+    "Bonded labour and treating somebody like a slave are things I stop.",
+    "I have a special provision so that children are not made to work in factories and mines."
+   ],
+   "options": [
+    "Right to Equality",
+    "Right to Liberty",
+    "Right against Exploitation",
+    "Right to Education"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Untouchability in any form = a cognizable offence.",
+   "prompt": "What is the practice of untouchability in any form?",
+   "options": [
+    "A title of honour",
+    "A cognizable offence",
+    "A fundamental right",
+    "A civilian award"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-09",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f09"
+   ],
+   "hook": "Untouchability was abolished to establish <b>equality</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Titles like Raja, Maharaja and Raobahadur have been abolished."
+    ],
+    [
+     "Dev",
+     "Such titles created an artificial hierarchy among people."
+    ],
+    [
+     "Sana",
+     "Untouchability has been abolished in order to establish wealth in Indian society."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "religion",
+    "equality",
+    "titles"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-10",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Liberty lets us gather peaceably, but never to harm others.",
+   "prompt": "Which of these freedoms is guaranteed by the right to liberty?",
+   "options": [
+    "Freedom to employ children in mines",
+    "Freedom to assemble peaceably",
+    "Freedom to practise untouchability",
+    "Freedom to incite violence"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Untouchability: inhuman, abolished by law, a cognizable offence.",
+   "prompt": "Which practice am I?",
+   "clues": [
+    "I was an inhuman practice once prevalent in our country.",
+    "I have been abolished by law to establish equality.",
+    "Practising me in any form is a cognizable offence."
+   ],
+   "options": [
+    "Bonded labour",
+    "Untouchability",
+    "Child labour",
+    "Domestic violence"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Education now sits inside the Right to Liberty.",
+   "prompt": "Which right now also includes the Right to Education?",
+   "options": [
+    "Right to Liberty",
+    "Right against Exploitation",
+    "Right to Equality"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25",
+    "f27",
+    "f31"
+   ],
+   "hook": "The special provision protects <b>children</b> from exploitation.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Children cannot be employed or made to work in factories and mines."
+    ],
+    [
+     "Tara",
+     "Generally women, children and the weaker sections of society are exploited."
+    ],
+    [
+     "Nikhil",
+     "Exploitation of farmers is prevented through a special provision in the Constitution."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "Judges",
+    "children",
+    "soldiers"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22"
+   ],
+   "hook": "One offence, one punishment: never twice.",
+   "prompt": "How many times can a person be punished for the same offence?",
+   "options": [
+    "Twice",
+    "Only once",
+    "Three times",
+    "As many times as the police wish"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18",
+    "f16",
+    "f19"
+   ],
+   "hook": "Writing to a newspaper = speech and expression, used responsibly.",
+   "prompt": "Which freedom am I?",
+   "clues": [
+    "I do not allow anyone to write things that might incite violence.",
+    "I am a part of the right to liberty.",
+    "'C' wrote an article on the new tax policy and sent it to a newspaper using me."
+   ],
+   "options": [
+    "Freedom to move freely",
+    "Freedom to form associations or unions",
+    "Freedom of speech and expression",
+    "Freedom to reside and settle"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Chakras for the armed forces: Paramveer, Ashok, Shaurya.",
+   "prompt": "Which medals are awarded for remarkable service in the armed forces?",
+   "options": [
+    "Padmashree, Padmabhushan, Padmavibhushan",
+    "Raja, Maharaja, Raobahadur",
+    "Bharat Ratna, Raja, Padmashree",
+    "Paramveer Chakra, Ashok Chakra, Shaurya Chakra"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f10",
+    "f13",
+    "f11"
+   ],
+   "hook": "Ratna = civilian; Chakra = armed forces; Raobahadur = abolished title.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Raobahadur - medal for the armed forces",
+    "Shaurya Chakra - title that was abolished",
+    "Padmashree - medal for the armed forces",
+    "Bharat Ratna - greatest civilian honour"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f11",
+    "f13",
+    "f12"
+   ],
+   "hook": "Bharat Ratna: greatest <b>civilian</b> honour; Chakras for the armed forces.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Anaya",
+     "Padmashree is given for distinguished contribution in different fields."
+    ],
+    [
+     "Rohan",
+     "Paramveer Chakra is awarded for remarkable service in the armed forces."
+    ],
+    [
+     "Zoya",
+     "Bharat Ratna is the greatest military honour of our country."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "sports",
+    "royal",
+    "civilian"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20",
+    "f22"
+   ],
+   "hook": "Right to life: a guarantee to live; never punished twice for one offence.",
+   "prompt": "Which right am I?",
+   "clues": [
+    "Some rights, like not being punished twice for the same offence, are supplementary to me.",
+    "I appear simple but have a deep significance.",
+    "I imply a guarantee to live and a conducive environment for living."
+   ],
+   "options": [
+    "Right to Equality",
+    "Right to life",
+    "Right against Exploitation",
+    "Freedom of movement"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Even a confession needs legal proof, so the innocent are not punished.",
+   "prompt": "What happens to a person who accepts that he has committed a crime?",
+   "options": [
+    "He is not punished immediately; the allegations have to be proved legally",
+    "He is punished immediately without a court",
+    "He can be punished twice for the same offence",
+    "The police decide his punishment on the spot"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f17"
+   ],
+   "hook": "Any <b>lawful</b> profession, occupation, trade or business of one's choice.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "We have the right to move freely throughout the territory of India."
+    ],
+    [
+     "Neha",
+     "We are free to reside and settle in any part of the territory of India."
+    ],
+    [
+     "Vihaan",
+     "We can practise any unlawful profession of our choice."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 4
+   },
+   "options": [
+    "lawful",
+    "foreign",
+    "hereditary"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f18",
+    "f16"
+   ],
+   "hook": "Starting a forum for tribal people = forming an association.",
+   "prompt": "Which action shows the freedom to form associations or unions?",
+   "options": [
+    "Writing an article about a new tax policy",
+    "Establishing the 'Adivasi Cooperation Forum' to solve problems of tribal people",
+    "Moving a bakery's production from Goa to Maharashtra"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-23",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05"
+   ],
+   "hook": "Equal rights for all, with the status of law: fundamental rights.",
+   "prompt": "What am I?",
+   "clues": [
+    "It is imperative for everybody to abide by me.",
+    "As I am included in the Constitution, I have the status of law.",
+    "I am the equal rights the Constitution guaranteed to all citizens to create a conducive atmosphere."
+   ],
+   "options": [
+    "Residuary Powers",
+    "Fundamental rights",
+    "Titles",
+    "Awards"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f03"
+   ],
+   "hook": "Equal rights = a conducive atmosphere to develop self and society.",
+   "prompt": "Why has the Constitution guaranteed equal rights to all citizens?",
+   "options": [
+    "To give special privileges to award winners",
+    "To bring back titles like Raja and Maharaja",
+    "To create an atmosphere conducive to the development of the self and society",
+    "To allow children to work in mines"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Placards: education, a minimum wage, forests and their resources.",
+   "prompt": "Which demand appears on a placard, asserting it to be a right?",
+   "options": [
+    "We must get the assurance of a minimum wage",
+    "We must get titles like Raobahadur",
+    "We must be allowed to employ children in mines",
+    "We must be punished twice for one offence"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f21",
+    "f23"
+   ],
+   "hook": "<b>Police</b> collect evidence; courts prove allegations.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "No person can be arrested and detained without any reason."
+    ],
+    [
+     "Om",
+     "Before a person is punished, the courts have to prove the allegations."
+    ],
+    [
+     "Aditi",
+     "The judges collect evidence against the accused and put up the case in the court."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "teachers",
+    "police",
+    "voters"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-17-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Minimum Wages Act: working hours and rest hours in factories.",
+   "prompt": "Which law am I?",
+   "clues": [
+    "I am one of the laws made to prevent exploitation.",
+    "My provisions apply in factories.",
+    "I have provisions relating to working hours and rest hours."
+   ],
+   "options": [
+    "Minimum Wages Act",
+    "Protection of Women from Domestic Violence Act",
+    "Right to Education",
+    "Right to Equality"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Not paying what is due = exploitation.",
+   "prompt": "Which of these is included in exploitation?",
+   "options": [
+    "Giving the Padmashree award",
+    "Teaching children between 6 and 14",
+    "Denying legitimate compensation",
+    "Paying workers daily"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Free expression, but never words that incite <b>violence</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Siddharth",
+     "We have to exercise our rights responsibly."
+    ],
+    [
+     "Prisha",
+     "We should take care that others do not get affected by our behaviour."
+    ],
+    [
+     "Yash",
+     "We cannot use speech to incite kindness against anybody."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "violence",
+    "reading",
+    "laughter"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Shop boards: 'Children are not employed here', 'Workers are paid daily here'.",
+   "prompt": "Which board might you see in shops and hotels, linked to the right against exploitation?",
+   "options": [
+    "Titles like Raja sold here",
+    "Only one caste employed here",
+    "Children work in our kitchen here",
+    "Workers are paid daily here"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f14"
+   ],
+   "hook": "Raja, Maharaja, Raobahadur: titles abolished; awards give no privileges.",
+   "prompt": "What am I?",
+   "clues": [
+    "The State is prevented from conferring me.",
+    "The Constitution abolished me because I created an artificial hierarchy among people.",
+    "Raja, Maharaja and Raobahadur were examples of me."
+   ],
+   "options": [
+    "Awards",
+    "Medals of honour",
+    "Titles",
+    "Fundamental rights"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f29"
+   ],
+   "hook": "Two laws against exploitation: Minimum Wages, Domestic Violence.",
+   "prompt": "Which law is mentioned with the Minimum Wages Act as a law to prevent exploitation?",
+   "options": [
+    "The Bharat Ratna Act",
+    "The Residuary Powers Act",
+    "The Raobahadur Act",
+    "The Protection of Women from Domestic Violence Act"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f10",
+    "f25",
+    "f23"
+   ],
+   "hook": "Awards = recognition only; titles gone; under 14 protected; proof before punishment.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Awards like Padmavibhushan do not bestow any special rights or privileges",
+    "Titles like Raobahadur are still conferred by the State",
+    "Children under 14 can work in hazardous places",
+    "A person who accepts a crime is punished immediately"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f32",
+    "f03"
+   ],
+   "hook": "Protection from injustice, exploitation, discrimination and <b>deprivation</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rahul",
+     "The right to liberty includes freedom to form associations or unions."
+    ],
+    [
+     "Divya",
+     "The legal protection of the right to liberty is given to everybody equally."
+    ],
+    [
+     "Manav",
+     "Only when individuals get protection from injustice, exploitation, discrimination and wealth can they develop."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "deprivation",
+    "education",
+    "awards"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Ages 6 to 14: education is a Fundamental Right.",
+   "prompt": "Which right am I?",
+   "clues": [
+    "I am now included in the right to liberty.",
+    "I ensure that no child will be deprived of schooling.",
+    "Children between 6 and 14 years of age are entitled to me as a Fundamental Right."
+   ],
+   "options": [
+    "Right against Exploitation",
+    "Right to Equality",
+    "Right to life",
+    "Right to Education"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f17"
+   ],
+   "hook": "Liberty: speech, assemble, unions, move, reside, any lawful profession.",
+   "prompt": "Which set contains only freedoms under the right to liberty?",
+   "options": [
+    "Speech and expression, confer titles, form unions, move freely",
+    "Assemble peaceably, employ children in mines, reside anywhere, practise a lawful profession",
+    "Move freely, practise untouchability, form associations, speak freely",
+    "Speech and expression, assemble peaceably, form unions, move freely"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-17-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f07"
+   ],
+   "hook": "Protection from arrest without warrant: the State <b>cannot</b> discriminate.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Esha",
+     "Under the right to equality, the same law applies equally to all."
+    ],
+    [
+     "Karan",
+     "We have protection from arrest without warrant."
+    ],
+    [
+     "Mira",
+     "The State can discriminate while extending such protection."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "must",
+    "will",
+    "cannot"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f22",
+    "f20"
+   ],
+   "hook": "Supplementary to the right to life: no double punishment.",
+   "prompt": "Which of these is a right supplementary to the right to life?",
+   "options": [
+    "Nobody can be punished twice for the same offence",
+    "Bharat Ratna is the greatest civilian honour",
+    "Children can be made to work in factories",
+    "The State confers titles like Raja"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-17-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f23"
+   ],
+   "hook": "Exploitation: bonded labour, starving, excessive work. Proof before punishment is protection.",
+   "prompt": "Which of these is NOT a form of exploitation?",
+   "options": [
+    "Bonded labour",
+    "Starving somebody",
+    "Being punished only after the allegations are proved",
+    "Making somebody do excessive or strenuous work"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-17-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Government jobs: no discrimination on religion, caste, race, sex, descent, place of birth or residence.",
+   "prompt": "Which statement about government employment is correct?",
+   "options": [
+    "The State cannot discriminate on grounds of descent, place of birth or residence",
+    "The State can refuse a government job on the basis of sex",
+    "The State can prefer citizens of one religion for government jobs",
+    "Only people born in the State's capital can get government jobs"
+   ],
+   "answer": 0
+  }
+ ]
+}

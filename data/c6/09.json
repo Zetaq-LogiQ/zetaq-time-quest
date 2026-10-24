@@ -1,0 +1,1663 @@
+{
+ "class": 6,
+ "id": "09",
+ "title": "Cultural Heritage of Ancient India",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "Values like 'Vasudhaiva Kutumbakam' (The world is one family) are deeply rooted in Indian culture and nurture 'unity in diversity'.",
+   "year": null,
+   "era": "CE",
+   "quote": "values like 'Vasudhaiva Kutumbakam' (The world is one family) are deeply rooted in our culture. Such values help to nurture 'unity in diversity' in Indian society.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Knowledge passed down through oral tradition is called 'Vangmaya' (oral literature).",
+   "year": null,
+   "era": "CE",
+   "quote": "Knowledge passed down from generation to generation through oral tradition is referred to as 'Vangmaya' (oral literature)",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "Knowledge that has reached us in written form is called 'Sahitya' (written literature).",
+   "year": null,
+   "era": "CE",
+   "quote": "whereas that which has reached us in written form is termed 'Sahitya' (written literature).",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The Vangmaya includes the Vedas, Upanishads and the epics Ramayana and Mahabharata.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Vangmaya includes the Vedas, Upanishads and the epics, Ramayana and Mahabharata.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Sahitya includes Puranas, Buddhist and Jain scriptures, poetry, drama, ethics, philosophy and other religious texts.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sahitya includes Puranas, Buddhist and Jain scriptures, poetry, drama, ethics, philosophy and other religious texts.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "person",
+   "text": "The grammarian Panini wrote 'Ashtadhyayi'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The grammarian Panini wrote 'Ashtadhyayi'.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "person",
+   "text": "Patanjali wrote the 'Mahabhashya', a commentary on 'Ashtadhyayi'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Patanjali then wrote the 'Mahabhashya', a commentary on 'Ashtadhyayi'.",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "person",
+   "text": "The poet Kalhana composed the 'Rajatarangini', a text recording the history of Kashmir.",
+   "year": null,
+   "era": "CE",
+   "quote": "The 'Rajatarangini' a text recording the history of Kashmir was composed by the poet Kalhana.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "person",
+   "text": "Banabhatta's 'Harshacharita' is an important work of historical literature of the ancient period.",
+   "year": null,
+   "era": "CE",
+   "quote": "Banabhatta's 'Harshacharita' is another important work of historical literature created during the ancient period.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "The 'Panchatantra' is supposed to have been compiled by the scholar Vishnu Sharma; its characters are animals like lion, tiger, swan, tortoise and rabbit.",
+   "year": null,
+   "era": "CE",
+   "quote": "It is supposed to have been compiled by the scholar Vishnu Sharma. The characters in the Panchatantra stories are animals like lion, tiger, swan, tortoise and rabbit.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "event",
+   "text": "King Amarashakti had three sons with no interest in studying; he requested Vishnu Sharma to guide them, and Vishnu Sharma taught them with stories.",
+   "year": null,
+   "era": "CE",
+   "quote": "There lived a king named Amarashakti. He had three sons. None had the interest in studying. ... The king requested the learned teacher Vishnu Sharma to guide the Princes ... he decided to teach them with the help of stories!",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "The Panchatantra has been translated into more than fifty languages.",
+   "year": null,
+   "era": "CE",
+   "quote": "It has been translated into more than fifty languages.",
+   "page": 3
+  },
+  {
+   "fid": "f13",
+   "kind": "date",
+   "text": "The Panchatantra was translated into Pehlevi in 550 AD.",
+   "year": 550,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... Pehlevi - 550 AD",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "date",
+   "text": "The Panchatantra was translated into Syrian in 570 AD.",
+   "year": 570,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... Syrian - 570 AD",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "The Panchatantra was translated into Arabic in 750 AD.",
+   "year": 750,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... Arabic- 750 AD",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "date",
+   "text": "The Panchatantra was translated into Greek in 1021 AD.",
+   "year": 1021,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... Greek- 1021 AD",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "date",
+   "text": "The Panchatantra was translated into Hebrew in 1100 AD.",
+   "year": 1100,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... Hebrew- 1100 AD",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "The Panchatantra was translated into Spanish in 1251 AD.",
+   "year": 1251,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... Spanish- 1251 AD",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "date",
+   "text": "The Panchatantra was translated into Latin in 1270 AD.",
+   "year": 1270,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... Latin - 1270 AD",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "The Panchatantra was translated into German in 1483 AD.",
+   "year": 1483,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... German- 1483 AD",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "The Panchatantra was translated into English in 1570 AD.",
+   "year": 1570,
+   "era": "CE",
+   "quote": "Translation of Panchatantra ... English- 1570 AD",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "The Jataka Tales in simple language impart wisdom about what is proper and what is improper.",
+   "year": null,
+   "era": "CE",
+   "quote": "Similarly, the Jataka Tales in simple language impart wisdom about what is proper and what is improper.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "person",
+   "text": "Bharat Muni authored the 'Natyashastra', which explains all aspects of theatrical art.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bharat Muni authored the text 'Natyashastra'. This text explains in detail all aspects of theatrical art.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "person",
+   "text": "'Swapnavasavadatta' was written by Bhasa.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Swapnavasavadatta' written by Bhasa.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "person",
+   "text": "'Sariputtaprakarana' was written by Ashvaghosha.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Sariputtaprakarana' written by Ashvaghosha.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "person",
+   "text": "'Shakuntala', 'Malavikagnimitra' and 'Vikramorvashiya' were written by Kalidasa.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Shakuntala', 'Malavikagnimitra' and 'Vikramorvashiya' written by Kalidasa.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "'Mricchakatika' was written by Shudraka and 'Mudrarakshasa' by Vishakhadatta.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Mricchakatika' written by Shudraka. - 'Mudrarakshasa' written by Vishakhadatta.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "person",
+   "text": "'Ratnavali', 'Priyadarshika' and 'Nagananda' were written by Emperor Harshavardhana.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Ratnavali', 'Priyadarshika' and 'Nagananda' written by Emperor Harshavardhana.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "The origins of the Indian musical tradition can be traced back to the Samaveda.",
+   "year": null,
+   "era": "CE",
+   "quote": "The origins of the Indian musical tradition can be traced back to the Samaveda.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Ayurveda, Dhanurveda, Gandharvaveda and Arthashastra are the four Upavedas; the Gandharvaveda is regarded as the source of Indian music, dance and instrumental music.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Ayurveda', 'Dhanurveda', 'Gandharvaveda', and 'Arthashastra' are considered to be the four Upavedas (subsidiary Vedas). Among these, the Gandharvaveda is regarded as the source of Indian music, dance and instrumental music.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "person",
+   "text": "The 'Sangeetaratnakar', a famous text on music, was written by the musicologist Sharangadeva.",
+   "year": null,
+   "era": "CE",
+   "quote": "The 'Sangeetaratnakar' is a famous text on music. It was written by a musicologist named Sharangadeva.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "Indian dance traditions have seven classical forms: Kathak, Kathakali, Bharatanatyam, Manipuri, Odissi, Kuchipudi and Mohiniattam; folk dances are performed spontaneously.",
+   "year": null,
+   "era": "CE",
+   "quote": "Indian dance traditions comprise a total of seven classical forms: 'Kathak', 'Kathakali', 'Bharatanatyam', 'Manipuri', 'Odissi', 'Kuchipudi' and 'Mohiniattam'. ... Folk dances are performed spontaneously.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "place",
+   "text": "The colours of the Ajanta murals were prepared from plants, soils and minerals.",
+   "year": null,
+   "era": "CE",
+   "quote": "The murals of the Ajanta Caves are known worldwide. The colours used for these paintings were prepared from a variety of plants, soils and minerals.",
+   "page": 4
+  },
+  {
+   "fid": "f34",
+   "kind": "place",
+   "text": "Ellora has caves of Buddhist, Jain and Hindu traditions; the Kailasa Temple there was carved out of a single massive rock, from top to bottom.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are caves of Buddhist, Jain and Hindu traditions at Ellora. The Kailasa Temple at Ellora ... Carved entirely out of a single massive rock, this temple was created begining from the top to bottom.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "place",
+   "text": "The saying 'First the pinnacle and then the foundation' perhaps originated from the Kailasa Temple, which has sculptures, columns and a Nandi Mandapa.",
+   "year": null,
+   "era": "CE",
+   "quote": "Perhaps the saying in Marathi language, meaning, \"First the pinnacle and then the foundation\" originated from this instance. The temple consists of intricate sculptures, columns and a Nandi Mandapa.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "place",
+   "text": "The Stupa at Sanchi was constructed during the rule of Emperor Ashoka; later four Toranas (entrances) were built around it.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Stupa at Sanchi was constructed during the rule of Emperor Ashoka. Later, four magnificent Toranas (entrances) were built around this Stupa.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "Halls built around stupas for religious discourse and prayer are called Chaityagrihas; the Chaityagriha at Karle is an excellent example.",
+   "year": null,
+   "era": "CE",
+   "quote": "Halls were constructed around some stupas for religious discourse and prayer. These halls are known as Chaityagrihas. The Chaityagriha at Karle stands as an excellent example of this sculptural art.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "place",
+   "text": "Viharas were living quarters for Buddhist monks; the Vihara at Bhaje in Maharashtra is the most ancient of its kind.",
+   "year": null,
+   "era": "CE",
+   "quote": "Caves next to the Chaityagriha, were the living quarters for Buddhist monks, which are known as Viharas. The Vihara at Bhaje in Maharashtra is the most ancient of its kind. Viharas located at sites such as Nashik, Bedse and Ajanta are also famous.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "place",
+   "text": "The Jain caves at Khandagiri and Udayagiri are in Odisha.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Jain caves situated at Khandagiri and Udayagiri in Odisha are known for their historical and architectural importance.",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "place",
+   "text": "The Iron Pillar at Mehrauli in Delhi was erected during the rule of Chandragupta-II (Vikramaditya); created 1600 years ago, it still stands without rusting.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Iron Pillar located at Mehrauli in Delhi ... was erected during the rule of the Gupta Emperor Chandragupta-II, who is also known as Vikramaditya. It is remarkable that despite being created 1600 years ago, this iron pillar still stands without rusting.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "Agriculture was the primary occupation; the fertile basins of Ganga, Yamuna, Godavari and Krishna helped cultivation.",
+   "year": null,
+   "era": "CE",
+   "quote": "During this period, agriculture was the primary occupation. ... The fertile basins of Ganga, Yamuna, Godavari, and Krishna provided a favourable environment for cultivation.",
+   "page": 5
+  },
+  {
+   "fid": "f42",
+   "kind": "event",
+   "text": "During the Satavahan period trade with the Roman Empire flourished; spices, textile and beads were traded extensively.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the Satavahan period trade with the Roman Empire flourished. Commodities such as spices, textile and beads were traded extensively.",
+   "page": 5
+  },
+  {
+   "fid": "f43",
+   "kind": "place",
+   "text": "Urban centres like Pratishthan (Paithan), Tagar (Ter), Nasik (Nashik) and Karahatak (Karhad) rose in the Satavahan period; Roman coins were found there.",
+   "year": null,
+   "era": "CE",
+   "quote": "It led to rise of many urban centers like Pratishthan (Paithan), Tagar (Ter), Nasik (Nashik), Karahatak (Karhad) etc. in the South. ... The discovery of Roman coins during excavations at these places",
+   "page": 5
+  },
+  {
+   "fid": "f44",
+   "kind": "place",
+   "text": "Sopara, Kalyan and Bharuch were the major ports of that time.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sopara, Kalyan and Bharuch were the major ports of that time.",
+   "page": 5
+  },
+  {
+   "fid": "f45",
+   "kind": "term",
+   "text": "Inscriptions at Junnar and Nashik mention Kularik (potters), Tilpishak (oil-pressers) and Kolik (weavers).",
+   "year": null,
+   "era": "CE",
+   "quote": "Inscriptions found at sites such as Junnar and Nashik mention various professionals, including Kularik (potters), Tilpishak (oil-pressers) and Kolik (weavers).",
+   "page": 5
+  },
+  {
+   "fid": "f46",
+   "kind": "term",
+   "text": "The origins of Indian medical science go back to the Atharvaveda.",
+   "year": null,
+   "era": "CE",
+   "quote": "The origins of Indian medical science goes back to Atharvaveda.",
+   "page": 5
+  },
+  {
+   "fid": "f47",
+   "kind": "person",
+   "text": "Jivaka, according to Buddhist texts, was the personal physician to Gautam Buddha; he studied medical science at Takshashila.",
+   "year": null,
+   "era": "CE",
+   "quote": "According to Buddhist texts, he served as the personal physician to Gautam Buddha. He studied medical science at Takshashila. He made important contributions in the fields of surgery, diagnosis and medical treatment.",
+   "page": 5
+  },
+  {
+   "fid": "f48",
+   "kind": "person",
+   "text": "Sushruta wrote the 'Sushruta Samhita'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Sushruta wrote the text the 'Sushruta Samhita'.",
+   "page": 5
+  },
+  {
+   "fid": "f49",
+   "kind": "term",
+   "text": "In 'Charaka Samhita', Charaka discussed immunity, giving medicines and principles of diet, daily routine and lifestyle; it was referred to in Arabia, Tibet and China.",
+   "year": null,
+   "era": "CE",
+   "quote": "In 'Charaka Samhita', Charaka has discussed in detail about immunity, the administering medicines and the principles governing diet, daily routines, and lifestyle. This text was widely reffered in various regions, including Arabia, Tibet and China.",
+   "page": 5
+  },
+  {
+   "fid": "f50",
+   "kind": "person",
+   "text": "The Sushruta Samhita lists 1,120 diseases; Sushruta is known as the 'Father of Surgery' and grafted skin from the cheek to correct a broken nose.",
+   "year": null,
+   "era": "CE",
+   "quote": "The text contains a detailed list of 1,120 diseases, along with their symptoms. Sushruta is known as the 'Father of Surgery'. ... Sushruta devised a method of grafting skin from the cheek.",
+   "page": 6
+  },
+  {
+   "fid": "f51",
+   "kind": "term",
+   "text": "Sushruta's surgical techniques were adopted by Europeans in the 18th century; the skin grafting section is called the 'Indian Flap'.",
+   "year": null,
+   "era": "CE",
+   "quote": "The surgical techniques developed by Sushruta were later studied and adopted by Europeans in the 18th century. The specific section of skin grafting is called as the 'Indian Flap'.",
+   "page": 6
+  },
+  {
+   "fid": "f52",
+   "kind": "term",
+   "text": "The Satavahan and Vakatak ruled Maharashtra, often described as the 'Melting Pot' of ancient India; the caves of Ajanta, Ellora and Kanheri are examples of Buddhist, Jain and Hindu traditions.",
+   "year": null,
+   "era": "CE",
+   "quote": "Various dynasties such as the Satavahan and the Vakatak have ruled over Maharashtra. ... Maharashtra is often described as the 'Melting Pot' of ancient India. ... The caves of Ajanta, Ellora and Kanheri are exmples of Buddhist, Jain and Hindu traditions",
+   "page": 6
+  },
+  {
+   "fid": "f53",
+   "kind": "place",
+   "text": "Paithan, Ajanta, Ellora and Kanheri were important centres of education in ancient Maharashtra.",
+   "year": null,
+   "era": "CE",
+   "quote": "Paithan, Ajanta, Ellora and Kanheri were important centres where students studied subjects such as religion, philosophy, languages, medical science and sculptures.",
+   "page": 6
+  },
+  {
+   "fid": "f54",
+   "kind": "term",
+   "text": "Rock carvings are known as 'Katalshilpe'; they are found in the Konkan region, particularly in Ratnagiri and Rajapur.",
+   "year": null,
+   "era": "CE",
+   "quote": "Other such images depict various motifs like the sun, animals, dancing figures, hunting scenes, and various symbols. These are known as 'Katalshilpe' (Rock Carvings). They are found in the Konkan region particularly in Ratnagiri and Rajapur.",
+   "page": 7
+  },
+  {
+   "fid": "f55",
+   "kind": "person",
+   "text": "Women had access to education; female scholars Lopamudra, Gargi and Maitreyi are named in ancient literature.",
+   "year": null,
+   "era": "CE",
+   "quote": "In ancient India, women, too, had access to education. Names of female scholars such as Lopamudra, Gargi and Maitreyi occur in ancient literature.",
+   "page": 7
+  },
+  {
+   "fid": "f56",
+   "kind": "place",
+   "text": "Takshashila was near present day Rawalpindi in Pakistan; Chandragupta Maurya, Panini, Charaka and Jivaka studied there.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was situated near present day Rawalpindi, in modern Pakistan. ... Chandragupta Maurya, the founder of the Mauryan Empire, had studied at Takshashila University. The grammarian Panini, as well as the physicians Charaka and Jivaka, were also students of this very university.",
+   "page": 7
+  },
+  {
+   "fid": "f57",
+   "kind": "place",
+   "text": "Nalanda, a UNESCO World Heritage Site, was established in the 5th century CE during the Gupta period; it had residential facilities for over 10,000 students and a difficult entrance examination.",
+   "year": null,
+   "era": "CE",
+   "quote": "UNESCO has declared the archeological site of Nalanda University as a World Heritage Site. Nalanda was established in 5th Century CE, during Gupta period. ... The university provided residential facilities for over 10,000 students. ... One had to pass a very difficult entrance examination.",
+   "page": 7
+  },
+  {
+   "fid": "f58",
+   "kind": "place",
+   "text": "Vikramshila University was established in the 8th century CE near Bhagalpur in Bihar; it focused on Buddhist philosophy, theology, Tantra texts, Ayurveda and literature.",
+   "year": null,
+   "era": "CE",
+   "quote": "Vikramshila University was established in the 8th century CE. This university was situated near Bhagalpur in the present state of Bihar. ... The curriculum here focused on Buddhist philosophy, theology, Tantra texts, Ayurveda and literature.",
+   "page": 7
+  },
+  {
+   "fid": "f59",
+   "kind": "place",
+   "text": "Varanasi, Valabhi and Kaushambi were also important centres of learning; in the Satavahan period Paithan was an important centre of learning.",
+   "year": null,
+   "era": "CE",
+   "quote": "Varanasi, Valabhi and Kaushambi were important centers of learning apart from Takshashila, Nalanda and Vikramshila. ... During Satvahan period, Paithan in Maharashtra was an important centre of learning.",
+   "page": 8
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-09-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "<b>Bharat</b> Muni wrote the <b>Natya</b>shastra: natya = theatre, the rule book of all theatrical art.",
+   "prompt": "Who authored the 'Natyashastra', the text on theatrical art?",
+   "options": [
+    "Kalidasa",
+    "Bharat Muni",
+    "Panini",
+    "Bhasa"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "Kailasa at Ellora: one huge rock, carved from the <b>top down</b>. First the pinnacle, then the foundation!",
+   "prompt": "Which monument am I?",
+   "clues": [
+    "I have intricate sculptures, columns and a Nandi Mandapa.",
+    "A Marathi saying, 'First the pinnacle and then the foundation', may have come from me.",
+    "I was created beginning from the top and going to the bottom.",
+    "I am a temple carved entirely out of a single massive rock at Ellora."
+   ],
+   "options": [
+    "Sanchi Stupa",
+    "Kailasa Temple",
+    "Chaityagriha at Karle",
+    "Vihara at Bhaje"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-03",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f10",
+    "f11",
+    "f22"
+   ],
+   "hook": "Vishnu Sharma + <b>3</b> lazy princes of King Amarashakti = stories with animal heroes = Panchatantra.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "The Panchatantra is supposed to have been compiled by the scholar Vishnu Sharma."
+    ],
+    [
+     "Meera",
+     "King Amarashakti had five sons who had no interest in studying."
+    ],
+    [
+     "Kabir",
+     "Vishnu Sharma taught the princes with the help of stories."
+    ],
+    [
+     "Sana",
+     "The Jataka Tales in simple language teach what is proper and what is improper."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "two",
+    "three",
+    "four"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-04",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "English came last on the Panchatantra map: <b>1570</b> AD.",
+   "prompt": "In which year was the Panchatantra translated into English?",
+   "year": 1570,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-09-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f55"
+   ],
+   "hook": "Girls studied too! <b>L-G-M</b>: Lopamudra, Gargi, Maitreyi.",
+   "prompt": "Which female scholars are named in ancient literature?",
+   "options": [
+    "Shakuntala, Ratnavali and Priyadarshika",
+    "Lopamudra, Gargi and Maitreyi",
+    "Kathak, Odissi and Manipuri"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f48",
+    "f50",
+    "f51"
+   ],
+   "hook": "Sushruta: <b>Father of Surgery</b>, fixed broken noses with skin from the cheek.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My surgical techniques were later studied and adopted by Europeans.",
+    "My text has a detailed list of 1,120 diseases with their symptoms.",
+    "I grafted skin from the cheek to correct a broken nose.",
+    "I am known as the 'Father of Surgery'."
+   ],
+   "options": [
+    "Charaka",
+    "Jivaka",
+    "Patanjali",
+    "Sushruta"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-09-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f57",
+    "f59"
+   ],
+   "hook": "Nalanda: <b>5th</b> century CE, Gupta period, rooms for over <b>10,000</b> students.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Nalanda was established in the 9th century CE during the Gupta period."
+    ],
+    [
+     "Arjun",
+     "Nalanda had residential facilities for over 10,000 students."
+    ],
+    [
+     "Diya",
+     "UNESCO has declared the site of Nalanda University a World Heritage Site."
+    ],
+    [
+     "Kabir",
+     "Varanasi, Valabhi and Kaushambi were also important centres of learning."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "5th",
+    "8th",
+    "3rd"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-09-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f01"
+   ],
+   "hook": "Vasudhaiva Kutumbakam: the whole world is one <b>family</b>. It nurtures unity in diversity.",
+   "prompt": "What does the value 'Vasudhaiva Kutumbakam' mean?",
+   "options": [
+    "Melting Pot",
+    "First the pinnacle and then the foundation",
+    "The world is one family",
+    "Father of Surgery"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-09-09",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f13",
+    "f15",
+    "f17",
+    "f21"
+   ],
+   "hook": "Pehlevi <b>550</b>, Arabic <b>750</b> (200 years later), Hebrew <b>1100</b>, English <b>1570</b>.",
+   "prompt": "Put these Panchatantra translations in order, oldest first.",
+   "items": [
+    {
+     "t": "Translated into Pehlevi",
+     "y": "550 AD",
+     "k": 550
+    },
+    {
+     "t": "Translated into Arabic",
+     "y": "750 AD",
+     "k": 750
+    },
+    {
+     "t": "Translated into Hebrew",
+     "y": "1100 AD",
+     "k": 1100
+    },
+    {
+     "t": "Translated into English",
+     "y": "1570 AD",
+     "k": 1570
+    }
+   ]
+  },
+  {
+   "qid": "c6-09-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f15",
+    "f13"
+   ],
+   "hook": "Arabic <b>750</b> = Pehlevi 550 + 200 years.",
+   "prompt": "In which year was the Panchatantra translated into Arabic?",
+   "year": 750,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-09-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f04",
+    "f03",
+    "f05"
+   ],
+   "hook": "Vangmaya = <b>spoken</b> (Vedas, epics); Sahitya = <b>written</b> (Puranas, scriptures, drama).",
+   "prompt": "What am I?",
+   "clues": [
+    "The epics Ramayana and Mahabharata are part of me.",
+    "The Vedas and Upanishads are included in me.",
+    "I was passed down from generation to generation by word of mouth.",
+    "I am called oral literature."
+   ],
+   "options": [
+    "Vangmaya",
+    "Sahitya",
+    "Natyashastra",
+    "Panchatantra"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-09-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f30",
+    "f31"
+   ],
+   "hook": "<b>Sama</b>veda = song roots; <b>Gandharva</b>veda = music and dance; Sharangadeva = Sangeetaratnakar.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Rigveda is where the origins of the Indian musical tradition can be traced."
+    ],
+    [
+     "Meera",
+     "Ayurveda, Dhanurveda, Gandharvaveda and Arthashastra are the four Upavedas."
+    ],
+    [
+     "Aarav",
+     "The Gandharvaveda is regarded as the source of Indian music and dance."
+    ],
+    [
+     "Pooja",
+     "The Sangeetaratnakar, a famous text on music, was written by Sharangadeva."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 1
+   },
+   "options": [
+    "Samaveda",
+    "Atharvaveda",
+    "Yajurveda"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-09-13",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Ajanta murals: colours from <b>plants, soils and minerals</b>, showing jewellery, attire and hairstyles.",
+   "prompt": "From what were the colours of the Ajanta murals prepared?",
+   "options": [
+    "Imported Roman paints",
+    "Ivory and pearls",
+    "Ink brought from China",
+    "Plants, soils and minerals"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-09-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f47"
+   ],
+   "hook": "Jivaka: studied at <b>Takshashila</b>, became the Buddha's own doctor.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I made important contributions in surgery, diagnosis and medical treatment.",
+    "I studied medical science at Takshashila.",
+    "According to Buddhist texts, I was the personal physician to Gautam Buddha."
+   ],
+   "options": [
+    "Charaka",
+    "Jivaka",
+    "Panini",
+    "Sushruta"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-15",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "<b>Seven</b> classical dances: Kathak, Kathakali, Bharatanatyam, Manipuri, Odissi, Kuchipudi, Mohiniattam.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Diya",
+     "Indian dance traditions comprise a total of nine classical forms."
+    ],
+    [
+     "Rohan",
+     "Kathak, Kathakali and Odissi are among the classical dance forms."
+    ],
+    [
+     "Sana",
+     "Folk dances are performed spontaneously."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 7
+   },
+   "options": [
+    "six",
+    "eight",
+    "seven"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-09-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f52",
+    "f53"
+   ],
+   "hook": "Melting Pot Maharashtra: <b>Ajanta, Ellora, Kanheri</b> mix Buddhist, Jain and Hindu traditions.",
+   "prompt": "Maharashtra is called the 'Melting Pot' of ancient India. Which caves in Maharashtra are examples of Buddhist, Jain and Hindu traditions?",
+   "options": [
+    "Khandagiri and Udayagiri",
+    "Nalanda and Vikramshila",
+    "Ajanta, Ellora and Kanheri"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-09-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f14",
+    "f15",
+    "f16",
+    "f18"
+   ],
+   "hook": "Syrian <b>570</b>, Arabic <b>750</b>, Greek <b>1021</b>, Spanish <b>1251</b>: Greek to Spanish is 230 years.",
+   "prompt": "Put these Panchatantra translations in order, oldest first.",
+   "items": [
+    {
+     "t": "Translated into Syrian",
+     "y": "570 AD",
+     "k": 570
+    },
+    {
+     "t": "Translated into Arabic",
+     "y": "750 AD",
+     "k": 750
+    },
+    {
+     "t": "Translated into Greek",
+     "y": "1021 AD",
+     "k": 1021
+    },
+    {
+     "t": "Translated into Spanish",
+     "y": "1251 AD",
+     "k": 1251
+    }
+   ]
+  },
+  {
+   "qid": "c6-09-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Greek <b>1021</b>: just past the year 1000, with 21 more.",
+   "prompt": "In which year was the Panchatantra translated into Greek?",
+   "year": 1021,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-09-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f56"
+   ],
+   "hook": "Panini wrote Ashtadhyayi; Patanjali wrote the Mahabhashya on it. Panini studied at Takshashila.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Patanjali wrote a commentary on my work.",
+    "I was a student of Takshashila University.",
+    "I was a grammarian.",
+    "I wrote the 'Ashtadhyayi'."
+   ],
+   "options": [
+    "Patanjali",
+    "Kalhana",
+    "Charaka",
+    "Panini"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-09-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f56"
+   ],
+   "hook": "Takshashila near <b>Rawalpindi</b>: Chandragupta Maurya, Panini, Charaka and Jivaka all studied there.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "Chandragupta Maurya, the founder of the Mauryan Empire, studied at Takshashila."
+    ],
+    [
+     "Riya",
+     "Takshashila was situated near present day Bhagalpur in modern Pakistan."
+    ],
+    [
+     "Ishaan",
+     "The physicians Charaka and Jivaka were also students there."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "Rawalpindi",
+    "Paithan",
+    "Nashik"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-09-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f24",
+    "f26",
+    "f27",
+    "f28"
+   ],
+   "hook": "Bhasa: <b>Swapnavasavadatta</b>. Kalidasa: Shakuntala. Shudraka: Mricchakatika. Vishakhadatta: Mudrarakshasa.",
+   "prompt": "Which writer and play are matched correctly?",
+   "options": [
+    "Bhasa - Swapnavasavadatta",
+    "Kalidasa - Mudrarakshasa",
+    "Shudraka - Ratnavali",
+    "Vishakhadatta - Shakuntala"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-09-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f49"
+   ],
+   "hook": "Charaka Samhita: immunity, diet and daily routine; read as far as <b>Arabia, Tibet and China</b>.",
+   "prompt": "Which text am I?",
+   "clues": [
+    "I was widely referred to in Arabia, Tibet and China.",
+    "I explain the principles of diet, daily routines and lifestyle.",
+    "I discuss immunity and how medicines are given."
+   ],
+   "options": [
+    "Sushruta Samhita",
+    "Charaka Samhita",
+    "Natyashastra",
+    "Ashtadhyayi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f42",
+    "f44",
+    "f41"
+   ],
+   "hook": "Ports: <b>S-K-B</b> = Sopara, Kalyan, Bharuch. Satavahan trade with Rome: spices, textile, beads.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kabir",
+     "During the Satavahan period, trade with the Roman Empire flourished."
+    ],
+    [
+     "Pooja",
+     "Spices, textile and beads were traded extensively."
+    ],
+    [
+     "Rohan",
+     "Sopara, Kalyan and Tagar were the major ports of that time."
+    ],
+    [
+     "Meera",
+     "The fertile basins of Ganga, Yamuna, Godavari and Krishna helped cultivation."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "Paithan",
+    "Bharuch",
+    "Karhad"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Sanchi Stupa: built under <b>Ashoka</b>; <b>four</b> Toranas added later.",
+   "prompt": "Which statement about the Stupa at Sanchi is correct?",
+   "options": [
+    "It was built during the rule of Emperor Ashoka, and four Toranas were built around it later.",
+    "It was carved out of a single massive rock at Ellora.",
+    "It was built during the rule of Chandragupta-II.",
+    "It is a Jain cave in Odisha."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-09-25",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f17",
+    "f16"
+   ],
+   "hook": "Hebrew <b>1100</b>: a round number, 79 years after Greek 1021.",
+   "prompt": "In which year was the Panchatantra translated into Hebrew?",
+   "year": 1100,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-09-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "German <b>1483</b>, then English 1570: 87 years apart.",
+   "prompt": "In which year was the Panchatantra translated into German?",
+   "year": 1483,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-09-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "A worried king, three princes, a clever teacher: <b>Vishnu Sharma</b> taught with stories.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I chose stories instead of texts to teach.",
+    "King Amarashakti asked me to guide his three sons.",
+    "The Panchatantra is supposed to have been compiled by me."
+   ],
+   "options": [
+    "Vishnu Sharma",
+    "Bharat Muni",
+    "Banabhatta",
+    "Kalhana"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-09-28",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f54"
+   ],
+   "hook": "Katal = rocky surface; Katalshilpe in Konkan: <b>Ratnagiri and Rajapur</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "Rock carvings are known as Katalshilpe."
+    ],
+    [
+     "Arjun",
+     "They are found in the Konkan region, particularly in Nashik and Rajapur."
+    ],
+    [
+     "Diya",
+     "They show motifs like the sun, animals, dancing figures and hunting scenes."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "Junnar",
+    "Bhaje",
+    "Ratnagiri"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-09-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f45"
+   ],
+   "hook": "Junnar and Nashik inscriptions: Kularik = potters, Tilpishak = oil-pressers, <b>Kolik = weavers</b>.",
+   "prompt": "Inscriptions at Junnar and Nashik mention 'Kolik'. Who were they?",
+   "options": [
+    "Potters",
+    "Weavers",
+    "Oil-pressers",
+    "Merchants"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-30",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f58"
+   ],
+   "hook": "Vikramshila: <b>8th</b> century CE, near Bhagalpur in Bihar.",
+   "prompt": "Which university am I?",
+   "clues": [
+    "Passing an entrance examination was essential to join me.",
+    "My curriculum focused on Buddhist philosophy, theology, Tantra texts, Ayurveda and literature.",
+    "I was established in the 8th century CE.",
+    "I was situated near Bhagalpur in Bihar."
+   ],
+   "options": [
+    "Nalanda",
+    "Vikramshila",
+    "Takshashila",
+    "Valabhi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-31",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f50",
+    "f51",
+    "f46"
+   ],
+   "hook": "Skin from the <b>cheek</b> fixed a broken nose: Europeans called it the 'Indian Flap' (18th century).",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "The origins of Indian medical science go back to the Atharvaveda."
+    ],
+    [
+     "Ishaan",
+     "Sushruta grafted skin from the forehead to correct a broken nose."
+    ],
+    [
+     "Pooja",
+     "Europeans adopted his techniques in the 18th century."
+    ],
+    [
+     "Kabir",
+     "The skin grafting section is called the Indian Flap."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "arm",
+    "cheek",
+    "chin"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "An emperor who wrote plays: <b>Harshavardhana</b> - Ratnavali, Priyadarshika, Nagananda.",
+   "prompt": "Who wrote the plays 'Ratnavali', 'Priyadarshika' and 'Nagananda'?",
+   "options": [
+    "Kalidasa",
+    "Bhasa",
+    "Emperor Harshavardhana",
+    "Shudraka"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-09-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f13",
+    "f14",
+    "f15",
+    "f16",
+    "f17"
+   ],
+   "hook": "<b>550</b>, 570, 750, 1021, 1100: Pehlevi and Syrian only 20 years apart.",
+   "prompt": "Put these Panchatantra translations in order, oldest first.",
+   "items": [
+    {
+     "t": "Translated into Pehlevi",
+     "y": "550 AD",
+     "k": 550
+    },
+    {
+     "t": "Translated into Syrian",
+     "y": "570 AD",
+     "k": 570
+    },
+    {
+     "t": "Translated into Arabic",
+     "y": "750 AD",
+     "k": 750
+    },
+    {
+     "t": "Translated into Greek",
+     "y": "1021 AD",
+     "k": 1021
+    },
+    {
+     "t": "Translated into Hebrew",
+     "y": "1100 AD",
+     "k": 1100
+    }
+   ]
+  },
+  {
+   "qid": "c6-09-34",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f16",
+    "f18",
+    "f19",
+    "f20",
+    "f21"
+   ],
+   "hook": "Greek 1021, Spanish <b>1251</b>, Latin <b>1270</b>, German 1483, English 1570. Spanish beat Latin by 19 years.",
+   "prompt": "Put these Panchatantra translations in order, oldest first.",
+   "items": [
+    {
+     "t": "Translated into Greek",
+     "y": "1021 AD",
+     "k": 1021
+    },
+    {
+     "t": "Translated into Spanish",
+     "y": "1251 AD",
+     "k": 1251
+    },
+    {
+     "t": "Translated into Latin",
+     "y": "1270 AD",
+     "k": 1270
+    },
+    {
+     "t": "Translated into German",
+     "y": "1483 AD",
+     "k": 1483
+    },
+    {
+     "t": "Translated into English",
+     "y": "1570 AD",
+     "k": 1570
+    }
+   ]
+  },
+  {
+   "qid": "c6-09-35",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f19",
+    "f18"
+   ],
+   "hook": "Latin <b>1270</b> came 19 years after Spanish 1251.",
+   "prompt": "In which year was the Panchatantra translated into Latin?",
+   "year": 1270,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-09-36",
+   "type": "lock",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "Spanish <b>1251</b>, just before Latin 1270.",
+   "prompt": "In which year was the Panchatantra translated into Spanish?",
+   "year": 1251,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-09-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f39"
+   ],
+   "hook": "Chaityagriha = prayer hall (Karle); Vihara = monks' home (oldest at <b>Bhaje</b>).",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Vihara at Karle is the most ancient of its kind.",
+    "The Chaityagriha at Karle is an excellent example of sculptural art, and the Vihara at Bhaje is the most ancient of its kind.",
+    "The Jain caves at Khandagiri and Udayagiri are in Maharashtra.",
+    "Viharas were halls built around stupas for religious discourse and prayer."
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-09-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "Iron Pillar at Mehrauli: Chandragupta-II (Vikramaditya), <b>1600</b> years and still no rust.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "The Iron Pillar is located at Mehrauli in Delhi."
+    ],
+    [
+     "Aarav",
+     "It was erected during the rule of Chandragupta-II, also known as Vikramaditya."
+    ],
+    [
+     "Riya",
+     "It was created 600 years ago and still stands without rusting."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "2600",
+    "1000",
+    "1600"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-09-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f08",
+    "f09",
+    "f31"
+   ],
+   "hook": "Panini wrote first, Patanjali explained him. Kalhana: Kashmir. Banabhatta: Harsha.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Patanjali wrote the 'Ashtadhyayi', and Panini wrote a commentary on it.",
+    "Banabhatta wrote the 'Rajatarangini', and Kalhana wrote the 'Harshacharita'.",
+    "Sharangadeva wrote the 'Natyashastra'.",
+    "Panini wrote the 'Ashtadhyayi', and Patanjali wrote the 'Mahabhashya', a commentary on it."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-09-40",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f43",
+    "f53",
+    "f59"
+   ],
+   "hook": "Pratishthan = <b>Paithan</b>: Satavahan city, and a centre of learning.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "My old name was Pratishthan.",
+    "Roman coins were found during excavations at me.",
+    "Students studied religion, philosophy, languages, medical science and sculpture at me.",
+    "In the Satavahan period, I was an important centre of learning in Maharashtra."
+   ],
+   "options": [
+    "Kanheri",
+    "Nashik",
+    "Karhad",
+    "Paithan"
+   ],
+   "answer": 3
+  }
+ ]
+}

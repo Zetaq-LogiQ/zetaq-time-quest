@@ -1,0 +1,1460 @@
+{
+ "class": 7,
+ "id": "10",
+ "title": "The Expansion of the Maratha Power",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "After the death of Emperor Aurangzeb, Prince Azamshah, who was in the South, marched towards Delhi to seize the imperial throne.",
+   "year": null,
+   "era": "CE",
+   "quote": "After the death of Emperor Aurangzeb, there ensued a struggle among his sons for the throne of Delhi. Prince Azamshah was in the South. At once, he marched towards Delhi to seize the imperial throne.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "person",
+   "text": "Azamshah released Shahu Maharaj, believing a conflict between him and Maharani Tarabai for the gadi would sap Maratha strength.",
+   "year": null,
+   "era": "CE",
+   "quote": "Azamshah believed that if Shahu Maharaj was released, there would arise a conflict between him and Maharani Tarabai for the gadi of the Maratha Chhatrapati. Azamshah felt that this would sap the Maratha strength and therefore, released Shahu Maharaj.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "place",
+   "text": "The armies of Shahu Maharaj and Maharani Tarabai fought a battle at Khed on the bank of the Bheema; Shahu Maharaj won.",
+   "year": null,
+   "era": "CE",
+   "quote": "The armies of Shahu Maharaj and Maharani Tarabai fought a battle at Khed on the bank of the Bheema. Shahu Maharaj won the battle.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "place",
+   "text": "Shahu Maharaj captured Satara and got himself crowned; Satara became the capital of the Maratha kingdom.",
+   "year": null,
+   "era": "CE",
+   "quote": "He captured Satara. He got himself crowned. Satara became the capital of the Maratha kingdom.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "date",
+   "text": "Maharani Tarabai proclaimed her minor son Shivaji II as the Chhatrapati at Pahnala in 1710 CE.",
+   "year": 1710,
+   "era": "CE",
+   "quote": "Maharani Tarabai proclaimed her minor son Shivaji II as the Chhatrapati at Pahnala in 1710 CE.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "event",
+   "text": "This gave rise to an independent Maratha Kingdom at Kolhapur besides the one at Satara.",
+   "year": null,
+   "era": "CE",
+   "quote": "This gave rise to an indendepent Maratha Kingdom at Kolhapur besides the one at Satara.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "person",
+   "text": "The early part of Shahu Maharaj's life was spent in Mughal camps, so he knew Mughal politics from close quarters.",
+   "year": null,
+   "era": "CE",
+   "quote": "The early part of Shahu Maharaj's life was spent in Mughal camps. So, he had seen Mughal politics from close quarters.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "event",
+   "text": "The Marathas adopted a new policy: instead of fighting the Mughal power, they would protect it and expand their own empire in that role.",
+   "year": null,
+   "era": "CE",
+   "quote": "Instead of fighting with the Mughal power, they decided to protect it and expand their own empire in that role. They believed that restoring an old temple is as good as building a new one.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "event",
+   "text": "The Mughal power faced Irani and Afghani invaders from the north-west and local Pathan, Rajput, Jat and Rohila rulers, so the Delhi Court needed the help of the Marathas.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Mughal power faced the threat of the Irani and Afghani invaders from the north-west and also of the local Pathan, local Rajput, Jat and Rohilas rulers. ... Due to all these the Delhi Court needed the help of the Marathas.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "person",
+   "text": "After his release, Shahu Maharaj made Balaji Vishwanath a Peshwa.",
+   "year": null,
+   "era": "CE",
+   "quote": "After Shahu Maharaj was released by the Mughals, he made Balaji Vishwanath, a Peshwa.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "place",
+   "text": "Balaji Vishwanath hailed from Shrivardhan, in Konkan.",
+   "year": null,
+   "era": "CE",
+   "quote": "Balaji hailed from Shrivardhan, in Konkan.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "person",
+   "text": "Kanhoji Angre, the chief of the Maratha Navy, sided with Maharani Tarabai and attacked the territories of Shahu Maharaj.",
+   "year": null,
+   "era": "CE",
+   "quote": "Kanhoji Angre was the chief of Maratha Navy. He chose to side with Maharani Tarabai and attacked the territories of Shahu Maharaj.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "Balaji avoided war and won Kanhoji Angre over to Shahu Maharaj's side.",
+   "year": null,
+   "era": "CE",
+   "quote": "Balaji avoided the war and won Kanhoji over to Shahu Maharaj's side.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "person",
+   "text": "The Sayyid brothers, Abdulla (Hasan) and Hussein Ali, had become very influential in the Delhi court.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Sayyid brothers, Abdulla (Hasan) and Hussein Ali had become very influential.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "date",
+   "text": "In 1719 CE, with the help of the Sayyid brothers, Balaji obtained sanads to collect chauthai and sardeshmukhi from the Mughal territory in the Deccan.",
+   "year": 1719,
+   "era": "CE",
+   "quote": "With their help, in 1719 CE Balaji obtained from the Mughal Emperor, the grants or sanads to collect chauthai and sardeshmukhi from the Mughal territory in the Deccan.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Chauthai was the right to collect one fourth part of the revenue.",
+   "year": null,
+   "era": "CE",
+   "quote": "one fourth part (chauthai)",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Sardeshmukhi was the right to collect one tenth part of the revenue.",
+   "year": null,
+   "era": "CE",
+   "quote": "one tenth part (sardeshmukhi) of the revenue from the Mughal territory in the Deccan",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "After the death of Balaji Vishwanath, Shahu Maharaj appointed Balaji's son Bajirao I the Peshwa in 1720 CE.",
+   "year": 1720,
+   "era": "CE",
+   "quote": "After the death of Balaji Vishwanath, Shahu Maharaj appointed Balaji's son, Bajirao I the Peshwa in 1720 CE.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "event",
+   "text": "Bajirao I expanded the Maratha Empire during his term of 20 years.",
+   "year": null,
+   "era": "CE",
+   "quote": "He expanded the Maratha Empire during his term of 20 years.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "The Mughal emperor Farukhsear appointed Nizam-ul-Mulk the Subhedar of Deccan.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Mughal emperor Farukhsear appointed Nizam-ul-Mulk the Subhedar of Deccan.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "In 1713 CE the Nizam tried to establish his separate existence at Hyderabad.",
+   "year": 1713,
+   "era": "CE",
+   "quote": "In 1713 CE Nizam tried to establish his separate existence at Hyderabad.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "event",
+   "text": "The Nizam was against the Maratha Chauthai-Sardeshmukhi rights and captured some part of the Pune Pargana.",
+   "year": null,
+   "era": "CE",
+   "quote": "Nizam was against it. He captured some part of the Pune Pargana.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "place",
+   "text": "Bajirao defeated the Nizam at Palkhed near Aurangabad; the Nizam accepted the Maratha right to collect Chauthai-Sardeshmukhi.",
+   "year": null,
+   "era": "CE",
+   "quote": "He defeated the Nizam at Palkhed near Aurangabad. The Nizam accepted the Maratha right to collect Chauthai-Sardeshmukhi.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "person",
+   "text": "Bajirao sent Malharrao Holkar, Ranoji Shinde and Udaji Pawar to Malwa under the leadership of his brother Chimajiappa.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bajirao sent Malharrao Holkar, Ranoji Shinde and Udaji Pawar under the leadership of his brother Chimajiappa to Malwa.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "place",
+   "text": "Malwa, in today's Madhya Pradesh, was part of the Mughal empire.",
+   "year": null,
+   "era": "CE",
+   "quote": "Malwa in todays Madhya Pradesh was part of the Mughal empire.",
+   "page": 2
+  },
+  {
+   "fid": "f26",
+   "kind": "place",
+   "text": "Bundelkhand means some part of today's Madhya Pradesh and Uttar Pradesh: areas around Jhansi, Panna and Sagar.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bundelkhand means some part of today's Madhya Pradesh and Uttar Pradesh - areas around Jhansi, Panna and Sagar.",
+   "page": 2
+  },
+  {
+   "fid": "f27",
+   "kind": "person",
+   "text": "King Chhatrasal of Bundelkhand was defeated by Mohmmad Khan Bangush, the Mughal Subhedar of Allahabad, and appealed to Bajirao for help.",
+   "year": null,
+   "era": "CE",
+   "quote": "King Chhatrasal had established his own kingdom in Bundelkhand. The Mughal Subhedar Mohmmad Khan Bangush of Allahabad attacked Bundelkhand and had defeated Chhatrasal. Chhatrasal appealed to Bajirao for help.",
+   "page": 2
+  },
+  {
+   "fid": "f28",
+   "kind": "event",
+   "text": "Bajirao defeated Bangush and Chhatrasal honoured Bajirao; the Marathas established supremacy in Malwa and Bundelkhand.",
+   "year": null,
+   "era": "CE",
+   "quote": "He defeated Bangush. Chhatrasal honoured Bajirao. This is how Marathas established their supremacy in Malwa and Bundelkhand.",
+   "page": 2
+  },
+  {
+   "fid": "f29",
+   "kind": "date",
+   "text": "When the Emperor declined to make him Subhedar of Malwa, Bajirao marched on Delhi in 1737 CE and took the Mughals by surprise.",
+   "year": 1737,
+   "era": "CE",
+   "quote": "As the Emperor declined this demand, Bajirao marched on Delhi in 1737 CE. The Mughals were taken by surprise.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "In a letter, Chhatrasal compared himself to the elephant whose leg is caught by the crocodile and said only Bajirao could save him.",
+   "year": null,
+   "era": "CE",
+   "quote": "My situation is like the elephant whose leg is caught by the crocodile. You are the only one who can save me.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "place",
+   "text": "Bajirao defeated the Nizam at Bhopal; the Nizam agreed to secure the sanad of Malwa subhedari for the Marathas.",
+   "year": null,
+   "era": "CE",
+   "quote": "Bajirao defeated him at Bhopal. Nizam agreed to secure the sanad of Malwa subhedari for the Marathas from the Badshah.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "place",
+   "text": "Vasai and Thane on the Konkan coast were in the possession of the Portuguese; Chimaji conquered Thane and the adjacent areas.",
+   "year": null,
+   "era": "CE",
+   "quote": "The territories of Vasai and Thane on the Konkan coast were in the possession of the Portuguese. ... Chimaji conquered Thane and the adjacent areas.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "date",
+   "text": "In 1739 CE Chimaji laid siege to the Vasai fort and forced the Portuguese to surrender.",
+   "year": 1739,
+   "era": "CE",
+   "quote": "In 1739 CE, he laid siege to the Vasai fort. ... Chimaji continued the siege with perseverance and forced the Portuguese to surrender.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "person",
+   "text": "Nadirshah, the Emperor of Iran, invaded India; by the time Bajirao reached Burhanpur, Nadirshah had returned to Iran with booty looted from Delhi.",
+   "year": null,
+   "era": "CE",
+   "quote": "Nadirshah, the Emperor of Iran, invaded India. ... By the time he reached Burhanpur, Nadirshah had returned to Iran with an enormous booty looted from Delhi.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "In April 1740 Bajirao breathed his last at Raverkhedi on the banks of the Narmada.",
+   "year": 1740,
+   "era": "CE",
+   "quote": "In April 1740, Bajirao breathed his last at Raverkhedi on the banks of the Narmada.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "event",
+   "text": "In Bajirao's time the Shinde, Holkar, Pawar and Gaikwad families attained prominence.",
+   "year": null,
+   "era": "CE",
+   "quote": "In his time, the Shinde, Holkar, Pawar, Gaikwad families attained prominence.",
+   "page": 3
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-10-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f05",
+    "f18",
+    "f33",
+    "f35"
+   ],
+   "hook": "Peshwa in <b>1720</b>, died in <b>1740</b>: Bajirao's 20-year term.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Shivaji II proclaimed at Pahnala",
+     "y": "1710",
+     "k": 1710
+    },
+    {
+     "t": "Bajirao I becomes the Peshwa",
+     "y": "1720",
+     "k": 1720
+    },
+    {
+     "t": "Siege of the Vasai fort",
+     "y": "1739",
+     "k": 1739
+    },
+    {
+     "t": "Bajirao dies at Raverkhedi",
+     "y": "1740",
+     "k": 1740
+    }
+   ]
+  },
+  {
+   "qid": "c7-10-02",
+   "type": "train",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f05",
+    "f15",
+    "f18",
+    "f29"
+   ],
+   "hook": "Sanads in <b>1719</b>, new Peshwa just one year later in <b>1720</b>.",
+   "prompt": "Arrange these events from earliest to latest.",
+   "items": [
+    {
+     "t": "Tarabai proclaims Shivaji II",
+     "y": "1710",
+     "k": 1710
+    },
+    {
+     "t": "Sanads for chauthai-sardeshmukhi",
+     "y": "1719",
+     "k": 1719
+    },
+    {
+     "t": "Bajirao I appointed Peshwa",
+     "y": "1720",
+     "k": 1720
+    },
+    {
+     "t": "Bajirao marches on Delhi",
+     "y": "1737",
+     "k": 1737
+    }
+   ]
+  },
+  {
+   "qid": "c7-10-03",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f18",
+    "f33",
+    "f35"
+   ],
+   "hook": "Vasai siege <b>1739</b>, Bajirao's death <b>1740</b>: just one year apart.",
+   "prompt": "Put these events in the order they happened.",
+   "items": [
+    {
+     "t": "Nizam's separate existence at Hyderabad",
+     "y": "1713",
+     "k": 1713
+    },
+    {
+     "t": "Bajirao I becomes the Peshwa",
+     "y": "1720",
+     "k": 1720
+    },
+    {
+     "t": "Chimaji besieges Vasai fort",
+     "y": "1739",
+     "k": 1739
+    },
+    {
+     "t": "Death of Bajirao",
+     "y": "1740",
+     "k": 1740
+    }
+   ]
+  },
+  {
+   "qid": "c7-10-04",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f05",
+    "f21",
+    "f15",
+    "f29",
+    "f33"
+   ],
+   "hook": "1710, 1713, 1719 ... then a jump to 1737 and 1739.",
+   "prompt": "Five events, one line: put them in order.",
+   "items": [
+    {
+     "t": "Shivaji II proclaimed Chhatrapati",
+     "y": "1710",
+     "k": 1710
+    },
+    {
+     "t": "Nizam at Hyderabad",
+     "y": "1713",
+     "k": 1713
+    },
+    {
+     "t": "Sanads obtained by Balaji",
+     "y": "1719",
+     "k": 1719
+    },
+    {
+     "t": "March on Delhi",
+     "y": "1737",
+     "k": 1737
+    },
+    {
+     "t": "Siege of Vasai",
+     "y": "1739",
+     "k": 1739
+    }
+   ]
+  },
+  {
+   "qid": "c7-10-05",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f15",
+    "f18",
+    "f29",
+    "f33",
+    "f35"
+   ],
+   "hook": "Father's sanads 1719, son Peshwa 1720, Delhi 1737, Vasai 1739, end 1740.",
+   "prompt": "Order these five events from earliest to latest.",
+   "items": [
+    {
+     "t": "Balaji obtains the sanads",
+     "y": "1719",
+     "k": 1719
+    },
+    {
+     "t": "Bajirao I made Peshwa",
+     "y": "1720",
+     "k": 1720
+    },
+    {
+     "t": "Bajirao surprises the Mughals at Delhi",
+     "y": "1737",
+     "k": 1737
+    },
+    {
+     "t": "Portuguese surrender at Vasai",
+     "y": "1739",
+     "k": 1739
+    },
+    {
+     "t": "Bajirao breathes his last",
+     "y": "1740",
+     "k": 1740
+    }
+   ]
+  },
+  {
+   "qid": "c7-10-06",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "<b>1720</b>: the son of Balaji Vishwanath becomes Peshwa.",
+   "prompt": "In which year did Shahu Maharaj appoint Bajirao I the Peshwa?",
+   "year": 1720,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-10-07",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "April <b>1740</b>, Raverkhedi, on the banks of the Narmada.",
+   "prompt": "In which year did Bajirao breathe his last at Raverkhedi?",
+   "year": 1740,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-10-08",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "<b>1719</b>: sanads for one fourth and one tenth of the revenue.",
+   "prompt": "In which year did Balaji Vishwanath obtain the sanads to collect chauthai and sardeshmukhi?",
+   "year": 1719,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-10-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "<b>1739</b>: Chimaji's patient siege, and the Portuguese surrender.",
+   "prompt": "In which year did Chimaji lay siege to the Vasai fort?",
+   "year": 1739,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-10-10",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "<b>1710</b>: a second Maratha kingdom, at Kolhapur.",
+   "prompt": "In which year did Maharani Tarabai proclaim her son Shivaji II as the Chhatrapati at Pahnala?",
+   "year": 1710,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-10-11",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "Malwa refused, so in <b>1737</b> Bajirao marched on Delhi.",
+   "prompt": "In which year did Bajirao march on Delhi and take the Mughals by surprise?",
+   "year": 1737,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-10-12",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "<b>1713</b>: the Nizam looks to Hyderabad, 7 years before Bajirao became Peshwa in 1720.",
+   "prompt": "In which year did the Nizam try to establish his separate existence at Hyderabad?",
+   "year": 1713,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-10-13",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f23",
+    "f31",
+    "f29"
+   ],
+   "hook": "Palkhed and Bhopal: two wins over the Nizam for the Peshwa of 1720.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My father was also a Peshwa.",
+    "I defeated the Nizam at Palkhed and again at Bhopal.",
+    "I marched on Delhi in 1737.",
+    "Shahu Maharaj made me the Peshwa in 1720."
+   ],
+   "options": [
+    "Bajirao I",
+    "Balaji Vishwanath",
+    "Chimajiappa",
+    "Shahu Maharaj"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-14",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f10",
+    "f11",
+    "f13",
+    "f15"
+   ],
+   "hook": "Shrivardhan man: won Kanhoji without a war, won sanads in 1719.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I obtained sanads with the help of the Sayyid brothers.",
+    "I won the chief of the navy over without a war.",
+    "Shahu Maharaj made me a Peshwa after his release.",
+    "I hailed from Shrivardhan in Konkan."
+   ],
+   "options": [
+    "Kanhoji Angre",
+    "Bajirao I",
+    "Balaji Vishwanath",
+    "Malharrao Holkar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-10-15",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "Navy chief who sided with Tarabai, then joined Shahu Maharaj.",
+   "prompt": "Who am I?",
+   "clues": [
+    "At first I sided with Maharani Tarabai.",
+    "I attacked the territories of Shahu Maharaj.",
+    "Balaji won me over without a war.",
+    "I was the chief of the Maratha Navy."
+   ],
+   "options": [
+    "Kanhoji Angre",
+    "Udaji Pawar",
+    "Ranoji Shinde",
+    "Chhatrasal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-16",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f27",
+    "f28",
+    "f30"
+   ],
+   "hook": "Elephant in the crocodile's grip: Chhatrasal's cry to Bajirao.",
+   "prompt": "Who am I?",
+   "clues": [
+    "The Mughal Subhedar of Allahabad defeated me.",
+    "I said I was like an elephant whose leg is caught by a crocodile.",
+    "I honoured Bajirao after he defeated Bangush.",
+    "I had established my own kingdom in Bundelkhand."
+   ],
+   "options": [
+    "Chhatrasal",
+    "Azamshah",
+    "Nizam-ul-Mulk",
+    "Nadirshah"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-17",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f24",
+    "f32",
+    "f33"
+   ],
+   "hook": "Bajirao's brother: led the Sardars to Malwa and took Vasai in 1739.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I led Malharrao Holkar, Ranoji Shinde and Udaji Pawar to Malwa.",
+    "I conquered Thane and the adjacent areas.",
+    "In 1739 I laid siege to the Vasai fort.",
+    "I was the brother of Bajirao I."
+   ],
+   "options": [
+    "Malharrao Holkar",
+    "Balaji Vishwanath",
+    "Kanhoji Angre",
+    "Chimajiappa"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-10-18",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f01",
+    "f02"
+   ],
+   "hook": "Azamshah freed Shahu Maharaj hoping Shahu and Tarabai would clash.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My father was Emperor Aurangzeb.",
+    "I was in the South when the struggle for the throne began.",
+    "I marched towards Delhi to seize the imperial throne.",
+    "I released Shahu Maharaj, hoping it would sap Maratha strength."
+   ],
+   "options": [
+    "Farukhsear",
+    "Azamshah",
+    "Nadirshah",
+    "Mohmmad Khan Bangush"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-10-19",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f22",
+    "f23"
+   ],
+   "hook": "Subhedar of Deccan, Hyderabad 1713, beaten at Palkhed.",
+   "prompt": "Who am I?",
+   "clues": [
+    "Emperor Farukhsear made me the Subhedar of Deccan.",
+    "In 1713 I tried to set up a separate existence at Hyderabad.",
+    "I captured some part of the Pune Pargana.",
+    "Bajirao defeated me at Palkhed near Aurangabad."
+   ],
+   "options": [
+    "Mohmmad Khan Bangush",
+    "Nizam-ul-Mulk",
+    "Hussein Ali",
+    "Nadirshah"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-10-20",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f03",
+    "f04"
+   ],
+   "hook": "Win at Khed, capture Satara, crown there: Satara becomes the capital.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "Shahu Maharaj captured me after winning the battle at Khed.",
+    "He got himself crowned after capturing me.",
+    "I became the capital of the Maratha kingdom."
+   ],
+   "options": [
+    "Kolhapur",
+    "Pahnala",
+    "Shrivardhan",
+    "Satara"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-10-21",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "Chauthai = one fourth; sardeshmukhi = one tenth. Both came with the 1719 sanads.",
+   "prompt": "What am I?",
+   "clues": [
+    "I was a right granted by sanads in 1719.",
+    "I was collected from the Mughal territory in the Deccan.",
+    "I am one fourth part of the revenue."
+   ],
+   "options": [
+    "sardeshmukhi",
+    "subhedari",
+    "pargana",
+    "chauthai"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-10-22",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f03",
+    "f04",
+    "f05"
+   ],
+   "hook": "Khed win, then Satara captured and made the capital.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Shahu Maharaj and Maharani Tarabai fought a battle at Khed on the bank of the Bheema."
+    ],
+    [
+     "Isha",
+     "Shahu Maharaj won and captured Kolhapur before he was crowned."
+    ],
+    [
+     "Kabir",
+     "Later Maharani Tarabai proclaimed Shivaji II as the Chhatrapati at Pahnala."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "Satara",
+    "Pahnala",
+    "Shrivardhan"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15",
+    "f16",
+    "f17"
+   ],
+   "hook": "Chauthai one fourth, sardeshmukhi one tenth.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "In 1719 Balaji obtained sanads from the Mughal Emperor."
+    ],
+    [
+     "Dev",
+     "Chauthai meant one fourth part of the revenue."
+    ],
+    [
+     "Meera",
+     "Sardeshmukhi meant one fifth part of the revenue."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "third",
+    "tenth",
+    "half"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-10-24",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "year"
+   ],
+   "fids": [
+    "f18",
+    "f19"
+   ],
+   "hook": "1720 to 1740 = a term of 20 years.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "Shahu Maharaj appointed Bajirao I the Peshwa in 1720."
+    ],
+    [
+     "Sana",
+     "Bajirao I was the son of Balaji Vishwanath."
+    ],
+    [
+     "Vihaan",
+     "Bajirao expanded the Maratha Empire during his term of 30 years."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "20",
+    "10",
+    "40"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-25",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f20",
+    "f22",
+    "f23"
+   ],
+   "hook": "Palkhed is near Aurangabad.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Emperor Farukhsear appointed Nizam-ul-Mulk the Subhedar of Deccan."
+    ],
+    [
+     "Rohan",
+     "The Nizam captured some part of the Pune Pargana."
+    ],
+    [
+     "Tara",
+     "Bajirao defeated the Nizam at Palkhed near Burhanpur and the Nizam accepted the Maratha right."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Hyderabad",
+    "Allahabad",
+    "Aurangabad"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-10-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f24",
+    "f25"
+   ],
+   "hook": "Chimajiappa was Bajirao's brother, leader of the Malwa team.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Malwa in today's Madhya Pradesh was part of the Mughal empire."
+    ],
+    [
+     "Anaya",
+     "Bajirao sent Malharrao Holkar, Ranoji Shinde and Udaji Pawar to Malwa."
+    ],
+    [
+     "Kavya",
+     "They went under the leadership of his son Chimajiappa."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "cousin",
+    "brother",
+    "nephew"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-10-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f26",
+    "f27",
+    "f28",
+    "f30"
+   ],
+   "hook": "Elephant + crocodile: Chhatrasal's plea, Bajirao's rescue.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditya",
+     "Bundelkhand means areas around Jhansi, Panna and Sagar."
+    ],
+    [
+     "Pooja",
+     "Mohmmad Khan Bangush of Allahabad had defeated Chhatrasal."
+    ],
+    [
+     "Yash",
+     "Chhatrasal appealed to Bajirao and Bajirao defeated Bangush."
+    ],
+    [
+     "Diya",
+     "Chhatrasal wrote that he was like the elephant whose leg is caught by the tiger and only Bajirao could save him."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 14
+   },
+   "options": [
+    "crocodile",
+    "lion",
+    "snake"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-28",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f29",
+    "f31"
+   ],
+   "hook": "Delhi march in 1737, then the Nizam is beaten at Bhopal.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rahul",
+     "The Emperor declined to make Bajirao the Subhedar of Malwa."
+    ],
+    [
+     "Simran",
+     "So Bajirao marched on Delhi in 1737 and the Mughals were taken by surprise."
+    ],
+    [
+     "Om",
+     "The Emperor invited the Nizam, but Bajirao defeated him at Panipat and the Nizam agreed to secure the Malwa sanad."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 10
+   },
+   "options": [
+    "Bhopal",
+    "Vasai",
+    "Thane"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-29",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f32",
+    "f33"
+   ],
+   "hook": "Thane taken first, then the strong Vasai fort in 1739.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Nikhil",
+     "Vasai and Thane on the Konkan coast were held by the Portuguese."
+    ],
+    [
+     "Zoya",
+     "Bajirao sent his brother Chimajiappa to subdue them."
+    ],
+    [
+     "Harsh",
+     "In 1739 Chimaji laid siege to the Thane fort and the Portuguese surrendered."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 7
+   },
+   "options": [
+    "Satara",
+    "Vasai",
+    "Bhopal"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-10-30",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "Raverkhedi, on the banks of the Narmada, April 1740.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aisha",
+     "Nadirshah, the Emperor of Iran, invaded India."
+    ],
+    [
+     "Kunal",
+     "Bajirao set out for the North on the order of Shahu Maharaj."
+    ],
+    [
+     "Riddhi",
+     "Bajirao died at Raverkhedi on the banks of the Godavari in April 1740."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "Narmada",
+    "Yamuna",
+    "Bheema"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-31",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f10"
+   ],
+   "hook": "Released Shahu Maharaj picks Balaji Vishwanath as Peshwa.",
+   "prompt": "Whom did Shahu Maharaj make a Peshwa after he was released by the Mughals?",
+   "options": [
+    "Balaji Vishwanath",
+    "Kanhoji Angre",
+    "Chimajiappa",
+    "Azamshah"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-32",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Azamshah's plan: Shahu vs Tarabai would weaken the Marathas.",
+   "prompt": "Why did Azamshah release Shahu Maharaj?",
+   "options": [
+    "He wanted Shahu Maharaj to fight the Portuguese.",
+    "Shahu Maharaj had defeated him at Khed.",
+    "He felt a conflict with Maharani Tarabai over the gadi would sap Maratha strength.",
+    "Nadirshah ordered him to release Shahu Maharaj."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-10-33",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f08"
+   ],
+   "hook": "Restoring an old temple is as good as building a new one.",
+   "prompt": "What new policy did the Marathas adopt towards the Mughal power?",
+   "options": [
+    "To destroy Delhi and make Satara the Mughal capital",
+    "To join Nadirshah against the Emperor",
+    "To protect it and expand their own empire in that role",
+    "To give up all their rights in the North"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-10-34",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f05",
+    "f06"
+   ],
+   "hook": "Two Maratha kingdoms: Satara and Kolhapur.",
+   "prompt": "Besides Satara, where did a separate Maratha kingdom arise after 1710?",
+   "options": [
+    "Kolhapur",
+    "Shrivardhan",
+    "Burhanpur",
+    "Bhopal"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-35",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f34",
+    "f35"
+   ],
+   "hook": "Reached Burhanpur, died at Raverkhedi by the Narmada.",
+   "prompt": "Bajirao set out north when Nadirshah invaded. Where did he breathe his last?",
+   "options": [
+    "Raverkhedi",
+    "Burhanpur",
+    "Palkhed",
+    "Vasai"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-10-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Shinde, Holkar, Pawar, Gaikwad rose in Bajirao's time.",
+   "prompt": "Which family attained prominence in Bajirao's time?",
+   "options": [
+    "Sayyid",
+    "Gaikwad",
+    "Bangush",
+    "Nizam"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-10-37",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Invaders from the north-west + local rulers + court tussle = Delhi needs Marathas.",
+   "prompt": "Why did the Delhi Court need the help of the Marathas?",
+   "options": [
+    "The Portuguese had captured Delhi.",
+    "Kanhoji Angre's navy had attacked Delhi.",
+    "It faced Irani and Afghani invaders and local rulers, and was weakened by tussles in the court.",
+    "Shahu Maharaj had taken the Emperor captive."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-10-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "event"
+   ],
+   "fids": [
+    "f14",
+    "f15"
+   ],
+   "hook": "Sayyid brothers Abdulla (Hasan) and Hussein Ali helped the 1719 sanads.",
+   "prompt": "With whose help did Balaji obtain the sanads in 1719?",
+   "options": [
+    "Kanhoji Angre and Tarabai",
+    "The Sayyid brothers",
+    "Nadirshah and Azamshah",
+    "Chhatrasal and Bangush"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-10-39",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Bundelkhand: Jhansi, Panna, Sagar.",
+   "prompt": "Bundelkhand means the areas around which places?",
+   "options": [
+    "Vasai, Thane and Konkan",
+    "Pune, Satara and Kolhapur",
+    "Delhi, Burhanpur and Khed",
+    "Jhansi, Panna and Sagar"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-10-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f07",
+    "f10",
+    "f12",
+    "f34"
+   ],
+   "hook": "Shahu Maharaj grew up in Mughal camps, so he knew Mughal politics well.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Balaji Vishwanath was the son of Bajirao I.",
+    "Shahu Maharaj spent the early part of his life in Mughal camps.",
+    "Chimajiappa was the chief of the Maratha Navy.",
+    "Nadirshah was the Emperor of Afghanistan."
+   ],
+   "answer": 1
+  }
+ ]
+}

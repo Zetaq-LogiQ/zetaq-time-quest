@@ -1,0 +1,1450 @@
+{
+ "class": 6,
+ "id": "16",
+ "title": "District Administration",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "A state is formed by the collective union of various districts.",
+   "year": null,
+   "era": "CE",
+   "quote": "A state is formed by the collective union of various districts.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "A district's own administrative machinery is called District Administration; it is a crucial link between State Administration and Local Self-Government bodies.",
+   "year": null,
+   "era": "CE",
+   "quote": "A district possesses its own distinct administrative machinery, which is known as District Administration. ... District Administration serves as a crucial link between State Administration and Local Self-Government bodies.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "District Administration handles revenue collection, agricultural irrigation, public welfare, disaster management, rationing, elections and supervising Local Self-Government bodies.",
+   "year": null,
+   "era": "CE",
+   "quote": "Responsibilities of the District Administration include functions such as revenue collection, agricultural irrigation, public welfare activities, disaster management operations, distribution of essential commodities (rationing), organization of elections and supervising the functioning of Local Self-Government bodies.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "The District Collector is the head of the District Administration.",
+   "year": null,
+   "era": "CE",
+   "quote": "District Collector is the head of the District Administration.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "The district is like a large ship, and the District Collector is its 'Captain'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Our district is, in essence, this very 'ship' and the District Collector is its 'Captain'!",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "Under the District Collector and District Magistrate come the Revenue Department (Deputy Collector, Tehsildar), Police Administration (Superintendent of Police) and Judicial Administration (District and Sessions Judge).",
+   "year": null,
+   "era": "CE",
+   "quote": "District Collector and District Magistrate ... Revenue Department ... Police Administration ... Judicial Administration ... Deputy Collector ... Tehsildar ... Superintendent of Police ... District and Sessions Judge",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "A photo shows the District Collector Office, Sangli.",
+   "year": null,
+   "era": "CE",
+   "quote": "District Collector Office, Sangli",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "District Revenue Machinery handles land administration, revenue, law and order, citizen services and natural disaster management and relief.",
+   "year": null,
+   "era": "CE",
+   "quote": "This administrative machinery handles crucial responsibilities such as land administration, revenue management, law and order, citizen services and natural disaster management and relief operations.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Revenue structure: District Collector (chief revenue officer of district), Deputy Collector (assists Collector), Tehsildar (chief revenue officer of Taluka), Naib Tehsildar (assists Tehsildar), Mandal Officer (cluster of villages), Talathi (revenue officer of a village), Kotwal (assists Talathi).",
+   "year": null,
+   "era": "CE",
+   "quote": "1. District Collector Chief Revenue Officer of the district. 2. Deputy Collector Assists the District Collector. 3. Tehsildar Chief Revenue Officer of the Taluka. 4. Naib Tehsildar Assists the Tehsildar. 5. Mandal Officer / Mandal Inspector Supervises a cluster of several villages. 6. Talathi Revenue Officer of a village. 7. Kotwal Assists the Talathi.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The District Collector is an IAS officer, selected by the UPSC and appointed by the State Government.",
+   "year": null,
+   "era": "CE",
+   "quote": "District Collector is an officer belonging to the Indian Administrative Service (IAS). ... While she/he is selected by the Union Public Service Commission (UPSC), the appointment is made by the State Government.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The Collector maintains law and order, collects land revenue and can implement state and national welfare schemes.",
+   "year": null,
+   "era": "CE",
+   "quote": "the District Collector is entrusted with the critical responsibilities of maintaining law and order, and collecting land revenue. Furthermore, the District Collector holds the authority to implement various welfare schemes initiated at both the state and national levels.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "term",
+   "text": "As District Magistrate, the Collector inspects police stations once a year and can impose prohibitionary orders in a law and order crisis.",
+   "year": null,
+   "era": "CE",
+   "quote": "Inspecting police stations once a year. Functioning in the capacity of District Magistrate. Imposing prohibitionary orders (assembly bans) in the event of a law and order crisis.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "As District Election Officer, the Collector is Election Officer for Parliamentary and Legislative Assembly elections, updates voter lists, arranges polling security and declares results.",
+   "year": null,
+   "era": "CE",
+   "quote": "Serving as the Election Officer during Parliamentary and Legislative Assembly elections. Updating the district's voter lists. Ensuring the provision of necessary security arrangements for polling stations. Conducting vote counting and declaring election results.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "The Collector is ex-officio Chairperson of the District Disaster Management Committee and gives relief to disaster victims.",
+   "year": null,
+   "era": "CE",
+   "quote": "Serving as the ex-officio Chairperson of the District Disaster Management Committee. Providing relief and rehabilitation to disaster victims.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "A district's smaller subdivisions are Talukas; the Tehsildar heads the Taluka revenue administration under the direct supervision of the Collector.",
+   "year": null,
+   "era": "CE",
+   "quote": "A district is constituted by combining various smaller subdivisions; these subdivisions are known as Talukas. Tehsildar serves as the head of the Taluka revenue administration. ... She/He functions under the direct supervision and control of the District Collector.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Tehsildar functions: registering and partitioning land titles, collecting land revenue, removing encroachments, disaster relief, issuing certificates, acting as Magistrate in certain civil land cases.",
+   "year": null,
+   "era": "CE",
+   "quote": "Registering and partitioning land titles. Collecting land revenue. Removing encroachments on land. Participating in disaster management and relief operations. Issuing all important certificates related to civic amenities. Acting as a Magistrate in certain civil cases related to land matters.",
+   "page": 3
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "The Talathi is a village-level Revenue Department employee who collects revenue, recovers 'Tagai' (agricultural) loans, keeps records of immovable property and implements drought relief.",
+   "year": null,
+   "era": "CE",
+   "quote": "Talathi is a village-level employee of the Revenue Department. ... Collecting revenue and managing and recovering 'Tagai' (agricultural) loans. Maintaining records of the village's immovable properties and issuing extracts thereof. Implementing drought relief measures.",
+   "page": 3
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "The Talathi is under the direct supervision of the 'Mandal Adhikari' (Circle Officer), who reports to the Tehsildar.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Talathi is under the direct supervision of the 'Mandal Adhikari' (Circle Officer), who, in turn, reports to the Tehsildar.",
+   "page": 3
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "Dr. Rajendra Bharud, then District Collector of Nandurbar, used his medical expertise to set up 'Oxygen Plants' during COVID-19, making Nandurbar self-reliant in oxygen.",
+   "year": null,
+   "era": "CE",
+   "quote": "To combat the COVID-19 pandemic, Dr. Rajendra Bharud, the then District Collector of Nandurbar, utilized his medical expertise to establish 'Oxygen Plants' Consequently, Nandurbar district became self-reliant in terms of oxygen availability.",
+   "page": 3
+  },
+  {
+   "fid": "f20",
+   "kind": "person",
+   "text": "E. Z. Khobragade (IAS) started 'Reading of the Preamble to the Constitution' in every school across Nagpur district.",
+   "year": null,
+   "era": "CE",
+   "quote": "E. Z. Khobragade implemented an initiative titled 'Reading of the Preamble to the Constitution' in every school across the Nagpur district, with the objective of fostering awareness about the Constitution.",
+   "page": 3
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "The Government of Maharashtra made reading of the Preamble mandatory in every school in the state from 2008.",
+   "year": 2008,
+   "era": "CE",
+   "quote": "Taking cognizance of this initiative, the Government of Maharashtra made reading of the Preamble mandatory in every school across the state starting from the year 2008.",
+   "page": 3
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Implementing schemes of the Central and State governments is the responsibility of the District Collector.",
+   "year": null,
+   "era": "CE",
+   "quote": "Responsibility for implementing various schemes of the Central and State governments rests with the District Collector.",
+   "page": 3
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "Social and welfare schemes include 'Beti Bachao, Beti Padhao' and 'Antyodaya'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Social and Welfare Schemes: ... for instance, 'Beti Bachao, Beti Padhao' scheme, 'Antyodaya' scheme etc.",
+   "page": 3
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "Rural development schemes include Pradhan Mantri Gram Sadak Yojana (Prime Minister's Rural Roads Scheme) and the Rural Livelihood Missions.",
+   "year": null,
+   "era": "CE",
+   "quote": "For example: Pradhan Mantri Gram Sadak Yojana (Prime Minister's Rural Roads Scheme), National and Maharashtra State Rural Livelihood Missions, Chief Minister's Rural Roads Scheme etc.",
+   "page": 4
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Agriculture-related schemes include Pradhan Mantri Krishi Sinchai Yojana (Prime Minister's Agricultural Irrigation Scheme).",
+   "year": null,
+   "era": "CE",
+   "quote": "Agriculture-related Schemes : ... For example: Pradhan Mantri Krishi Sinchai Yojana (Prime Minister's Agricultural Irrigation Scheme) etc.",
+   "page": 4
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "The District Police ensure public safety, maintain law and order and prevent crime.",
+   "year": null,
+   "era": "CE",
+   "quote": "The primary functions of the District Police machinery include ensuring public safety, maintaining law and order, and preventing crime, among others.",
+   "page": 4
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "The Superintendent of Police heads the district police and is selected through the UPSC.",
+   "year": null,
+   "era": "CE",
+   "quote": "The head of the police machinery at the district level is the Superintendent of Police, who leads the District Police Force. ... He/She is selected through the Union Public Service Commission (UPSC).",
+   "page": 4
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "'Sadrakshanaya Khalanigrahanaya' is the motto of the Maharashtra Police Force.",
+   "year": null,
+   "era": "CE",
+   "quote": "'Sadrakshanaya Khalanigrahanaya' is the motto of the Maharashtra Police Force.",
+   "page": 4
+  },
+  {
+   "fid": "f29",
+   "kind": "term",
+   "text": "District police ranks: Superintendent, Additional Superintendent, Deputy Superintendent, Police Inspector, Assistant Police Inspector, Sub-Inspector, Assistant Sub-Inspector, Police Head Constable, Police Constable.",
+   "year": null,
+   "era": "CE",
+   "quote": "1. Superintendent of Police 2. Additional Superintendent of Police 3. Deputy Superintendent of Police 4. Police Inspector 5. Assistant Police Inspector 6. Sub-Inspector 7. Assistant Sub-Inspector 8. Police Head Constable 9. Police Constable",
+   "page": 4
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "The Superintendent of Police prevents crime, gives the public a sense of security, manages traffic and supports disaster management; VIP security rests with the District Police Administration.",
+   "year": null,
+   "era": "CE",
+   "quote": "To prevent crime within the district and keep it under control. To instill a sense of security among the general public. To manage traffic. ... Responsibility for the security of Very Important Persons (VIPs) rests with the District Police Administration.",
+   "page": 4
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Hacking, data misuse, viruses, email fraud, threats or ransom through computers and the internet are called 'cybercrime'; the Cyber Helpline number is 1930.",
+   "year": null,
+   "era": "CE",
+   "quote": "... are collectively termed as 'cybercrime'. Cyber Helpline Phone Number: 1930.",
+   "page": 4
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "The District Judge is the principal judicial officer of the district: called 'District Judge' in civil cases and 'Sessions Judge' in criminal cases.",
+   "year": null,
+   "era": "CE",
+   "quote": "District Judge is the principal judicial officer at the district level. When presiding over civil cases, this officer is designated as the 'District Judge'; while presiding over criminal cases, the designation becomes 'Sessions Judge.'",
+   "page": 5
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "The Judiciary is the guardian of the Constitution; the High Court works under the Supreme Court, and the District Court under the High Court.",
+   "year": null,
+   "era": "CE",
+   "quote": "Judiciary, or the judicial system, is recognized as the guardian of the Constitution. The High Court functions under the superintendence of the Supreme Court, while the District Court functions under the superintendence of the High Court.",
+   "page": 5
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "The Governor of the State appoints the District Judge on the recommendation of the High Court.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Governor of the State appoints the District Judge on the recommendation from the High Court.",
+   "page": 5
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "Each district court is headed by a Principal Judge called the 'District and Sessions Judge', helped by subordinate judges; it handles civil and criminal cases.",
+   "year": null,
+   "era": "CE",
+   "quote": "Each district court is headed by a Principal Judge, who is designated as the 'District and Sessions Judge.' They are assisted in their duties by several subordinate judges. The District Court handles both civil and criminal cases.",
+   "page": 5
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "Court chart: civil - District Judge, Additional District Judge, Civil Judge (Senior Division), Civil Judge (Junior Division); criminal - Sessions Judge, Additional Sessions Judge, Chief Judicial Magistrate, Judicial Magistrate (First Class).",
+   "year": null,
+   "era": "CE",
+   "quote": "Civil Cases ... District Judge ... Additional District Judge ... Civil Judge (Senior Division) ... Civil Judge (Junior Division); Criminal Cases ... Sessions Judge ... Additional Sessions Judge ... Court of Chief Judicial Magistrate ... Court of Judicial Magistrate (First Class)",
+   "page": 5
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "Civil cases include disputes on ownership, possession and encroachment of land and property, and partition of family property and inheritance.",
+   "year": null,
+   "era": "CE",
+   "quote": "Civil Cases: a) Adjudicating disputes regarding ownership rights, possession, encroachment etc., concerning land and other property. b) Adjudicating claims related to the partition of family property, inheritance rights etc.",
+   "page": 5
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "Offences punishable by imprisonment exceeding three years, such as dacoity and murder, are tried in the Sessions Court.",
+   "year": null,
+   "era": "CE",
+   "quote": "All cases involving offenses punishable by imprisonment exceeding three years are tried in the Sessions Court. Examples include serious crimes such as dacoity (armed robbery), murder etc.",
+   "page": 5
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "The District Court is the main appellate court of the district and hears appeals against Civil Judges (Senior Division) and Chief Judicial Magistrates.",
+   "year": null,
+   "era": "CE",
+   "quote": "District Court serves as the primary appellate court within the district. ... The District Court has the authority to hear appeals filed against judgments of Civil Judges (Senior Division) and Chief Judicial Magistrates.",
+   "page": 5
+  },
+  {
+   "fid": "f40",
+   "kind": "term",
+   "text": "The District Court has full authority over appointment, promotion, transfer and disciplinary action for staff of courts under it.",
+   "year": null,
+   "era": "CE",
+   "quote": "District Court possesses full authority regarding the appointment, promotion, transfer and disciplinary action concerning the staff of all courts falling under the jurisdiction of the District and Sessions Court.",
+   "page": 6
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "Other district-level courts: Family Court, Consumer Grievance Redressal Forum, Labour / Industrial Court and Juvenile Justice Board.",
+   "year": null,
+   "era": "CE",
+   "quote": "Other District-Level Courts Family Court Consumer Grievance Redressal Forum Labour / Industrial Court Juvenile Justice Board",
+   "page": 6
+  },
+  {
+   "fid": "f42",
+   "kind": "date",
+   "text": "The Legal Services Authority was established in India in 1987 to provide free legal aid to the weaker sections of society.",
+   "year": 1987,
+   "era": "CE",
+   "quote": "The Legal Services Authority was established in India in 1987 with the objective of providing free legal aid to the weaker sections of society.",
+   "page": 6
+  },
+  {
+   "fid": "f43",
+   "kind": "term",
+   "text": "A key objective of the Legal Services Authority is that no citizen is denied justice because of economic or other disabilities.",
+   "year": null,
+   "era": "CE",
+   "quote": "A key objective of this Legal Services Authority is to ensure that no citizen is denied justice on grounds of economic or other disabilities.",
+   "page": 6
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-16-01",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f04",
+    "f05",
+    "f10"
+   ],
+   "hook": "The district is a ship and the <b>District Collector</b> is its Captain.",
+   "prompt": "Who am I?",
+   "clues": [
+    "The UPSC selects me and the State Government appoints me.",
+    "I am like the Captain of the district's ship.",
+    "I am the head of the District Administration."
+   ],
+   "options": [
+    "Tehsildar",
+    "District Collector",
+    "Superintendent of Police",
+    "Talathi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-02",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f30"
+   ],
+   "hook": "<b>Superintendent of Police</b>: leads the district police, fights crime, manages traffic.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am selected through the UPSC.",
+    "I manage traffic and work to prevent crime.",
+    "I am the head of the police machinery in a district."
+   ],
+   "options": [
+    "Police Inspector",
+    "District Judge",
+    "Tehsildar",
+    "Superintendent of Police"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-16-03",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "District Administration sits in the middle: the <b>link</b> between the State and local bodies.",
+   "prompt": "District Administration is a crucial link between which two?",
+   "options": [
+    "State Administration and Local Self-Government bodies",
+    "The Supreme Court and the High Court",
+    "Two Gram Sabhas",
+    "The Police and the Army"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Districts are split into Talukas; the Tehsildar heads <b>Taluka</b> revenue.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aryan",
+     "A district is made up of smaller subdivisions called Talukas."
+    ],
+    [
+     "Bhavna",
+     "The Tehsildar heads the village revenue administration in the district."
+    ],
+    [
+     "Chirag",
+     "The Tehsildar works under the direct supervision of the District Collector."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "Taluka",
+    "state",
+    "national"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09",
+    "f17"
+   ],
+   "hook": "Village revenue officer = the <b>Talathi</b>; the Kotwal helps the Talathi.",
+   "prompt": "Who is the revenue officer of a village?",
+   "options": [
+    "Talathi",
+    "Kotwal",
+    "Tehsildar",
+    "Deputy Collector"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "One judge, two titles: <b>District</b> Judge for civil cases, <b>Sessions</b> Judge for criminal cases.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Diya",
+     "When hearing civil cases, the officer is called the District Judge."
+    ],
+    [
+     "Eshan",
+     "When hearing criminal cases, the officer is called the Chief Judge."
+    ],
+    [
+     "Fatima",
+     "The District Judge is the principal judicial officer at the district level."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "Sessions",
+    "High",
+    "Supreme"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Cybercrime? Call the Cyber Helpline: <b>1930</b>.",
+   "prompt": "What is the Cyber Helpline phone number?",
+   "options": [
+    "1987",
+    "2008",
+    "1930",
+    "1924"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "Under the Collector: <b>Revenue</b>, <b>Police</b> and <b>Judicial</b> Administration.",
+   "prompt": "Which three branches are shown under the District Collector in the structure of District Administration?",
+   "options": [
+    "Army, Navy and Air Force",
+    "Revenue, Police and Judicial Administration",
+    "Gram Panchayat, Panchayat Samiti and Zilla Parishad",
+    "Mayor, Deputy Mayor and Commissioner"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21",
+    "f20"
+   ],
+   "hook": "Nagpur's school Preamble reading went state-wide in <b>2008</b>.",
+   "prompt": "From which year did the Government of Maharashtra make reading of the Preamble mandatory in every school?",
+   "year": 2008,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-16-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f15",
+    "f16"
+   ],
+   "hook": "<b>Tehsildar</b>: land titles, land revenue and encroachments for the whole Taluka.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I remove encroachments on land.",
+    "I register and partition land titles.",
+    "I am the head of the Taluka revenue administration."
+   ],
+   "options": [
+    "Talathi",
+    "Kotwal",
+    "Naib Tehsildar",
+    "Tehsildar"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-16-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f17",
+    "f18"
+   ],
+   "hook": "<b>Talathi</b>: the village's revenue officer, under the Mandal Adhikari.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I recover 'Tagai' agricultural loans.",
+    "The Mandal Adhikari supervises me directly.",
+    "I am the revenue officer of a village."
+   ],
+   "options": [
+    "Talathi",
+    "Tehsildar",
+    "Kotwal",
+    "Deputy Collector"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-12",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "Collector: an IAS officer, selected by the <b>UPSC</b>, appointed by the State Government.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Gaurav",
+     "The District Collector is an IAS officer."
+    ],
+    [
+     "Hema",
+     "The Collector is selected by the MPSC and appointed by the State Government."
+    ],
+    [
+     "Ira",
+     "The Collector also implements welfare schemes of the state and the nation."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "CEO",
+    "BDO",
+    "UPSC"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "year",
+    "term"
+   ],
+   "fids": [
+    "f42",
+    "f43"
+   ],
+   "hook": "Free legal aid for the weaker sections: Legal Services Authority, <b>1987</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Jai",
+     "In 1978 the Legal Services Authority was established in India."
+    ],
+    [
+     "Kavya",
+     "It provides free legal aid to the weaker sections of society."
+    ],
+    [
+     "Laksh",
+     "It aims that no citizen is denied justice because of economic disabilities."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 1
+   },
+   "options": [
+    "1950",
+    "1987",
+    "2008"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30"
+   ],
+   "hook": "SP's jobs: stop crime, make people feel safe, <b>manage traffic</b>, help in disasters.",
+   "prompt": "Which of these is a function of the Superintendent of Police?",
+   "options": [
+    "Managing traffic",
+    "Registering land titles",
+    "Updating voter lists",
+    "Hearing appeals against Civil Judges"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f34"
+   ],
+   "hook": "District Judge: appointed by the <b>Governor</b>, on the High Court's recommendation.",
+   "prompt": "Who appoints the District Judge?",
+   "options": [
+    "The District Collector",
+    "The Superintendent of Police",
+    "The Governor of the State, on the recommendation of the High Court",
+    "The Tehsildar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f35",
+    "f39"
+   ],
+   "hook": "Supreme Court above High Court above <b>District Court</b>, the district's main appeal court.",
+   "prompt": "What am I?",
+   "clues": [
+    "I work under the superintendence of the High Court.",
+    "I am the main appellate court within the district.",
+    "I hear both civil and criminal cases at the district level."
+   ],
+   "options": [
+    "Supreme Court",
+    "High Court",
+    "District Court",
+    "Family Court"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-17",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "<b>1987</b>: the Legal Services Authority, so that no one is denied justice for being poor.",
+   "prompt": "In which year was the Legal Services Authority established in India?",
+   "year": 1987,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-16-18",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Doctor turned Collector: <b>Dr. Rajendra Bharud</b> made Nandurbar self-reliant in oxygen.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I used my medical expertise.",
+    "I set up oxygen facilities in schools, community halls, hostels and Dharmashalas.",
+    "As District Collector of Nandurbar, I set up Oxygen Plants during COVID-19."
+   ],
+   "options": [
+    "E. Z. Khobragade",
+    "Popatrao Pawar",
+    "Mahatma Gandhi",
+    "Dr. Rajendra Bharud"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-16-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f20",
+    "f21"
+   ],
+   "hook": "<b>E. Z. Khobragade</b>: Preamble reading in Nagpur schools, made state-wide in 2008.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I served in the Indian Administrative Service.",
+    "I wanted to spread awareness about the Constitution.",
+    "I started 'Reading of the Preamble to the Constitution' in every school of Nagpur district."
+   ],
+   "options": [
+    "Dr. Rajendra Bharud",
+    "Popatrao Pawar",
+    "Mahatma Gandhi",
+    "E. Z. Khobragade"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-16-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "year",
+    "people"
+   ],
+   "fids": [
+    "f20",
+    "f21",
+    "f19"
+   ],
+   "hook": "Khobragade's Nagpur idea became a state rule in <b>2008</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Manav",
+     "E. Z. Khobragade started reading the Preamble in schools of Nagpur district."
+    ],
+    [
+     "Nidhi",
+     "Maharashtra made reading the Preamble mandatory in every school from 2018 onwards."
+    ],
+    [
+     "Ojas",
+     "Dr. Rajendra Bharud was then the District Collector of Nandurbar."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 10
+   },
+   "options": [
+    "1987",
+    "2010",
+    "2008"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f14"
+   ],
+   "hook": "In a disaster the Collector is the crisis administrator and <b>chairs</b> the District Disaster Management Committee.",
+   "prompt": "Who is the ex-officio Chairperson of the District Disaster Management Committee?",
+   "options": [
+    "Superintendent of Police",
+    "District Collector",
+    "District Judge",
+    "Talathi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-22",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f38",
+    "f37"
+   ],
+   "hook": "More than <b>3 years</b>' jail at stake (murder, dacoity)? It goes to the Sessions Court.",
+   "prompt": "Which cases are tried in the Sessions Court?",
+   "options": [
+    "Disputes about the partition of family property",
+    "Claims about inheritance rights",
+    "Offences punishable by imprisonment exceeding three years, like murder",
+    "Disputes about possession of land"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29",
+    "f30",
+    "f27"
+   ],
+   "hook": "<b>Nine</b> police ranks, from the Superintendent of Police at the top to the Police Constable at the bottom.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pranav",
+     "The Superintendent of Police leads the District Police Force."
+    ],
+    [
+     "Riya",
+     "The structure of the District Police Administration lists seven ranks, from Superintendent to Constable."
+    ],
+    [
+     "Sara",
+     "Responsibility for VIP security rests with the District Police Administration."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 8
+   },
+   "options": [
+    "five",
+    "twelve",
+    "nine"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Village: Talathi. Cluster of villages: <b>Mandal Officer</b>. Taluka: Tehsildar.",
+   "prompt": "Who supervises a cluster of several villages?",
+   "options": [
+    "Kotwal",
+    "Mandal Officer",
+    "Naib Tehsildar",
+    "Deputy Collector"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Last in the revenue line-up: the <b>Kotwal</b>, who assists the Talathi.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I am part of the District Revenue Administration.",
+    "I come last in its structure, after the Talathi.",
+    "I assist the Talathi."
+   ],
+   "options": [
+    "Naib Tehsildar",
+    "Kotwal",
+    "Mandal Officer",
+    "Deputy Collector"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-26",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f09"
+   ],
+   "hook": "Each chief has a helper: Deputy Collector helps the Collector; <b>Naib Tehsildar</b> helps the Tehsildar.",
+   "prompt": "Who assists the Tehsildar?",
+   "options": [
+    "Kotwal",
+    "Naib Tehsildar",
+    "Deputy Collector",
+    "Talathi"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "As District Magistrate, the Collector inspects police stations <b>once</b> a year.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "The Collector inspects police stations once every month as District Magistrate."
+    ],
+    [
+     "Uday",
+     "The Collector can impose prohibitionary orders in a law and order crisis."
+    ],
+    [
+     "Vani",
+     "The Collector serves as Election Officer during Parliamentary and Legislative Assembly elections."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 7
+   },
+   "options": [
+    "week",
+    "year",
+    "day"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Krishi Sinchai = <b>Agricultural Irrigation</b>: an agriculture-related scheme.",
+   "prompt": "Pradhan Mantri Krishi Sinchai Yojana is an example of which type of scheme?",
+   "options": [
+    "Social and welfare scheme",
+    "Rural roads scheme",
+    "Police training scheme",
+    "Agriculture-related scheme"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-16-29",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f24"
+   ],
+   "hook": "'Beti Bachao, Beti Padhao' and 'Antyodaya': <b>social and welfare</b> schemes.",
+   "prompt": "'Beti Bachao, Beti Padhao' is an example of which type of scheme?",
+   "options": [
+    "Agriculture-related scheme",
+    "Rural roads scheme",
+    "Social and welfare scheme",
+    "Irrigation scheme"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f39",
+    "f41"
+   ],
+   "hook": "Appeals from <b>Senior</b> Division Civil Judges and Chief Judicial Magistrates go to the District Court.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Wasim",
+     "The Family Court is one of the other district-level courts."
+    ],
+    [
+     "Xena",
+     "The Juvenile Justice Board is also listed among district-level courts."
+    ],
+    [
+     "Yash",
+     "The District Court hears appeals against Junior Division Civil Judges and Chief Judicial Magistrates."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Family",
+    "Labour",
+    "Senior"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Tehsildar's land jobs: titles, revenue, and <b>removing encroachments</b>.",
+   "prompt": "Which of these is a function of the Tehsildar?",
+   "options": [
+    "Leading the district police",
+    "Removing encroachments on land",
+    "Hearing murder cases",
+    "Appointing the District Judge"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f40"
+   ],
+   "hook": "District Court's admin power: <b>appoint, promote, transfer, discipline</b> its court staff.",
+   "prompt": "For the staff of the courts under it, the District Court has full authority over what?",
+   "options": [
+    "Nothing; the police decide everything",
+    "Electing them by public vote",
+    "Appointment, promotion, transfer and disciplinary action",
+    "Only choosing their uniforms"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-16-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f29"
+   ],
+   "hook": "SP, Addl SP, Dy SP, then <b>Police Inspector</b>, Asst PI, Sub-Inspector...",
+   "prompt": "Which rank comes just below the Deputy Superintendent of Police?",
+   "options": [
+    "Sub-Inspector",
+    "Police Inspector",
+    "Additional Superintendent of Police",
+    "Assistant Police Inspector"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-16-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Mandal Adhikari = <b>Circle</b> Officer: over the Talathi, under the Tehsildar.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Zoya",
+     "The Talathi is under the direct supervision of the Mandal Adhikari."
+    ],
+    [
+     "Aditya",
+     "The Mandal Adhikari is also called the Village Officer."
+    ],
+    [
+     "Bina",
+     "The Mandal Adhikari reports to the Tehsildar."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Circle",
+    "Police",
+    "District"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-35",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f33",
+    "f36"
+   ],
+   "hook": "Supreme Court over <b>High</b> Court over District Court; Senior Division above Junior Division.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Chetan",
+     "In criminal cases, the Additional Sessions Judge comes below the Sessions Judge."
+    ],
+    [
+     "Disha",
+     "In civil cases, the Senior Division Civil Judge comes above the Junior Division Civil Judge."
+    ],
+    [
+     "Ekta",
+     "The District Court works under the superintendence of the Supreme Court directly."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 9
+   },
+   "options": [
+    "High",
+    "Family",
+    "Sessions"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-36",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Voter lists, polling security, counting: the <b>Collector</b> as District Election Officer.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I update the district's voter lists.",
+    "I ensure security arrangements for polling stations.",
+    "I conduct vote counting and declare election results.",
+    "I am the Election Officer during Parliamentary and Legislative Assembly elections."
+   ],
+   "options": [
+    "District Collector",
+    "Tehsildar",
+    "Superintendent of Police",
+    "District Judge"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-37",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f38"
+   ],
+   "hook": "Criminal side, serious crimes like dacoity and murder: the <b>Sessions Judge</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I sit on the criminal side of the District and Sessions Court.",
+    "I deal with serious crimes such as dacoity and murder.",
+    "I am the title the District Judge takes when presiding over criminal cases."
+   ],
+   "options": [
+    "Sessions Judge",
+    "Civil Judge",
+    "Chief Judicial Magistrate",
+    "Additional District Judge"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f27",
+    "f34"
+   ],
+   "hook": "Both chosen through the <b>UPSC</b>: the Collector and the Superintendent of Police.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Collector and the Superintendent of Police are both selected through the UPSC.",
+    "The Collector is selected by the High Court.",
+    "The Superintendent of Police is elected by the people.",
+    "The District Judge is appointed by the Tehsildar."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-16-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f43",
+    "f42"
+   ],
+   "hook": "Legal Services Authority: <b>justice for all</b>, whatever their money or disability.",
+   "prompt": "What is a key objective of the Legal Services Authority?",
+   "options": [
+    "To collect land revenue",
+    "To manage city traffic",
+    "To inspect police stations",
+    "To ensure no citizen is denied justice because of economic or other disabilities"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-16-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38"
+   ],
+   "hook": "Land and family-property quarrels are <b>civil</b>; murder and dacoity are criminal.",
+   "prompt": "Which of these is a civil case?",
+   "options": [
+    "A dispute about the partition of family property",
+    "Murder",
+    "Dacoity"
+   ],
+   "answer": 0
+  }
+ ]
+}

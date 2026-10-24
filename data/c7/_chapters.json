@@ -1,0 +1,154 @@
+[
+ {
+  "id": "01",
+  "num": "H1",
+  "title": "Sources of History",
+  "unit": "History",
+  "pages": "1-4",
+  "book": "703000584"
+ },
+ {
+  "id": "02",
+  "num": "H2",
+  "title": "India before the Times of Shivaji Maharaj",
+  "unit": "History",
+  "pages": "5-10",
+  "book": "703000584"
+ },
+ {
+  "id": "03",
+  "num": "H3",
+  "title": "Religious Synthesis",
+  "unit": "History",
+  "pages": "11-13",
+  "book": "703000584"
+ },
+ {
+  "id": "04",
+  "num": "H4",
+  "title": "Maharashtra before the Times of Shivaji Maharaj",
+  "unit": "History",
+  "pages": "14-18",
+  "book": "703000584"
+ },
+ {
+  "id": "05",
+  "num": "H5",
+  "title": "The Foundation of the Swaraj",
+  "unit": "History",
+  "pages": "19-23",
+  "book": "703000584"
+ },
+ {
+  "id": "06",
+  "num": "H6",
+  "title": "Conflict with the Mughals",
+  "unit": "History",
+  "pages": "24-28",
+  "book": "703000584"
+ },
+ {
+  "id": "07",
+  "num": "H7",
+  "title": "The Administration of the Swaraj",
+  "unit": "History",
+  "pages": "29-32",
+  "book": "703000584"
+ },
+ {
+  "id": "08",
+  "num": "H8",
+  "title": "An Ideal Ruler",
+  "unit": "History",
+  "pages": "33-36",
+  "book": "703000584"
+ },
+ {
+  "id": "09",
+  "num": "H9",
+  "title": "The Maratha War of Independence",
+  "unit": "History",
+  "pages": "37-43",
+  "book": "703000584"
+ },
+ {
+  "id": "10",
+  "num": "H10",
+  "title": "The Expansion of the Maratha Power",
+  "unit": "History",
+  "pages": "44-46",
+  "book": "703000584"
+ },
+ {
+  "id": "11",
+  "num": "H11",
+  "title": "Marathas – The Protectors of the Nation",
+  "unit": "History",
+  "pages": "47-52",
+  "book": "703000584"
+ },
+ {
+  "id": "12",
+  "num": "H12",
+  "title": "Progression of the Empire",
+  "unit": "History",
+  "pages": "53-56",
+  "book": "703000584"
+ },
+ {
+  "id": "13",
+  "num": "H13",
+  "title": "Life of the People in Maharashtra",
+  "unit": "History",
+  "pages": "57-60",
+  "book": "703000584"
+ },
+ {
+  "id": "14",
+  "num": "C1",
+  "title": "Introduction to our Constitution",
+  "unit": "Civics",
+  "pages": "63-67",
+  "book": "703000584"
+ },
+ {
+  "id": "15",
+  "num": "C2",
+  "title": "Preamble to the Constitution",
+  "unit": "Civics",
+  "pages": "68-71",
+  "book": "703000584"
+ },
+ {
+  "id": "16",
+  "num": "C3",
+  "title": "Features of the Constitution",
+  "unit": "Civics",
+  "pages": "72-75",
+  "book": "703000584"
+ },
+ {
+  "id": "17",
+  "num": "C4",
+  "title": "Fundamental Rights – Part I",
+  "unit": "Civics",
+  "pages": "76-79",
+  "book": "703000584"
+ },
+ {
+  "id": "18",
+  "num": "C5",
+  "title": "Fundamental Rights – Part II",
+  "unit": "Civics",
+  "pages": "80-82",
+  "book": "703000584"
+ },
+ {
+  "id": "19",
+  "num": "C6",
+  "title": "Directive Principles of State Policy and Fundamental Duties",
+  "unit": "Civics",
+  "pages": "83-87",
+  "book": "703000584"
+ }
+]

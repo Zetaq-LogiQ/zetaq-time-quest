@@ -1,0 +1,1492 @@
+{
+ "class": 6,
+ "id": "03",
+ "title": "Harappan Civilisation",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "event",
+   "text": "An urban civilisation, the Harappan Civilisation, developed in the Indian subcontinent approximately 4,500 years ago, with wide roads, town planning, trade and writing.",
+   "year": null,
+   "era": "BCE",
+   "quote": "An urban civilisation developed in the Indian subcontinent approximately 4,500 years ago. It is known as 'Harappan Civilisation.' This civilisation was so advanced that its cities were marked with clean and wide roads, meticulous town planning, flourishing trade and the use of writing.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Because many of its sites were found in the Indus valley, it is also called the Indus Valley Civilisation; a civilisation is named after the site where it was first discovered.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Many sites associated with this civilisation have been discovered in the Indus valley, hence, it is also known as 'Indus Valley Civilisation.' A civilisation is named after the site, where it was first discovered.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "date",
+   "text": "Excavations at Harappa first began in 1921; Harappa is on the banks of the River Ravi in Punjab.",
+   "year": 1921,
+   "era": "CE",
+   "quote": "Excavations at Harappa first began in 1921. Harappa is situated on the banks of the River Ravi in Punjab. Therefore, this civilisation known as the 'Harappan Civilisation.'",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "place",
+   "text": "The ancient river valley civilisations: Tigris-Euphrates (Mesopotamia), Nile (Egypt), Huang-Ho (China), Indus (Harappa).",
+   "year": null,
+   "era": "BCE",
+   "quote": "The ancient river valley civilisations develope in vicinity of rivers. These were Tigris-Euphrates (Mesopotamia), Nile (Egypt), Huang-Ho (China), Indus (Harappa).",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Village settlements were set up where water, fertile land and transport were available, which were all found on river banks.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Village settlements were established where needs like availability of water, fertile land and system of transport were satisfied. All these factors were available on the river banks.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "date",
+   "text": "The Early Harappan Period (approx. 3300 to 2600 BCE) saw a gradual transition from villages to cities, the beginning of urbanisation.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The initial phase of village settlements within the Harappan Civilisation is known as the Early Harappan Period (approx. 3300 to 2600 BCE). During this period, a gradual transition from villages to cities took place, marking the beginning of the process of 'urbanisation'.",
+   "page": 2
+  },
+  {
+   "fid": "f07",
+   "kind": "date",
+   "text": "The Mature Harappan Period (approx. 2600 to 1900 BCE) was the most flourishing period; Mohenjodaro, Harappa, Dholavira and Lothal flourished then.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Mature Harappan Period (approx. 2600 to 1900 BCE) is considered as the most flourishing period of the Harappan Civilisation. ... Major centers of the civilisatio such as Mohenjodaro, Harappa, Dholavira and Lothal flourished during this period.",
+   "page": 2
+  },
+  {
+   "fid": "f08",
+   "kind": "date",
+   "text": "The Late Harappan Period (approx. 1900 to 1300 BCE) marks the gradual decline; major centres were destroyed or abandoned.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Late Harappan Period (approx. 1900 to 1300 BCE) marks the phase when the Harappan Civilisation gradually began to decline. Its major centers were destroyed or abandoned.",
+   "page": 2
+  },
+  {
+   "fid": "f09",
+   "kind": "place",
+   "text": "Many Harappan settlements were in the Indus basin, whose fertile soil boosted agriculture; settlements were along riverbanks.",
+   "year": null,
+   "era": "BCE",
+   "quote": "A large number of settlements of the Harappan Civilisation were found in Indus basin. The fertile soil in this region provided a significant boost to agriculture. Thus, Harappan settlements were established along the riverbanks.",
+   "page": 2
+  },
+  {
+   "fid": "f10",
+   "kind": "place",
+   "text": "Prominent Harappan sites: Harappa, Mohenjodaro, Kalibangan, Lothal, Dholavira, Rakhigarhi, Banawali, Chanhudaro.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Harappa, Mohenjodaro, Kalibangan, Lothal, Dholavira, Rakhigarhi, Banawali, Chanhudaro are some of the prominent Harappan sites.",
+   "page": 3
+  },
+  {
+   "fid": "f11",
+   "kind": "place",
+   "text": "The Harappan Civilisation covered approximately 1.5 million square kilometers.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The geographical extent of this civilisation covered an area of approximately 1.5 million square kilometers.",
+   "page": 3
+  },
+  {
+   "fid": "f12",
+   "kind": "place",
+   "text": "It extended from Manda in Jammu and Kashmir in the north, to Dholavira and Lothal in Gujarat, up to Daimabad in Ahilyanagar district; west to Balochistan (Pakistan), east to Alamgirpur in Uttar Pradesh.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Harappan Civilisation extended from Manda in Jammu and Kashmir in the north, to Dholavira and Lothal in Gujarat and further upto Daimabad in Ahilyanagar district of Maharashtra. The Harappan Civilisation reached as far as Balochistan (in present-day Pakistan) to the west, while to the east, its extent reached Alamgirpur in Uttar Pradesh.",
+   "page": 3
+  },
+  {
+   "fid": "f13",
+   "kind": "event",
+   "text": "Trade with distant regions was a primary factor in the wide expansion of the Harappan Civilisation.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Trade with distant regions was a primary factor contributing to the widespread expansion of the Harappan Civilisation.",
+   "page": 3
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "Distinctive Harappan features: town planning, well planned roads, well-built houses, excellent drainage, seals with inscriptions, high-quality pottery and toys.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Town planning, well planned roads, well-built houses, excellent drainage system, seals bearing inscriptions, high-quality pottery and various types of toys are the distinctive features of the Harappan Civilisation.",
+   "page": 3
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "Harappan houses were mainly built using baked bricks.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The houses of Harappan people were mainly built by using baked bricks.",
+   "page": 4
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "English Bond masonry: two headers and two stretchers used alternately; bricks in ratio 1:2:4; it kept homes safe from floods, earthquakes and wear and tear.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The method employed by the people of the Harappan Civilisation for constructing houses is generally known as the 'English Bond' masonry. In this method, while building a wall, two headers and two stretchers were used alternatively. ... A typical brick used to have a ratio of 1:2:4. Harappan people adopted this method to ensure the safety of their homes from floods, earthquakes and the gradual wear and tear",
+   "page": 4
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "Harappan houses had a central courtyard surrounded by rooms, with a well and a toilet near the entrance.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The houses featured a central courtyard surrounded by rooms, along with a well and a toilet situated near the entrance.",
+   "page": 4
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "Baked earthen conduits drained waste water; street drains were made of bricks and kept properly covered, showing awareness of public health.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Baked earthen conduits were utilized to drain waste water out of every house. Noteworthy feature was that the street drains were constructed using bricks and were kept properly covered. This demonstrates their high degree of awareness they possessed regarding public health.",
+   "page": 4
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "Harappan streets were broad and in a grid pattern; cities had two or more sections, each with its own fortification wall.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The streets in Harappan cities were broad and laid out in a grid pattern. Houses were built in the rectangular blocks created by them. The cities were generally divided into two or more sections. Each section had a separate fortification wall.",
+   "page": 4
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "The north-west section on elevated ground was the Citadel, likely home of administrators; the section south of it was for common residents.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The section at north-west was constructed on elevated ground, which is called as 'Citadel'. It is likely that administrators resided in Citadel. The section at the south of Citadel was occupied by common residents.",
+   "page": 4
+  },
+  {
+   "fid": "f21",
+   "kind": "place",
+   "text": "The Great Bath at Mohenjodaro: a tank about 12 m long, 7 m wide and 2.5 m deep, of baked bricks, surrounded by small rooms; perhaps used for religious rituals.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Great Bath at Mohenjodaro is an unique example of the Harappan architecture. Some scholars are of the opinion that some religious rituals were performed within the Great Bath complex ... a large water tank measuring approximately 12 meters in length, 7 meters in width and 2.5 meters in depth. It was constructed using baked bricks. ... The tank was surrounded by a series of small rooms.",
+   "page": 5
+  },
+  {
+   "fid": "f22",
+   "kind": "term",
+   "text": "Staple Harappan diet: wheat, barley, peas, sesame seeds, finger millet (Ragi), lentils and pulses; milk, meat and fish in some regions.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Wheat, barley, peas, sesame seeds, finger millet (Ragi), lentils and various types of pulses formed staple diet of the people. Archaeological evidence suggests that milk, meat and fish were also consumed in certain regions.",
+   "page": 5
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "Harappan pottery motifs were painted black on red, such as fish scales, intersecting circles and Pipal leaves.",
+   "year": null,
+   "era": "BCE",
+   "quote": "These motifs were painted in black on a red-colored background. The decorative motifs include symbols such as fish scales, intersecting circles, Pipal leaves etc.",
+   "page": 5
+  },
+  {
+   "fid": "f24",
+   "kind": "term",
+   "text": "Harappan people used cotton and silk garments; men and women wore a knee-length skirt and an upper garment.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Harappan, people used cotton and silk garments. ... Both men and women used a knee-length skirt and an upper garment.",
+   "page": 5
+  },
+  {
+   "fid": "f25",
+   "kind": "term",
+   "text": "Harappan beads of clay, semi-precious stones, shells, copper, silver and gold were in high demand especially in Mesopotamia.",
+   "year": null,
+   "era": "BCE",
+   "quote": "They made beads using clay, colourful semi-precious stones, shells, copper, silver and gold. These beads were in high demand especially in Mesopotamia.",
+   "page": 5
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Wheat and barley were the principal Harappan crops; they were familiar with cotton.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Wheat and barley were their principal crops. The people of the Harappan Civilisation were familiar with cotton.",
+   "page": 5
+  },
+  {
+   "fid": "f27",
+   "kind": "event",
+   "text": "Harappans were familiar with sailing, which enabled long-distance trade.",
+   "year": null,
+   "era": "BCE",
+   "quote": "They were familiar with sailing, which enabled them to conduct long-distance trade.",
+   "page": 5
+  },
+  {
+   "fid": "f28",
+   "kind": "place",
+   "text": "The world's oldest ploughed field was found at Kalibangan, on the Ghaggar River in Hanumangarh district, Rajasthan; they grew wheat, barley and chickpeas.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The world's oldest ploughed agricultural field has been discovered at Kalibangan. This site is situated on the banks of the Ghaggar River, in the Hanumangarh district of Rajasthan. ... They cultivated a variety of grains, including wheat, barley, and chickpeas.",
+   "page": 6
+  },
+  {
+   "fid": "f29",
+   "kind": "place",
+   "text": "Kalibangan also has fire altars, perhaps for religious rituals, a planned drainage system, brick houses and seals.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Another distinctive feature of Kalibangan is the discovery of fire altars, which were perhaps used for performing religious rituals. ... this site also features a planned drainage system, brick-built houses and samples of seals.",
+   "page": 6
+  },
+  {
+   "fid": "f30",
+   "kind": "event",
+   "text": "Harappans traded with Mesopotamia (modern-day Iraq) and Egypt in beads, jewellery, pottery and cotton, and imported metals and precious stones.",
+   "year": null,
+   "era": "BCE",
+   "quote": "They were engaged in the exchange of goods with regions corresponding to Mesopotamia (modern-day Iraq) and Egypt. They traded in beads, jewellery, pottery and cotton. In exchange, they imported metals, precious stones and other commodities.",
+   "page": 6
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "Faience is a glass-like material in shades of blue, green and turquoise; faience goods from Harappa reached Sumer in southern Mesopotamia.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Faience is a glass-like material, having in shades of blue, green and turquoise. Faience bangles, beads and jewellery produced in Harappa reached Sumer in southern Mesopotamia in large quantities via established trade routes.",
+   "page": 6
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "Carnelian, a reddish-hued gemstone, was made into long and spherical beads traded in Mesopotamia.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Carnelian, a reddish-hued gemstone, was fashioned into both long and spherical beads. These beads were traded in Mesopotamia, where they were used in jewellery as well as making religious artifacts.",
+   "page": 6
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "Goddess Inanna, a prominent Sumerian deity, used Lapis Lazuli as a symbol of her divine grandeur.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Goddess Inanna was a prominent deity in Sumerian culture. ... Goddess Inanna used Lapis Lazuli as a symbol of her divine grandeur.",
+   "page": 6
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Lapis Lazuli is a deep-blue semiprecious stone; its mines are in Afghanistan; it was in high demand in Mesopotamia.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Lapis Lazuli is a deep-blue semiprecious stone. ... Mines of Lapis Lazuli are located in Afghanistan. Harappan merchants were actively engaged in the trade of this stone, It was in high demand in Mesopotamia.",
+   "page": 7
+  },
+  {
+   "fid": "f35",
+   "kind": "place",
+   "text": "Lothal was a significant Harappan port with a massive dockyard; trade went along the Arabian Sea coast as far as the Persian Gulf.",
+   "year": null,
+   "era": "BCE",
+   "quote": "During Harappan period Lothal served as a significant port. A massive dockyard has been discovered at this site. The trade of the Harappan civilisation extended along the coast of the Arabian Sea, reaching as far as the Persian Gulf.",
+   "page": 7
+  },
+  {
+   "fid": "f36",
+   "kind": "term",
+   "text": "Harappan seals were used primarily for trade; they show ox, elephant, buffalo, rhinoceros, tiger and human figures.",
+   "year": null,
+   "era": "BCE",
+   "quote": "The Harappan seals were used primarily for trade purposes. These seals have animal pictures such as ox, elephant, buffalo, rhinoceros and tiger as well as human figures.",
+   "page": 7
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "A bronze figurine from the Harappan civilisation is famously known as the Dancing Girl.",
+   "year": null,
+   "era": "BCE",
+   "quote": "A bronze figurine discovered from the Harappan civilisation is famously known as the 'Dancing Girl'.",
+   "page": 7
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "A distinctive statue unearthed at Mohenjodaro, now in the National Museum, Delhi, is identified as the Priest-King.",
+   "year": null,
+   "era": "BCE",
+   "quote": "An important artifact of the Harappan civilisation is a distinctive statue discovered at Mohenjodaro. This statue was unearthed during excavations at Mohenjodaro and is currently housed in the National Museum, Delhi. It is identified as the 'Priest-King'.",
+   "page": 7
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "Harappan clay toys include bulls, dogs, elephants, wheeled carts, spinning tops and whistles.",
+   "year": null,
+   "era": "BCE",
+   "quote": "These toys were made of clay. They include animal figurines such as bulls, dogs and elephants as well as wheeled carts, spinning tops and whistles.",
+   "page": 8
+  },
+  {
+   "fid": "f40",
+   "kind": "event",
+   "text": "A shift in a river's course may have caused water scarcity; natural calamities like floods, droughts or earthquakes may also have caused the decline.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Perhaps a shift in the river's course led to water scarcity, which, in turn, adversely affected agriculture and daily life. Another reason might be natural calamities such as massive floods, droughts, or earthquakes.",
+   "page": 8
+  },
+  {
+   "fid": "f41",
+   "kind": "event",
+   "text": "Around 2300 BCE, trade with the Sumerian civilisation began to slow down, beginning the Harappan decline.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Around 2300 BCE, trade with the Sumerian civilisation began to slow down, causing the beginning of the decline of Harappan civilisation.",
+   "page": 8
+  },
+  {
+   "fid": "f42",
+   "kind": "person",
+   "text": "Sargon, a powerful king of the Akkadian Empire, saw maritime trade flourish between Mesopotamia and the Harappan civilisation in Lapis Lazuli, gold, silver, copper and beads.",
+   "year": null,
+   "era": "BCE",
+   "quote": "Sargon was a powerful king of the Akkadian Empire. Evidence suggests that, during his reign maritime trade flourished between Mesopotamia and the Harappan civilisation. This trade involved the exchange of valuable commodities such as Lapis Lazuli, gold, silver, copper, beads and other precious items.",
+   "page": 8
+  },
+  {
+   "fid": "f43",
+   "kind": "event",
+   "text": "After Sargon's era, political instability in Mesopotamia halted the trade; the Harappan economy was endangered and people migrated from cities to smaller villages.",
+   "year": null,
+   "era": "BCE",
+   "quote": "following the era of Sargon, political instability emerged in Mesopotamia. ... the trade that had flourished during Sargon's time gradually came to a halt. As a result, the economy of the Harappan cities was endangered. Trade declined and people began migrating from the cities toward smaller villages.",
+   "page": 8
+  },
+  {
+   "fid": "f44",
+   "kind": "term",
+   "text": "The influence of the Harappan Civilisation was not diminished; it forms the base of our cultural legacy.",
+   "year": null,
+   "era": "BCE",
+   "quote": "However the influence of the Harappan Civilisation was not diminished. ... Thus, the Harappan Civilisation was a prosporous one and it forms the base of our cultural legacy.",
+   "page": 8
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c6-03-01",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f02"
+   ],
+   "hook": "Many sites in the <b>Indus</b> valley, so: Indus Valley Civilisation.",
+   "prompt": "Why is the Harappan Civilisation also known as the Indus Valley Civilisation?",
+   "options": [
+    "Many sites associated with it have been discovered in the Indus valley",
+    "Its people worshipped the River Indus",
+    "It was first discovered in Egypt",
+    "It began on the Indus in 1921"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f03"
+   ],
+   "hook": "Harappa dig began in <b>1921</b>, on the banks of the Ravi in Punjab.",
+   "prompt": "In which year did excavations at Harappa first begin?",
+   "year": 1921,
+   "era": "CE"
+  },
+  {
+   "qid": "c6-03-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f07",
+    "f38",
+    "f21"
+   ],
+   "hook": "Mohenjodaro: the <b>Great Bath</b> and the <b>Priest-King</b>.",
+   "prompt": "Which site am I?",
+   "clues": [
+    "I flourished during the Mature Harappan Period.",
+    "The statue called the Priest-King was unearthed at me.",
+    "The Great Bath is at me."
+   ],
+   "options": [
+    "Lothal",
+    "Mohenjodaro",
+    "Kalibangan",
+    "Dholavira"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f03",
+    "f35"
+   ],
+   "hook": "<b>L</b>othal = port with a massive dockyard; Kalibangan = oldest ploughed field.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "Harappa is situated on the banks of the River Ravi."
+    ],
+    [
+     "Meera",
+     "Harappa is in Punjab."
+    ],
+    [
+     "Kabir",
+     "At Kalibangan a massive dockyard has been discovered."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 1
+   },
+   "options": [
+    "Rakhigarhi",
+    "Lothal",
+    "Banawali"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f15"
+   ],
+   "hook": "Harappan homes: <b>baked bricks</b>, strong and lasting.",
+   "prompt": "What were the houses of Harappan people mainly built with?",
+   "options": [
+    "Baked bricks",
+    "Wood",
+    "Stone blocks",
+    "Bamboo"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Great Bath: big brick tank at Mohenjodaro, ringed by small rooms.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am surrounded by a series of small rooms.",
+    "Some scholars think religious rituals were performed in and around me.",
+    "I am a large water tank at Mohenjodaro."
+   ],
+   "options": [
+    "Dockyard",
+    "Citadel",
+    "Fire altar",
+    "Great Bath"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-03-07",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f24"
+   ],
+   "hook": "Harappans knew <b>cotton</b>: they grew it, wore it and traded it.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Wheat and barley were the principal Harappan crops."
+    ],
+    [
+     "Arjun",
+     "Harappan people were familiar with cotton."
+    ],
+    [
+     "Sana",
+     "They used nylon and silk garments."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "cotton",
+    "paper",
+    "rubber"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Bronze figurine = <b>Dancing Girl</b>; stone statue = Priest-King.",
+   "prompt": "What is the bronze figurine found from the Harappan civilisation famously known as?",
+   "options": [
+    "Priest-King",
+    "Goddess Inanna",
+    "Dancing Girl",
+    "Unicorn"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-09",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "chrono",
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Early, <b>Mature</b>, Late: the middle phase was the peak.",
+   "prompt": "Which was the most flourishing period of the Harappan Civilisation?",
+   "options": [
+    "The Early Harappan Period",
+    "The Late Harappan Period",
+    "The Mature Harappan Period",
+    "The Neolithic Period"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Kalibangan: oldest <b>ploughed field</b> and fire altars, Rajasthan.",
+   "prompt": "Which site am I?",
+   "clues": [
+    "Fire altars were discovered at me.",
+    "I am in the Hanumangarh district of Rajasthan.",
+    "The world's oldest ploughed agricultural field was found at me."
+   ],
+   "options": [
+    "Rakhigarhi",
+    "Kalibangan",
+    "Banawali",
+    "Lothal"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Great Bath about <b>12 x 7 x 2.5</b> metres: long, wide, deep.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The Great Bath tank is about 12 meters long."
+    ],
+    [
+     "Diya",
+     "It is about 9 meters wide."
+    ],
+    [
+     "Rohan",
+     "It is about 2.5 meters deep."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "7",
+    "12",
+    "4"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Lothal = <b>port</b> + dockyard; trade reached the Persian Gulf.",
+   "prompt": "What was Lothal during the Harappan period?",
+   "options": [
+    "The site of the world's oldest ploughed field",
+    "The place where the Great Bath was found",
+    "The capital of the Akkadian Empire",
+    "A significant port with a massive dockyard"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-03-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Citadel: <b>north-west</b>, high ground, for administrators.",
+   "prompt": "What am I?",
+   "clues": [
+    "It is likely that administrators resided in me.",
+    "Common residents lived in the section to my south.",
+    "I am the north-west section of a Harappan city, built on elevated ground."
+   ],
+   "options": [
+    "Citadel",
+    "Great Bath",
+    "Dockyard",
+    "Courtyard"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f08"
+   ],
+   "hook": "3300 - 2600 - 1900 - <b>1300</b> BCE: Early, Mature, Late.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "The Early Harappan Period was approx. 3300 to 2600 BCE."
+    ],
+    [
+     "Kabir",
+     "The Mature Harappan Period was approx. 2600 to 1900 BCE."
+    ],
+    [
+     "Tara",
+     "The Late Harappan Period was approx. 1900 to 1500 BCE."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "1700",
+    "1000",
+    "1300"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f19"
+   ],
+   "hook": "Harappan streets: broad, in a <b>grid</b>, houses in rectangular blocks.",
+   "prompt": "How were the streets of Harappan cities laid out?",
+   "options": [
+    "In a circle around the Great Bath",
+    "Narrow and winding",
+    "Only in a single line along the riverbank",
+    "Broad and in a grid pattern"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-03-16",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f33",
+    "f34"
+   ],
+   "hook": "Lapis Lazuli: <b>deep-blue</b> stone from Afghanistan, loved by Inanna.",
+   "prompt": "What am I?",
+   "clues": [
+    "Mines of me are located in Afghanistan.",
+    "Goddess Inanna used me as a symbol of her divine grandeur.",
+    "I am a deep-blue semiprecious stone."
+   ],
+   "options": [
+    "Carnelian",
+    "Lapis Lazuli",
+    "Faience",
+    "Copper"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-17",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f08"
+   ],
+   "hook": "Mature = <b>2600 to 1900</b> BCE, the middle block of the three.",
+   "prompt": "Which pair of a phase and its approximate time span is correct?",
+   "options": [
+    "Early Harappan - approx. 2600 to 1900 BCE",
+    "Late Harappan - approx. 3300 to 2600 BCE",
+    "Mature Harappan - approx. 2600 to 1900 BCE",
+    "Mature Harappan - approx. 1900 to 1300 BCE"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-18",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "North <b>Manda</b>, east <b>Alamgirpur</b> (Uttar Pradesh), west Balochistan.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditi",
+     "The civilisation extended from Manda in Jammu and Kashmir in the north."
+    ],
+    [
+     "Yash",
+     "To the east it reached Alamgirpur in Madhya Pradesh."
+    ],
+    [
+     "Pooja",
+     "To the west it reached Balochistan, in present-day Pakistan."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 7
+   },
+   "options": [
+    "Andhra",
+    "Himachal",
+    "Uttar"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f07",
+    "f12",
+    "f35"
+   ],
+   "hook": "Gujarat has Dholavira and Lothal; only <b>Lothal</b> had the dockyard.",
+   "prompt": "Which site am I?",
+   "clues": [
+    "I flourished during the Mature Harappan Period.",
+    "I am in Gujarat.",
+    "A massive dockyard has been discovered at me."
+   ],
+   "options": [
+    "Dholavira",
+    "Lothal",
+    "Manda",
+    "Kalibangan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-20",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "English Bond: 2 headers + 2 stretchers, bricks 1:2:4, safe from <b>floods and quakes</b>.",
+   "prompt": "Why did Harappan people use the English Bond method of building?",
+   "options": [
+    "To keep their homes safe from floods, earthquakes and wear and tear",
+    "To build ships for long-distance trade",
+    "To decorate pots with Pipal leaves",
+    "To make toys for children"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-21",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f30",
+    "f32"
+   ],
+   "hook": "Carnelian = <b>red</b> beads; Lapis Lazuli = blue stone.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Vihaan",
+     "Harappans traded with Mesopotamia, which is modern-day Iraq."
+    ],
+    [
+     "Anaya",
+     "They also traded with Egypt."
+    ],
+    [
+     "Dev",
+     "Carnelian is a blue gemstone fashioned into beads."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "reddish-hued",
+    "green",
+    "white"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f42",
+    "f43"
+   ],
+   "hook": "Sargon of <b>Akkad</b>: trade boomed in his reign, collapsed after.",
+   "prompt": "Who am I?",
+   "clues": [
+    "After my era, political instability emerged in Mesopotamia.",
+    "During my reign maritime trade flourished between Mesopotamia and the Harappan civilisation.",
+    "I was a powerful king of the Akkadian Empire."
+   ],
+   "options": [
+    "Inanna",
+    "Sargon",
+    "Ashoka",
+    "Priest-King"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f36"
+   ],
+   "hook": "Harappan seals were for <b>trade</b>: ox, elephant, buffalo, rhino, tiger.",
+   "prompt": "What were Harappan seals used for primarily?",
+   "options": [
+    "Ploughing fields",
+    "Cooking food",
+    "Draining waste water",
+    "Trade purposes"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-03-24",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f41",
+    "f03"
+   ],
+   "hook": "approx. 3300 BCE, approx. 2600 BCE, around 2300 BCE, then a huge jump to <b>1921</b> CE.",
+   "prompt": "Put these in order, earliest first.",
+   "items": [
+    {
+     "t": "Early Harappan Period begins",
+     "y": "approx. 3300 BCE",
+     "k": -3300
+    },
+    {
+     "t": "Mature Harappan Period begins",
+     "y": "approx. 2600 BCE",
+     "k": -2600
+    },
+    {
+     "t": "Trade with Sumer begins to slow",
+     "y": "around 2300 BCE",
+     "k": -2300
+    },
+    {
+     "t": "Excavations at Harappa begin",
+     "y": "1921 CE",
+     "k": 1921
+    }
+   ]
+  },
+  {
+   "qid": "c6-03-25",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f31"
+   ],
+   "hook": "Faience: <b>glass-like</b>, blue-green-turquoise, sent to Sumer.",
+   "prompt": "What am I?",
+   "clues": [
+    "Bangles, beads and jewellery made of me reached Sumer in large quantities.",
+    "I come in shades of blue, green and turquoise.",
+    "I am a glass-like material."
+   ],
+   "options": [
+    "Carnelian",
+    "Faience",
+    "Lapis Lazuli",
+    "Copper"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-26",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "English Bond: <b>2</b> headers, <b>2</b> stretchers; brick 1:2:4.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "Harappan builders used the English Bond masonry."
+    ],
+    [
+     "Kavya",
+     "In a wall three headers and two stretchers were used alternately."
+    ],
+    [
+     "Arnav",
+     "A typical brick had a ratio of 1:2:4."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "four",
+    "two",
+    "five"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-27",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23"
+   ],
+   "hook": "Black on red pots: <b>fish scales, circles, Pipal leaves</b>.",
+   "prompt": "Which motifs decorated Harappan pottery?",
+   "options": [
+    "Lotus flowers, chariots and kings",
+    "Camels and ploughs",
+    "Letters of the Brahmi script",
+    "Fish scales, intersecting circles and Pipal leaves"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-03-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f38"
+   ],
+   "hook": "Priest-King: found at Mohenjodaro, kept in the <b>National Museum, Delhi</b>.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am housed today in the National Museum, Delhi.",
+    "I was unearthed during excavations at Mohenjodaro.",
+    "I am a distinctive statue, an important artifact of the Harappan civilisation."
+   ],
+   "options": [
+    "Dancing Girl",
+    "Goddess Inanna",
+    "Priest-King",
+    "Sargon"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Kalibangan: <b>Rajasthan</b> (Hanumangarh), on the Ghaggar; the oldest ploughed field.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sneha",
+     "Kalibangan has the world's oldest ploughed agricultural field."
+    ],
+    [
+     "Aryan",
+     "Kalibangan in the Hanumangarh district of Gujarat is on the Ghaggar River."
+    ],
+    [
+     "Ira",
+     "Its people grew wheat, barley and chickpeas."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "Punjab",
+    "Rajasthan",
+    "Maharashtra"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-30",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "Covered brick drains = Harappans cared about <b>public health</b>.",
+   "prompt": "Which statement about Harappan drains is correct?",
+   "options": [
+    "Drains were open ditches dug in the mud",
+    "Street drains were made of bricks and kept properly covered",
+    "There were no drains in Harappan cities",
+    "Waste water was left standing in the streets"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-31",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "From Manda in the north, past Dholavira and Lothal, down to <b>Daimabad</b>.",
+   "prompt": "Which site am I?",
+   "clues": [
+    "The Harappan Civilisation extended as far as me.",
+    "I lie beyond Dholavira and Lothal on the line from Manda.",
+    "I am in Ahilyanagar district of Maharashtra."
+   ],
+   "options": [
+    "Daimabad",
+    "Manda",
+    "Alamgirpur",
+    "Rakhigarhi"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f04"
+   ],
+   "hook": "River valleys: Tigris-Euphrates, <b>Nile</b>, Huang-Ho, Indus.",
+   "prompt": "Which ancient river valley civilisation is matched with its correct river?",
+   "options": [
+    "China - Tigris-Euphrates",
+    "Mesopotamia - Huang-Ho",
+    "Egypt - Nile",
+    "Harappa - Nile"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f41"
+   ],
+   "hook": "Around 2300 BCE <b>Sumerian</b> trade slowed: the start of the decline.",
+   "prompt": "Around 2300 BCE, what began to slow down, causing the beginning of the Harappan decline?",
+   "options": [
+    "Rainfall in Rajasthan",
+    "Trade with the Sumerian civilisation",
+    "The making of toys",
+    "The use of baked bricks"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c6-03-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f40",
+    "f41"
+   ],
+   "hook": "Decline: river shift, calamities, and <b>Sumerian</b> trade slowing.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Mira",
+     "A shift in a river's course may have caused water scarcity."
+    ],
+    [
+     "Rohan",
+     "Floods, droughts or earthquakes may also be reasons."
+    ],
+    [
+     "Zoya",
+     "Around 2300 BCE trade with the Egyptian civilisation began to slow down."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Chinese",
+    "Roman",
+    "Sumerian"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f12"
+   ],
+   "hook": "<b>Manda</b>, Jammu and Kashmir: the northern tip.",
+   "prompt": "Which site am I?",
+   "clues": [
+    "I am a Harappan site.",
+    "I mark the northern end of the Harappan Civilisation.",
+    "I am in Jammu and Kashmir."
+   ],
+   "options": [
+    "Alamgirpur",
+    "Banawali",
+    "Chanhudaro",
+    "Manda"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-03-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f08"
+   ],
+   "hook": "Rise, peak, fall: <b>Early, Mature, Late</b>.",
+   "prompt": "Which shows the three Harappan phases in the correct order, earliest first?",
+   "options": [
+    "Mature, Early, Late Harappan",
+    "Late, Mature, Early Harappan",
+    "Early, Late, Mature Harappan",
+    "Early, Mature, Late Harappan"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c6-03-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f39"
+   ],
+   "hook": "Harappan toys of <b>clay</b>: bulls, dogs, elephants, carts, tops and whistles.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kiran",
+     "The Harappan toys were made of wood and found during excavations."
+    ],
+    [
+     "Tanvi",
+     "They include bulls, dogs and elephants."
+    ],
+    [
+     "Rahul",
+     "Wheeled carts, spinning tops and whistles were also found."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 6
+   },
+   "options": [
+    "clay",
+    "stone",
+    "iron"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-38",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32"
+   ],
+   "hook": "<b>C</b>arnelian = <b>C</b>rimson-ish: reddish beads, long and round.",
+   "prompt": "What am I?",
+   "clues": [
+    "My beads were used in Mesopotamia for jewellery and religious artifacts.",
+    "I was fashioned into both long and spherical beads.",
+    "I am a reddish-hued gemstone."
+   ],
+   "options": [
+    "Carnelian",
+    "Lapis Lazuli",
+    "Faience",
+    "Turquoise"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c6-03-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f43"
+   ],
+   "hook": "After Sargon: unrest, trade stops, economy suffers, people move to <b>villages</b>.",
+   "prompt": "What happened to Harappan trade after the era of Sargon?",
+   "options": [
+    "It flourished more than ever because Mesopotamia became peaceful",
+    "It was not affected at all, and the Harappan cities grew larger",
+    "Political instability in Mesopotamia brought it gradually to a halt, and people moved from the cities to smaller villages",
+    "It increased and made the Harappan economy stronger"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c6-03-40",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "place",
+    "event"
+   ],
+   "fids": [
+    "f11",
+    "f13",
+    "f25"
+   ],
+   "hook": "Harappan beads were wanted most in <b>Mesopotamia</b>.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aditya",
+     "The Harappan Civilisation covered about 1.5 million square kilometers."
+    ],
+    [
+     "Nisha",
+     "Trade with distant regions was a primary factor in its expansion."
+    ],
+    [
+     "Varun",
+     "Especially in Egypt Harappan beads were in high demand."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 2
+   },
+   "options": [
+    "China",
+    "Afghanistan",
+    "Mesopotamia"
+   ],
+   "answer": 2
+  }
+ ]
+}

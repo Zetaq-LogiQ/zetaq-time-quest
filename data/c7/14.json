@@ -1,0 +1,1537 @@
+{
+ "class": 7,
+ "id": "14",
+ "title": "Introduction to our Constitution",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "There are no rules in a family, but there are norms; schools have rules about admission, uniform and studies.",
+   "year": null,
+   "era": "CE",
+   "quote": "There are no rules in a family. However, there are norms about the behavior of members in a family. There are rules in a school regarding admission, uniform and studies.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Rules about family, school, village or city are limited, but provisions about the administration of a country are much wider in scope.",
+   "year": null,
+   "era": "CE",
+   "quote": "The rules regarding family, school, village or city are limited in nature. But the rules or provisions about the administration of a country are much wider in scope.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "term",
+   "text": "The book in which all the provisions regarding the administration of a country are mentioned together in a systematic way is called a Constitution.",
+   "year": null,
+   "era": "CE",
+   "quote": "The book in which all the provisions regarding the administration of a the country are mentioned together in a systematic way is called a Constitution.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "term",
+   "text": "A Constitution is a written document of the provisions related to the administration of the country.",
+   "year": null,
+   "era": "CE",
+   "quote": "This makes the Constitution a written document of the provisions related to the administration of the country.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "term",
+   "text": "Government is established by representatives elected by the people and is bound to carry out administration as per the Constitution.",
+   "year": null,
+   "era": "CE",
+   "quote": "Government is established by the representatives elected by the people. It is bound to carry out the administration of the country as per the provisions of the Constitution.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "term",
+   "text": "The rules and provisions in the Constitution are the basic or fundamental law of the land.",
+   "year": null,
+   "era": "CE",
+   "quote": "The rules and provisions in the Constitution are the basic or fundamental law of the land.",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "term",
+   "text": "While making laws the government is bound to follow the Constitution; if it does not, the Judiciary can declare those laws null and void or unconstitutional.",
+   "year": null,
+   "era": "CE",
+   "quote": "While making laws, the government is bound to follow the Constitution. If it does not do so, then the Judiciary can declare those laws null and void or unconstitutional.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "term",
+   "text": "Provisions in the Constitution are about citizenship, rights of citizens, the relationship between citizens and the State, subjects of laws, elections, restrictions on government and jurisdiction of the State.",
+   "year": null,
+   "era": "CE",
+   "quote": "The provisions in the Constitution are about different things, e.g., citizenship, the rights of citizens, the relationship between citizens and the State, subjects of the laws to be made by the governments, elections, restrictions on government, jurisdiction of the State, etc.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Almost all countries accept governance according to a Constitution, but the nature of Constitutions differs because of history, social structures, culture and traditions.",
+   "year": null,
+   "era": "CE",
+   "quote": "Almost all countries have accepted the principle of governance according to a Constitution. Yet the nature of the Constitutions of different countries is different. There are differences of history, social structures, culture, traditions, etc.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "date",
+   "text": "The American Constitution came into force in 1789.",
+   "year": 1789,
+   "era": "CE",
+   "quote": "The American Constitution came into force in 1789.",
+   "page": 2
+  },
+  {
+   "fid": "f11",
+   "kind": "term",
+   "text": "The American Constitution is a written Constitution with only 7 articles; even after 225 years the American government follows it.",
+   "year": null,
+   "era": "CE",
+   "quote": "It is a written Constitution and has only 7 articles. Even after 225 years, the American government follows the same Constitution.",
+   "page": 2
+  },
+  {
+   "fid": "f12",
+   "kind": "place",
+   "text": "In England the rules of running the country are found as conventions, norms and traditions; the English Constitution is considered primarily unwritten.",
+   "year": null,
+   "era": "CE",
+   "quote": "The rules of running the country here are found in the form of conventions, norms and traditions. ... the English Constitution is considered to be primarily unwritten.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "date",
+   "text": "The Magna Carta of 1215 marks the beginning of the development of the English Constitution.",
+   "year": 1215,
+   "era": "CE",
+   "quote": "The Magna Carta of 1215 marks the beginning of the development of the English Constitution.",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "term",
+   "text": "Government has to function within a set of rules, which reduces the possibility of the misuse of power and authority.",
+   "year": null,
+   "era": "CE",
+   "quote": "Government has to function within a set of rules. This reduces the possibility of the misuse of the power and authority they have been given.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "term",
+   "text": "A Constitution includes the rights and freedoms of citizens, which the government cannot take away.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Constitution includes the rights and freedoms of the citizens. Government cannot take away these rights.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "term",
+   "text": "Running a country as per the Constitution is the same as establishing the rule of law.",
+   "year": null,
+   "era": "CE",
+   "quote": "Running a country as per the provisions of the Constitution is the same as establishing the rule of law.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "term",
+   "text": "When a country is run as per the Constitution, people's faith in government increases and democracy is strengthened by their participation.",
+   "year": null,
+   "era": "CE",
+   "quote": "If a country is run as per the Constitution, the faith that the common people have in the government increases. ... Democracy is strengthened due to the increased participation of the people.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "term",
+   "text": "The Constitution presents political ideals and creates an atmosphere for world peace, security and preservation of human rights.",
+   "year": null,
+   "era": "CE",
+   "quote": "Constitution presents some political ideals before the country. ... It creates an atmosphere conducive to attain world peace and security and preservation of human rights.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "term",
+   "text": "The Constitution includes the list of citizens' duties and so fixes their responsibility.",
+   "year": null,
+   "era": "CE",
+   "quote": "Since the constitution also includes the list of citizens' duties, it fixes the responsibility of the citizens as well.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "term",
+   "text": "Governments in modern times take decisions on issues right from space research to public cleanliness; this is governance or administration.",
+   "year": null,
+   "era": "CE",
+   "quote": "In short, governments in modern times have to take decisions related to different issues right from space research to public cleanliness. This is governance or administration.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "date",
+   "text": "The process of the making of the Indian Constitution started in 1946.",
+   "year": 1946,
+   "era": "CE",
+   "quote": "The process of the making of the Indian Constitution started in 1946.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "event",
+   "text": "Leaders of the freedom movement insisted that Independent India be governed by laws made by Indians, not by the British.",
+   "year": null,
+   "era": "CE",
+   "quote": "The leaders of the freedom movement insisted that Independent India will be governed not by the laws made by the British, but by laws made by Indians themselves.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "The committee established to prepare the Constitution of Independent India came to be known as the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "A Committee was established to prepare the Constitution of Independent India. It came to be known as the Constituent Assembly.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "date",
+   "text": "India became independent on August 15, 1947.",
+   "year": 1947,
+   "era": "CE",
+   "quote": "India became independent on August 15, 1947.",
+   "page": 3
+  },
+  {
+   "fid": "f25",
+   "kind": "place",
+   "text": "The British divided India into provinces like Bombay, Bengal and Madras for the convenience of administration.",
+   "year": null,
+   "era": "CE",
+   "quote": "They had divided India into provinces like Bombay, Bengal and Madras for the convenience of administration.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Areas where local princes carried out administration were known as princely states, and their chiefs were known as princes.",
+   "year": null,
+   "era": "CE",
+   "quote": "Similarly, the local princes were carrying out the administration in some areas. Such areas were known as princely states and their chiefs were known as princes.",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Representatives of the provinces and the princely states were included in the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "The representatives of the provinces and the princely states were included in the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "term",
+   "text": "There were a total of 299 members in the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were a total of 299 members in the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "person",
+   "text": "Dr Rajendra Prasad was the President of the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr Rajendra Prasad was the President of the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "person",
+   "text": "Dr Babasaheb Ambedkar was the Chairman of the Drafting Committee and had studied the Constitutions of different countries in depth.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr Babasaheb Ambedkar was the Chairman of the Drafting Committee. He had studied in depth, the Constitutions of different countries of the world.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "event",
+   "text": "The draft Constitution was discussed Article by Article and many amendments were suggested by members.",
+   "year": null,
+   "era": "CE",
+   "quote": "It was discussed Article by Article. Many amendments were suggested by different members.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "person",
+   "text": "Due to his contribution, Dr Babasaheb Ambedkar is called the 'Architect of the Indian Constitution'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Due to his contribution towards the making of the Constitution, Dr Babasaheb Ambedkar is called the 'Architect of the Indian Constitution.'",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "term",
+   "text": "Decisions in the Constituent Assembly were made on the basis of debate and discussion, with respect for opposing viewpoints.",
+   "year": null,
+   "era": "CE",
+   "quote": "Decisions in the Constituent Assembly were made on the basis of debate and discussion. A respect for opposing viewpoints and acceptance of appropriate suggestions was a characteristic of the working of the Constituent Assembly.",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "event",
+   "text": "It took 2 years, 11 months and 17 days to complete the writing of the Constitution.",
+   "year": null,
+   "era": "CE",
+   "quote": "It took 2 years, 11 months and 17 days to complete the writing of the Constitution.",
+   "page": 3
+  },
+  {
+   "fid": "f35",
+   "kind": "term",
+   "text": "The original Constitution had 22 parts, 395 articles and 8 schedules.",
+   "year": null,
+   "era": "CE",
+   "quote": "There were 22 parts, 395 articles and 8 schedules in the original Constitution.",
+   "page": 3
+  },
+  {
+   "fid": "f36",
+   "kind": "person",
+   "text": "Well-known members included Dr Rajendra Prasad, Pandit Jawaharlal Nehru, Dr Babasaheb Ambedkar, Sardar Vallabhbhai Patel, Maulana Abul Kalam Azad, Sarojini Naidu, J. B. Kripalani, Rajkumari Amrit Kaur, Durgabai Deshmukh and Hansaben Mehta.",
+   "year": null,
+   "era": "CE",
+   "quote": "Some of the well-known members of the Constituent Assembly were Dr Rajendra Prasad, Pandit Jawaharlal Nehru, Dr Babasaheb Ambedkar, Sardar Vallabhbhai Patel, Maulana Abul Kalam Azad, Sarojini Naidu, J. B. Kripalani, Rajkumari Amrit Kaur, Durgabai Deshmukh, Hansaben Mehta, and others.",
+   "page": 3
+  },
+  {
+   "fid": "f37",
+   "kind": "person",
+   "text": "The noted legal expert B. N. Rau was appointed as the Constitutional Adviser on legal matters.",
+   "year": null,
+   "era": "CE",
+   "quote": "The noted legal expert, B. N. Rau was appointed as the Constitutional Adviser on legal matters.",
+   "page": 3
+  },
+  {
+   "fid": "f38",
+   "kind": "date",
+   "text": "The Constituent Assembly enacted and adopted the Constitution on 26th November 1949.",
+   "year": 1949,
+   "era": "CE",
+   "quote": "The Constituent Assembly enacted the Constitution and adopted it on 26th November 1949.",
+   "page": 4
+  },
+  {
+   "fid": "f39",
+   "kind": "term",
+   "text": "26th November is observed as Constitution Day.",
+   "year": null,
+   "era": "CE",
+   "quote": "Therefore, 26th November is observed as 'Constitution Day.'",
+   "page": 4
+  },
+  {
+   "fid": "f40",
+   "kind": "date",
+   "text": "The country began to be governed according to the Constitution from 26th January 1950, and the Indian Republic came into existence.",
+   "year": 1950,
+   "era": "CE",
+   "quote": "The country began to be governed according to the provisions of the Constitution from 26th January 1950. The Indian Republic came into existence from this day.",
+   "page": 4
+  },
+  {
+   "fid": "f41",
+   "kind": "term",
+   "text": "26th January is celebrated as Republic Day.",
+   "year": null,
+   "era": "CE",
+   "quote": "Therefore, 26th January is celebrated as 'Republic Day.'",
+   "page": 4
+  },
+  {
+   "fid": "f42",
+   "kind": "person",
+   "text": "Dr Babasaheb Ambedkar contributed to water conservation, foreign policy, national security, journalism, economics and social justice.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr Babasaheb Ambedkar's contribution was in a wide range of fields like water conservation, foreign policy, national security, journalism, economics, social justice, etc.",
+   "page": 4
+  },
+  {
+   "fid": "f43",
+   "kind": "event",
+   "text": "Dr Babasaheb Ambedkar presented the draft of the Indian Constitution to Dr Rajendra Prasad, President of the Constituent Assembly.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr Babasaheb Ambedkar presenting the draft of the Indian Constitution to Dr Rajendra Prasad, President of the Constituent Assembly",
+   "page": 5
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c7-14-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f21",
+    "f24",
+    "f38",
+    "f40"
+   ],
+   "hook": "<b>1946</b> start, <b>1947</b> freedom, <b>1949</b> adopted, <b>1950</b> Republic: only 1948 is missing.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "Making of the Constitution begins",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "India becomes independent",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "Constitution adopted",
+     "y": "1949",
+     "k": 1949
+    },
+    {
+     "t": "Indian Republic comes into existence",
+     "y": "1950",
+     "k": 1950
+    }
+   ]
+  },
+  {
+   "qid": "c7-14-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f40",
+    "f41"
+   ],
+   "hook": "26th January <b>1950</b>: the Republic is born, so 26th January is Republic Day.",
+   "prompt": "In which year did the Indian Republic come into existence?",
+   "year": 1950,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-14-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f29",
+    "f36",
+    "f43"
+   ],
+   "hook": "President of the Constituent Assembly: <b>Dr Rajendra Prasad</b>; he received the draft.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I was one of the well-known members of the Constituent Assembly.",
+    "The Chairman of the Drafting Committee presented the draft Constitution to me.",
+    "I was the President of the Constituent Assembly."
+   ],
+   "options": [
+    "Dr Babasaheb Ambedkar",
+    "B. N. Rau",
+    "Pandit Jawaharlal Nehru",
+    "Dr Rajendra Prasad"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-14-04",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f30",
+    "f31",
+    "f32"
+   ],
+   "hook": "Chairman of the Drafting Committee = <b>Architect of the Indian Constitution</b>.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I studied the Constitutions of different countries of the world in depth.",
+    "I presented the draft and answered the questions raised on it.",
+    "I was the Chairman of the Drafting Committee.",
+    "I am called the Architect of the Indian Constitution."
+   ],
+   "options": [
+    "Dr Rajendra Prasad",
+    "Dr Babasaheb Ambedkar",
+    "Sardar Vallabhbhai Patel",
+    "J. B. Kripalani"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-05",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f38",
+    "f39",
+    "f29"
+   ],
+   "hook": "Adopted 26th November <b>1949</b>, so 26th November is Constitution Day.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Aarav",
+     "In 1951 the Constituent Assembly adopted the Constitution on 26th November."
+    ],
+    [
+     "Meera",
+     "That is why 26th November is observed as Constitution Day."
+    ],
+    [
+     "Kabir",
+     "Dr Rajendra Prasad was the President of the Constituent Assembly."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 1
+   },
+   "options": [
+    "1950",
+    "1949",
+    "1947"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-06",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f40",
+    "f41"
+   ],
+   "hook": "26th January 1950: Republic born, so 26th January = <b>Republic</b> Day.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "The country began to be governed by the Constitution from 26th January 1950."
+    ],
+    [
+     "Rohan",
+     "The Indian Republic came into existence on that day."
+    ],
+    [
+     "Priya",
+     "So 26th January is celebrated as Independence Day."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "Republic",
+    "Constitution",
+    "Freedom"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-14-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f03",
+    "f04"
+   ],
+   "hook": "All the provisions for running a country, written together in one systematic book: a <b>Constitution</b>.",
+   "prompt": "What is the book in which all the provisions regarding the administration of a country are mentioned together in a systematic way called?",
+   "options": [
+    "A princely state",
+    "The Judiciary",
+    "A Constitution",
+    "A province"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-08",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f06"
+   ],
+   "hook": "The Constitution's provisions are the <b>basic or fundamental law</b> of the land.",
+   "prompt": "What are the rules and provisions in the Constitution called?",
+   "options": [
+    "The conventions of the land",
+    "The norms of a family",
+    "The basic or fundamental law of the land",
+    "The rules of a competition"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f21"
+   ],
+   "hook": "Work began in <b>1946</b>, a year before independence in 1947.",
+   "prompt": "In which year did the process of the making of the Indian Constitution start?",
+   "year": 1946,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-14-10",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "August 15, <b>1947</b>: independence, one year after Constitution-making began in 1946.",
+   "prompt": "In which year did India become independent?",
+   "year": 1947,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-14-11",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f27",
+    "f28",
+    "f29"
+   ],
+   "hook": "<b>299</b> members from provinces and princely states, with Dr Rajendra Prasad as President.",
+   "prompt": "What am I?",
+   "clues": [
+    "I had a total of 299 members.",
+    "Representatives of the provinces and the princely states were included in me.",
+    "I was established to prepare the Constitution of Independent India."
+   ],
+   "options": [
+    "Constituent Assembly",
+    "Judiciary",
+    "Drafting Committee",
+    "Princely state"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-14-12",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "England runs on conventions, norms and traditions: a mainly <b>unwritten</b> Constitution.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "I have a long history of several centuries.",
+    "My rules of running the country are found as conventions, norms and traditions.",
+    "My Constitution is considered to be primarily unwritten."
+   ],
+   "options": [
+    "America",
+    "India",
+    "France",
+    "England"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-14-13",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f27",
+    "f28",
+    "f29"
+   ],
+   "hook": "Constituent Assembly: <b>299</b> members; 395 is the number of articles.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "There were a total of 199 members in the Constituent Assembly."
+    ],
+    [
+     "Tanvi",
+     "Representatives of the provinces and the princely states were included in it."
+    ],
+    [
+     "Arjun",
+     "Dr Rajendra Prasad was its President."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 5
+   },
+   "options": [
+    "395",
+    "22",
+    "299"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-14",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "event",
+    "place"
+   ],
+   "fids": [
+    "f24",
+    "f25",
+    "f26"
+   ],
+   "hook": "Before 1947 the <b>British</b> ruled, with provinces like Bombay, Bengal and Madras; princes ran princely states.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Zoya",
+     "Before independence, the Mughals ruled over India."
+    ],
+    [
+     "Kabir",
+     "They had divided India into provinces like Bombay, Bengal and Madras."
+    ],
+    [
+     "Meera",
+     "Areas where local princes carried out the administration were known as princely states."
+    ]
+   ],
+   "wrong": {
+    "m": 0,
+    "w": 3
+   },
+   "options": [
+    "British",
+    "Portuguese",
+    "French"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-14-15",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Law against the Constitution? The <b>Judiciary</b> can make it null and void.",
+   "prompt": "What can the Judiciary do if the government makes laws that do not follow the Constitution?",
+   "options": [
+    "Make those laws stronger",
+    "Declare those laws null and void or unconstitutional",
+    "Elect a new Constituent Assembly",
+    "Add those laws to the schedules"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-16",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f08",
+    "f02"
+   ],
+   "hook": "Constitution provisions: citizenship, rights, elections, limits on government: far wider than school rules.",
+   "prompt": "Which of these is a subject of the provisions in the Constitution?",
+   "options": [
+    "Uniform rules of a school",
+    "Citizenship and elections",
+    "Rules of a sports competition",
+    "Norms of behaviour in a family"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-17",
+   "type": "train",
+   "level": 3,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f13",
+    "f10",
+    "f24",
+    "f40"
+   ],
+   "hook": "England 1215, America 1789, India free 1947, Republic 1950.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "Magna Carta",
+     "y": "1215",
+     "k": 1215
+    },
+    {
+     "t": "American Constitution comes into force",
+     "y": "1789",
+     "k": 1789
+    },
+    {
+     "t": "India becomes independent on August 15",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "India governed by its Constitution",
+     "y": "1950",
+     "k": 1950
+    }
+   ]
+  },
+  {
+   "qid": "c7-14-18",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f38",
+    "f39"
+   ],
+   "hook": "Adopted 26th November <b>1949</b>; in force two months later, 26th January 1950.",
+   "prompt": "In which year did the Constituent Assembly adopt the Constitution of India?",
+   "year": 1949,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-14-19",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "America: written, only 7 articles, in force since <b>1789</b>.",
+   "prompt": "In which year did the American Constitution come into force?",
+   "year": 1789,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-14-20",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "America (USA): a written Constitution of only <b>7 articles</b>, still followed after 225 years.",
+   "prompt": "Which country am I?",
+   "clues": [
+    "My Constitution is a written Constitution.",
+    "Even after 225 years, my government follows the same Constitution.",
+    "My Constitution came into force in 1789 and has only 7 articles."
+   ],
+   "options": [
+    "England",
+    "India",
+    "America",
+    "Japan"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-21",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f37"
+   ],
+   "hook": "Legal expert <b>B. N. Rau</b>: Constitutional Adviser on legal matters.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My name is linked with the making of the Indian Constitution.",
+    "I was a noted legal expert.",
+    "I was appointed as the Constitutional Adviser on legal matters."
+   ],
+   "options": [
+    "Hansaben Mehta",
+    "B. N. Rau",
+    "J. B. Kripalani",
+    "Durgabai Deshmukh"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-22",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f31"
+   ],
+   "hook": "Original Constitution: 22 parts, <b>395</b> articles, 8 schedules.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Rohan",
+     "The original Constitution had 22 parts and 8 schedules."
+    ],
+    [
+     "Sana",
+     "It had 359 articles in all."
+    ],
+    [
+     "Aarav",
+     "The draft was discussed Article by Article."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 2
+   },
+   "options": [
+    "299",
+    "395",
+    "225"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-23",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15",
+    "f19"
+   ],
+   "hook": "Rules for the government = less <b>misuse of power</b>; rights safe; duties fixed.",
+   "prompt": "Which statement about the necessity of a Constitution is correct?",
+   "options": [
+    "It allows the government to take away people's rights.",
+    "It increases the misuse of power.",
+    "It removes the duties of citizens.",
+    "It reduces the possibility of the misuse of power and authority."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-14-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f25",
+    "f26",
+    "f27"
+   ],
+   "hook": "Constituent Assembly = representatives of the <b>provinces</b> + the <b>princely states</b>.",
+   "prompt": "Whose representatives were included in the Constituent Assembly?",
+   "options": [
+    "Only British officers",
+    "Only the princes",
+    "The provinces and the princely states",
+    "Only the Judiciary"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-25",
+   "type": "train",
+   "level": 4,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f10",
+    "f21",
+    "f38",
+    "f40"
+   ],
+   "hook": "1789 USA; 1946 our start; 26 Nov 1949 adopted; 26 Jan 1950 in force.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "USA's written Constitution in force",
+     "y": "1789",
+     "k": 1789
+    },
+    {
+     "t": "Indian Constitution-making starts",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "Adopted on 26th November",
+     "y": "1949",
+     "k": 1949
+    },
+    {
+     "t": "Country governed by the Constitution",
+     "y": "1950",
+     "k": 1950
+    }
+   ]
+  },
+  {
+   "qid": "c7-14-26",
+   "type": "lock",
+   "level": 4,
+   "dims": [
+    "year",
+    "place"
+   ],
+   "fids": [
+    "f13"
+   ],
+   "hook": "Magna Carta, <b>1215</b>: the start of the English Constitution, long before America's 1789.",
+   "prompt": "The Magna Carta marks the beginning of the development of the English Constitution. In which year was it?",
+   "year": 1215,
+   "era": "CE"
+  },
+  {
+   "qid": "c7-14-27",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "A law that breaks the Constitution can be made <b>null and void</b> by the Judiciary.",
+   "prompt": "What am I?",
+   "clues": [
+    "I act when the government makes a law that does not follow the Constitution.",
+    "I can declare such laws unconstitutional.",
+    "I can declare such laws null and void."
+   ],
+   "options": [
+    "Government",
+    "Constituent Assembly",
+    "Drafting Committee",
+    "Judiciary"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c7-14-28",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "term",
+    "year"
+   ],
+   "fids": [
+    "f12",
+    "f13"
+   ],
+   "hook": "<b>Magna Carta</b> of 1215: where England's mainly unwritten Constitution began.",
+   "prompt": "What am I?",
+   "clues": [
+    "I am linked with England.",
+    "I date from 1215.",
+    "I mark the beginning of the development of the English Constitution."
+   ],
+   "options": [
+    "American Constitution",
+    "Constitution Day",
+    "Magna Carta",
+    "Drafting Committee"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-29",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "event"
+   ],
+   "fids": [
+    "f34",
+    "f21",
+    "f31"
+   ],
+   "hook": "Writing the Constitution took 2 years, 11 months and <b>17</b> days.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "The process of making the Indian Constitution started in 1946."
+    ],
+    [
+     "Priya",
+     "Writing the Constitution took 2 years, 11 months and 27 days."
+    ],
+    [
+     "Tanvi",
+     "Many amendments were suggested by different members."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "7",
+    "17",
+    "12"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f42"
+   ],
+   "hook": "Ambedkar's fields: water conservation, foreign policy, national security, <b>journalism</b>, economics, social justice.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "Dr Babasaheb Ambedkar contributed to water conservation and foreign policy."
+    ],
+    [
+     "Zoya",
+     "He contributed to cricket and economics as well."
+    ],
+    [
+     "Kabir",
+     "His work also covered national security and social justice."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "music",
+    "journalism",
+    "painting"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f11"
+   ],
+   "hook": "USA: only <b>7</b> articles. India's original Constitution: 395.",
+   "prompt": "How many articles does the American Constitution have?",
+   "options": [
+    "7",
+    "22",
+    "395",
+    "225"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-14-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "Modern governance runs from <b>space research</b> to <b>public cleanliness</b>.",
+   "prompt": "Governments in modern times take decisions on issues right from space research to what?",
+   "options": [
+    "Only foreign wars",
+    "Public cleanliness",
+    "Only space travel",
+    "Only tax collection"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c7-14-33",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f13",
+    "f10",
+    "f21",
+    "f24",
+    "f38"
+   ],
+   "hook": "1215, 1789, 1946, 1947, 1949: England, America, then India's own story.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "Magna Carta of England",
+     "y": "1215",
+     "k": 1215
+    },
+    {
+     "t": "American Constitution in force",
+     "y": "1789",
+     "k": 1789
+    },
+    {
+     "t": "Making of our Constitution starts",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "Independence on August 15",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "Constitution adopted on 26th November",
+     "y": "1949",
+     "k": 1949
+    }
+   ]
+  },
+  {
+   "qid": "c7-14-34",
+   "type": "train",
+   "level": 5,
+   "dims": [
+    "chrono",
+    "event"
+   ],
+   "fids": [
+    "f10",
+    "f21",
+    "f24",
+    "f38",
+    "f40"
+   ],
+   "hook": "1789 to 1946 is 157 years; then 1947, 1949, 1950 come quickly.",
+   "prompt": "Put these events in the correct order.",
+   "items": [
+    {
+     "t": "Only 7 articles: USA's Constitution",
+     "y": "1789",
+     "k": 1789
+    },
+    {
+     "t": "Our Constitution-making begins",
+     "y": "1946",
+     "k": 1946
+    },
+    {
+     "t": "British rule over India ends",
+     "y": "1947",
+     "k": 1947
+    },
+    {
+     "t": "Constituent Assembly adopts it",
+     "y": "1949",
+     "k": 1949
+    },
+    {
+     "t": "Indian Republic is born",
+     "y": "1950",
+     "k": 1950
+    }
+   ]
+  },
+  {
+   "qid": "c7-14-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "term",
+    "place"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "Princes ruled <b>princely states</b>; the British ran provinces like Bombay.",
+   "prompt": "What am I?",
+   "clues": [
+    "My representatives were included in the Constituent Assembly.",
+    "Local princes carried out the administration in me.",
+    "My chiefs were known as princes."
+   ],
+   "options": [
+    "Princely states",
+    "Provinces",
+    "Republic",
+    "Schedules"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-14-36",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f36",
+    "f37"
+   ],
+   "hook": "B. N. Rau, a <b>legal</b> expert, advised on legal matters.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Sarojini Naidu and Durgabai Deshmukh were members of the Constituent Assembly."
+    ],
+    [
+     "Rohan",
+     "Rajkumari Amrit Kaur and Hansaben Mehta were members too."
+    ],
+    [
+     "Aarav",
+     "B. N. Rau was the Constitutional Adviser on financial matters."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "legal",
+    "military",
+    "foreign"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-14-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f16",
+    "f17",
+    "f19"
+   ],
+   "hook": "More participation = <b>stronger</b> democracy; Constitution = rule of law + duties.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sana",
+     "A Constitution includes the list of citizens' duties."
+    ],
+    [
+     "Ishaan",
+     "Running a country as per the Constitution is the same as establishing the rule of law."
+    ],
+    [
+     "Tanvi",
+     "When people participate more, democracy is weakened in such a country."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 6
+   },
+   "options": [
+    "divided",
+    "ended",
+    "strengthened"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-38",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f33"
+   ],
+   "hook": "Ambedkar was <b>Chairman</b> of the Drafting Committee; the Assembly decided by debate and discussion.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Arjun",
+     "Decisions in the Constituent Assembly were made on the basis of debate and discussion."
+    ],
+    [
+     "Zoya",
+     "A respect for opposing viewpoints was a characteristic of its working."
+    ],
+    [
+     "Kabir",
+     "Dr Babasaheb Ambedkar was the Secretary of the Drafting Committee."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 5
+   },
+   "options": [
+    "Adviser",
+    "Clerk",
+    "Chairman"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c7-14-39",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f38",
+    "f40"
+   ],
+   "hook": "Adopted first (26 Nov 1949), in force next (26 Jan 1950).",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Constitution was adopted on 26th November 1949 and the country was governed by it from 26th January 1950.",
+    "The Constitution was adopted on 26th January 1950 and came into force on 26th November 1949.",
+    "The Constitution was adopted on 15th August 1947.",
+    "The Constitution was adopted on 26th November 1950."
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c7-14-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f35",
+    "f28"
+   ],
+   "hook": "22 parts, 395 articles, 8 schedules; 299 was the number of members.",
+   "prompt": "Which describes the original Constitution of India correctly?",
+   "options": [
+    "22 parts, 299 articles and 8 schedules",
+    "22 parts, 395 articles and 8 schedules",
+    "8 parts, 395 articles and 22 schedules",
+    "7 parts, 395 articles and 22 schedules"
+   ],
+   "answer": 1
+  }
+ ]
+}

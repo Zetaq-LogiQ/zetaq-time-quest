@@ -1,0 +1,1437 @@
+{
+ "class": 8,
+ "id": "01",
+ "title": "Sources of History",
+ "facts": [
+  {
+   "fid": "f01",
+   "kind": "term",
+   "text": "Historical sources include material, written and oral sources; sources based on modern technology such as audio, video and audio-visual are also included.",
+   "year": null,
+   "era": "CE",
+   "quote": "Historical sources include material, written and oral sources. Similarly sources based on modern technology such as audio, video and audio-visual are included.",
+   "page": 1
+  },
+  {
+   "fid": "f02",
+   "kind": "term",
+   "text": "Various objects, monuments, places, coins, sculptures etc. can be included in the material sources of history.",
+   "year": null,
+   "era": "CE",
+   "quote": "Various objects, monuments, places, coins, sculptures etc. can be included in the material sources of history.",
+   "page": 1
+  },
+  {
+   "fid": "f03",
+   "kind": "event",
+   "text": "The period of Modern Indian History is believed to be the period of European, especially British, rulers and governance of Princely States.",
+   "year": null,
+   "era": "CE",
+   "quote": "The period of Modern Indian History is believed as period of European, especially the British rulers, and governance of Princely States.",
+   "page": 1
+  },
+  {
+   "fid": "f04",
+   "kind": "event",
+   "text": "In this period buildings, bridges, roads, water supply systems, fountains etc. were built, including government offices, palaces of rulers of princely states, forts and prisons.",
+   "year": null,
+   "era": "CE",
+   "quote": "In this period various buildings, bridges, roads, water supply system, fountains etc. were built. These buildings include government offices, residences of officers, leaders and revolutionaries; palaces of rulers of princely states, forts, prisons etc.",
+   "page": 1
+  },
+  {
+   "fid": "f05",
+   "kind": "place",
+   "text": "Some of these buildings are declared national monuments and some are converted into museums, for example the Cellular Jail in Andaman.",
+   "year": null,
+   "era": "CE",
+   "quote": "Some are declared as national monuments, where as some are converted into museum. For eg. Cellular Jail in Andaman.",
+   "page": 1
+  },
+  {
+   "fid": "f06",
+   "kind": "place",
+   "text": "A visit to the Cellular Jail in Andaman gives information about the revolutionary work of V.D.Savarkar.",
+   "year": null,
+   "era": "CE",
+   "quote": "during the visit to Cellular jail in Andaman we get information about the revolutionary work of V.D.Savarkar",
+   "page": 1
+  },
+  {
+   "fid": "f07",
+   "kind": "place",
+   "text": "Visiting Manibhavan in Mumbai or Sevagram Ashram at Wardha gives information about the history of the Gandhian era.",
+   "year": null,
+   "era": "CE",
+   "quote": "by visiting Manibhavan in Mumbai or Sevagram Ashram at Wardha we get information about the history of Gandhian era.",
+   "page": 1
+  },
+  {
+   "fid": "f08",
+   "kind": "place",
+   "text": "At the Aga Khan Palace in Pune we can see objects and documents giving information about the life of Mahatma Gandhi.",
+   "year": null,
+   "era": "CE",
+   "quote": "At the Aga Khan Palace in Pune, we can see different objects, documents giving information about the life of Mahatma Gandhi.",
+   "page": 1
+  },
+  {
+   "fid": "f09",
+   "kind": "term",
+   "text": "Objects, paintings, photographs and such other things are preserved in a museum for the study of history.",
+   "year": null,
+   "era": "CE",
+   "quote": "For the study of History various objects, paintings, photographs and such other things are preserved in a museum.",
+   "page": 1
+  },
+  {
+   "fid": "f10",
+   "kind": "term",
+   "text": "The display plaque on a statue gives the full name of the person, birth and death details, brief information about their contribution and a biographical sketch.",
+   "year": null,
+   "era": "CE",
+   "quote": "The display plaque on the statues gives us information about the full name of the concerned person, birth and death details, brief information about their contribution and a biographical sketch of the person.",
+   "page": 1
+  },
+  {
+   "fid": "f11",
+   "kind": "person",
+   "text": "Statues of Mahatma Jyotirao Phule, Lokmanya Tilak and Dr. Babasaheb Ambedkar are examples of statues erected as memorials.",
+   "year": null,
+   "era": "CE",
+   "quote": "Just as the statues of Mahatma Jyotirao Phule, Lokmanya Tilak, Dr. Babasaheb Ambedkar, there are memorials",
+   "page": 1
+  },
+  {
+   "fid": "f12",
+   "kind": "place",
+   "text": "Some memorials are erected in the memory of events, for example the Hutatma Smarak at various places.",
+   "year": null,
+   "era": "CE",
+   "quote": "there are memorials which are erected in the memory of various events ... For e.g. Hutatma Smarak at various places.",
+   "page": 2
+  },
+  {
+   "fid": "f13",
+   "kind": "term",
+   "text": "Written sources include correspondence, foreign accounts, newspapers, biographies, periodicals, factory records, autobiographies and books.",
+   "year": null,
+   "era": "CE",
+   "quote": "Correspondence, Foreign Accounts, Newspapers, Biographies ... Periodicals, Factory Records, Autobiographies, Books",
+   "page": 2
+  },
+  {
+   "fid": "f14",
+   "kind": "event",
+   "text": "Before independence, newspapers like Dnyanoday, Dnyanprakash, Amrit Bazaar Patrika, Deenbandhu and Kesari were an important source of awakening the minds of the people.",
+   "year": null,
+   "era": "CE",
+   "quote": "In the pre independence period, newspapers like Dnyanoday, Dnyanprakash, Amrit Bazaar Patrika, Deenbandhu, Kesari acted as important source of awakening the minds of the people.",
+   "page": 2
+  },
+  {
+   "fid": "f15",
+   "kind": "event",
+   "text": "During the British period, newspapers were a source of political events and also a source of social reformation.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the British period, newspapers were not only the source of political events but also acted as a source of social reformation.",
+   "page": 2
+  },
+  {
+   "fid": "f16",
+   "kind": "person",
+   "text": "The 'Nibandhmala' by Vishnushastri Chiplunkar comments on social and cultural issues.",
+   "year": null,
+   "era": "CE",
+   "quote": "The 'Nibandhmala' by Vishnushastri Chiplunkar and Shatapatre ... comments on various social and cultural issues.",
+   "page": 2
+  },
+  {
+   "fid": "f17",
+   "kind": "person",
+   "text": "Shatapatre was written by Lokahitawadi alias Gopal Hari Deshmukh in the weekly 'Prabhakar'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Shatapatre written by Lokahitawadi alias Gopal Hari Deshmukh in the weekly 'Prabhakar' comments on various social and cultural issues.",
+   "page": 2
+  },
+  {
+   "fid": "f18",
+   "kind": "date",
+   "text": "In January 1920, Dr. Babasaheb Ambedkar started the fortnightly 'Mooknayak'.",
+   "year": 1920,
+   "era": "CE",
+   "quote": "In January 1920, Dr. Babasaheb Ambedkar started the fortnightly 'Mooknayak'.",
+   "page": 2
+  },
+  {
+   "fid": "f19",
+   "kind": "person",
+   "text": "Dr. Ambedkar left for higher studies to England and handed over 'Mooknayak' to his colleagues.",
+   "year": null,
+   "era": "CE",
+   "quote": "Dr. Ambedkar had to leave for higher studies to England and hence he handed over this paper to his colleagues.",
+   "page": 2
+  },
+  {
+   "fid": "f20",
+   "kind": "date",
+   "text": "In April 1927, Dr. Ambedkar started the newspaper 'Bahishkrut Bharat'.",
+   "year": 1927,
+   "era": "CE",
+   "quote": "In April 1927, Dr. Ambedkar started the newspaper 'Bahishkrut Bharat'.",
+   "page": 2
+  },
+  {
+   "fid": "f21",
+   "kind": "event",
+   "text": "Through 'Bahishkrut Bharat' Dr. Ambedkar wrote for the reformation of common people and bringing unity among them.",
+   "year": null,
+   "era": "CE",
+   "quote": "Through the medium of Bahishkrut Bharat he wrote for the reformation of common people and bringing unity among them.",
+   "page": 2
+  },
+  {
+   "fid": "f22",
+   "kind": "person",
+   "text": "Dr. Ambedkar also started two more newspapers, 'Janata' and 'Prabuddha Bharat'.",
+   "year": null,
+   "era": "CE",
+   "quote": "Apart from this he also started two more newspapers, namely, 'Janata' and 'Prabuddha Bharat'.",
+   "page": 2
+  },
+  {
+   "fid": "f23",
+   "kind": "term",
+   "text": "Maps are an important source of history; the changing nature of a city or a location can be traced through maps.",
+   "year": null,
+   "era": "CE",
+   "quote": "Map is also regarded as an important source of history. The changing nature of a city or a particular location can be traced through maps.",
+   "page": 2
+  },
+  {
+   "fid": "f24",
+   "kind": "event",
+   "text": "The Survey of India was an independent department established during the British period; it created maps of India, provinces and cities through scientific methods of survey.",
+   "year": null,
+   "era": "CE",
+   "quote": "The Survey of India was an independent department established during the British period. Through scientific methods of survey, they have created maps of India, various provinces of India, cities etc.",
+   "page": 2
+  },
+  {
+   "fid": "f25",
+   "kind": "place",
+   "text": "The Department of Mumbai Port Trust has the original plan of the Bombay Port; plans by architects and engineers show the development of Bombay city.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Department of Mumbai Port Trust has the original plan of the Bombay Port. Information about development of Bombay city can be understood through the plans drafted by architects and engineers.",
+   "page": 3
+  },
+  {
+   "fid": "f26",
+   "kind": "term",
+   "text": "Oral sources include folk songs, Powada, folk tales, narrations, interviews, fairs, Jalsa and art groups, rythmic prose (Ovee) and inspirational songs.",
+   "year": null,
+   "era": "CE",
+   "quote": "Folk songs, Powada, Folk Tales, Narrations, Interviews, Fairs, Jalsa, Art Groups, Rythmic prose (Ovee), Inspirational Songs",
+   "page": 3
+  },
+  {
+   "fid": "f27",
+   "kind": "term",
+   "text": "Inspirational songs were composed during the freedom movement; many unpublished ones were memorised by freedom fighters.",
+   "year": null,
+   "era": "CE",
+   "quote": "During the period of freedom movement various inspirational songs were composed. ... there are many other unpublished inspirational songs memorised by freedom fighters.",
+   "page": 3
+  },
+  {
+   "fid": "f28",
+   "kind": "date",
+   "text": "Powadas were composed on the freedom struggle of 1857 and the valour of revolutionaries during British rule; they created motivation and spirit among the people.",
+   "year": 1857,
+   "era": "CE",
+   "quote": "There are various Powadas composed on freedom struggle of 1857, valour of revolutionaries during British rule etc. These Powadas were used to create motivation and spirit among the people.",
+   "page": 3
+  },
+  {
+   "fid": "f29",
+   "kind": "event",
+   "text": "Powadas were also composed on the work of Satyashodhak Samaj for awakening among the oppressed classes and on the Samyukta Maharashtra movement.",
+   "year": null,
+   "era": "CE",
+   "quote": "the Powadas were composed based on the work of Satyashodhak Samaj for awakening among the oppressed classes, the Samyukta Maharashtra movement and such other events.",
+   "page": 3
+  },
+  {
+   "fid": "f30",
+   "kind": "term",
+   "text": "Photographs are a visual source; the authenticity of mediaeval paintings is doubtful, and photographs are considered more reliable.",
+   "year": null,
+   "era": "CE",
+   "quote": "Photographs are visual source of modern Indian history. ... the authenticity of these paintings is doubtful. Comparatively photographs are considered to be more reliable.",
+   "page": 3
+  },
+  {
+   "fid": "f31",
+   "kind": "term",
+   "text": "The photograph of a person gives information about physical features and dressing style.",
+   "year": null,
+   "era": "CE",
+   "quote": "The photograph of a person gives information about the physical features, dressing style etc.",
+   "page": 3
+  },
+  {
+   "fid": "f32",
+   "kind": "term",
+   "text": "Recording is a form of audio source of history; speeches of leaders and songs are available as recordings.",
+   "year": null,
+   "era": "CE",
+   "quote": "Recording is a form of audio source of history. During modern period, the speeches of leaders or important personalities, songs etc are available in the form of recordings.",
+   "page": 3
+  },
+  {
+   "fid": "f33",
+   "kind": "person",
+   "text": "The National anthem 'Jana Gana Mana' sung by Rabindranath Tagore himself and the speeches of Subhash Chandra Bose can be used as audio sources.",
+   "year": null,
+   "era": "CE",
+   "quote": "National anthem 'Jana Gana Mana' sung by Rabindranath Tagore himself or the speeches of Subhash Chandra Bose can be used as an audio source",
+   "page": 3
+  },
+  {
+   "fid": "f34",
+   "kind": "term",
+   "text": "Films are considered a unique discovery of modern technology; in the 20th century filmmaking developed greatly.",
+   "year": null,
+   "era": "CE",
+   "quote": "Films are considered as a unique discovery of modern technology. In the 20th century, there was a great development in the technique of filmmaking.",
+   "page": 4
+  },
+  {
+   "fid": "f35",
+   "kind": "date",
+   "text": "Dada Saheb Phalke laid the foundation of the Indian film industry in 1913.",
+   "year": 1913,
+   "era": "CE",
+   "quote": "Dada Saheb Phalke, in the year 1913, laid the foundation of Indian film industry.",
+   "page": 4
+  },
+  {
+   "fid": "f36",
+   "kind": "event",
+   "text": "Audio visual recordings of Dandi Yatra, Salt Satyagraha and the Quit India Movement are available.",
+   "year": null,
+   "era": "CE",
+   "quote": "Audio visual recording of Dandi Yatra, Salt Satyagraha, Quit India Movement and such other historical incidents are available.",
+   "page": 4
+  },
+  {
+   "fid": "f37",
+   "kind": "term",
+   "text": "Compared to the ancient and mediaeval period, sources of modern Indian history are found in abundance and variety; archaeological sources are in a better state and many written sources are preserved in archives.",
+   "year": null,
+   "era": "CE",
+   "quote": "Compared to ancient and mediaeval period, the sources of study of modern Indian history are found in abundance and variety. The archaeological sources of this period are to a great extent found in a better state. There are many written sources preserved in the archives.",
+   "page": 4
+  },
+  {
+   "fid": "f38",
+   "kind": "term",
+   "text": "While referring to written sources, the ideology and opinions of the author need to be examined.",
+   "year": null,
+   "era": "CE",
+   "quote": "while referring the written sources, the ideology and opinions of the author regarding the particular event needs to be examined.",
+   "page": 4
+  }
+ ],
+ "questions": [
+  {
+   "qid": "c8-01-01",
+   "type": "train",
+   "level": 1,
+   "dims": [
+    "chrono",
+    "year"
+   ],
+   "fids": [
+    "f28",
+    "f35",
+    "f18",
+    "f20"
+   ],
+   "hook": "1857 struggle, 1913 films, 1920 Mooknayak, 1927 Bahishkrut Bharat.",
+   "prompt": "Put these events in order, earliest first.",
+   "items": [
+    {
+     "t": "Freedom struggle (theme of Powadas)",
+     "y": "1857",
+     "k": 18570000
+    },
+    {
+     "t": "Phalke founds the Indian film industry",
+     "y": "1913",
+     "k": 19130000
+    },
+    {
+     "t": "Ambedkar starts 'Mooknayak'",
+     "y": "1920",
+     "k": 19200100
+    },
+    {
+     "t": "Ambedkar starts 'Bahishkrut Bharat'",
+     "y": "1927",
+     "k": 19270400
+    }
+   ]
+  },
+  {
+   "qid": "c8-01-02",
+   "type": "lock",
+   "level": 1,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "<b>1913</b>: Dada Saheb Phalke starts the Indian film industry.",
+   "prompt": "In which year did Dada Saheb Phalke lay the foundation of the Indian film industry?",
+   "year": 1913,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-01-03",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f08",
+    "f09"
+   ],
+   "hook": "Aga Khan Palace, Pune: objects and documents on Mahatma Gandhi's life.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "Like a museum, I preserve objects and documents for visitors.",
+    "I am in Pune.",
+    "I tell you about the life of Mahatma Gandhi."
+   ],
+   "options": [
+    "Aga Khan Palace",
+    "Manibhavan",
+    "Cellular Jail",
+    "Sevagram Ashram"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-04",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f01",
+    "f06",
+    "f07",
+    "f12"
+   ],
+   "hook": "Cellular Jail in Andaman = V.D.Savarkar's revolutionary work.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ananya",
+     "Historical sources include material, written and oral sources."
+    ],
+    [
+     "Rohan",
+     "The Cellular Jail in Pune tells us about the revolutionary work of V.D.Savarkar."
+    ],
+    [
+     "Ananya",
+     "Manibhavan in Mumbai tells us about the history of the Gandhian era."
+    ],
+    [
+     "Kabir",
+     "Hutatma Smarak memorials are found at various places."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "Mumbai",
+    "Andaman",
+    "Wardha"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-05",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f35"
+   ],
+   "hook": "Phalke = father of Indian films, 1913.",
+   "prompt": "Who laid the foundation of the Indian film industry in 1913?",
+   "options": [
+    "Rabindranath Tagore",
+    "Vishnushastri Chiplunkar",
+    "Dada Saheb Phalke",
+    "Gopal Hari Deshmukh"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-06",
+   "type": "who",
+   "level": 1,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f18",
+    "f19",
+    "f20",
+    "f22"
+   ],
+   "hook": "Ambedkar's four papers: Mooknayak, Bahishkrut Bharat, Janata, Prabuddha Bharat.",
+   "prompt": "Who am I?",
+   "clues": [
+    "I also started 'Janata' and 'Prabuddha Bharat'.",
+    "I handed a paper to my colleagues when I left for higher studies in England.",
+    "I started 'Mooknayak' and 'Bahishkrut Bharat'."
+   ],
+   "options": [
+    "Lokmanya Tilak",
+    "Vishnushastri Chiplunkar",
+    "Dr. Babasaheb Ambedkar",
+    "Gopal Hari Deshmukh"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-07",
+   "type": "pick",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26"
+   ],
+   "hook": "Powadas, folk songs, folk tales, interviews: all spoken or sung = oral.",
+   "prompt": "Powadas and folk songs are which kind of historical source?",
+   "options": [
+    "Written sources",
+    "Oral sources",
+    "Material sources"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-08",
+   "type": "chat",
+   "level": 1,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f32",
+    "f34",
+    "f30"
+   ],
+   "hook": "Photograph = visual, recording = audio, film = audio-visual.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Sameer",
+     "Films are a unique discovery of modern technology."
+    ],
+    [
+     "Pooja",
+     "Recording is a form of visual source of history."
+    ],
+    [
+     "Sameer",
+     "Photographs are a visual source of modern Indian history."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 5
+   },
+   "options": [
+    "audio",
+    "written",
+    "material"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-09",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f18"
+   ],
+   "hook": "January <b>1920</b>: 'Mooknayak', a fortnightly.",
+   "prompt": "In which year did Dr. Babasaheb Ambedkar start the fortnightly 'Mooknayak'?",
+   "year": 1920,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-01-10",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f07"
+   ],
+   "hook": "Gandhian era: Manibhavan in Mumbai, Sevagram Ashram at Wardha.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "Visiting me tells you about the history of the Gandhian era.",
+    "I am not in Mumbai or Pune.",
+    "I am at Wardha."
+   ],
+   "options": [
+    "Sevagram Ashram",
+    "Manibhavan",
+    "Aga Khan Palace",
+    "Cellular Jail"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-11",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "people",
+    "term"
+   ],
+   "fids": [
+    "f14",
+    "f15",
+    "f16",
+    "f17"
+   ],
+   "hook": "Chiplunkar wrote 'Nibandhmala'; Lokahitawadi wrote Shatapatre in the weekly 'Prabhakar'.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Meera",
+     "Dnyanoday and Deenbandhu were newspapers of the pre independence period."
+    ],
+    [
+     "Arjun",
+     "During the British period newspapers also acted as a source of social reformation."
+    ],
+    [
+     "Meera",
+     "Vishnushastri Chiplunkar wrote the 'Nibandhmala'."
+    ],
+    [
+     "Arjun",
+     "Lokahitawadi wrote Shatapatre in the weekly Kesari on social and cultural issues."
+    ]
+   ],
+   "wrong": {
+    "m": 3,
+    "w": 6
+   },
+   "options": [
+    "Janata",
+    "Prabhakar",
+    "Mooknayak"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-12",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f24"
+   ],
+   "hook": "Survey of India: a British-period department that made maps scientifically.",
+   "prompt": "Which department created maps of India, its provinces and cities by scientific methods of survey?",
+   "options": [
+    "Mumbai Port Trust",
+    "Satyashodhak Samaj",
+    "Survey of India"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-13",
+   "type": "who",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Powadas: 1857, revolutionaries, Satyashodhak Samaj, Samyukta Maharashtra.",
+   "prompt": "What am I?",
+   "clues": [
+    "Some of me were composed on the Samyukta Maharashtra movement.",
+    "I was used to create motivation and spirit among the people.",
+    "Many of me were composed on the freedom struggle of 1857."
+   ],
+   "options": [
+    "Ovee",
+    "Powada",
+    "Folk tale",
+    "Interview"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-14",
+   "type": "pick",
+   "level": 2,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f24",
+    "f18",
+    "f03"
+   ],
+   "hook": "Paintings: doubtful. Photographs: more reliable.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "The Survey of India was established after independence.",
+    "'Mooknayak' was a daily newspaper.",
+    "Photographs are considered more reliable than mediaeval paintings.",
+    "The period of Modern Indian History is believed to be the period of Mughal rulers."
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-15",
+   "type": "lock",
+   "level": 2,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f20"
+   ],
+   "hook": "April <b>1927</b>: 'Bahishkrut Bharat', 7 years after 'Mooknayak' (1920).",
+   "prompt": "In which year did Dr. Ambedkar start the newspaper 'Bahishkrut Bharat'?",
+   "year": 1927,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-01-16",
+   "type": "chat",
+   "level": 2,
+   "dims": [
+    "place",
+    "term"
+   ],
+   "fids": [
+    "f23",
+    "f24",
+    "f25"
+   ],
+   "hook": "Survey of India = British period; Bombay Port plan = Mumbai Port Trust.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Kavya",
+     "Maps help us trace the changing nature of a city."
+    ],
+    [
+     "Aditya",
+     "The Survey of India was set up during the Mughal period as an independent department."
+    ],
+    [
+     "Kavya",
+     "The Mumbai Port Trust has the original plan of the Bombay Port."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 9
+   },
+   "options": [
+    "British",
+    "Maratha",
+    "Gupta"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-17",
+   "type": "lock",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f28"
+   ],
+   "hook": "Powadas kept the struggle of <b>1857</b> alive in people's minds.",
+   "prompt": "Many Powadas were composed on the freedom struggle of which year?",
+   "year": 1857,
+   "era": "CE"
+  },
+  {
+   "qid": "c8-01-18",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f35",
+    "f20"
+   ],
+   "hook": "1927 - 1913 = 14 years.",
+   "prompt": "How many years after Dada Saheb Phalke founded the Indian film industry did Dr. Ambedkar start 'Bahishkrut Bharat'?",
+   "options": [
+    "7 years",
+    "14 years",
+    "12 years",
+    "20 years"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-19",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f17"
+   ],
+   "hook": "Lokahitawadi = Gopal Hari Deshmukh, Shatapatre in 'Prabhakar'.",
+   "prompt": "Who am I?",
+   "clues": [
+    "People also know me by another name.",
+    "My writings commented on social and cultural issues.",
+    "My Shatapatre appeared in the weekly 'Prabhakar'."
+   ],
+   "options": [
+    "Vishnushastri Chiplunkar",
+    "Lokmanya Tilak",
+    "Dada Saheb Phalke",
+    "Gopal Hari Deshmukh"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-01-20",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "people",
+    "place"
+   ],
+   "fids": [
+    "f18",
+    "f19",
+    "f20",
+    "f22"
+   ],
+   "hook": "Mooknayak 1920, England for studies, Bahishkrut Bharat 1927.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Ishaan",
+     "Dr. Ambedkar started 'Mooknayak' in January 1920."
+    ],
+    [
+     "Sana",
+     "Dr. Ambedkar went to Japan for higher studies and handed the paper to his colleagues."
+    ],
+    [
+     "Ishaan",
+     "He started 'Bahishkrut Bharat' in April 1927."
+    ],
+    [
+     "Sana",
+     "He also started 'Janata' and 'Prabuddha Bharat'."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 4
+   },
+   "options": [
+    "France",
+    "England",
+    "Russia"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-21",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f06",
+    "f07",
+    "f08"
+   ],
+   "hook": "Manibhavan - Mumbai, Sevagram - Wardha, Aga Khan Palace - Pune, Cellular Jail - Andaman.",
+   "prompt": "Which pair is correctly matched?",
+   "options": [
+    "Sevagram Ashram - Pune",
+    "Manibhavan - Mumbai",
+    "Aga Khan Palace - Wardha",
+    "Cellular Jail - Mumbai"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-22",
+   "type": "who",
+   "level": 3,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f34",
+    "f35",
+    "f36"
+   ],
+   "hook": "Films: 20th century boom; Phalke 1913; Dandi Yatra seen in reality.",
+   "prompt": "What am I?",
+   "clues": [
+    "My technique developed greatly in the 20th century.",
+    "Through me, events like the Dandi Yatra can be seen in reality.",
+    "Dada Saheb Phalke laid the foundation of my industry in India in 1913."
+   ],
+   "options": [
+    "Films",
+    "Photographs",
+    "Recordings",
+    "Powadas"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-23",
+   "type": "chat",
+   "level": 3,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f27"
+   ],
+   "hook": "Ovee, folk tales, interviews, inspirational songs: all oral sources.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Neha",
+     "Folk tales and interviews are oral sources."
+    ],
+    [
+     "Varun",
+     "Rythmic prose or Ovee is a written source of history."
+    ],
+    [
+     "Neha",
+     "Many unpublished inspirational songs were memorised by freedom fighters."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "oral",
+    "visual",
+    "material"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-24",
+   "type": "pick",
+   "level": 3,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Tagore's own voice sings 'Jana Gana Mana'; Bose's speeches are recorded too.",
+   "prompt": "A recording of the National anthem 'Jana Gana Mana' sung by whom himself is an audio source?",
+   "options": [
+    "Rabindranath Tagore",
+    "Subhash Chandra Bose",
+    "Lokmanya Tilak",
+    "Dada Saheb Phalke"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-25",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "place"
+   ],
+   "fids": [
+    "f25"
+   ],
+   "hook": "Original plan of the Bombay Port: Mumbai Port Trust.",
+   "prompt": "Which department has the original plan of the Bombay Port?",
+   "options": [
+    "Survey of India",
+    "Satyashodhak Samaj",
+    "Department of Mumbai Port Trust",
+    "Hutatma Smarak"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-26",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f13",
+    "f26",
+    "f02"
+   ],
+   "hook": "Written: correspondence, foreign accounts, factory records, books, newspapers.",
+   "prompt": "Which of these is a written source of modern Indian history?",
+   "options": [
+    "Folk tales",
+    "Factory records",
+    "Coins",
+    "Powada"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-27",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f30",
+    "f31"
+   ],
+   "hook": "Mediaeval paintings: doubtful. Photographs: features and dress, more reliable.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Riya",
+     "Mediaeval paintings show the physical features of a person."
+    ],
+    [
+     "Kabir",
+     "But the authenticity of those paintings is doubtful."
+    ],
+    [
+     "Riya",
+     "Photographs are a written source and show physical features and dressing style."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 3
+   },
+   "options": [
+    "oral",
+    "material",
+    "visual"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-28",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f37",
+    "f38",
+    "f30"
+   ],
+   "hook": "Modern sources: plenty, varied, better preserved - but check the author's views.",
+   "prompt": "Which statement is correct?",
+   "options": [
+    "Archaeological sources of the modern period are mostly in a poor state.",
+    "Very few written sources of the modern period are kept in archives.",
+    "Mediaeval paintings are more reliable than photographs.",
+    "Compared to ancient and mediaeval times, sources of modern Indian history are found in abundance and variety."
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-01-29",
+   "type": "who",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f16"
+   ],
+   "hook": "Chiplunkar's 'Nibandhmala' and Deshmukh's Shatapatre: social and cultural issues.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My writing commented on social and cultural issues.",
+    "My work is a written source of modern Indian history.",
+    "I wrote the 'Nibandhmala'."
+   ],
+   "options": [
+    "Gopal Hari Deshmukh",
+    "Dr. Babasaheb Ambedkar",
+    "Dada Saheb Phalke",
+    "Vishnushastri Chiplunkar"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-01-30",
+   "type": "chat",
+   "level": 4,
+   "dims": [
+    "year",
+    "event"
+   ],
+   "fids": [
+    "f28",
+    "f29"
+   ],
+   "hook": "Powadas: 1857, revolutionaries, Satyashodhak Samaj, Samyukta Maharashtra.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Pooja",
+     "Powadas were composed on the valour of revolutionaries during British rule."
+    ],
+    [
+     "Rahul",
+     "Many Powadas were composed on the 1875 freedom struggle as well."
+    ],
+    [
+     "Pooja",
+     "Some Powadas were based on the work of Satyashodhak Samaj."
+    ],
+    [
+     "Rahul",
+     "Powadas were also composed on the Samyukta Maharashtra movement."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 6
+   },
+   "options": [
+    "1913",
+    "1927",
+    "1857"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-31",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f22",
+    "f14"
+   ],
+   "hook": "Ambedkar's later papers: 'Janata' and 'Prabuddha Bharat'.",
+   "prompt": "Which two more newspapers did Dr. Ambedkar start besides 'Mooknayak' and 'Bahishkrut Bharat'?",
+   "options": [
+    "'Kesari' and 'Prabhakar'",
+    "'Dnyanoday' and 'Deenbandhu'",
+    "'Amrit Bazaar Patrika' and 'Dnyanprakash'",
+    "'Janata' and 'Prabuddha Bharat'"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-01-32",
+   "type": "pick",
+   "level": 4,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f10",
+    "f11"
+   ],
+   "hook": "A statue plaque: full name, birth and death, contribution, life sketch.",
+   "prompt": "What does the display plaque on a statue, such as that of Lokmanya Tilak, tell us?",
+   "options": [
+    "The full name, birth and death details, contribution and a biographical sketch of the person",
+    "Only the name of the sculptor",
+    "The cost of building the statue",
+    "Nothing about the person"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-33",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f26",
+    "f13"
+   ],
+   "hook": "Factory records are written; narrations, Jalsa and folk songs are oral.",
+   "prompt": "Which of these is NOT an oral source?",
+   "options": [
+    "Narrations",
+    "Fairs, Jalsa and art groups",
+    "Folk songs",
+    "Factory records"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-01-34",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "term",
+    "people"
+   ],
+   "fids": [
+    "f14",
+    "f18",
+    "f21"
+   ],
+   "hook": "'Mooknayak' was a fortnightly - every two weeks.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Tanvi",
+     "Amrit Bazaar Patrika was a newspaper of the pre independence period."
+    ],
+    [
+     "Dev",
+     "Mooknayak was a weekly started by Dr. Ambedkar in 1920."
+    ],
+    [
+     "Tanvi",
+     "Through Bahishkrut Bharat he wrote for unity among common people."
+    ]
+   ],
+   "wrong": {
+    "m": 1,
+    "w": 3
+   },
+   "options": [
+    "fortnightly",
+    "daily",
+    "monthly"
+   ],
+   "answer": 0
+  },
+  {
+   "qid": "c8-01-35",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "place",
+    "people"
+   ],
+   "fids": [
+    "f05",
+    "f06",
+    "f04"
+   ],
+   "hook": "Cellular Jail, Andaman: V.D.Savarkar's revolutionary work.",
+   "prompt": "Which place am I?",
+   "clues": [
+    "I am the book's example of a building that was declared a national monument or converted into a museum.",
+    "Visiting me tells you about the revolutionary work of V.D.Savarkar.",
+    "I am in Andaman."
+   ],
+   "options": [
+    "Aga Khan Palace",
+    "Cellular Jail",
+    "Hutatma Smarak",
+    "Manibhavan"
+   ],
+   "answer": 1
+  },
+  {
+   "qid": "c8-01-36",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "year"
+   ],
+   "fids": [
+    "f18",
+    "f20"
+   ],
+   "hook": "January 1920 to April 1927: a little over 7 years.",
+   "prompt": "About how many years after 'Mooknayak' did Dr. Ambedkar start 'Bahishkrut Bharat'?",
+   "options": [
+    "About 3 years",
+    "About 14 years",
+    "About 10 years",
+    "About 7 years"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-01-37",
+   "type": "chat",
+   "level": 5,
+   "dims": [
+    "event",
+    "people"
+   ],
+   "fids": [
+    "f33",
+    "f34",
+    "f36"
+   ],
+   "hook": "Films grew in the 20th century; Dandi Yatra is on film.",
+   "prompt": "One fact in this chat is wrong. Tap it and fix it.",
+   "chat": [
+    [
+     "Om",
+     "Audio visual recordings of the Dandi Yatra are available."
+    ],
+    [
+     "Diya",
+     "Speeches of Subhash Chandra Bose are an audio source."
+    ],
+    [
+     "Om",
+     "The technique of filmmaking developed greatly in the 19th century."
+    ]
+   ],
+   "wrong": {
+    "m": 2,
+    "w": 8
+   },
+   "options": [
+    "18th",
+    "21st",
+    "20th"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-38",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "term"
+   ],
+   "fids": [
+    "f02",
+    "f13",
+    "f26"
+   ],
+   "hook": "Material = objects, monuments, places, coins, sculptures.",
+   "prompt": "Which list contains only material sources?",
+   "options": [
+    "Coins, newspapers, folk songs",
+    "Biographies, interviews, coins",
+    "Powadas, books, sculptures",
+    "Coins, sculptures, monuments"
+   ],
+   "answer": 3
+  },
+  {
+   "qid": "c8-01-39",
+   "type": "who",
+   "level": 5,
+   "dims": [
+    "people"
+   ],
+   "fids": [
+    "f33"
+   ],
+   "hook": "Tagore's own singing of 'Jana Gana Mana' survives as a recording.",
+   "prompt": "Who am I?",
+   "clues": [
+    "My voice is preserved as a source of history.",
+    "A recording of my singing is an audio source.",
+    "I sang the National anthem 'Jana Gana Mana'."
+   ],
+   "options": [
+    "Subhash Chandra Bose",
+    "Dada Saheb Phalke",
+    "Rabindranath Tagore",
+    "Lokmanya Tilak"
+   ],
+   "answer": 2
+  },
+  {
+   "qid": "c8-01-40",
+   "type": "pick",
+   "level": 5,
+   "dims": [
+    "chrono"
+   ],
+   "fids": [
+    "f28",
+    "f35",
+    "f18",
+    "f20"
+   ],
+   "hook": "1857 - 1913 - 1920 - 1927.",
+   "prompt": "Which order is correct, earliest first?",
+   "options": [
+    "1857 freedom struggle, Indian film industry founded, 'Mooknayak', 'Bahishkrut Bharat'",
+    "Indian film industry founded, 1857 freedom struggle, 'Mooknayak', 'Bahishkrut Bharat'",
+    "1857 freedom struggle, 'Mooknayak', Indian film industry founded, 'Bahishkrut Bharat'",
+    "1857 freedom struggle, Indian film industry founded, 'Bahishkrut Bharat', 'Mooknayak'"
+   ],
+   "answer": 0
+  }
+ ]
+}
